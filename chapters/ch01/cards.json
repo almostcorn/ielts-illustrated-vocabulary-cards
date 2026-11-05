@@ -1,0 +1,391 @@
+[
+  {
+    "id": "01-atmosphere",
+    "kind": "单词精讲",
+    "words": [
+      "atmosphere"
+    ],
+    "added_vocabulary": [],
+    "palette": "天空蓝、深海蓝，氛围小景暖灯金",
+    "ielts_application": [
+      "听力｜环境讲座",
+      "阅读｜自然地理",
+      "口语｜描述地点氛围",
+      "写作｜环境污染"
+    ],
+    "practice": "遮住例句，分别用 atmosphere 描述火山气体进入大气和咖啡馆的轻松氛围。",
+    "text": "IELTS 词汇手记｜01\n单词精讲｜自然地理\natmosphere\n/ˈætməsfɪə/  n.\n大气层；气氛\n包围地球的气体层。\n一个地方带给人的氛围。\n放进句子里\nThe volcano released gases into the atmosphere.\n火山向大气中释放了气体。\n常用搭配\nEarth's atmosphere｜地球大气层\nrelease gases into the atmosphere\n向大气中释放气体\na relaxed atmosphere｜轻松的氛围\n一词两义\n① 自然地理：大气层\n② 日常场景：气氛\n根据语境判断词义。\n雅思应用建议\n听力｜环境讲座\n阅读｜自然地理\n口语｜描述地点氛围\n写作｜环境污染\n轮到你了\n遮住例句，用 atmosphere 分别描述：\n① 火山气体进入大气；② 咖啡馆的轻松氛围。\n自然地理 · 第1组 · 原创场景练习",
+    "answers": [
+      "参考：The volcano released gases into the atmosphere.",
+      "参考：The café has a relaxed atmosphere.",
+      "开放表达允许其他意思相符、语法正确的句子。"
+    ],
+    "image": "previews/01.webp",
+    "page": 1,
+    "title": "atmosphere"
+  },
+  {
+    "id": "02-hydrosphere-lithosphere",
+    "kind": "场景词群",
+    "words": [
+      "hydrosphere",
+      "lithosphere"
+    ],
+    "added_vocabulary": [
+      "groundwater",
+      "ice"
+    ],
+    "palette": "水青、冰白、岩灰",
+    "ielts_application": [
+      "听力｜环境讲座：识别圈层名词",
+      "阅读｜地球科学：理解组成关系"
+    ],
+    "practice": "遮住标签，说出水圈、岩石圈；再说出图中两种属于水圈的事物。",
+    "text": "IELTS 词汇手记｜02\n场景词群｜自然地理\n水与岩石的世界\nWater and rock\nhydrosphere  n. 水圈\n海洋、冰、地下水和水汽都属于水圈。\nlithosphere  n. 岩石圈\n地壳＋最上部的刚性地幔\n图中岩层是岩石圈的一部分。\ngroundwater  n. 地下水\nice  n. 冰\n水的各种形态 → 水圈\n地壳＋最上部的刚性地幔 → 岩石圈\n看图说两句\nThe oceans hold most of the water in the hydrosphere.\nThe lithosphere is divided into moving plates.\n雅思应用建议\n听力｜环境讲座：识别圈层名词\n阅读｜地球科学：理解组成关系\n轮到你了\n遮住标签，说出水圈、岩石圈；\n再说出图中两种属于水圈的事物。\n结构示意，非按比例\n自然地理 · 第1组 · 原创场景练习",
+    "answers": [
+      "hydrosphere；lithosphere。",
+      "water/ice/groundwater/oceans 等；可答 ice and groundwater。",
+      "groundwater、ice是补充词，不计入15个原书主词条。"
+    ],
+    "image": "previews/02.webp",
+    "page": 2,
+    "title": "hydrosphere / lithosphere"
+  },
+  {
+    "id": "03-crust-mantle-core",
+    "kind": "场景词群",
+    "words": [
+      "crust",
+      "mantle",
+      "core"
+    ],
+    "text": "IELTS 词汇手记  03\n场景词群｜自然地理\n从地表，走向地心\nInside the Earth\ncrust  n. 地壳\nthe Earth's crust\n固体地球最外面的薄层\nmantle  n. 地幔\nthe upper mantle｜上地幔\n地壳与地核之间的厚层\ncore  n. 地核；核心\nthe inner core｜内核\n地球最里面的部分\n放进句子里\nThe mantle lies between the crust and the core.\n地幔位于地壳与地核之间。\n雅思应用\n阅读｜地球结构图示填空\n口语｜描述自然科学展览\n别混淆\n地幔以固态岩石为主，可在地质时间中缓慢流动。\n轮到你了\n遮住标签，指出三层；再从中心向外说出英文。\n结构示意，非按比例 · 原创练习，非真题",
+    "answers": [
+      "core → mantle → crust"
+    ],
+    "palette": {
+      "theme": "岩层与地心",
+      "paper": "#F7F2E8",
+      "earth_brown": "#6E4B36",
+      "ochre_gold": "#BA8A41",
+      "dark_rock_gray": "#303A3E",
+      "rule": "土褐表现岩层，赭金表现深部物质，深岩灰用于文字与结构；不把整个地幔画成熔岩。"
+    },
+    "ielts_application": [
+      {
+        "chip": "阅读｜地球结构图示填空",
+        "use": "依据“外层、之间、中央”等位置关系，把文字信息对应到结构图的标签空格；本卡练习三层定位。"
+      },
+      {
+        "chip": "口语｜描述自然科学展览",
+        "use": "讲述参观科学博物馆的经历时，用 crust、mantle、core 指出模型中看到的地球结构。"
+      }
+    ],
+    "practice": {
+      "mode": "遮挡定位＋反向提取",
+      "targets": [
+        "crust",
+        "mantle",
+        "core"
+      ],
+      "reference_answers": [
+        "core → mantle → crust"
+      ],
+      "acceptance": "能够正确指认三层，并按从中心向外的顺序说出 core、mantle、crust。反向回忆答案不要印在图上。"
+    },
+    "supplementary_terms": [
+      {
+        "term": "upper mantle",
+        "meaning": "上地幔",
+        "role": "mantle 的搭配，不另计主词条"
+      },
+      {
+        "term": "inner core",
+        "meaning": "内核",
+        "role": "core 的搭配，不另计主词条"
+      }
+    ],
+    "image": "previews/03.webp",
+    "page": 3,
+    "title": "crust / mantle / core"
+  },
+  {
+    "id": "04-oxygen-hydrogen-oxide",
+    "kind": "场景词群",
+    "words": [
+      "oxygen",
+      "hydrogen",
+      "carbon dioxide",
+      "oxide"
+    ],
+    "text": "IELTS 词汇手记  04\n场景词群｜自然地理\n气体与化合物\nGases and compounds\noxygen  n. 氧；氧气\nO₂ · oxygen supply｜氧气供应\nhydrogen  n. 氢；氢气\nH₂ · hydrogen fuel｜氢燃料\ncarbon dioxide  n. 二氧化碳\nCO₂ · carbon dioxide emissions｜二氧化碳排放\noxide  n. 氧化物\nmetal oxides｜金属氧化物\n放进句子里\nPlants take in carbon dioxide and release oxygen during photosynthesis.\n植物进行光合作用时，吸收二氧化碳并释放氧气。\n雅思应用\n阅读｜光合作用与气体交换\n写作Task 2｜能源选择与碳排放\n别混淆\noxide 指氧与另一种元素形成的化合物。\n氧化物不一定是固体，CO₂ 也是氧化物。\n轮到你了\n遮住英文，根据三个化学式说词。\n再用 carbon dioxide emissions 提一条交通减排建议。\n科学情境示意 · 原创练习，非真题",
+    "answers": [
+      "O₂ → oxygen；H₂ → hydrogen；CO₂ → carbon dioxide",
+      "示例：Cities can reduce carbon dioxide emissions by improving public transport."
+    ],
+    "palette": {
+      "theme": "物质与科学展台",
+      "paper": "#F7F5EE",
+      "laboratory_teal_gray": "#6D8C90",
+      "clean_white": "#F7FAF8",
+      "ink": "#26393D",
+      "molecule_red": "#B85A58",
+      "molecule_blue": "#9BBFD0",
+      "rule": "青灰和白建立实验室环境；红蓝仅作小范围分子/元素提示，气体本身不画成有色烟雾。"
+    },
+    "ielts_application": [
+      {
+        "chip": "阅读｜光合作用与气体交换",
+        "use": "读自然科学说明时区分吸收与释放的气体，配合 take in / release 判断信息方向。"
+      },
+      {
+        "chip": "写作Task 2｜能源选择与碳排放",
+        "use": "用 hydrogen fuel 和 carbon dioxide emissions 讨论能源用途或交通减排措施；不把“氢燃料”自动写成全生命周期零排放。"
+      }
+    ],
+    "practice": {
+      "mode": "化学式遮挡回忆＋新情境表达",
+      "targets": [
+        "oxygen",
+        "hydrogen",
+        "carbon dioxide",
+        "carbon dioxide emissions"
+      ],
+      "reference_answers": [
+        "O₂ → oxygen；H₂ → hydrogen；CO₂ → carbon dioxide",
+        "示例：Cities can reduce carbon dioxide emissions by improving public transport."
+      ],
+      "acceptance": "三种化学式与词语匹配正确。建议句包含 carbon dioxide emissions，并提出一种具体交通措施；其他自然且含义合理的表达均可。"
+    },
+    "supplementary_terms": [
+      {
+        "term": "photosynthesis",
+        "meaning": "光合作用",
+        "role": "例句背景词，不计入本批主词条"
+      },
+      {
+        "term": "metal oxides",
+        "meaning": "金属氧化物",
+        "role": "oxide 的搭配，不另计主词条"
+      }
+    ],
+    "image": "previews/04.webp",
+    "page": 4,
+    "title": "oxygen / hydrogen / carbon dioxide / oxide"
+  },
+  {
+    "id": "05-longitude-latitude-altitude",
+    "kind": "场景词群与辨析",
+    "words": [
+      "longitude",
+      "latitude",
+      "altitude"
+    ],
+    "text": "IELTS 词汇手记  05\n场景词群｜易混辨析\n经度、纬度，还是海拔？\nLongitude · latitude · altitude\nlongitude  n. 经度\n本初子午线为基准 → 东 / 西\n120° east longitude｜东经120度\nlatitude  n. 纬度\n赤道为基准 → 北 / 南\n30° north latitude｜北纬30度\naltitude  n. 海拔；高度\n本卡以海平面为高度基准。\nat an altitude of 500 metres\n在海拔500米处\n雅思应用\n听力｜地理考察中的数字笔记\n口语｜描述徒步地点与海拔\n别混淆\n经纬度用“度”；海拔常用“米”。\n数值分别举例，并非此地实测记录。\n轮到你了\n遮住英文，将45°N、80°W、海拔1600米归类；\n任选一项，说出完整英文表达。\n概念学习示意 · 原创练习，非真题",
+    "answers": [
+      "45°N → latitude；80°W → longitude；海拔1600米 → altitude",
+      "可选表达：45 degrees north latitude；80 degrees west longitude；at an altitude of 1,600 metres"
+    ],
+    "palette": {
+      "theme": "高山地理记录",
+      "paper": "#F8F4EB",
+      "indigo": "#2D3F67",
+      "ice_cyan": "#B9DADD",
+      "limestone_gray": "#D8D2C5",
+      "rule": "靛蓝文字与山影、冰青天空、石灰色岩壁；纸页清晰，环境不承担精确经纬线或高度测量。"
+    },
+    "ielts_application": [
+      {
+        "chip": "听力｜地理考察中的数字笔记",
+        "use": "在原创考察场景中辨别角度与高度单位，把数字放进正确的经度、纬度或海拔信息栏。"
+      },
+      {
+        "chip": "口语｜描述徒步地点与海拔",
+        "use": "讲述山地旅行时，用 at an altitude of + 数值 + metres 交代地点的海拔。"
+      }
+    ],
+    "practice": {
+      "mode": "更换数值后归类＋完整表达",
+      "targets": [
+        "latitude",
+        "longitude",
+        "altitude"
+      ],
+      "reference_answers": [
+        "45°N → latitude；80°W → longitude；海拔1600米 → altitude",
+        "可选表达：45 degrees north latitude；80 degrees west longitude；at an altitude of 1,600 metres"
+      ],
+      "acceptance": "三个数值的类别正确；任选一个表达时方向、单位、介词与含义正确。数值互相独立，不要求对应真实地点。"
+    },
+    "supplementary_terms": [],
+    "image": "previews/05.webp",
+    "page": 5,
+    "title": "longitude / latitude / altitude"
+  },
+  {
+    "id": "06-horizon",
+    "kind": "单词精讲",
+    "words": [
+      "horizon"
+    ],
+    "text": "IELTS 词汇手记  06\n单词精讲｜自然地理\nhorizon\n/həˈraɪzən/  n.\n地平线\nThe line where the sky seems to meet distant land or sea.\n放进句子里\nAt sunset, the clouds above the horizon turned pink.\n日落时，地平线上方的云变成了粉红色。\n常用搭配\non the horizon｜在地平线上\nabove the horizon｜在地平线上方\nbelow the horizon｜在地平线下方\n用法提醒\n通常说 the horizon。\n本卡只讲“地平线”的字面义。\n雅思应用\n口语Part 2｜旅行风景\n口语Part 1｜喜欢的地方\n阅读｜空间方位理解\n轮到你了\n遮住英文，用 below the horizon 描述一次日落；\n补充你当时所在的位置。\n原创场景练习 · 非真题",
+    "answers": [
+      "示例：From the beach, I watched the sun disappear below the horizon."
+    ],
+    "palette": {
+      "theme": "海边暮霞与地平线",
+      "paper": "#FCF5EC",
+      "dusk_pink": "#D88F9E",
+      "sunset_orange": "#EAB08C",
+      "deep_blue": "#243A58",
+      "rule": "暮霞粉橘表现天空，深蓝表现海面与文字；突出海天相接处和其上方的云。"
+    },
+    "ielts_application": [
+      {
+        "chip": "口语Part 2｜旅行风景",
+        "use": "讲述一次旅行或日落经历，用地平线与位置关系让景色描述具体。"
+      },
+      {
+        "chip": "口语Part 1｜喜欢的地方",
+        "use": "介绍喜欢的海滩或开阔地点时，可用 on/above/below the horizon 描述所见；不要为使用词汇而硬套。"
+      },
+      {
+        "chip": "阅读｜空间方位理解",
+        "use": "区分 on、above、below 对空间位置的不同限定，避免把“线上”和“上方”读成同一关系。"
+      }
+    ],
+    "practice": {
+      "mode": "遮挡后迁移到新动作与地点",
+      "targets": [
+        "below the horizon"
+      ],
+      "reference_answers": [
+        "示例：From the beach, I watched the sun disappear below the horizon."
+      ],
+      "acceptance": "包含 below the horizon，描述日落的动作或位置，并补充观察地点。允许其他自然正确的句子，不要求与参考答案一致。"
+    },
+    "supplementary_terms": [],
+    "image": "previews/06.webp",
+    "page": 6,
+    "title": "horizon"
+  },
+  {
+    "id": "07-disaster",
+    "kind": "单词精讲",
+    "words": [
+      "disaster"
+    ],
+    "text": "IELTS 词汇手记  07\n单词精讲｜自然地理\ndisaster\n/dɪˈzɑːstə/  n.\n灾难；灾祸\nAn event that causes serious harm or damage.\n放进句子里\nThe town needs clean water after the disaster.\n灾后，这座小镇需要干净的水。\n常用搭配\na natural disaster｜自然灾害\ndisaster relief｜灾害救助\nprevent a disaster｜防止灾难发生\n词族联系\ndisaster  n. 灾难\ndisastrous  adj. 灾难性的；极糟的\na disastrous decision｜一个极糟的决定\n雅思应用\n阅读｜灾害影响与应对\n写作Task 2｜防灾与公共服务\n口语Part 2｜讲述新闻事件\n轮到你了\n假设洪水后有家庭无家可归，\n用 disaster relief 说一句救助建议。\n原创场景练习 · 非真题",
+    "answers": [
+      "示例：Disaster relief should include temporary accommodation for families who have lost their homes."
+    ],
+    "palette": {
+      "theme": "灾后恢复与援助",
+      "paper": "#F8F3EA",
+      "rain_blue": "#668399",
+      "ochre_soil": "#AD8969",
+      "rescue_warm_orange": "#D89059",
+      "ink": "#263F50",
+      "rule": "雨蓝和赭土说明环境，少量暖橙标示援助；场景有恢复感，不恐怖、不渲染伤害。"
+    },
+    "ielts_application": [
+      {
+        "chip": "阅读｜灾害影响与应对",
+        "use": "识别灾害带来的损失、具体需求与救助措施，避免把影响和应对行动混为一项。"
+      },
+      {
+        "chip": "写作Task 2｜防灾与公共服务",
+        "use": "在相关原创议题中用 natural disaster、disaster relief 讨论政府或社区应提供的具体支持。"
+      },
+      {
+        "chip": "口语Part 2｜讲述新闻事件",
+        "use": "讲述一条相关新闻时，用灾害发生、后续需求和援助行动组织内容；不虚构成亲历事件。"
+      }
+    ],
+    "practice": {
+      "mode": "新需求下提出建议",
+      "targets": [
+        "disaster relief"
+      ],
+      "reference_answers": [
+        "示例：Disaster relief should include temporary accommodation for families who have lost their homes."
+      ],
+      "acceptance": "正确使用 disaster relief，提出与无家可归家庭相关的具体救助，例如临时住所；语法和语义自然即可。"
+    },
+    "supplementary_terms": [
+      {
+        "term": "disastrous",
+        "meaning": "灾难性的；极糟的",
+        "role": "disaster 的补充形容词，非新增原书主词条"
+      },
+      {
+        "term": "temporary accommodation",
+        "meaning": "临时住所",
+        "role": "仅参考答案中的拓展表达，不印上卡片、不计主词条"
+      }
+    ],
+    "image": "previews/07.webp",
+    "page": 7,
+    "title": "disaster"
+  },
+  {
+    "id": "08-recall-practice",
+    "kind": "回忆自测",
+    "words": [],
+    "text": "IELTS 词汇手记  08\n回忆自测｜自然地理\n遮住前七张，试着回忆\n01 说出英文\n① 大气层 ______\n② 水圈 ______\n③ 岩石圈 ______\n④ 地壳 ______\n⑤ 地幔 ______\n⑥ 地核 ______\n⑦ 氧气 ______\n⑧ 氢气 ______\n⑨ 二氧化碳 ______\n⑩ 氧化物 ______\n⑪ 经度 ______\n⑫ 纬度 ______\n⑬ 海拔 ______\n⑭ 地平线 ______\n⑮ 灾难 ______\n02 补全搭配\n① 在海拔1600米处\nat an ______ of 1,600 metres\n② 二氧化碳排放\ncarbon dioxide ______\n③ 在地平线下方\n______ the horizon\n④ 轻松的氛围\na relaxed ______\n03 雅思表达迁移\n一座城市正在制定低碳交通计划。\n用 carbon dioxide emissions 提出一条具体建议。\n先独立完成，再核对答案。\n原创场景练习 · 非真题",
+    "answers": [
+      "01：atmosphere；hydrosphere；lithosphere；crust；mantle；core；oxygen；hydrogen；carbon dioxide；oxide；longitude；latitude；altitude；horizon；disaster",
+      "02：altitude；emissions；below；atmosphere",
+      "03 示例：The city should reduce carbon dioxide emissions by improving public transport."
+    ],
+    "palette": {
+      "theme": "自然地理回忆页",
+      "paper": "#F8F4EB",
+      "ink": "#303A3E",
+      "rain_blue": "#668399",
+      "soft_clay": "#B6A08B",
+      "limestone": "#D8D2C5",
+      "rule": "统一纸感，背景只保留很小的山海自然速写；色彩服务分区和书写，不堆叠整组所有颜色。"
+    },
+    "ielts_application": [
+      {
+        "chip": "词汇提取｜15词遮挡回忆",
+        "use": "先只看中文主动提取词形，再检查拼写和易混词，避免一边看词表一边填。"
+      },
+      {
+        "chip": "写作/口语｜低碳交通建议",
+        "use": "把 carbon dioxide emissions 用到新的城市交通决策情境，给出具体措施，而不是重复定义。"
+      }
+    ],
+    "practice": {
+      "mode": "遮挡回忆＋搭配检索＋情景迁移",
+      "targets": [
+        "atmosphere",
+        "hydrosphere",
+        "lithosphere",
+        "crust",
+        "mantle",
+        "core",
+        "oxygen",
+        "hydrogen",
+        "carbon dioxide",
+        "oxide",
+        "longitude",
+        "latitude",
+        "altitude",
+        "horizon",
+        "disaster"
+      ],
+      "reference_answers": [
+        "01：atmosphere；hydrosphere；lithosphere；crust；mantle；core；oxygen；hydrogen；carbon dioxide；oxide；longitude；latitude；altitude；horizon；disaster",
+        "02：altitude；emissions；below；atmosphere",
+        "03 示例：The city should reduce carbon dioxide emissions by improving public transport."
+      ],
+      "acceptance": "词条与中文和顺序一致；搭配空格完整准确；迁移句包含目标搭配及一种具体交通措施，允许其他自然合理的建议。"
+    },
+    "supplementary_terms": [],
+    "image": "previews/08.webp",
+    "page": 8,
+    "title": "复习与应用 8"
+  }
+]

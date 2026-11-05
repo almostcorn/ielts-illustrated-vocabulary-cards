@@ -1,0 +1,3302 @@
+{
+  "title": "IELTS 插画词汇手记",
+  "updated": "2026-11-05",
+  "repository": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards",
+  "release_tag": "v2026.11.05",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "自然地理·第1组",
+      "status": "partial_first_batch",
+      "cards": 8,
+      "headwords": 15,
+      "path": "chapters/ch01",
+      "pdf": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch01-learning-cards.pdf",
+      "download": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch01-study-pack.zip",
+      "index": [
+        {
+          "number": 1,
+          "title": "atmosphere",
+          "words": [
+            "atmosphere"
+          ],
+          "preview": "previews/01.webp"
+        },
+        {
+          "number": 2,
+          "title": "hydrosphere / lithosphere",
+          "words": [
+            "hydrosphere",
+            "lithosphere"
+          ],
+          "preview": "previews/02.webp"
+        },
+        {
+          "number": 3,
+          "title": "crust / mantle / core",
+          "words": [
+            "crust",
+            "mantle",
+            "core"
+          ],
+          "preview": "previews/03.webp"
+        },
+        {
+          "number": 4,
+          "title": "oxygen / hydrogen / carbon dioxide / oxide",
+          "words": [
+            "oxygen",
+            "hydrogen",
+            "carbon dioxide",
+            "oxide"
+          ],
+          "preview": "previews/04.webp"
+        },
+        {
+          "number": 5,
+          "title": "longitude / latitude / altitude",
+          "words": [
+            "longitude",
+            "latitude",
+            "altitude"
+          ],
+          "preview": "previews/05.webp"
+        },
+        {
+          "number": 6,
+          "title": "horizon",
+          "words": [
+            "horizon"
+          ],
+          "preview": "previews/06.webp"
+        },
+        {
+          "number": 7,
+          "title": "disaster",
+          "words": [
+            "disaster"
+          ],
+          "preview": "previews/07.webp"
+        },
+        {
+          "number": 8,
+          "title": "复习与应用 8",
+          "words": [],
+          "preview": "previews/08.webp"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "植物研究",
+      "status": "chapter_complete",
+      "cards": 42,
+      "headwords": 130,
+      "path": "chapters/ch02",
+      "pdf": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch02-learning-cards.pdf",
+      "download": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch02-study-pack.zip",
+      "index": [
+        {
+          "number": 1,
+          "title": "光合作用与呼吸",
+          "words": [
+            "photosynthesis",
+            "respire",
+            "dioxide"
+          ],
+          "preview": "previews/01.webp"
+        },
+        {
+          "number": 2,
+          "title": "研究植物与栽培植物",
+          "words": [
+            "botany",
+            "horticulture"
+          ],
+          "preview": "previews/02.webp"
+        },
+        {
+          "number": 3,
+          "title": "从植物到生态系统",
+          "words": [
+            "ecology",
+            "ecosystem",
+            "organism",
+            "vegetation"
+          ],
+          "preview": "previews/03.webp"
+        },
+        {
+          "number": 4,
+          "title": "保护一片自然环境",
+          "words": [
+            "eco-friendly",
+            "conservation",
+            "protect",
+            "preserve"
+          ],
+          "preview": "previews/04.webp"
+        },
+        {
+          "number": 5,
+          "title": "遗传与差异",
+          "words": [
+            "genetics",
+            "mutation",
+            "variation",
+            "hybridisation"
+          ],
+          "preview": "previews/05.webp"
+        },
+        {
+          "number": 6,
+          "title": "多样性与分类",
+          "words": [
+            "diversity",
+            "classify",
+            "evolve",
+            "reproduce"
+          ],
+          "preview": "previews/06.webp"
+        },
+        {
+          "number": 7,
+          "title": "记录季节变化",
+          "words": [
+            "fluctuate",
+            "seasonal",
+            "pattern"
+          ],
+          "preview": "previews/07.webp"
+        },
+        {
+          "number": 8,
+          "title": "从整地到播种",
+          "words": [
+            "reclaim",
+            "cultivate",
+            "sow",
+            "arable",
+            "plough"
+          ],
+          "preview": "previews/08.webp"
+        },
+        {
+          "number": 9,
+          "title": "整理一座花园",
+          "words": [
+            "spade",
+            "rake",
+            "stack",
+            "heap"
+          ],
+          "preview": "previews/09.webp"
+        },
+        {
+          "number": 10,
+          "title": "捆、束与花瓶",
+          "words": [
+            "bundle",
+            "bunch",
+            "vase"
+          ],
+          "preview": "previews/10.webp"
+        },
+        {
+          "number": 11,
+          "title": "收获时的动作与产量",
+          "words": [
+            "harvest",
+            "pluck",
+            "pick",
+            "yield"
+          ],
+          "preview": "previews/11.webp"
+        },
+        {
+          "number": 12,
+          "title": "农场里的生产场景",
+          "words": [
+            "rear",
+            "field",
+            "plantation",
+            "terrace"
+          ],
+          "preview": "previews/12.webp"
+        },
+        {
+          "number": 13,
+          "title": "多年生香草与阳光",
+          "words": [
+            "herb",
+            "perennial",
+            "sunlight"
+          ],
+          "preview": "previews/13.webp"
+        },
+        {
+          "number": 14,
+          "title": "光照需求不一样",
+          "words": [
+            "short-day",
+            "shade-tolerant"
+          ],
+          "preview": "previews/14.webp"
+        },
+        {
+          "number": 15,
+          "title": "真菌与分解",
+          "words": [
+            "fungus",
+            "mould",
+            "decompose"
+          ],
+          "preview": "previews/15.webp"
+        },
+        {
+          "number": 16,
+          "title": "从种子到嫩芽",
+          "words": [
+            "seed",
+            "germinate",
+            "burgeon",
+            "bud"
+          ],
+          "preview": "previews/16.webp"
+        },
+        {
+          "number": 17,
+          "title": "花开时怎么说",
+          "words": [
+            "flower",
+            "blossom",
+            "bloom"
+          ],
+          "preview": "previews/17.webp"
+        },
+        {
+          "number": 18,
+          "title": "花粉与芳香",
+          "words": [
+            "pollen",
+            "scent",
+            "aromatic"
+          ],
+          "preview": "previews/18.webp"
+        },
+        {
+          "number": 19,
+          "title": "结果、成熟与枯萎",
+          "words": [
+            "fruit",
+            "ripen",
+            "wither"
+          ],
+          "preview": "previews/19.webp"
+        },
+        {
+          "number": 20,
+          "title": "腐烂与不新鲜",
+          "words": [
+            "rot",
+            "decay",
+            "stale"
+          ],
+          "preview": "previews/20.webp"
+        },
+        {
+          "number": 21,
+          "title": "走进森林",
+          "words": [
+            "rainforest",
+            "jungle",
+            "forestry"
+          ],
+          "preview": "previews/21.webp"
+        },
+        {
+          "number": 22,
+          "title": "木材与容易混淆的词",
+          "words": [
+            "timber",
+            "charcoal",
+            "log",
+            "logo"
+          ],
+          "preview": "previews/22.webp"
+        },
+        {
+          "number": 23,
+          "title": "一棵树的结构",
+          "words": [
+            "branch",
+            "trunk",
+            "bough",
+            "root"
+          ],
+          "preview": "previews/23.webp"
+        },
+        {
+          "number": 24,
+          "title": "干草、秸秆与芦苇",
+          "words": [
+            "hay",
+            "straw",
+            "reed"
+          ],
+          "preview": "previews/24.webp"
+        },
+        {
+          "number": 25,
+          "title": "从草地到草坪",
+          "words": [
+            "weed",
+            "grass",
+            "meadow",
+            "lawn"
+          ],
+          "preview": "previews/25.webp"
+        },
+        {
+          "number": 26,
+          "title": "树木、藤与尖刺",
+          "words": [
+            "olive",
+            "pine",
+            "vine",
+            "thorn"
+          ],
+          "preview": "previews/26.webp"
+        },
+        {
+          "number": 27,
+          "title": "violet / tulip / mint",
+          "words": [
+            "violet",
+            "tulip",
+            "mint"
+          ],
+          "preview": "previews/27.webp"
+        },
+        {
+          "number": 28,
+          "title": "reef / alga / surroundings",
+          "words": [
+            "reef",
+            "alga",
+            "surroundings"
+          ],
+          "preview": "previews/28.webp"
+        },
+        {
+          "number": 29,
+          "title": "enzyme / catalyst / mechanism",
+          "words": [
+            "enzyme",
+            "catalyst",
+            "mechanism"
+          ],
+          "preview": "previews/29.webp"
+        },
+        {
+          "number": 30,
+          "title": "release / emission / absorb / circulation",
+          "words": [
+            "release",
+            "emission",
+            "absorb",
+            "circulation"
+          ],
+          "preview": "previews/30.webp"
+        },
+        {
+          "number": 31,
+          "title": "uptake / nutrient / energy",
+          "words": [
+            "uptake",
+            "nutrient",
+            "energy"
+          ],
+          "preview": "previews/31.webp"
+        },
+        {
+          "number": 32,
+          "title": "exceed / considerable / massive / immense",
+          "words": [
+            "exceed",
+            "considerable",
+            "massive",
+            "immense"
+          ],
+          "preview": "previews/32.webp"
+        },
+        {
+          "number": 33,
+          "title": "counterbalance / experimental / outcome / impact",
+          "words": [
+            "counterbalance",
+            "experimental",
+            "outcome",
+            "impact"
+          ],
+          "preview": "previews/33.webp"
+        },
+        {
+          "number": 34,
+          "title": "bush fire / extinguish / perish / extinction",
+          "words": [
+            "bush fire",
+            "extinguish",
+            "perish",
+            "extinction"
+          ],
+          "preview": "previews/34.webp"
+        },
+        {
+          "number": 35,
+          "title": "destruct / ruin / demolish",
+          "words": [
+            "destruct",
+            "ruin",
+            "demolish"
+          ],
+          "preview": "previews/35.webp"
+        },
+        {
+          "number": 36,
+          "title": "undermine / infringe",
+          "words": [
+            "undermine",
+            "infringe"
+          ],
+          "preview": "previews/36.webp"
+        },
+        {
+          "number": 37,
+          "title": "favourable / productive / effective / efficient",
+          "words": [
+            "favourable",
+            "productive",
+            "effective",
+            "efficient"
+          ],
+          "preview": "previews/37.webp"
+        },
+        {
+          "number": 38,
+          "title": "maximal / minimal / optimal",
+          "words": [
+            "maximal",
+            "minimal",
+            "optimal"
+          ],
+          "preview": "previews/38.webp"
+        },
+        {
+          "number": 39,
+          "title": "研究与栽培",
+          "words": [],
+          "preview": "previews/39.webp"
+        },
+        {
+          "number": 40,
+          "title": "生长与观察",
+          "words": [],
+          "preview": "previews/40.webp"
+        },
+        {
+          "number": 41,
+          "title": "环境与研究表达",
+          "words": [],
+          "preview": "previews/41.webp"
+        },
+        {
+          "number": 42,
+          "title": "把词汇用起来",
+          "words": [],
+          "preview": "previews/42.webp"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "动物保护",
+      "status": "chapter_complete",
+      "cards": 61,
+      "headwords": 168,
+      "path": "chapters/ch03",
+      "pdf": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch03-learning-cards.pdf",
+      "download": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch03-study-pack.zip",
+      "index": [
+        {
+          "number": 1,
+          "title": "研究自然的人",
+          "words": [
+            "biologist",
+            "zoologist",
+            "ecologist",
+            "botanist"
+          ],
+          "preview": "previews/01.webp"
+        },
+        {
+          "number": 2,
+          "title": "看懂分类的层次",
+          "words": [
+            "primate",
+            "mammal",
+            "vertebrate"
+          ],
+          "preview": "previews/02.webp"
+        },
+        {
+          "number": 3,
+          "title": "爬行动物与两栖动物",
+          "words": [
+            "reptile",
+            "amphibian",
+            "frog"
+          ],
+          "preview": "previews/03.webp"
+        },
+        {
+          "number": 4,
+          "title": "动物吃什么",
+          "words": [
+            "carnivore",
+            "herbivore",
+            "panda"
+          ],
+          "preview": "previews/04.webp"
+        },
+        {
+          "number": 5,
+          "title": "从一个生物到一个物种",
+          "words": [
+            "creature",
+            "wildlife",
+            "species"
+          ],
+          "preview": "previews/05.webp"
+        },
+        {
+          "number": 6,
+          "title": "一片环境的动物与植物",
+          "words": [
+            "fauna",
+            "flora"
+          ],
+          "preview": "previews/06.webp"
+        },
+        {
+          "number": 7,
+          "title": "动物、虚构与评价",
+          "words": [
+            "beast",
+            "brute",
+            "cruel",
+            "dragon"
+          ],
+          "preview": "previews/07.webp"
+        },
+        {
+          "number": 8,
+          "title": "怎样说一群动物",
+          "words": [
+            "flock",
+            "herd",
+            "swarm"
+          ],
+          "preview": "previews/08.webp"
+        },
+        {
+          "number": 9,
+          "title": "观鸟的人群",
+          "words": [
+            "crowd",
+            "throng"
+          ],
+          "preview": "previews/09.webp"
+        },
+        {
+          "number": 10,
+          "title": "来源与起因",
+          "words": [
+            "originate",
+            "derive",
+            "stem"
+          ],
+          "preview": "previews/10.webp"
+        },
+        {
+          "number": 11,
+          "title": "祖先、后代与子群",
+          "words": [
+            "ancestor",
+            "descendant",
+            "offspring",
+            "subgroup"
+          ],
+          "preview": "previews/11.webp"
+        },
+        {
+          "number": 12,
+          "title": "繁殖与杂交",
+          "words": [
+            "breed",
+            "interbreed",
+            "hybridise",
+            "sterility"
+          ],
+          "preview": "previews/12.webp"
+        },
+        {
+          "number": 13,
+          "title": "求偶与交配",
+          "words": [
+            "courtship",
+            "mate"
+          ],
+          "preview": "previews/13.webp"
+        },
+        {
+          "number": 14,
+          "title": "从产卵到一窝幼鸟",
+          "words": [
+            "lay",
+            "hatch",
+            "brood"
+          ],
+          "preview": "previews/14.webp"
+        },
+        {
+          "number": 15,
+          "title": "池塘里的生长与取食",
+          "words": [
+            "spawn",
+            "mature",
+            "feed"
+          ],
+          "preview": "previews/15.webp"
+        },
+        {
+          "number": 16,
+          "title": "皮肤与不同的毛",
+          "words": [
+            "skin",
+            "fur",
+            "bristle",
+            "curl"
+          ],
+          "preview": "previews/16.webp"
+        },
+        {
+          "number": 17,
+          "title": "脚掌与尖爪",
+          "words": [
+            "paw",
+            "claw"
+          ],
+          "preview": "previews/17.webp"
+        },
+        {
+          "number": 18,
+          "title": "一只鸟的外形",
+          "words": [
+            "beak",
+            "wing",
+            "feather",
+            "plume"
+          ],
+          "preview": "previews/18.webp"
+        },
+        {
+          "number": 19,
+          "title": "南方海洋观察",
+          "words": [
+            "penguin",
+            "seal",
+            "whale",
+            "fin"
+          ],
+          "preview": "previews/19.webp"
+        },
+        {
+          "number": 20,
+          "title": "昆虫、蜘蛛与蠕虫",
+          "words": [
+            "insect",
+            "spider",
+            "worm"
+          ],
+          "preview": "previews/20.webp"
+        },
+        {
+          "number": 21,
+          "title": "花园里的三种昆虫",
+          "words": [
+            "butterfly",
+            "mosquito",
+            "cricket"
+          ],
+          "preview": "previews/21.webp"
+        },
+        {
+          "number": 22,
+          "title": "害虫与寄生虫",
+          "words": [
+            "pest",
+            "parasite"
+          ],
+          "preview": "previews/22.webp"
+        },
+        {
+          "number": 23,
+          "title": "陆龟与海龟",
+          "words": [
+            "tortoise",
+            "turtle"
+          ],
+          "preview": "previews/23.webp"
+        },
+        {
+          "number": 24,
+          "title": "旱地中的动物",
+          "words": [
+            "kangaroo",
+            "camel"
+          ],
+          "preview": "previews/24.webp"
+        },
+        {
+          "number": 25,
+          "title": "象鼻、象牙与角",
+          "words": [
+            "elephant",
+            "trunk",
+            "ivory",
+            "horn"
+          ],
+          "preview": "previews/25.webp"
+        },
+        {
+          "number": 26,
+          "title": "温带林地观察",
+          "words": [
+            "bear",
+            "wolf",
+            "fox"
+          ],
+          "preview": "previews/26.webp"
+        },
+        {
+          "number": 27,
+          "title": "幼兽名称各不同",
+          "words": [
+            "cub",
+            "calf",
+            "pup",
+            "lamb"
+          ],
+          "preview": "previews/27.webp"
+        },
+        {
+          "number": 28,
+          "title": "牛群里的不同称呼",
+          "words": [
+            "cattle",
+            "ox",
+            "bull",
+            "buffalo"
+          ],
+          "preview": "previews/28.webp"
+        },
+        {
+          "number": 29,
+          "title": "马、斑马与驴",
+          "words": [
+            "horse",
+            "zebra",
+            "donkey"
+          ],
+          "preview": "previews/29.webp"
+        },
+        {
+          "number": 30,
+          "title": "马鞍与挽具",
+          "words": [
+            "saddle",
+            "harness"
+          ],
+          "preview": "previews/30.webp"
+        },
+        {
+          "number": 31,
+          "title": "辨认猛禽",
+          "words": [
+            "falcon",
+            "hawk",
+            "eagle",
+            "owl"
+          ],
+          "preview": "previews/31.webp"
+        },
+        {
+          "number": 32,
+          "title": "城市里的鸟",
+          "words": [
+            "swallow",
+            "sparrow",
+            "pigeon",
+            "crow"
+          ],
+          "preview": "previews/32.webp"
+        },
+        {
+          "number": 33,
+          "title": "池塘与农场的鸟",
+          "words": [
+            "swan",
+            "goose",
+            "cock"
+          ],
+          "preview": "previews/33.webp"
+        },
+        {
+          "number": 34,
+          "title": "林缘的小型哺乳动物",
+          "words": [
+            "mouse",
+            "rat",
+            "squirrel",
+            "hare"
+          ],
+          "preview": "previews/34.webp"
+        },
+        {
+          "number": 35,
+          "title": "行为与本能",
+          "words": [
+            "behaviour",
+            "instinct"
+          ],
+          "preview": "previews/35.webp"
+        },
+        {
+          "number": 36,
+          "title": "直觉与认知能力",
+          "words": [
+            "intuitive",
+            "intelligence"
+          ],
+          "preview": "previews/36.webp"
+        },
+        {
+          "number": 37,
+          "title": "咬、蜇与叫声",
+          "words": [
+            "bite",
+            "sting",
+            "bark",
+            "roar"
+          ],
+          "preview": "previews/37.webp"
+        },
+        {
+          "number": 38,
+          "title": "摩擦、悄行与爬行",
+          "words": [
+            "rub",
+            "creep",
+            "crawl"
+          ],
+          "preview": "previews/38.webp"
+        },
+        {
+          "number": 39,
+          "title": "栖息地里的住所",
+          "words": [
+            "habitat",
+            "nest",
+            "hive",
+            "cell"
+          ],
+          "preview": "previews/39.webp"
+        },
+        {
+          "number": 40,
+          "title": "笼子、马厩与谷仓",
+          "words": [
+            "cage",
+            "stable",
+            "barn"
+          ],
+          "preview": "previews/40.webp"
+        },
+        {
+          "number": 41,
+          "title": "树篱、屏障与栏杆",
+          "words": [
+            "hedge",
+            "barrier",
+            "bar"
+          ],
+          "preview": "previews/41.webp"
+        },
+        {
+          "number": 42,
+          "title": "结构、遗传与代谢",
+          "words": [
+            "anatomy",
+            "gene",
+            "metabolism"
+          ],
+          "preview": "previews/42.webp"
+        },
+        {
+          "number": 43,
+          "title": "看懂微观世界的词",
+          "words": [
+            "germ",
+            "bacteria",
+            "virus",
+            "microbe"
+          ],
+          "preview": "previews/43.webp"
+        },
+        {
+          "number": 44,
+          "title": "增殖与流行",
+          "words": [
+            "proliferate",
+            "epidemic"
+          ],
+          "preview": "previews/44.webp"
+        },
+        {
+          "number": 45,
+          "title": "进食与营养",
+          "words": [
+            "protein",
+            "vitamin",
+            "devour"
+          ],
+          "preview": "previews/45.webp"
+        },
+        {
+          "number": 46,
+          "title": "分泌与排泄",
+          "words": [
+            "secrete",
+            "excrete"
+          ],
+          "preview": "previews/46.webp"
+        },
+        {
+          "number": 47,
+          "title": "研究设备与潜在用途",
+          "words": [
+            "potential",
+            "functional",
+            "sensitive",
+            "flexible"
+          ],
+          "preview": "previews/47.webp"
+        },
+        {
+          "number": 48,
+          "title": "夜间观察的两种工具",
+          "words": [
+            "acoustic",
+            "optical",
+            "nocturnal",
+            "alternate"
+          ],
+          "preview": "previews/48.webp"
+        },
+        {
+          "number": 49,
+          "title": "休眠与冬眠",
+          "words": [
+            "dormant",
+            "hibernation"
+          ],
+          "preview": "previews/49.webp"
+        },
+        {
+          "number": 50,
+          "title": "追踪与痕迹",
+          "words": [
+            "track",
+            "trace"
+          ],
+          "preview": "previews/50.webp"
+        },
+        {
+          "number": 51,
+          "title": "捕食者与猎物",
+          "words": [
+            "predator",
+            "prey"
+          ],
+          "preview": "previews/51.webp"
+        },
+        {
+          "number": 52,
+          "title": "脆弱、防御与受害",
+          "words": [
+            "vulnerable",
+            "defensive",
+            "victim"
+          ],
+          "preview": "previews/52.webp"
+        },
+        {
+          "number": 53,
+          "title": "照料动物的人与状态",
+          "words": [
+            "captive",
+            "tame",
+            "keeper",
+            "shepherd"
+          ],
+          "preview": "previews/53.webp"
+        },
+        {
+          "number": 54,
+          "title": "经历与遭受",
+          "words": [
+            "undergo",
+            "suffer"
+          ],
+          "preview": "previews/54.webp"
+        },
+        {
+          "number": 55,
+          "title": "维生与存在",
+          "words": [
+            "subsistence",
+            "exist"
+          ],
+          "preview": "previews/55.webp"
+        },
+        {
+          "number": 56,
+          "title": "消灭一整个种群",
+          "words": [
+            "exterminate"
+          ],
+          "preview": "previews/56.webp"
+        },
+        {
+          "number": 57,
+          "title": "回忆卡①｜分类与繁殖",
+          "words": [
+            "biologist",
+            "zoologist",
+            "mammal",
+            "vertebrate",
+            "amphibian",
+            "herbivore",
+            "species",
+            "fauna",
+            "flora",
+            "flock",
+            "herd",
+            "offspring",
+            "courtship",
+            "hatch",
+            "sterility"
+          ],
+          "preview": "previews/57.webp"
+        },
+        {
+          "number": 58,
+          "title": "回忆卡②｜外形与动物",
+          "words": [
+            "paw",
+            "claw",
+            "beak",
+            "wing",
+            "feather",
+            "tortoise",
+            "trunk",
+            "ivory",
+            "horn",
+            "cub",
+            "calf",
+            "pup",
+            "lamb",
+            "mouse",
+            "owl"
+          ],
+          "preview": "previews/58.webp"
+        },
+        {
+          "number": 59,
+          "title": "回忆卡③｜行为与环境",
+          "words": [
+            "behaviour",
+            "instinct",
+            "intelligence",
+            "bite",
+            "sting",
+            "bark",
+            "roar",
+            "creep",
+            "crawl",
+            "habitat",
+            "nest",
+            "hive",
+            "cell",
+            "stable",
+            "hedge"
+          ],
+          "preview": "previews/59.webp"
+        },
+        {
+          "number": 60,
+          "title": "回忆卡④｜研究与保护",
+          "words": [
+            "metabolism",
+            "bacteria",
+            "virus",
+            "microbe",
+            "secrete",
+            "excrete",
+            "potential",
+            "sensitive",
+            "nocturnal",
+            "hibernation",
+            "predator",
+            "prey",
+            "vulnerable",
+            "captive",
+            "tame"
+          ],
+          "preview": "previews/60.webp"
+        },
+        {
+          "number": 61,
+          "title": "把词汇用进雅思表达",
+          "words": [
+            "habitat",
+            "vulnerable",
+            "species",
+            "nocturnal",
+            "acoustic",
+            "optical",
+            "captive",
+            "tame"
+          ],
+          "preview": "previews/61.webp"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "太空探索",
+      "status": "chapter_complete",
+      "cards": 33,
+      "headwords": 75,
+      "path": "chapters/ch04",
+      "pdf": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch04-learning-cards.pdf",
+      "download": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch04-study-pack.zip",
+      "index": [
+        {
+          "number": 1,
+          "title": "宇宙的尺度",
+          "words": [
+            "galaxy",
+            "cosmos",
+            "universe"
+          ],
+          "preview": "previews/01.webp"
+        },
+        {
+          "number": 2,
+          "title": "天文学与占星术",
+          "words": [
+            "astronomy",
+            "astrology"
+          ],
+          "preview": "previews/02.webp"
+        },
+        {
+          "number": 3,
+          "title": "三个天文形容词",
+          "words": [
+            "interstellar",
+            "terrestrial",
+            "celestial"
+          ],
+          "preview": "previews/03.webp"
+        },
+        {
+          "number": 4,
+          "title": "宇航员与飞船",
+          "words": [
+            "astronaut",
+            "spacecraft",
+            "spaceship"
+          ],
+          "preview": "previews/04.webp"
+        },
+        {
+          "number": 5,
+          "title": "彗星、陨石与彗尾",
+          "words": [
+            "comet",
+            "meteorite",
+            "tail"
+          ],
+          "preview": "previews/05.webp"
+        },
+        {
+          "number": 6,
+          "title": "撞击坑、尘埃与火山灰",
+          "words": [
+            "crater",
+            "dust",
+            "ash"
+          ],
+          "preview": "previews/06.webp"
+        },
+        {
+          "number": 7,
+          "title": "气体包层、压力与排气",
+          "words": [
+            "envelope",
+            "pressure",
+            "vent"
+          ],
+          "preview": "previews/07.webp"
+        },
+        {
+          "number": 8,
+          "title": "块、碎片与样本",
+          "words": [
+            "chunk",
+            "fragment",
+            "sample"
+          ],
+          "preview": "previews/08.webp"
+        },
+        {
+          "number": 9,
+          "title": "探测器、舱段与推进",
+          "words": [
+            "probe",
+            "module",
+            "propulsion"
+          ],
+          "preview": "previews/09.webp"
+        },
+        {
+          "number": 10,
+          "title": "动力、运动与曲线",
+          "words": [
+            "dynamics",
+            "motion",
+            "curve"
+          ],
+          "preview": "previews/10.webp"
+        },
+        {
+          "number": 11,
+          "title": "探索、远征与掠过",
+          "words": [
+            "exploration",
+            "expedition",
+            "flyby"
+          ],
+          "preview": "previews/11.webp"
+        },
+        {
+          "number": 12,
+          "title": "天文台、望远镜与壮观景象",
+          "words": [
+            "observatory",
+            "telescope",
+            "spectacle"
+          ],
+          "preview": "previews/12.webp"
+        },
+        {
+          "number": 13,
+          "title": "轨道与黄道",
+          "words": [
+            "orbit",
+            "ecliptic"
+          ],
+          "preview": "previews/13.webp"
+        },
+        {
+          "number": 14,
+          "title": "直径、半径与维度",
+          "words": [
+            "diameter",
+            "radius",
+            "dimension"
+          ],
+          "preview": "previews/14.webp"
+        },
+        {
+          "number": 15,
+          "title": "物质的组成",
+          "words": [
+            "substance",
+            "composition",
+            "compound"
+          ],
+          "preview": "previews/15.webp"
+        },
+        {
+          "number": 16,
+          "title": "化石与标本",
+          "words": [
+            "fossil",
+            "specimen"
+          ],
+          "preview": "previews/16.webp"
+        },
+        {
+          "number": 17,
+          "title": "从粒子到分子",
+          "words": [
+            "particle",
+            "molecule",
+            "atom"
+          ],
+          "preview": "previews/17.webp"
+        },
+        {
+          "number": 18,
+          "title": "原子、离子与电子",
+          "words": [
+            "ion",
+            "electron",
+            "quantum"
+          ],
+          "preview": "previews/18.webp"
+        },
+        {
+          "number": 19,
+          "title": "液体、流体与固体",
+          "words": [
+            "liquid",
+            "fluid",
+            "solid"
+          ],
+          "preview": "previews/19.webp"
+        },
+        {
+          "number": 20,
+          "title": "合成、形成与方法",
+          "words": [
+            "synthesise",
+            "formation",
+            "method"
+          ],
+          "preview": "previews/20.webp"
+        },
+        {
+          "number": 21,
+          "title": "光谱、折射与频率",
+          "words": [
+            "spectrum",
+            "refraction",
+            "frequency"
+          ],
+          "preview": "previews/21.webp"
+        },
+        {
+          "number": 22,
+          "title": "紫外线与放射性",
+          "words": [
+            "ultraviolet",
+            "radioactive"
+          ],
+          "preview": "previews/22.webp"
+        },
+        {
+          "number": 23,
+          "title": "信号、天线与电路",
+          "words": [
+            "signal",
+            "antenna",
+            "circuit"
+          ],
+          "preview": "previews/23.webp"
+        },
+        {
+          "number": 24,
+          "title": "清晰、可辨与不可见",
+          "words": [
+            "distinct",
+            "discernible",
+            "invisible"
+          ],
+          "preview": "previews/24.webp"
+        },
+        {
+          "number": 25,
+          "title": "碰撞与压扁",
+          "words": [
+            "collision",
+            "squash"
+          ],
+          "preview": "previews/25.webp"
+        },
+        {
+          "number": 26,
+          "title": "灾变与压倒性",
+          "words": [
+            "cataclysmic",
+            "overwhelming"
+          ],
+          "preview": "previews/26.webp"
+        },
+        {
+          "number": 27,
+          "title": "绝望、孤注一掷与无望",
+          "words": [
+            "despair",
+            "desperate",
+            "hopeless"
+          ],
+          "preview": "previews/27.webp"
+        },
+        {
+          "number": 28,
+          "title": "回忆卡1｜天体与太空环境",
+          "words": [
+            "galaxy",
+            "cosmos",
+            "universe",
+            "interstellar",
+            "terrestrial",
+            "celestial",
+            "astronomy",
+            "astrology",
+            "astronaut",
+            "comet",
+            "meteorite",
+            "crater",
+            "dust",
+            "ash",
+            "envelope"
+          ],
+          "preview": "previews/28.webp"
+        },
+        {
+          "number": 29,
+          "title": "回忆卡2｜飞船与任务",
+          "words": [
+            "chunk",
+            "spacecraft",
+            "spaceship",
+            "probe",
+            "module",
+            "propulsion",
+            "pressure",
+            "dynamics",
+            "motion",
+            "vent",
+            "tail",
+            "curve",
+            "exploration",
+            "expedition",
+            "flyby"
+          ],
+          "preview": "previews/29.webp"
+        },
+        {
+          "number": 30,
+          "title": "回忆卡3｜观测与物质",
+          "words": [
+            "observatory",
+            "telescope",
+            "spectacle",
+            "orbit",
+            "ecliptic",
+            "diameter",
+            "radius",
+            "substance",
+            "composition",
+            "compound",
+            "fossil",
+            "sample",
+            "specimen",
+            "particle",
+            "molecule"
+          ],
+          "preview": "previews/30.webp"
+        },
+        {
+          "number": 31,
+          "title": "回忆卡4｜微观世界与波",
+          "words": [
+            "atom",
+            "ion",
+            "electron",
+            "quantum",
+            "liquid",
+            "fluid",
+            "solid",
+            "synthesise",
+            "formation",
+            "method",
+            "spectrum",
+            "dimension",
+            "frequency",
+            "signal",
+            "antenna"
+          ],
+          "preview": "previews/31.webp"
+        },
+        {
+          "number": 32,
+          "title": "回忆卡5｜信息、变化与应对",
+          "words": [
+            "circuit",
+            "refraction",
+            "ultraviolet",
+            "radioactive",
+            "distinct",
+            "discernible",
+            "invisible",
+            "collision",
+            "squash",
+            "fragment",
+            "cataclysmic",
+            "overwhelming",
+            "despair",
+            "desperate",
+            "hopeless"
+          ],
+          "preview": "previews/32.webp"
+        },
+        {
+          "number": 33,
+          "title": "把太空词汇用进雅思表达",
+          "words": [
+            "astronomy",
+            "observatory",
+            "telescope",
+            "probe",
+            "signal",
+            "exploration"
+          ],
+          "preview": "previews/33.webp"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "学校教育",
+      "status": "chapter_complete",
+      "cards": 85,
+      "headwords": 402,
+      "path": "chapters/ch05",
+      "pdf": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch05-learning-cards.pdf",
+      "download": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch05-study-pack.zip",
+      "index": [
+        {
+          "number": 1,
+          "title": "education｜教育",
+          "words": [
+            "education"
+          ],
+          "preview": "previews/01.webp"
+        },
+        {
+          "number": 2,
+          "title": "校园设施",
+          "words": [
+            "campus",
+            "dorm",
+            "dining hall",
+            "canteen",
+            "laboratory",
+            "library"
+          ],
+          "preview": "previews/02.webp"
+        },
+        {
+          "number": 3,
+          "title": "教育阶段",
+          "words": [
+            "primary",
+            "secondary",
+            "university",
+            "college",
+            "institute",
+            "academy"
+          ],
+          "preview": "previews/03.webp"
+        },
+        {
+          "number": 4,
+          "title": "从学习到专长",
+          "words": [
+            "learn",
+            "study",
+            "acquire",
+            "knowledge",
+            "expertise",
+            "novice"
+          ],
+          "preview": "previews/04.webp"
+        },
+        {
+          "number": 5,
+          "title": "读写与计算",
+          "words": [
+            "literate",
+            "illiteracy",
+            "numerate"
+          ],
+          "preview": "previews/05.webp"
+        },
+        {
+          "number": 6,
+          "title": "议题与难题",
+          "words": [
+            "problem",
+            "issue",
+            "affair",
+            "controversial"
+          ],
+          "preview": "previews/06.webp"
+        },
+        {
+          "number": 7,
+          "title": "谜题与理解障碍",
+          "words": [
+            "puzzle",
+            "riddle",
+            "obscure"
+          ],
+          "preview": "previews/07.webp"
+        },
+        {
+          "number": 8,
+          "title": "持续学习与突击",
+          "words": [
+            "instil",
+            "cram",
+            "emphasise",
+            "enhance",
+            "enable"
+          ],
+          "preview": "previews/08.webp"
+        },
+        {
+          "number": 9,
+          "title": "激发学习动力",
+          "words": [
+            "inspire",
+            "motivate",
+            "stimulate",
+            "spur",
+            "impetus",
+            "motive"
+          ],
+          "preview": "previews/09.webp"
+        },
+        {
+          "number": 10,
+          "title": "支持与纵容的边界",
+          "words": [
+            "indulge",
+            "spoil",
+            "abuse"
+          ],
+          "preview": "previews/10.webp"
+        },
+        {
+          "number": 11,
+          "title": "不同的聪明表现",
+          "words": [
+            "intelligent",
+            "clever",
+            "smart",
+            "brilliant",
+            "genius"
+          ],
+          "preview": "previews/11.webp"
+        },
+        {
+          "number": 12,
+          "title": "能力与全面成长",
+          "words": [
+            "all-round",
+            "aptitude",
+            "capable",
+            "wisdom",
+            "wit"
+          ],
+          "preview": "previews/12.webp"
+        },
+        {
+          "number": 13,
+          "title": "评价与用语分寸",
+          "words": [
+            "excellent",
+            "outstanding",
+            "elite",
+            "idiot"
+          ],
+          "preview": "previews/13.webp"
+        },
+        {
+          "number": 14,
+          "title": "声誉的两面",
+          "words": [
+            "prestige",
+            "reputation",
+            "eminent",
+            "notorious",
+            "esteem",
+            "respect"
+          ],
+          "preview": "previews/14.webp"
+        },
+        {
+          "number": 15,
+          "title": "技能来自练习",
+          "words": [
+            "diligent",
+            "painstaking",
+            "skill",
+            "approach",
+            "scheme"
+          ],
+          "preview": "previews/15.webp"
+        },
+        {
+          "number": 16,
+          "title": "学校管理角色",
+          "words": [
+            "headmaster",
+            "principal",
+            "dean",
+            "faculty"
+          ],
+          "preview": "previews/16.webp"
+        },
+        {
+          "number": 17,
+          "title": "教学与辅导",
+          "words": [
+            "professor",
+            "lecturer",
+            "tutor",
+            "mentor",
+            "assistant"
+          ],
+          "preview": "previews/17.webp"
+        },
+        {
+          "number": 18,
+          "title": "研究与招募",
+          "words": [
+            "scholar",
+            "scientist",
+            "recruit",
+            "candidate"
+          ],
+          "preview": "previews/18.webp"
+        },
+        {
+          "number": 19,
+          "title": "资格与证明",
+          "words": [
+            "degree",
+            "diploma",
+            "qualify",
+            "certify",
+            "license",
+            "permit"
+          ],
+          "preview": "previews/19.webp"
+        },
+        {
+          "number": 20,
+          "title": "从学生到毕业生",
+          "words": [
+            "pupil",
+            "graduate",
+            "ceremony",
+            "bachelor",
+            "master",
+            "doctor"
+          ],
+          "preview": "previews/20.webp"
+        },
+        {
+          "number": 21,
+          "title": "国际交流来访",
+          "words": [
+            "diplomat",
+            "ambassador",
+            "platform",
+            "coed"
+          ],
+          "preview": "previews/21.webp"
+        },
+        {
+          "number": 22,
+          "title": "大学年级称谓",
+          "words": [
+            "fresher",
+            "sophomore",
+            "junior",
+            "senior",
+            "alumni"
+          ],
+          "preview": "previews/22.webp"
+        },
+        {
+          "number": 23,
+          "title": "入学第一天",
+          "words": [
+            "orientation",
+            "register",
+            "roster",
+            "enrol",
+            "matriculation",
+            "accommodation"
+          ],
+          "preview": "previews/23.webp"
+        },
+        {
+          "number": 24,
+          "title": "实验与数据",
+          "words": [
+            "experiment",
+            "data",
+            "quantity",
+            "quality"
+          ],
+          "preview": "previews/24.webp"
+        },
+        {
+          "number": 25,
+          "title": "文学阅读角",
+          "words": [
+            "literature",
+            "author",
+            "fiction",
+            "story",
+            "tale",
+            "poetry"
+          ],
+          "preview": "previews/25.webp"
+        },
+        {
+          "number": 26,
+          "title": "阅读真实世界",
+          "words": [
+            "diary",
+            "biography",
+            "documentary",
+            "encyclopedia"
+          ],
+          "preview": "previews/26.webp"
+        },
+        {
+          "number": 27,
+          "title": "出版与报道",
+          "words": [
+            "article",
+            "magazine",
+            "journal",
+            "coverage",
+            "series"
+          ],
+          "preview": "previews/27.webp"
+        },
+        {
+          "number": 28,
+          "title": "查找一本书",
+          "words": [
+            "bibliography",
+            "index",
+            "catalogue",
+            "category",
+            "chapter",
+            "volume"
+          ],
+          "preview": "previews/28.webp"
+        },
+        {
+          "number": 29,
+          "title": "整理研究材料",
+          "words": [
+            "record",
+            "file",
+            "profile",
+            "inventory",
+            "list",
+            "reel"
+          ],
+          "preview": "previews/29.webp"
+        },
+        {
+          "number": 30,
+          "title": "内容如何被理解",
+          "words": [
+            "content",
+            "context",
+            "frame",
+            "object",
+            "subject"
+          ],
+          "preview": "previews/30.webp"
+        },
+        {
+          "number": 31,
+          "title": "从草图到手册",
+          "words": [
+            "draft",
+            "sketch",
+            "brochure",
+            "manual"
+          ],
+          "preview": "previews/31.webp"
+        },
+        {
+          "number": 32,
+          "title": "选课与社会研究",
+          "words": [
+            "major",
+            "minor",
+            "sociology",
+            "politics",
+            "economics"
+          ],
+          "preview": "previews/32.webp"
+        },
+        {
+          "number": 33,
+          "title": "商科项目实践",
+          "words": [
+            "marketing",
+            "accounting",
+            "audit",
+            "statistics",
+            "merger"
+          ],
+          "preview": "previews/33.webp"
+        },
+        {
+          "number": 34,
+          "title": "思考人和思想",
+          "words": [
+            "psychology",
+            "philosophy",
+            "logic"
+          ],
+          "preview": "previews/34.webp"
+        },
+        {
+          "number": 35,
+          "title": "认识学校学科",
+          "words": [
+            "biology",
+            "physics",
+            "chemistry",
+            "geography",
+            "history"
+          ],
+          "preview": "previews/35.webp"
+        },
+        {
+          "number": 36,
+          "title": "从农田到工程",
+          "words": [
+            "agriculture",
+            "logistics",
+            "engineering",
+            "mechanics",
+            "electronics"
+          ],
+          "preview": "previews/36.webp"
+        },
+        {
+          "number": 37,
+          "title": "数学分支",
+          "words": [
+            "maths",
+            "arithmetic",
+            "geometry",
+            "algebra",
+            "calculus"
+          ],
+          "preview": "previews/37.webp"
+        },
+        {
+          "number": 38,
+          "title": "加减的两种表达",
+          "words": [
+            "plus",
+            "sum",
+            "total",
+            "minus",
+            "subtract"
+          ],
+          "preview": "previews/38.webp"
+        },
+        {
+          "number": 39,
+          "title": "乘除与余数",
+          "words": [
+            "multiply",
+            "divide",
+            "dividend",
+            "remainder"
+          ],
+          "preview": "previews/39.webp"
+        },
+        {
+          "number": 40,
+          "title": "方程中的角色",
+          "words": [
+            "equation",
+            "identical",
+            "parameter",
+            "variable",
+            "rational"
+          ],
+          "preview": "previews/40.webp"
+        },
+        {
+          "number": 41,
+          "title": "倍数与奇偶",
+          "words": [
+            "even",
+            "odd",
+            "double",
+            "triple",
+            "quadruple",
+            "multiple"
+          ],
+          "preview": "previews/41.webp"
+        },
+        {
+          "number": 42,
+          "title": "读懂数据范围",
+          "words": [
+            "mean",
+            "maximum",
+            "minimum",
+            "approximately"
+          ],
+          "preview": "previews/42.webp"
+        },
+        {
+          "number": 43,
+          "title": "数据如何呈现",
+          "words": [
+            "chart",
+            "graph",
+            "diagram",
+            "table",
+            "matrix"
+          ],
+          "preview": "previews/43.webp"
+        },
+        {
+          "number": 44,
+          "title": "平面形状与线",
+          "words": [
+            "rectangle",
+            "triangle",
+            "angle",
+            "diagonal",
+            "straight"
+          ],
+          "preview": "previews/44.webp"
+        },
+        {
+          "number": 45,
+          "title": "圆与立体模型",
+          "words": [
+            "circle",
+            "round",
+            "dot",
+            "sphere",
+            "cone",
+            "cube"
+          ],
+          "preview": "previews/45.webp"
+        },
+        {
+          "number": 46,
+          "title": "测量空间",
+          "words": [
+            "extent",
+            "width",
+            "length",
+            "scale"
+          ],
+          "preview": "previews/46.webp"
+        },
+        {
+          "number": 47,
+          "title": "比例与百分数",
+          "words": [
+            "decimal",
+            "per cent",
+            "proportion",
+            "ratio",
+            "fraction",
+            "rate"
+          ],
+          "preview": "previews/47.webp"
+        },
+        {
+          "number": 48,
+          "title": "测量与单位",
+          "words": [
+            "ounce",
+            "density",
+            "Fahrenheit",
+            "mercury"
+          ],
+          "preview": "previews/48.webp"
+        },
+        {
+          "number": 49,
+          "title": "电与辐射",
+          "words": [
+            "battery",
+            "volt",
+            "static",
+            "radiate",
+            "emit"
+          ],
+          "preview": "previews/49.webp"
+        },
+        {
+          "number": 50,
+          "title": "观察材料与性质",
+          "words": [
+            "transparent",
+            "hollow",
+            "inert",
+            "inherent",
+            "component"
+          ],
+          "preview": "previews/50.webp"
+        },
+        {
+          "number": 51,
+          "title": "力与位移",
+          "words": [
+            "gravity",
+            "friction",
+            "displace",
+            "eccentric"
+          ],
+          "preview": "previews/51.webp"
+        },
+        {
+          "number": 52,
+          "title": "物质的变化",
+          "words": [
+            "boil",
+            "melt",
+            "dissolve",
+            "dilute"
+          ],
+          "preview": "previews/52.webp"
+        },
+        {
+          "number": 53,
+          "title": "化学反应与安全",
+          "words": [
+            "rust",
+            "ferment",
+            "acid",
+            "noxious",
+            "ozone"
+          ],
+          "preview": "previews/53.webp"
+        },
+        {
+          "number": 54,
+          "title": "配方与组成",
+          "words": [
+            "formula",
+            "compose",
+            "mixture",
+            "blend"
+          ],
+          "preview": "previews/54.webp"
+        },
+        {
+          "number": 55,
+          "title": "理论与实践",
+          "words": [
+            "theory",
+            "empirical",
+            "practical",
+            "doctrine",
+            "principle",
+            "discipline"
+          ],
+          "preview": "previews/55.webp"
+        },
+        {
+          "number": 56,
+          "title": "安排学习时间",
+          "words": [
+            "term",
+            "semester",
+            "timetable",
+            "schedule",
+            "deadline"
+          ],
+          "preview": "previews/56.webp"
+        },
+        {
+          "number": 57,
+          "title": "课程的不同层级",
+          "words": [
+            "course",
+            "lesson",
+            "curriculum",
+            "syllabus",
+            "system"
+          ],
+          "preview": "previews/57.webp"
+        },
+        {
+          "number": 58,
+          "title": "讨论课与公共论坛",
+          "words": [
+            "seminar",
+            "forum",
+            "elicit",
+            "opinion"
+          ],
+          "preview": "previews/58.webp"
+        },
+        {
+          "number": 59,
+          "title": "基础如何打牢",
+          "words": [
+            "rudimentary",
+            "basic",
+            "fundamental",
+            "elementary"
+          ],
+          "preview": "previews/59.webp"
+        },
+        {
+          "number": 60,
+          "title": "表面与深入",
+          "words": [
+            "profound",
+            "superficial",
+            "surface",
+            "detail",
+            "thorough"
+          ],
+          "preview": "previews/60.webp"
+        },
+        {
+          "number": 61,
+          "title": "必修选修与条件",
+          "words": [
+            "compulsory",
+            "elective",
+            "prerequisite",
+            "selective"
+          ],
+          "preview": "previews/61.webp"
+        },
+        {
+          "number": 62,
+          "title": "作业前后",
+          "words": [
+            "assignment",
+            "submit",
+            "preview",
+            "review",
+            "revise"
+          ],
+          "preview": "previews/62.webp"
+        },
+        {
+          "number": 63,
+          "title": "阅读与检查策略",
+          "words": [
+            "inspect",
+            "consult",
+            "skim",
+            "scan",
+            "scrutinise"
+          ],
+          "preview": "previews/63.webp"
+        },
+        {
+          "number": 64,
+          "title": "课堂表达与听写",
+          "words": [
+            "recite",
+            "dictate",
+            "presentation"
+          ],
+          "preview": "previews/64.webp"
+        },
+        {
+          "number": 65,
+          "title": "考试与测验",
+          "words": [
+            "examination",
+            "test",
+            "quiz"
+          ],
+          "preview": "previews/65.webp"
+        },
+        {
+          "number": 66,
+          "title": "引用与学术诚信",
+          "words": [
+            "plagiarise",
+            "copy",
+            "print",
+            "cite",
+            "quote",
+            "reference"
+          ],
+          "preview": "previews/66.webp"
+        },
+        {
+          "number": 67,
+          "title": "学术写作的作品",
+          "words": [
+            "thesis",
+            "essay",
+            "paper",
+            "dissertation",
+            "project"
+          ],
+          "preview": "previews/67.webp"
+        },
+        {
+          "number": 68,
+          "title": "从开头到提纲",
+          "words": [
+            "heading",
+            "outset",
+            "outline",
+            "point",
+            "gist",
+            "introduce"
+          ],
+          "preview": "previews/68.webp"
+        },
+        {
+          "number": 69,
+          "title": "摘录与概括",
+          "words": [
+            "extract",
+            "abstract",
+            "summary"
+          ],
+          "preview": "previews/69.webp"
+        },
+        {
+          "number": 70,
+          "title": "假设与推测",
+          "words": [
+            "assume",
+            "presume",
+            "suppose",
+            "hypothesis",
+            "postulate",
+            "speculate"
+          ],
+          "preview": "previews/70.webp"
+        },
+        {
+          "number": 71,
+          "title": "感知与发现",
+          "words": [
+            "perceive",
+            "detect",
+            "discern",
+            "recognise",
+            "conscious"
+          ],
+          "preview": "previews/71.webp"
+        },
+        {
+          "number": 72,
+          "title": "预测与判断",
+          "words": [
+            "predict",
+            "reckon",
+            "deem",
+            "deliberate"
+          ],
+          "preview": "previews/72.webp"
+        },
+        {
+          "number": 73,
+          "title": "表达不止字面",
+          "words": [
+            "imply",
+            "represent",
+            "understand",
+            "misunderstand",
+            "comprehend"
+          ],
+          "preview": "previews/73.webp"
+        },
+        {
+          "number": 74,
+          "title": "坚持与解决",
+          "words": [
+            "insist",
+            "persist",
+            "determine",
+            "decide",
+            "resolve"
+          ],
+          "preview": "previews/74.webp"
+        },
+        {
+          "number": 75,
+          "title": "分析与推论",
+          "words": [
+            "analyse",
+            "diagnose",
+            "infer",
+            "deduce",
+            "conclude",
+            "inductive"
+          ],
+          "preview": "previews/75.webp"
+        },
+        {
+          "number": 76,
+          "title": "比较与类比",
+          "words": [
+            "analogy",
+            "compare",
+            "contrast",
+            "overlap",
+            "differ",
+            "nuance"
+          ],
+          "preview": "previews/76.webp"
+        },
+        {
+          "number": 77,
+          "title": "分歧与多样性",
+          "words": [
+            "contradiction",
+            "disagree",
+            "diverse"
+          ],
+          "preview": "previews/77.webp"
+        },
+        {
+          "number": 78,
+          "title": "举例与证明",
+          "words": [
+            "example",
+            "instance",
+            "confirm",
+            "demonstrate",
+            "illustrate",
+            "prove"
+          ],
+          "preview": "previews/78.webp"
+        },
+        {
+          "number": 79,
+          "title": "让证据说话",
+          "words": [
+            "manifest",
+            "observe",
+            "research",
+            "survey"
+          ],
+          "preview": "previews/79.webp"
+        },
+        {
+          "number": 80,
+          "title": "提问与问卷",
+          "words": [
+            "inquire",
+            "query",
+            "questionnaire"
+          ],
+          "preview": "previews/80.webp"
+        },
+        {
+          "number": 81,
+          "title": "达成学习目标",
+          "words": [
+            "achieve",
+            "accomplish",
+            "attain",
+            "credit"
+          ],
+          "preview": "previews/81.webp"
+        },
+        {
+          "number": 82,
+          "title": "分数与排列",
+          "words": [
+            "score",
+            "mark",
+            "grade",
+            "rank",
+            "row",
+            "queue"
+          ],
+          "preview": "previews/82.webp"
+        },
+        {
+          "number": 83,
+          "title": "反馈与估计",
+          "words": [
+            "praise",
+            "appreciate",
+            "feedback",
+            "underestimate",
+            "overestimate"
+          ],
+          "preview": "previews/83.webp"
+        },
+        {
+          "number": 84,
+          "title": "申请与资助",
+          "words": [
+            "apply",
+            "grant",
+            "fellowship",
+            "scholarship",
+            "fee"
+          ],
+          "preview": "previews/84.webp"
+        },
+        {
+          "number": 85,
+          "title": "奖励与奖项",
+          "words": [
+            "reward",
+            "award",
+            "prize"
+          ],
+          "preview": "previews/85.webp"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "科技发明",
+      "status": "chapter_complete",
+      "cards": 36,
+      "headwords": 122,
+      "path": "chapters/ch06",
+      "pdf": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch06-learning-cards.pdf",
+      "download": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch06-study-pack.zip",
+      "index": [
+        {
+          "number": 1,
+          "title": "technology｜技术",
+          "words": [
+            "technology"
+          ],
+          "preview": "previews/01.webp"
+        },
+        {
+          "number": 2,
+          "title": "从技术课堂到工作台",
+          "words": [
+            "polytechnic",
+            "engineer",
+            "mechanic",
+            "technique"
+          ],
+          "preview": "previews/02.webp"
+        },
+        {
+          "number": 3,
+          "title": "breakthrough｜突破",
+          "words": [
+            "breakthrough"
+          ],
+          "preview": "previews/03.webp"
+        },
+        {
+          "number": 4,
+          "title": "从构想到创新",
+          "words": [
+            "devise",
+            "innovate",
+            "advance",
+            "patent"
+          ],
+          "preview": "previews/04.webp"
+        },
+        {
+          "number": 5,
+          "title": "发明与发现",
+          "words": [
+            "invent",
+            "discover"
+          ],
+          "preview": "previews/05.webp"
+        },
+        {
+          "number": 6,
+          "title": "让隐藏的信息显现",
+          "words": [
+            "uncover",
+            "reveal",
+            "disclose",
+            "expose"
+          ],
+          "preview": "previews/06.webp"
+        },
+        {
+          "number": 7,
+          "title": "选择研究领域",
+          "words": [
+            "domain",
+            "field",
+            "realm",
+            "specialise",
+            "foundation"
+          ],
+          "preview": "previews/07.webp"
+        },
+        {
+          "number": 8,
+          "title": "吸收知识与集中注意",
+          "words": [
+            "absorb",
+            "concentrate",
+            "focus"
+          ],
+          "preview": "previews/08.webp"
+        },
+        {
+          "number": 9,
+          "title": "把知识用起来",
+          "words": [
+            "utilise",
+            "apply",
+            "usage",
+            "facilitate"
+          ],
+          "preview": "previews/09.webp"
+        },
+        {
+          "number": 10,
+          "title": "工作台上的工具与装置",
+          "words": [
+            "gizmo",
+            "device",
+            "appliance",
+            "tool"
+          ],
+          "preview": "previews/10.webp"
+        },
+        {
+          "number": 11,
+          "title": "走进检测实验室",
+          "words": [
+            "facility",
+            "equipment",
+            "instrument",
+            "tester"
+          ],
+          "preview": "previews/11.webp"
+        },
+        {
+          "number": 12,
+          "title": "测量与计算",
+          "words": [
+            "measure",
+            "gauge",
+            "count",
+            "calculate",
+            "compute"
+          ],
+          "preview": "previews/12.webp"
+        },
+        {
+          "number": 13,
+          "title": "估计、评估与评价",
+          "words": [
+            "estimate",
+            "assess",
+            "evaluate"
+          ],
+          "preview": "previews/13.webp"
+        },
+        {
+          "number": 14,
+          "title": "连接配件与备用支持",
+          "words": [
+            "accessory",
+            "attach",
+            "auxiliary",
+            "belong"
+          ],
+          "preview": "previews/14.webp"
+        },
+        {
+          "number": 15,
+          "title": "versatile｜多用途的",
+          "words": [
+            "versatile"
+          ],
+          "preview": "previews/15.webp"
+        },
+        {
+          "number": 16,
+          "title": "从收集到组装",
+          "words": [
+            "gather",
+            "assemble",
+            "add",
+            "accumulate",
+            "byproduct"
+          ],
+          "preview": "previews/16.webp"
+        },
+        {
+          "number": 17,
+          "title": "光学与放大观察",
+          "words": [
+            "optics",
+            "lens",
+            "microscope"
+          ],
+          "preview": "previews/17.webp"
+        },
+        {
+          "number": 18,
+          "title": "探测与回波",
+          "words": [
+            "radar",
+            "echo",
+            "sensor"
+          ],
+          "preview": "previews/18.webp"
+        },
+        {
+          "number": 19,
+          "title": "电脑里的软与硬",
+          "words": [
+            "microcomputer",
+            "laptop",
+            "software",
+            "keyboard",
+            "screen"
+          ],
+          "preview": "previews/19.webp"
+        },
+        {
+          "number": 20,
+          "title": "连接网络与拨号",
+          "words": [
+            "network",
+            "wireless",
+            "browser",
+            "dial"
+          ],
+          "preview": "previews/20.webp"
+        },
+        {
+          "number": 21,
+          "title": "制作一段多媒体内容",
+          "words": [
+            "multimedia",
+            "audio",
+            "loudspeaker",
+            "microphone",
+            "high-definition"
+          ],
+          "preview": "previews/21.webp"
+        },
+        {
+          "number": 22,
+          "title": "从磁带到数字记录",
+          "words": [
+            "cassette",
+            "tape",
+            "binary",
+            "digital"
+          ],
+          "preview": "previews/22.webp"
+        },
+        {
+          "number": 23,
+          "title": "看见与想象",
+          "words": [
+            "vision",
+            "fantasy",
+            "science fiction"
+          ],
+          "preview": "previews/23.webp"
+        },
+        {
+          "number": 24,
+          "title": "传动与支点",
+          "words": [
+            "gear",
+            "pivot",
+            "hydraulic"
+          ],
+          "preview": "previews/24.webp"
+        },
+        {
+          "number": 25,
+          "title": "让能量带动水流",
+          "words": [
+            "generator",
+            "convert",
+            "pump"
+          ],
+          "preview": "previews/25.webp"
+        },
+        {
+          "number": 26,
+          "title": "建筑里的水与空气",
+          "words": [
+            "drainage",
+            "sewage",
+            "ventilation"
+          ],
+          "preview": "previews/26.webp"
+        },
+        {
+          "number": 27,
+          "title": "压缩、提炼与简化",
+          "words": [
+            "compress",
+            "refine",
+            "simplify"
+          ],
+          "preview": "previews/27.webp"
+        },
+        {
+          "number": 28,
+          "title": "过滤、净化与蒸馏",
+          "words": [
+            "filter",
+            "purify",
+            "distil",
+            "condense"
+          ],
+          "preview": "previews/28.webp"
+        },
+        {
+          "number": 29,
+          "title": "prototype｜原型",
+          "words": [
+            "prototype"
+          ],
+          "preview": "previews/29.webp"
+        },
+        {
+          "number": 30,
+          "title": "结构、阶段与方面",
+          "words": [
+            "mould",
+            "framework",
+            "phase",
+            "aspect"
+          ],
+          "preview": "previews/30.webp"
+        },
+        {
+          "number": 31,
+          "title": "操作与设置",
+          "words": [
+            "operate",
+            "mode",
+            "turn",
+            "adjust"
+          ],
+          "preview": "previews/31.webp"
+        },
+        {
+          "number": 32,
+          "title": "改变与适应",
+          "words": [
+            "transform",
+            "alter",
+            "shift",
+            "adapt"
+          ],
+          "preview": "previews/32.webp"
+        },
+        {
+          "number": 33,
+          "title": "准确、精密与定位",
+          "words": [
+            "accurate",
+            "precise",
+            "pinpoint"
+          ],
+          "preview": "previews/33.webp"
+        },
+        {
+          "number": 34,
+          "title": "发现并改正错误",
+          "words": [
+            "error",
+            "mistake",
+            "wrong",
+            "correct"
+          ],
+          "preview": "previews/34.webp"
+        },
+        {
+          "number": 35,
+          "title": "缺陷、故障与绊倒",
+          "words": [
+            "flaw",
+            "fault",
+            "stumble"
+          ],
+          "preview": "previews/35.webp"
+        },
+        {
+          "number": 36,
+          "title": "为意外情况做准备",
+          "words": [
+            "contingency",
+            "circumstance"
+          ],
+          "preview": "previews/36.webp"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "文化历史",
+      "status": "chapter_complete",
+      "cards": 31,
+      "headwords": 79,
+      "path": "chapters/ch07",
+      "pdf": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch07-learning-cards.pdf",
+      "download": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch07-study-pack.zip",
+      "index": [
+        {
+          "number": 1,
+          "title": "culture｜文化",
+          "words": [
+            "culture"
+          ],
+          "preview": "previews/01.webp"
+        },
+        {
+          "number": 2,
+          "title": "从遗迹研究古代文明",
+          "words": [
+            "civilisation",
+            "archaeology",
+            "excavate"
+          ],
+          "preview": "previews/02.webp"
+        },
+        {
+          "number": 3,
+          "title": "renaissance｜复兴",
+          "words": [
+            "renaissance"
+          ],
+          "preview": "previews/03.webp"
+        },
+        {
+          "number": 4,
+          "title": "epic｜史诗",
+          "words": [
+            "epic"
+          ],
+          "preview": "previews/04.webp"
+        },
+        {
+          "number": 5,
+          "title": "传统、习俗与惯例",
+          "words": [
+            "tradition",
+            "custom",
+            "convention"
+          ],
+          "preview": "previews/05.webp"
+        },
+        {
+          "number": 6,
+          "title": "ideology｜思想体系",
+          "words": [
+            "ideology"
+          ],
+          "preview": "previews/06.webp"
+        },
+        {
+          "number": 7,
+          "title": "伦理准则与道德判断",
+          "words": [
+            "ethical",
+            "moral"
+          ],
+          "preview": "previews/07.webp"
+        },
+        {
+          "number": 8,
+          "title": "理解两种历史制度",
+          "words": [
+            "feudalism",
+            "slavery"
+          ],
+          "preview": "previews/08.webp"
+        },
+        {
+          "number": 9,
+          "title": "社区、传承与文化研究",
+          "words": [
+            "aboriginal",
+            "tribe",
+            "anthropologist"
+          ],
+          "preview": "previews/09.webp"
+        },
+        {
+          "number": 10,
+          "title": "本地出生、居住与当地事物",
+          "words": [
+            "native",
+            "inhabitant",
+            "local"
+          ],
+          "preview": "previews/10.webp"
+        },
+        {
+          "number": 11,
+          "title": "旅行者眼中的陌生与异域",
+          "words": [
+            "foreigner",
+            "alien",
+            "exotic"
+          ],
+          "preview": "previews/11.webp"
+        },
+        {
+          "number": 12,
+          "title": "帮助与照护",
+          "words": [
+            "humanitarian",
+            "guardian"
+          ],
+          "preview": "previews/12.webp"
+        },
+        {
+          "number": 13,
+          "title": "文化遗产、继承与古董",
+          "words": [
+            "heritage",
+            "inherit",
+            "antique"
+          ],
+          "preview": "previews/13.webp"
+        },
+        {
+          "number": 14,
+          "title": "博物馆里的制作与装饰",
+          "words": [
+            "museum",
+            "pottery",
+            "engrave",
+            "decorate"
+          ],
+          "preview": "previews/14.webp"
+        },
+        {
+          "number": 15,
+          "title": "宗教与个人信念",
+          "words": [
+            "religion",
+            "belief"
+          ],
+          "preview": "previews/15.webp"
+        },
+        {
+          "number": 16,
+          "title": "仪式与参访礼节",
+          "words": [
+            "ritual",
+            "etiquette"
+          ],
+          "preview": "previews/16.webp"
+        },
+        {
+          "number": 17,
+          "title": "心灵感受与精神力量",
+          "words": [
+            "soul",
+            "spirit"
+          ],
+          "preview": "previews/17.webp"
+        },
+        {
+          "number": 18,
+          "title": "神圣、圣洁与备受尊崇",
+          "words": [
+            "sacred",
+            "holy",
+            "hallowed"
+          ],
+          "preview": "previews/18.webp"
+        },
+        {
+          "number": 19,
+          "title": "认识宗教角色",
+          "words": [
+            "Pope",
+            "bishop",
+            "priest",
+            "missionary"
+          ],
+          "preview": "previews/19.webp"
+        },
+        {
+          "number": 20,
+          "title": "教堂、经书与唱诗班",
+          "words": [
+            "Bible",
+            "church",
+            "cathedral",
+            "choir"
+          ],
+          "preview": "previews/20.webp"
+        },
+        {
+          "number": 21,
+          "title": "寺院中的人和建筑",
+          "words": [
+            "monk",
+            "temple",
+            "pagoda"
+          ],
+          "preview": "previews/21.webp"
+        },
+        {
+          "number": 22,
+          "title": "帝国、皇帝与帝国的事物",
+          "words": [
+            "empire",
+            "emperor",
+            "imperial"
+          ],
+          "preview": "previews/22.webp"
+        },
+        {
+          "number": 23,
+          "title": "王室家庭里的称谓",
+          "words": [
+            "royal",
+            "king",
+            "queen",
+            "prince",
+            "princess"
+          ],
+          "preview": "previews/23.webp"
+        },
+        {
+          "number": 24,
+          "title": "王朝与事件顺序",
+          "words": [
+            "dynasty",
+            "chronology"
+          ],
+          "preview": "previews/24.webp"
+        },
+        {
+          "number": 25,
+          "title": "宫廷的威严与历史身份",
+          "words": [
+            "majesty",
+            "nobility",
+            "lord",
+            "knight"
+          ],
+          "preview": "previews/25.webp"
+        },
+        {
+          "number": 26,
+          "title": "怀旧与思乡",
+          "words": [
+            "nostalgia",
+            "homesick"
+          ],
+          "preview": "previews/26.webp"
+        },
+        {
+          "number": 27,
+          "title": "名人与社会地位",
+          "words": [
+            "celebrity",
+            "status"
+          ],
+          "preview": "previews/27.webp"
+        },
+        {
+          "number": 28,
+          "title": "背景与亲身经历",
+          "words": [
+            "background",
+            "experience"
+          ],
+          "preview": "previews/28.webp"
+        },
+        {
+          "number": 29,
+          "title": "趣闻、意外与事件",
+          "words": [
+            "anecdote",
+            "accident",
+            "incident"
+          ],
+          "preview": "previews/29.webp"
+        },
+        {
+          "number": 30,
+          "title": "一次挫折与持续逆境",
+          "words": [
+            "setback",
+            "adversity"
+          ],
+          "preview": "previews/30.webp"
+        },
+        {
+          "number": 31,
+          "title": "兴旺发展与繁荣",
+          "words": [
+            "thrive",
+            "prosperity"
+          ],
+          "preview": "previews/31.webp"
+        }
+      ]
+    }
+  ],
+  "total_cards": 296,
+  "chapter_coverage_items": 991,
+  "counting_note": "991为各章词头覆盖项相加，跨章不去重；第1章仅完成首组。"
+}
