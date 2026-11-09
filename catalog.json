@@ -1,22 +1,22 @@
 {
   "title": "IELTS 插画词汇手记",
-  "updated": "2026-11-05",
+  "updated": "2026-11-09",
   "repository": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards",
-  "release_tag": "v2026.11.05",
+  "release_tag": "v2026.11.09",
   "chapters": [
     {
       "chapter": 1,
-      "title": "自然地理·第1组",
-      "status": "partial_first_batch",
-      "cards": 8,
-      "headwords": 15,
+      "title": "自然地理",
+      "status": "chapter_complete",
+      "cards": 54,
+      "headwords": 241,
       "path": "chapters/ch01",
-      "pdf": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch01-learning-cards.pdf",
-      "download": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch01-study-pack.zip",
+      "pdf": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09/ch01-learning-cards.pdf",
+      "download": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09/ch01-study-pack.zip",
       "index": [
         {
           "number": 1,
-          "title": "atmosphere",
+          "title": "atmosphere｜大气层与气氛",
           "words": [
             "atmosphere"
           ],
@@ -24,7 +24,7 @@
         },
         {
           "number": 2,
-          "title": "hydrosphere / lithosphere",
+          "title": "水圈与岩石圈",
           "words": [
             "hydrosphere",
             "lithosphere"
@@ -33,7 +33,7 @@
         },
         {
           "number": 3,
-          "title": "crust / mantle / core",
+          "title": "地壳、地幔与地核",
           "words": [
             "crust",
             "mantle",
@@ -43,7 +43,7 @@
         },
         {
           "number": 4,
-          "title": "oxygen / hydrogen / carbon dioxide / oxide",
+          "title": "氧气、氢气与氧化物",
           "words": [
             "oxygen",
             "hydrogen",
@@ -54,7 +54,7 @@
         },
         {
           "number": 5,
-          "title": "longitude / latitude / altitude",
+          "title": "经度、纬度与海拔",
           "words": [
             "longitude",
             "latitude",
@@ -64,7 +64,7 @@
         },
         {
           "number": 6,
-          "title": "horizon",
+          "title": "horizon｜地平线",
           "words": [
             "horizon"
           ],
@@ -72,7 +72,7 @@
         },
         {
           "number": 7,
-          "title": "disaster",
+          "title": "disaster｜灾难",
           "words": [
             "disaster"
           ],
@@ -80,9 +80,557 @@
         },
         {
           "number": 8,
-          "title": "复习与应用 8",
+          "title": "首组回忆与表达",
           "words": [],
           "preview": "previews/08.webp"
+        },
+        {
+          "number": 9,
+          "title": "小意外与严重灾祸",
+          "words": [
+            "mishap",
+            "calamity",
+            "catastrophic",
+            "destructive"
+          ],
+          "preview": "previews/09.webp"
+        },
+        {
+          "number": 10,
+          "title": "风险、恶化与改善",
+          "words": [
+            "endanger",
+            "jeopardise",
+            "deteriorate",
+            "aggravate",
+            "degrade",
+            "upgrade"
+          ],
+          "preview": "previews/10.webp"
+        },
+        {
+          "number": 11,
+          "title": "火山与地热",
+          "words": [
+            "volcano",
+            "erupt",
+            "magma",
+            "thermal",
+            "thermodynamic",
+            "heating"
+          ],
+          "preview": "previews/11.webp"
+        },
+        {
+          "number": 12,
+          "title": "板块与地震",
+          "words": [
+            "geology",
+            "plate",
+            "seismic",
+            "earthquake",
+            "crack",
+            "debris"
+          ],
+          "preview": "previews/12.webp"
+        },
+        {
+          "number": 13,
+          "title": "海啸与洪水风险",
+          "words": [
+            "tsunami",
+            "flooding",
+            "torrent",
+            "downpour",
+            "drown"
+          ],
+          "preview": "previews/13.webp"
+        },
+        {
+          "number": 14,
+          "title": "干旱与沙漠绿洲",
+          "words": [
+            "drought",
+            "arid",
+            "desert",
+            "oasis"
+          ],
+          "preview": "previews/14.webp"
+        },
+        {
+          "number": 15,
+          "title": "一桌岩石标本",
+          "words": [
+            "pebble",
+            "mineral",
+            "ore",
+            "marble",
+            "quartz",
+            "granite"
+          ],
+          "preview": "previews/15.webp"
+        },
+        {
+          "number": 16,
+          "title": "地球仪与指南针",
+          "words": [
+            "magnet",
+            "globe",
+            "hemisphere",
+            "equator",
+            "axis"
+          ],
+          "preview": "previews/16.webp"
+        },
+        {
+          "number": 17,
+          "title": "从极地到冰川",
+          "words": [
+            "arctic",
+            "Antarctic",
+            "pole",
+            "polar",
+            "glacier",
+            "avalanche"
+          ],
+          "preview": "previews/17.webp"
+        },
+        {
+          "number": 18,
+          "title": "风的不同面貌",
+          "words": [
+            "breeze",
+            "gust",
+            "gale",
+            "blow",
+            "puff"
+          ],
+          "preview": "previews/18.webp"
+        },
+        {
+          "number": 19,
+          "title": "季风与不同风暴",
+          "words": [
+            "monsoon",
+            "hurricane",
+            "typhoon",
+            "tornado",
+            "tropics"
+          ],
+          "preview": "previews/19.webp"
+        },
+        {
+          "number": 20,
+          "title": "天气台与气候观察",
+          "words": [
+            "climate",
+            "weather",
+            "meteorology",
+            "forecast",
+            "El Niño",
+            "greenhouse"
+          ],
+          "preview": "previews/20.webp"
+        },
+        {
+          "number": 21,
+          "title": "温度与舒适体感",
+          "words": [
+            "temperature",
+            "Celsius",
+            "mild",
+            "moderate",
+            "warm"
+          ],
+          "preview": "previews/21.webp"
+        },
+        {
+          "number": 22,
+          "title": "冷到发抖",
+          "words": [
+            "chill",
+            "frigid",
+            "tremble",
+            "shiver"
+          ],
+          "preview": "previews/22.webp"
+        },
+        {
+          "number": 23,
+          "title": "冰冻与融化",
+          "words": [
+            "freeze",
+            "thaw",
+            "snowy",
+            "frost",
+            "hail"
+          ],
+          "preview": "previews/23.webp"
+        },
+        {
+          "number": 24,
+          "title": "一场雷雨",
+          "words": [
+            "thunder",
+            "lightning",
+            "stormy",
+            "rainfall",
+            "shower"
+          ],
+          "preview": "previews/24.webp"
+        },
+        {
+          "number": 25,
+          "title": "雨后与清晨的湿润",
+          "words": [
+            "rainbow",
+            "moist",
+            "damp",
+            "humid",
+            "dew",
+            "mist"
+          ],
+          "preview": "previews/25.webp"
+        },
+        {
+          "number": 26,
+          "title": "海洋航行",
+          "words": [
+            "Mediterranean",
+            "Atlantic",
+            "pacific",
+            "ocean",
+            "marine",
+            "navigation"
+          ],
+          "preview": "previews/26.webp"
+        },
+        {
+          "number": 27,
+          "title": "走到海岸边",
+          "words": [
+            "gulf",
+            "beach",
+            "coast",
+            "shore",
+            "tide",
+            "current"
+          ],
+          "preview": "previews/27.webp"
+        },
+        {
+          "number": 28,
+          "title": "河流从源头到河口",
+          "words": [
+            "brook",
+            "stream",
+            "source",
+            "delta"
+          ],
+          "preview": "previews/28.webp"
+        },
+        {
+          "number": 29,
+          "title": "水景与储水",
+          "words": [
+            "reservoir",
+            "waterfall",
+            "fountain",
+            "spring"
+          ],
+          "preview": "previews/29.webp"
+        },
+        {
+          "number": 30,
+          "title": "水在地球上循环",
+          "words": [
+            "vapour",
+            "evaporate",
+            "circulate",
+            "precipitate"
+          ],
+          "preview": "previews/30.webp"
+        },
+        {
+          "number": 31,
+          "title": "水怎样移动",
+          "words": [
+            "pour",
+            "drip",
+            "gush",
+            "drain",
+            "sprinkle"
+          ],
+          "preview": "previews/31.webp"
+        },
+        {
+          "number": 32,
+          "title": "观察自然现象",
+          "words": [
+            "phenomenon",
+            "emerge",
+            "float",
+            "flash",
+            "dense"
+          ],
+          "preview": "previews/32.webp"
+        },
+        {
+          "number": 33,
+          "title": "大陆与整体地貌",
+          "words": [
+            "terrain",
+            "landscape",
+            "continent",
+            "Oceania",
+            "mainland",
+            "peninsula"
+          ],
+          "preview": "previews/33.webp"
+        },
+        {
+          "number": 34,
+          "title": "沿途的五种地形",
+          "words": [
+            "cave",
+            "cliff",
+            "plain",
+            "plateau",
+            "swamp"
+          ],
+          "preview": "previews/34.webp"
+        },
+        {
+          "number": 35,
+          "title": "山脉的名字",
+          "words": [
+            "peak",
+            "mount",
+            "mountain",
+            "range",
+            "ridge"
+          ],
+          "preview": "previews/35.webp"
+        },
+        {
+          "number": 36,
+          "title": "山路与眺望",
+          "words": [
+            "slope",
+            "valley",
+            "hillside",
+            "overlook",
+            "steep"
+          ],
+          "preview": "previews/36.webp"
+        },
+        {
+          "number": 37,
+          "title": "路面与质地",
+          "words": [
+            "flat",
+            "smooth",
+            "rough",
+            "sandy",
+            "stony"
+          ],
+          "preview": "previews/37.webp"
+        },
+        {
+          "number": 38,
+          "title": "深浅、方向与宽窄",
+          "words": [
+            "shallow",
+            "superficial",
+            "vertical",
+            "parallel",
+            "narrow"
+          ],
+          "preview": "previews/38.webp"
+        },
+        {
+          "number": 39,
+          "title": "从城郊到荒野",
+          "words": [
+            "rural",
+            "suburb",
+            "outskirts",
+            "remote",
+            "desolate",
+            "wilderness"
+          ],
+          "preview": "previews/39.webp"
+        },
+        {
+          "number": 40,
+          "title": "远近与边缘",
+          "words": [
+            "distant",
+            "adjacent",
+            "border",
+            "margin",
+            "fringe",
+            "gap"
+          ],
+          "preview": "previews/40.webp"
+        },
+        {
+          "number": 41,
+          "title": "污染从哪里来",
+          "words": [
+            "toxic",
+            "pollution",
+            "pollutant",
+            "contaminate",
+            "smog",
+            "fume"
+          ],
+          "preview": "previews/41.webp"
+        },
+        {
+          "number": 42,
+          "title": "土地退化与修复",
+          "words": [
+            "deforest",
+            "barren",
+            "fertile",
+            "fertilise"
+          ],
+          "preview": "previews/42.webp"
+        },
+        {
+          "number": 43,
+          "title": "侵蚀与土壤",
+          "words": [
+            "erode",
+            "sediment",
+            "silt",
+            "muddy",
+            "clay",
+            "dirt"
+          ],
+          "preview": "previews/43.webp"
+        },
+        {
+          "number": 44,
+          "title": "地图方向",
+          "words": [
+            "southern",
+            "southeast",
+            "southwest",
+            "northeast",
+            "northwest",
+            "eastern"
+          ],
+          "preview": "previews/44.webp"
+        },
+        {
+          "number": 45,
+          "title": "oriental：读懂旧称，表达更具体",
+          "words": [
+            "oriental"
+          ],
+          "preview": "previews/45.webp"
+        },
+        {
+          "number": 46,
+          "title": "变化与异常",
+          "words": [
+            "inevitable",
+            "irreversible",
+            "irregularly",
+            "inappropriate",
+            "abnormal"
+          ],
+          "preview": "previews/46.webp"
+        },
+        {
+          "number": 47,
+          "title": "强度与密集投入",
+          "words": [
+            "intensity",
+            "intensive"
+          ],
+          "preview": "previews/47.webp"
+        },
+        {
+          "number": 48,
+          "title": "壮观的景色",
+          "words": [
+            "splendid",
+            "grand",
+            "magnificent",
+            "dramatic"
+          ],
+          "preview": "previews/48.webp"
+        },
+        {
+          "number": 49,
+          "title": "喜欢一个地方的理由",
+          "words": [
+            "super",
+            "interesting",
+            "heaven",
+            "paradise"
+          ],
+          "preview": "previews/49.webp"
+        },
+        {
+          "number": 50,
+          "title": "日月与历法",
+          "words": [
+            "solar",
+            "lunar",
+            "calendar",
+            "eclipse"
+          ],
+          "preview": "previews/50.webp"
+        },
+        {
+          "number": 51,
+          "title": "一天里的光与影",
+          "words": [
+            "sunrise",
+            "sunset",
+            "dusk",
+            "sunshine",
+            "shade",
+            "shadow"
+          ],
+          "preview": "previews/51.webp"
+        },
+        {
+          "number": 52,
+          "title": "环境、周围与状况",
+          "words": [
+            "environment",
+            "surrounding",
+            "condition",
+            "situation"
+          ],
+          "preview": "previews/52.webp"
+        },
+        {
+          "number": 53,
+          "title": "天然与人工",
+          "words": [
+            "nature",
+            "natural",
+            "artificial",
+            "synthetic"
+          ],
+          "preview": "previews/53.webp"
+        },
+        {
+          "number": 54,
+          "title": "石油与加油站",
+          "words": [
+            "petrol",
+            "gas",
+            "gasoline",
+            "petroleum"
+          ],
+          "preview": "previews/54.webp"
         }
       ]
     },
@@ -3296,7 +3844,7 @@
       ]
     }
   ],
-  "total_cards": 296,
-  "chapter_coverage_items": 991,
-  "counting_note": "991为各章词头覆盖项相加，跨章不去重；第1章仅完成首组。"
+  "total_cards": 342,
+  "chapter_coverage_items": 1217,
+  "counting_note": "1,217 为各章词头覆盖项相加，跨章不去重。第 1–7 章均已完成。"
 }

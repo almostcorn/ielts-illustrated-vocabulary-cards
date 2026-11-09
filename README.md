@@ -2,9 +2,9 @@
 
 用画面理解词义，用例句走进语境，再用练习把词汇说出来。
 
-**296 张插画学习卡 · 6 个完整章节 + 自然地理第 1 组 · 持续更新**
+**342 张插画学习卡 · 7 个完整章节 · 持续更新**
 
-[按章节开始学习](#章节目录) · [下载 PDF 和高清原图](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/tag/v2026.11.05) · [查看制作原则](DESIGN.md)
+[按章节开始学习](#章节目录) · [下载 PDF 和高清原图](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases) · [查看制作原则](DESIGN.md)
 
 <p>
 <img src="chapters/ch01/previews/01.webp" width="30%" alt="atmosphere 单词精讲">
@@ -22,7 +22,7 @@
 
 | 章节 | 内容 | 图片 | 章内词头 | 在线学习 | PDF | 高清完整包 |
 |---|---|---:|---:|---|---|---|
-| 01 | 自然地理·第1组（仅第1组） | 8 | 15 | [打开章节](chapters/ch01/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch01-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch01-study-pack.zip) |
+| 01 | 自然地理 | 54 | 241 | [打开章节](chapters/ch01/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09/ch01-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09/ch01-study-pack.zip) |
 | 02 | 植物研究 | 42 | 130 | [打开章节](chapters/ch02/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch02-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch02-study-pack.zip) |
 | 03 | 动物保护 | 61 | 168 | [打开章节](chapters/ch03/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch03-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch03-study-pack.zip) |
 | 04 | 太空探索 | 33 | 75 | [打开章节](chapters/ch04/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch04-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch04-study-pack.zip) |
@@ -30,11 +30,11 @@
 | 06 | 科技发明 | 36 | 122 | [打开章节](chapters/ch06/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch06-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch06-study-pack.zip) |
 | 07 | 文化历史 | 31 | 79 | [打开章节](chapters/ch07/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch07-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch07-study-pack.zip) |
 
-全书共22章：第2–7章已整章制作，第1章仅完成第一组；第8–22章及第1章余下内容待制作。词头按每章分别计数，跨章可能重复。
+全书共 22 章。第 1–7 章已完成，第 8–22 章共 15 章待制作。章内词头合计 1,217 项，跨章出现的同一个词分别计入各章。
 
 ## 文件说明
 
-- `chapters/`：296张在线预览，以及学习文稿、练习、独立答案、词头覆盖表和可编辑内容。
+- `chapters/`：342张在线预览，以及学习文稿、练习、独立答案、词头覆盖表和可编辑内容。
 - `catalog.json`：章节与卡片索引，便于检索或继续制作。
 - [Releases](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases)：每章合订PDF与含高清PNG的完整学习包；预览图做了网页压缩，高清原图保持发布版本。
 
@@ -46,4 +46,4 @@
 
 公开仓库用于分享与学习，目前未另行授予统一的开源内容许可；转载、再发布或商业使用请先联系维护者。
 
-维护者：[Evelyn](https://github.com/Eva-Lau) · 更新于2026-11-05
+维护者：[Evelyn](https://github.com/Eva-Lau) · 更新于2026-11-09

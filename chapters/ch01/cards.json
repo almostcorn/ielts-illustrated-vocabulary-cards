@@ -1,68 +1,98 @@
 [
   {
-    "id": "01-atmosphere",
-    "kind": "单词精讲",
-    "words": [
+    "id": "01",
+    "page": 1,
+    "title": "atmosphere｜大气层与气氛",
+    "kind": "word",
+    "targets": [
       "atmosphere"
     ],
-    "added_vocabulary": [],
+    "sources": [
+      {
+        "word": "atmosphere",
+        "physical_page": 13,
+        "printed_page": 2
+      }
+    ],
+    "display_text": "IELTS 词汇手记｜01\n单词精讲｜自然地理\natmosphere\n/ˈætməsfɪə/  n.\n大气层；气氛\n包围地球的气体层。\n一个地方带给人的氛围。\n放进句子里\nThe volcano released gases into the atmosphere.\n火山向大气中释放了气体。\n常用搭配\nEarth's atmosphere｜地球大气层\nrelease gases into the atmosphere\n向大气中释放气体\na relaxed atmosphere｜轻松的氛围\n一词两义\n① 自然地理：大气层\n② 日常场景：气氛\n根据语境判断词义。\n雅思应用建议\n听力｜环境讲座\n阅读｜自然地理\n口语｜描述地点氛围\n写作｜环境污染\n轮到你了\n遮住例句，用 atmosphere 分别描述：\n① 火山气体进入大气；② 咖啡馆的轻松氛围。\n自然地理 · 第1组 · 原创场景练习",
     "palette": "天空蓝、深海蓝，氛围小景暖灯金",
-    "ielts_application": [
+    "ielts": [
       "听力｜环境讲座",
       "阅读｜自然地理",
       "口语｜描述地点氛围",
       "写作｜环境污染"
     ],
     "practice": "遮住例句，分别用 atmosphere 描述火山气体进入大气和咖啡馆的轻松氛围。",
-    "text": "IELTS 词汇手记｜01\n单词精讲｜自然地理\natmosphere\n/ˈætməsfɪə/  n.\n大气层；气氛\n包围地球的气体层。\n一个地方带给人的氛围。\n放进句子里\nThe volcano released gases into the atmosphere.\n火山向大气中释放了气体。\n常用搭配\nEarth's atmosphere｜地球大气层\nrelease gases into the atmosphere\n向大气中释放气体\na relaxed atmosphere｜轻松的氛围\n一词两义\n① 自然地理：大气层\n② 日常场景：气氛\n根据语境判断词义。\n雅思应用建议\n听力｜环境讲座\n阅读｜自然地理\n口语｜描述地点氛围\n写作｜环境污染\n轮到你了\n遮住例句，用 atmosphere 分别描述：\n① 火山气体进入大气；② 咖啡馆的轻松氛围。\n自然地理 · 第1组 · 原创场景练习",
-    "answers": [
+    "answer": [
       "参考：The volcano released gases into the atmosphere.",
       "参考：The café has a relaxed atmosphere.",
       "开放表达允许其他意思相符、语法正确的句子。"
     ],
-    "image": "previews/01.webp",
-    "page": 1,
-    "title": "atmosphere"
+    "image": "previews/01.webp"
   },
   {
-    "id": "02-hydrosphere-lithosphere",
-    "kind": "场景词群",
-    "words": [
+    "id": "02",
+    "page": 2,
+    "title": "水圈与岩石圈",
+    "kind": "scene",
+    "targets": [
       "hydrosphere",
       "lithosphere"
     ],
-    "added_vocabulary": [
-      "groundwater",
-      "ice"
+    "sources": [
+      {
+        "word": "hydrosphere",
+        "physical_page": 13,
+        "printed_page": 2
+      },
+      {
+        "word": "lithosphere",
+        "physical_page": 13,
+        "printed_page": 2
+      }
     ],
+    "display_text": "IELTS 词汇手记｜02\n场景词群｜自然地理\n水与岩石的世界\nWater and rock\nhydrosphere  n. 水圈\n海洋、冰、地下水和水汽都属于水圈。\nlithosphere  n. 岩石圈\n地壳＋最上部的刚性地幔\n图中岩层是岩石圈的一部分。\ngroundwater  n. 地下水\nice  n. 冰\n水的各种形态 → 水圈\n地壳＋最上部的刚性地幔 → 岩石圈\n看图说两句\nThe oceans hold most of the water in the hydrosphere.\nThe lithosphere is divided into moving plates.\n雅思应用建议\n听力｜环境讲座：识别圈层名词\n阅读｜地球科学：理解组成关系\n轮到你了\n遮住标签，说出水圈、岩石圈；\n再说出图中两种属于水圈的事物。\n结构示意，非按比例\n自然地理 · 第1组 · 原创场景练习",
     "palette": "水青、冰白、岩灰",
-    "ielts_application": [
+    "ielts": [
       "听力｜环境讲座：识别圈层名词",
       "阅读｜地球科学：理解组成关系"
     ],
     "practice": "遮住标签，说出水圈、岩石圈；再说出图中两种属于水圈的事物。",
-    "text": "IELTS 词汇手记｜02\n场景词群｜自然地理\n水与岩石的世界\nWater and rock\nhydrosphere  n. 水圈\n海洋、冰、地下水和水汽都属于水圈。\nlithosphere  n. 岩石圈\n地壳＋最上部的刚性地幔\n图中岩层是岩石圈的一部分。\ngroundwater  n. 地下水\nice  n. 冰\n水的各种形态 → 水圈\n地壳＋最上部的刚性地幔 → 岩石圈\n看图说两句\nThe oceans hold most of the water in the hydrosphere.\nThe lithosphere is divided into moving plates.\n雅思应用建议\n听力｜环境讲座：识别圈层名词\n阅读｜地球科学：理解组成关系\n轮到你了\n遮住标签，说出水圈、岩石圈；\n再说出图中两种属于水圈的事物。\n结构示意，非按比例\n自然地理 · 第1组 · 原创场景练习",
-    "answers": [
+    "answer": [
       "hydrosphere；lithosphere。",
       "water/ice/groundwater/oceans 等；可答 ice and groundwater。",
       "groundwater、ice是补充词，不计入15个原书主词条。"
     ],
-    "image": "previews/02.webp",
-    "page": 2,
-    "title": "hydrosphere / lithosphere"
+    "image": "previews/02.webp"
   },
   {
-    "id": "03-crust-mantle-core",
-    "kind": "场景词群",
-    "words": [
+    "id": "03",
+    "page": 3,
+    "title": "地壳、地幔与地核",
+    "kind": "scene",
+    "targets": [
       "crust",
       "mantle",
       "core"
     ],
-    "text": "IELTS 词汇手记  03\n场景词群｜自然地理\n从地表，走向地心\nInside the Earth\ncrust  n. 地壳\nthe Earth's crust\n固体地球最外面的薄层\nmantle  n. 地幔\nthe upper mantle｜上地幔\n地壳与地核之间的厚层\ncore  n. 地核；核心\nthe inner core｜内核\n地球最里面的部分\n放进句子里\nThe mantle lies between the crust and the core.\n地幔位于地壳与地核之间。\n雅思应用\n阅读｜地球结构图示填空\n口语｜描述自然科学展览\n别混淆\n地幔以固态岩石为主，可在地质时间中缓慢流动。\n轮到你了\n遮住标签，指出三层；再从中心向外说出英文。\n结构示意，非按比例 · 原创练习，非真题",
-    "answers": [
-      "core → mantle → crust"
+    "sources": [
+      {
+        "word": "crust",
+        "physical_page": 13,
+        "printed_page": 2
+      },
+      {
+        "word": "mantle",
+        "physical_page": 13,
+        "printed_page": 2
+      },
+      {
+        "word": "core",
+        "physical_page": 13,
+        "printed_page": 2
+      }
     ],
+    "display_text": "IELTS 词汇手记  03\n场景词群｜自然地理\n从地表，走向地心\nInside the Earth\ncrust  n. 地壳\nthe Earth's crust\n固体地球最外面的薄层\nmantle  n. 地幔\nthe upper mantle｜上地幔\n地壳与地核之间的厚层\ncore  n. 地核；核心\nthe inner core｜内核\n地球最里面的部分\n放进句子里\nThe mantle lies between the crust and the core.\n地幔位于地壳与地核之间。\n雅思应用\n阅读｜地球结构图示填空\n口语｜描述自然科学展览\n别混淆\n地幔以固态岩石为主，可在地质时间中缓慢流动。\n轮到你了\n遮住标签，指出三层；再从中心向外说出英文。\n结构示意，非按比例 · 原创练习，非真题",
     "palette": {
       "theme": "岩层与地心",
       "paper": "#F7F2E8",
@@ -71,7 +101,7 @@
       "dark_rock_gray": "#303A3E",
       "rule": "土褐表现岩层，赭金表现深部物质，深岩灰用于文字与结构；不把整个地幔画成熔岩。"
     },
-    "ielts_application": [
+    "ielts": [
       {
         "chip": "阅读｜地球结构图示填空",
         "use": "依据“外层、之间、中央”等位置关系，把文字信息对应到结构图的标签空格；本卡练习三层定位。"
@@ -83,46 +113,53 @@
     ],
     "practice": {
       "mode": "遮挡定位＋反向提取",
+      "prompt": "遮住标签，指出三层；再从中心向外说出英文。",
       "targets": [
         "crust",
         "mantle",
         "core"
       ],
-      "reference_answers": [
-        "core → mantle → crust"
-      ],
       "acceptance": "能够正确指认三层，并按从中心向外的顺序说出 core、mantle、crust。反向回忆答案不要印在图上。"
     },
-    "supplementary_terms": [
-      {
-        "term": "upper mantle",
-        "meaning": "上地幔",
-        "role": "mantle 的搭配，不另计主词条"
-      },
-      {
-        "term": "inner core",
-        "meaning": "内核",
-        "role": "core 的搭配，不另计主词条"
-      }
+    "answer": [
+      "core → mantle → crust"
     ],
-    "image": "previews/03.webp",
-    "page": 3,
-    "title": "crust / mantle / core"
+    "image": "previews/03.webp"
   },
   {
-    "id": "04-oxygen-hydrogen-oxide",
-    "kind": "场景词群",
-    "words": [
+    "id": "04",
+    "page": 4,
+    "title": "氧气、氢气与氧化物",
+    "kind": "scene",
+    "targets": [
       "oxygen",
       "hydrogen",
       "carbon dioxide",
       "oxide"
     ],
-    "text": "IELTS 词汇手记  04\n场景词群｜自然地理\n气体与化合物\nGases and compounds\noxygen  n. 氧；氧气\nO₂ · oxygen supply｜氧气供应\nhydrogen  n. 氢；氢气\nH₂ · hydrogen fuel｜氢燃料\ncarbon dioxide  n. 二氧化碳\nCO₂ · carbon dioxide emissions｜二氧化碳排放\noxide  n. 氧化物\nmetal oxides｜金属氧化物\n放进句子里\nPlants take in carbon dioxide and release oxygen during photosynthesis.\n植物进行光合作用时，吸收二氧化碳并释放氧气。\n雅思应用\n阅读｜光合作用与气体交换\n写作Task 2｜能源选择与碳排放\n别混淆\noxide 指氧与另一种元素形成的化合物。\n氧化物不一定是固体，CO₂ 也是氧化物。\n轮到你了\n遮住英文，根据三个化学式说词。\n再用 carbon dioxide emissions 提一条交通减排建议。\n科学情境示意 · 原创练习，非真题",
-    "answers": [
-      "O₂ → oxygen；H₂ → hydrogen；CO₂ → carbon dioxide",
-      "示例：Cities can reduce carbon dioxide emissions by improving public transport."
+    "sources": [
+      {
+        "word": "oxygen",
+        "physical_page": 13,
+        "printed_page": 2
+      },
+      {
+        "word": "hydrogen",
+        "physical_page": 13,
+        "printed_page": 2
+      },
+      {
+        "word": "carbon dioxide",
+        "physical_page": 13,
+        "printed_page": 2
+      },
+      {
+        "word": "oxide",
+        "physical_page": 13,
+        "printed_page": 2
+      }
     ],
+    "display_text": "IELTS 词汇手记  04\n场景词群｜自然地理\n气体与化合物\nGases and compounds\noxygen  n. 氧；氧气\nO₂ · oxygen supply｜氧气供应\nhydrogen  n. 氢；氢气\nH₂ · hydrogen fuel｜氢燃料\ncarbon dioxide  n. 二氧化碳\nCO₂ · carbon dioxide emissions｜二氧化碳排放\noxide  n. 氧化物\nmetal oxides｜金属氧化物\n放进句子里\nPlants take in carbon dioxide and release oxygen during photosynthesis.\n植物进行光合作用时，吸收二氧化碳并释放氧气。\n雅思应用\n阅读｜光合作用与气体交换\n写作Task 2｜能源选择与碳排放\n别混淆\noxide 指氧与另一种元素形成的化合物。\n氧化物不一定是固体，CO₂ 也是氧化物。\n轮到你了\n遮住英文，根据三个化学式说词。\n再用 carbon dioxide emissions 提一条交通减排建议。\n科学情境示意 · 原创练习，非真题",
     "palette": {
       "theme": "物质与科学展台",
       "paper": "#F7F5EE",
@@ -133,7 +170,7 @@
       "molecule_blue": "#9BBFD0",
       "rule": "青灰和白建立实验室环境；红蓝仅作小范围分子/元素提示，气体本身不画成有色烟雾。"
     },
-    "ielts_application": [
+    "ielts": [
       {
         "chip": "阅读｜光合作用与气体交换",
         "use": "读自然科学说明时区分吸收与释放的气体，配合 take in / release 判断信息方向。"
@@ -145,47 +182,49 @@
     ],
     "practice": {
       "mode": "化学式遮挡回忆＋新情境表达",
+      "prompt": "遮住英文，根据三个化学式说词。再用 carbon dioxide emissions 提一条交通减排建议。",
       "targets": [
         "oxygen",
         "hydrogen",
         "carbon dioxide",
         "carbon dioxide emissions"
       ],
-      "reference_answers": [
-        "O₂ → oxygen；H₂ → hydrogen；CO₂ → carbon dioxide",
-        "示例：Cities can reduce carbon dioxide emissions by improving public transport."
-      ],
       "acceptance": "三种化学式与词语匹配正确。建议句包含 carbon dioxide emissions，并提出一种具体交通措施；其他自然且含义合理的表达均可。"
     },
-    "supplementary_terms": [
-      {
-        "term": "photosynthesis",
-        "meaning": "光合作用",
-        "role": "例句背景词，不计入本批主词条"
-      },
-      {
-        "term": "metal oxides",
-        "meaning": "金属氧化物",
-        "role": "oxide 的搭配，不另计主词条"
-      }
+    "answer": [
+      "O₂ → oxygen；H₂ → hydrogen；CO₂ → carbon dioxide",
+      "示例：Cities can reduce carbon dioxide emissions by improving public transport."
     ],
-    "image": "previews/04.webp",
-    "page": 4,
-    "title": "oxygen / hydrogen / carbon dioxide / oxide"
+    "image": "previews/04.webp"
   },
   {
-    "id": "05-longitude-latitude-altitude",
-    "kind": "场景词群与辨析",
-    "words": [
+    "id": "05",
+    "page": 5,
+    "title": "经度、纬度与海拔",
+    "kind": "scene",
+    "targets": [
       "longitude",
       "latitude",
       "altitude"
     ],
-    "text": "IELTS 词汇手记  05\n场景词群｜易混辨析\n经度、纬度，还是海拔？\nLongitude · latitude · altitude\nlongitude  n. 经度\n本初子午线为基准 → 东 / 西\n120° east longitude｜东经120度\nlatitude  n. 纬度\n赤道为基准 → 北 / 南\n30° north latitude｜北纬30度\naltitude  n. 海拔；高度\n本卡以海平面为高度基准。\nat an altitude of 500 metres\n在海拔500米处\n雅思应用\n听力｜地理考察中的数字笔记\n口语｜描述徒步地点与海拔\n别混淆\n经纬度用“度”；海拔常用“米”。\n数值分别举例，并非此地实测记录。\n轮到你了\n遮住英文，将45°N、80°W、海拔1600米归类；\n任选一项，说出完整英文表达。\n概念学习示意 · 原创练习，非真题",
-    "answers": [
-      "45°N → latitude；80°W → longitude；海拔1600米 → altitude",
-      "可选表达：45 degrees north latitude；80 degrees west longitude；at an altitude of 1,600 metres"
+    "sources": [
+      {
+        "word": "longitude",
+        "physical_page": 13,
+        "printed_page": 2
+      },
+      {
+        "word": "latitude",
+        "physical_page": 13,
+        "printed_page": 2
+      },
+      {
+        "word": "altitude",
+        "physical_page": 13,
+        "printed_page": 2
+      }
     ],
+    "display_text": "IELTS 词汇手记  05\n场景词群｜易混辨析\n经度、纬度，还是海拔？\nLongitude · latitude · altitude\nlongitude  n. 经度\n本初子午线为基准 → 东 / 西\n120° east longitude｜东经120度\nlatitude  n. 纬度\n赤道为基准 → 北 / 南\n30° north latitude｜北纬30度\naltitude  n. 海拔；高度\n本卡以海平面为高度基准。\nat an altitude of 500 metres\n在海拔500米处\n雅思应用\n听力｜地理考察中的数字笔记\n口语｜描述徒步地点与海拔\n别混淆\n经纬度用“度”；海拔常用“米”。\n数值分别举例，并非此地实测记录。\n轮到你了\n遮住英文，将45°N、80°W、海拔1600米归类；\n任选一项，说出完整英文表达。\n概念学习示意 · 原创练习，非真题",
     "palette": {
       "theme": "高山地理记录",
       "paper": "#F8F4EB",
@@ -194,7 +233,7 @@
       "limestone_gray": "#D8D2C5",
       "rule": "靛蓝文字与山影、冰青天空、石灰色岩壁；纸页清晰，环境不承担精确经纬线或高度测量。"
     },
-    "ielts_application": [
+    "ielts": [
       {
         "chip": "听力｜地理考察中的数字笔记",
         "use": "在原创考察场景中辨别角度与高度单位，把数字放进正确的经度、纬度或海拔信息栏。"
@@ -206,32 +245,36 @@
     ],
     "practice": {
       "mode": "更换数值后归类＋完整表达",
+      "prompt": "遮住英文，将45°N、80°W、海拔1600米归类；任选一项，说出完整英文表达。",
       "targets": [
         "latitude",
         "longitude",
         "altitude"
       ],
-      "reference_answers": [
-        "45°N → latitude；80°W → longitude；海拔1600米 → altitude",
-        "可选表达：45 degrees north latitude；80 degrees west longitude；at an altitude of 1,600 metres"
-      ],
       "acceptance": "三个数值的类别正确；任选一个表达时方向、单位、介词与含义正确。数值互相独立，不要求对应真实地点。"
     },
-    "supplementary_terms": [],
-    "image": "previews/05.webp",
-    "page": 5,
-    "title": "longitude / latitude / altitude"
+    "answer": [
+      "45°N → latitude；80°W → longitude；海拔1600米 → altitude",
+      "可选表达：45 degrees north latitude；80 degrees west longitude；at an altitude of 1,600 metres"
+    ],
+    "image": "previews/05.webp"
   },
   {
-    "id": "06-horizon",
-    "kind": "单词精讲",
-    "words": [
+    "id": "06",
+    "page": 6,
+    "title": "horizon｜地平线",
+    "kind": "word",
+    "targets": [
       "horizon"
     ],
-    "text": "IELTS 词汇手记  06\n单词精讲｜自然地理\nhorizon\n/həˈraɪzən/  n.\n地平线\nThe line where the sky seems to meet distant land or sea.\n放进句子里\nAt sunset, the clouds above the horizon turned pink.\n日落时，地平线上方的云变成了粉红色。\n常用搭配\non the horizon｜在地平线上\nabove the horizon｜在地平线上方\nbelow the horizon｜在地平线下方\n用法提醒\n通常说 the horizon。\n本卡只讲“地平线”的字面义。\n雅思应用\n口语Part 2｜旅行风景\n口语Part 1｜喜欢的地方\n阅读｜空间方位理解\n轮到你了\n遮住英文，用 below the horizon 描述一次日落；\n补充你当时所在的位置。\n原创场景练习 · 非真题",
-    "answers": [
-      "示例：From the beach, I watched the sun disappear below the horizon."
+    "sources": [
+      {
+        "word": "horizon",
+        "physical_page": 13,
+        "printed_page": 2
+      }
     ],
+    "display_text": "IELTS 词汇手记  06\n单词精讲｜自然地理\nhorizon\n/həˈraɪzən/  n.\n地平线\nThe line where the sky seems to meet distant land or sea.\n放进句子里\nAt sunset, the clouds above the horizon turned pink.\n日落时，地平线上方的云变成了粉红色。\n常用搭配\non the horizon｜在地平线上\nabove the horizon｜在地平线上方\nbelow the horizon｜在地平线下方\n用法提醒\n通常说 the horizon。\n本卡只讲“地平线”的字面义。\n雅思应用\n口语Part 2｜旅行风景\n口语Part 1｜喜欢的地方\n阅读｜空间方位理解\n轮到你了\n遮住英文，用 below the horizon 描述一次日落；\n补充你当时所在的位置。\n原创场景练习 · 非真题",
     "palette": {
       "theme": "海边暮霞与地平线",
       "paper": "#FCF5EC",
@@ -240,7 +283,7 @@
       "deep_blue": "#243A58",
       "rule": "暮霞粉橘表现天空，深蓝表现海面与文字；突出海天相接处和其上方的云。"
     },
-    "ielts_application": [
+    "ielts": [
       {
         "chip": "口语Part 2｜旅行风景",
         "use": "讲述一次旅行或日落经历，用地平线与位置关系让景色描述具体。"
@@ -256,29 +299,33 @@
     ],
     "practice": {
       "mode": "遮挡后迁移到新动作与地点",
+      "prompt": "遮住英文，用 below the horizon 描述一次日落；补充你当时所在的位置。",
       "targets": [
         "below the horizon"
       ],
-      "reference_answers": [
-        "示例：From the beach, I watched the sun disappear below the horizon."
-      ],
       "acceptance": "包含 below the horizon，描述日落的动作或位置，并补充观察地点。允许其他自然正确的句子，不要求与参考答案一致。"
     },
-    "supplementary_terms": [],
-    "image": "previews/06.webp",
-    "page": 6,
-    "title": "horizon"
+    "answer": [
+      "示例：From the beach, I watched the sun disappear below the horizon."
+    ],
+    "image": "previews/06.webp"
   },
   {
-    "id": "07-disaster",
-    "kind": "单词精讲",
-    "words": [
+    "id": "07",
+    "page": 7,
+    "title": "disaster｜灾难",
+    "kind": "word",
+    "targets": [
       "disaster"
     ],
-    "text": "IELTS 词汇手记  07\n单词精讲｜自然地理\ndisaster\n/dɪˈzɑːstə/  n.\n灾难；灾祸\nAn event that causes serious harm or damage.\n放进句子里\nThe town needs clean water after the disaster.\n灾后，这座小镇需要干净的水。\n常用搭配\na natural disaster｜自然灾害\ndisaster relief｜灾害救助\nprevent a disaster｜防止灾难发生\n词族联系\ndisaster  n. 灾难\ndisastrous  adj. 灾难性的；极糟的\na disastrous decision｜一个极糟的决定\n雅思应用\n阅读｜灾害影响与应对\n写作Task 2｜防灾与公共服务\n口语Part 2｜讲述新闻事件\n轮到你了\n假设洪水后有家庭无家可归，\n用 disaster relief 说一句救助建议。\n原创场景练习 · 非真题",
-    "answers": [
-      "示例：Disaster relief should include temporary accommodation for families who have lost their homes."
+    "sources": [
+      {
+        "word": "disaster",
+        "physical_page": 13,
+        "printed_page": 2
+      }
     ],
+    "display_text": "IELTS 词汇手记  07\n单词精讲｜自然地理\ndisaster\n/dɪˈzɑːstə/  n.\n灾难；灾祸\nAn event that causes serious harm or damage.\n放进句子里\nThe town needs clean water after the disaster.\n灾后，这座小镇需要干净的水。\n常用搭配\na natural disaster｜自然灾害\ndisaster relief｜灾害救助\nprevent a disaster｜防止灾难发生\n词族联系\ndisaster  n. 灾难\ndisastrous  adj. 灾难性的；极糟的\na disastrous decision｜一个极糟的决定\n雅思应用\n阅读｜灾害影响与应对\n写作Task 2｜防灾与公共服务\n口语Part 2｜讲述新闻事件\n轮到你了\n假设洪水后有家庭无家可归，\n用 disaster relief 说一句救助建议。\n原创场景练习 · 非真题",
     "palette": {
       "theme": "灾后恢复与援助",
       "paper": "#F8F3EA",
@@ -288,7 +335,7 @@
       "ink": "#263F50",
       "rule": "雨蓝和赭土说明环境，少量暖橙标示援助；场景有恢复感，不恐怖、不渲染伤害。"
     },
-    "ielts_application": [
+    "ielts": [
       {
         "chip": "阅读｜灾害影响与应对",
         "use": "识别灾害带来的损失、具体需求与救助措施，避免把影响和应对行动混为一项。"
@@ -304,40 +351,25 @@
     ],
     "practice": {
       "mode": "新需求下提出建议",
+      "prompt": "假设洪水后有家庭无家可归，用 disaster relief 说一句救助建议。",
       "targets": [
         "disaster relief"
       ],
-      "reference_answers": [
-        "示例：Disaster relief should include temporary accommodation for families who have lost their homes."
-      ],
       "acceptance": "正确使用 disaster relief，提出与无家可归家庭相关的具体救助，例如临时住所；语法和语义自然即可。"
     },
-    "supplementary_terms": [
-      {
-        "term": "disastrous",
-        "meaning": "灾难性的；极糟的",
-        "role": "disaster 的补充形容词，非新增原书主词条"
-      },
-      {
-        "term": "temporary accommodation",
-        "meaning": "临时住所",
-        "role": "仅参考答案中的拓展表达，不印上卡片、不计主词条"
-      }
+    "answer": [
+      "示例：Disaster relief should include temporary accommodation for families who have lost their homes."
     ],
-    "image": "previews/07.webp",
-    "page": 7,
-    "title": "disaster"
+    "image": "previews/07.webp"
   },
   {
-    "id": "08-recall-practice",
-    "kind": "回忆自测",
-    "words": [],
-    "text": "IELTS 词汇手记  08\n回忆自测｜自然地理\n遮住前七张，试着回忆\n01 说出英文\n① 大气层 ______\n② 水圈 ______\n③ 岩石圈 ______\n④ 地壳 ______\n⑤ 地幔 ______\n⑥ 地核 ______\n⑦ 氧气 ______\n⑧ 氢气 ______\n⑨ 二氧化碳 ______\n⑩ 氧化物 ______\n⑪ 经度 ______\n⑫ 纬度 ______\n⑬ 海拔 ______\n⑭ 地平线 ______\n⑮ 灾难 ______\n02 补全搭配\n① 在海拔1600米处\nat an ______ of 1,600 metres\n② 二氧化碳排放\ncarbon dioxide ______\n③ 在地平线下方\n______ the horizon\n④ 轻松的氛围\na relaxed ______\n03 雅思表达迁移\n一座城市正在制定低碳交通计划。\n用 carbon dioxide emissions 提出一条具体建议。\n先独立完成，再核对答案。\n原创场景练习 · 非真题",
-    "answers": [
-      "01：atmosphere；hydrosphere；lithosphere；crust；mantle；core；oxygen；hydrogen；carbon dioxide；oxide；longitude；latitude；altitude；horizon；disaster",
-      "02：altitude；emissions；below；atmosphere",
-      "03 示例：The city should reduce carbon dioxide emissions by improving public transport."
-    ],
+    "id": "08",
+    "page": 8,
+    "title": "首组回忆与表达",
+    "kind": "application",
+    "targets": [],
+    "sources": [],
+    "display_text": "IELTS 词汇手记  08\n回忆自测｜自然地理\n遮住前七张，试着回忆\n01 说出英文\n① 大气层 ______\n② 水圈 ______\n③ 岩石圈 ______\n④ 地壳 ______\n⑤ 地幔 ______\n⑥ 地核 ______\n⑦ 氧气 ______\n⑧ 氢气 ______\n⑨ 二氧化碳 ______\n⑩ 氧化物 ______\n⑪ 经度 ______\n⑫ 纬度 ______\n⑬ 海拔 ______\n⑭ 地平线 ______\n⑮ 灾难 ______\n02 补全搭配\n① 在海拔1600米处\nat an ______ of 1,600 metres\n② 二氧化碳排放\ncarbon dioxide ______\n③ 在地平线下方\n______ the horizon\n④ 轻松的氛围\na relaxed ______\n03 雅思表达迁移\n一座城市正在制定低碳交通计划。\n用 carbon dioxide emissions 提出一条具体建议。\n先独立完成，再核对答案。\n原创场景练习 · 非真题",
     "palette": {
       "theme": "自然地理回忆页",
       "paper": "#F8F4EB",
@@ -347,7 +379,7 @@
       "limestone": "#D8D2C5",
       "rule": "统一纸感，背景只保留很小的山海自然速写；色彩服务分区和书写，不堆叠整组所有颜色。"
     },
-    "ielts_application": [
+    "ielts": [
       {
         "chip": "词汇提取｜15词遮挡回忆",
         "use": "先只看中文主动提取词形，再检查拼写和易混词，避免一边看词表一边填。"
@@ -359,6 +391,7 @@
     ],
     "practice": {
       "mode": "遮挡回忆＋搭配检索＋情景迁移",
+      "prompt": "完成15词回忆、4个搭配空格，再为城市低碳交通计划提出一条包含 carbon dioxide emissions 的具体建议。",
       "targets": [
         "atmosphere",
         "hydrosphere",
@@ -376,16 +409,5336 @@
         "horizon",
         "disaster"
       ],
-      "reference_answers": [
-        "01：atmosphere；hydrosphere；lithosphere；crust；mantle；core；oxygen；hydrogen；carbon dioxide；oxide；longitude；latitude；altitude；horizon；disaster",
-        "02：altitude；emissions；below；atmosphere",
-        "03 示例：The city should reduce carbon dioxide emissions by improving public transport."
-      ],
       "acceptance": "词条与中文和顺序一致；搭配空格完整准确；迁移句包含目标搭配及一种具体交通措施，允许其他自然合理的建议。"
     },
-    "supplementary_terms": [],
-    "image": "previews/08.webp",
-    "page": 8,
-    "title": "复习与应用 8"
+    "answer": [
+      "01：atmosphere；hydrosphere；lithosphere；crust；mantle；core；oxygen；hydrogen；carbon dioxide；oxide；longitude；latitude；altitude；horizon；disaster",
+      "02：altitude；emissions；below；atmosphere",
+      "03 示例：The city should reduce carbon dioxide emissions by improving public transport."
+    ],
+    "image": "previews/08.webp"
+  },
+  {
+    "id": "09",
+    "page": 9,
+    "title": "小意外与严重灾祸",
+    "kind": "scene",
+    "targets": [
+      "mishap",
+      "calamity",
+      "catastrophic",
+      "destructive"
+    ],
+    "labels": [
+      {
+        "word": "mishap",
+        "pos": "n.",
+        "zh": "小意外；小事故"
+      },
+      {
+        "word": "calamity",
+        "pos": "n.",
+        "zh": "严重灾祸"
+      },
+      {
+        "word": "catastrophic",
+        "pos": "adj.",
+        "zh": "灾难性的"
+      },
+      {
+        "word": "destructive",
+        "pos": "adj.",
+        "zh": "破坏性强的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "mishap",
+        "physical_page": 14,
+        "printed_page": 3
+      },
+      {
+        "word": "calamity",
+        "physical_page": 14,
+        "printed_page": 3
+      },
+      {
+        "word": "catastrophic",
+        "physical_page": 14,
+        "printed_page": 3
+      },
+      {
+        "word": "destructive",
+        "physical_page": 14,
+        "printed_page": 3
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 09\n场景词群 | 自然地理\n小意外与严重灾祸\nmishap  n.  小意外；小事故\ncalamity  n.  严重灾祸\ncatastrophic  adj.  灾难性的\ndestructive  adj.  破坏性强的\n放进句子里\nA minor mishap delayed the team, but nobody was hurt.\n一个小意外耽误了队伍，但没有人受伤。\nmishap 通常是较小的意外；calamity 指严重灾祸，语气更重。\n雅思应用\n阅读｜事件与后果\n轮到你了\n小意外 → a minor ______；灾难性的损失 → ______ damage\n第1章 自然地理 · 原创例句与练习 · 非真题\n指风暴等自然力量具有很强的破坏力。\n指大范围、影响严重的灾祸（如风暴）。\n指造成极其严重后果的，如 catastrophic damage（灾难性的损失）。\n指较小的意外或失误，如工具箱不小心翻倒。",
+    "example_en": "A minor mishap delayed the team, but nobody was hurt.",
+    "example_zh": "一个小意外耽误了队伍，但没有人受伤。",
+    "examples": [
+      {
+        "en": "A minor mishap delayed the team, but nobody was hurt.",
+        "zh": "一个小意外耽误了队伍，但没有人受伤。"
+      },
+      {
+        "en": "Destructive winds caused catastrophic damage along the coast.",
+        "zh": "破坏性强的风给沿海地区造成了灾难性的损失。"
+      }
+    ],
+    "collocations": [
+      [
+        "a minor mishap",
+        "一个小意外"
+      ],
+      [
+        "a major calamity",
+        "一场重大灾祸"
+      ],
+      [
+        "catastrophic damage",
+        "灾难性的损失"
+      ],
+      [
+        "destructive winds",
+        "破坏性强的风"
+      ]
+    ],
+    "notes": "mishap 通常是较小的意外；calamity 指严重灾祸，语气更重。",
+    "scene": "场景水彩：雨后海滨社区，修复队清理倒落树枝，远处房屋屋顶受损；前景一只打翻但无人受伤的工具箱承接 minor mishap，小局部旁注连接严重损失。自然光、湿润质地、纸张颗粒，图像占主视觉。",
+    "palette": "暖白 #F7F2E8、深蓝灰 #243442、暴雨蓝 #6D8FA4、救援橙 #D88861",
+    "ielts": [
+      "阅读｜事件与后果",
+      "口语｜经历与影响"
+    ],
+    "practice": "小意外 → a minor ______；灾难性的损失 → ______ damage",
+    "answer": "mishap；catastrophic",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/calamity",
+      "https://dictionary.cambridge.org/dictionary/english/mishap"
+    ],
+    "image": "previews/09.webp"
+  },
+  {
+    "id": "10",
+    "page": 10,
+    "title": "风险、恶化与改善",
+    "kind": "scene",
+    "targets": [
+      "endanger",
+      "jeopardise",
+      "deteriorate",
+      "aggravate",
+      "degrade",
+      "upgrade"
+    ],
+    "labels": [
+      {
+        "word": "endanger",
+        "pos": "v.",
+        "zh": "危及"
+      },
+      {
+        "word": "jeopardise",
+        "pos": "v.",
+        "zh": "使处于危险中"
+      },
+      {
+        "word": "deteriorate",
+        "pos": "v.",
+        "zh": "恶化；变差"
+      },
+      {
+        "word": "aggravate",
+        "pos": "v.",
+        "zh": "使恶化；加重"
+      },
+      {
+        "word": "degrade",
+        "pos": "v.",
+        "zh": "损害质量；使退化"
+      },
+      {
+        "word": "upgrade",
+        "pos": "v.",
+        "zh": "改进；升级"
+      }
+    ],
+    "sources": [
+      {
+        "word": "endanger",
+        "physical_page": 14,
+        "printed_page": 3
+      },
+      {
+        "word": "jeopardise",
+        "physical_page": 14,
+        "printed_page": 3
+      },
+      {
+        "word": "deteriorate",
+        "physical_page": 18,
+        "printed_page": 7
+      },
+      {
+        "word": "aggravate",
+        "physical_page": 18,
+        "printed_page": 7
+      },
+      {
+        "word": "degrade",
+        "physical_page": 18,
+        "printed_page": 7
+      },
+      {
+        "word": "upgrade",
+        "physical_page": 18,
+        "printed_page": 7
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 10\n场景词群 | 自然地理\n风险、恶化与改善\nendanger  v.  危及\njeopardise  v.  使处于危险中\ndeteriorate  v.  恶化；变差\naggravate  v.  使恶化；加重\ndegrade  v.  损害质量；使退化\nupgrade  v.  改进；升级\n放进句子里\nUntreated waste can degrade the environment and endanger wildlife.\n未经处理的废弃物可能破坏环境，并危及野生动物。\ndeteriorate 表示自身变差；aggravate the problem 表示使已有问题更严重。\n雅思应用\n阅读｜因果与变化\n轮到你了\n危及野生动物 → ______ wildlife；改善设施 → ______ facilities\n第1章 自然地理 · 原创例句与练习 · 非真题\n新增排放会使已有的水污染更加严重。\n水质在污染影响下逐渐变差。\n污染可能危及河流中的鱼类等野生动物。\n持续的污染会使河流生态处于危险中。\n污染会降低水体和河岸栖息地的质量，使其逐渐退化。\n正在升级改造污水处理设施，提高处理能力，减少污染排放。",
+    "example_en": "Untreated waste can degrade the environment and endanger wildlife.",
+    "example_zh": "未经处理的废弃物可能破坏环境，并危及野生动物。",
+    "examples": [
+      {
+        "en": "Untreated waste can degrade the environment and endanger wildlife.",
+        "zh": "未经处理的废弃物可能破坏环境，并危及野生动物。"
+      },
+      {
+        "en": "The town plans to upgrade its treatment facilities.",
+        "zh": "小镇计划改善废物处理设施。"
+      }
+    ],
+    "collocations": [
+      [
+        "endanger wildlife",
+        "危及野生动物"
+      ],
+      [
+        "jeopardise safety",
+        "危及安全"
+      ],
+      [
+        "deteriorate rapidly",
+        "迅速恶化"
+      ],
+      [
+        "aggravate the problem",
+        "使问题加重"
+      ],
+      [
+        "degrade the environment",
+        "破坏环境"
+      ],
+      [
+        "upgrade facilities",
+        "改善设施"
+      ]
+    ],
+    "notes": "deteriorate 表示自身变差；aggravate the problem 表示使已有问题更严重。",
+    "scene": "一条城镇河流的水彩全景：上游有排污口和受影响植被，下游前景为正在改造的处理设施与湿地；用研究员的观察笔记连接风险词，修复工作具体可见。",
+    "palette": "暖白 #F6F1E6、深墨绿 #293D35、灰绿 #879B89、修复绿 #587E62",
+    "ielts": [
+      "阅读｜因果与变化",
+      "写作 Task 2｜风险与改善"
+    ],
+    "practice": "危及野生动物 → ______ wildlife；改善设施 → ______ facilities",
+    "answer": "endanger；upgrade",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/jeopardize",
+      "https://dictionary.cambridge.org/us/dictionary/english/deteriorate",
+      "https://dictionary.cambridge.org/dictionary/english/degrade"
+    ],
+    "image": "previews/10.webp"
+  },
+  {
+    "id": "11",
+    "page": 11,
+    "title": "火山与地热",
+    "kind": "scene",
+    "targets": [
+      "volcano",
+      "erupt",
+      "magma",
+      "thermal",
+      "thermodynamic",
+      "heating"
+    ],
+    "labels": [
+      {
+        "word": "volcano",
+        "pos": "n.",
+        "zh": "火山"
+      },
+      {
+        "word": "erupt",
+        "pos": "v.",
+        "zh": "喷发"
+      },
+      {
+        "word": "magma",
+        "pos": "n.",
+        "zh": "岩浆"
+      },
+      {
+        "word": "thermal",
+        "pos": "adj.",
+        "zh": "热的；与热有关的"
+      },
+      {
+        "word": "thermodynamic",
+        "pos": "adj.",
+        "zh": "热力学的"
+      },
+      {
+        "word": "heating",
+        "pos": "n.",
+        "zh": "供暖"
+      }
+    ],
+    "sources": [
+      {
+        "word": "volcano",
+        "physical_page": 15,
+        "printed_page": 4
+      },
+      {
+        "word": "erupt",
+        "physical_page": 15,
+        "printed_page": 4
+      },
+      {
+        "word": "magma",
+        "physical_page": 16,
+        "printed_page": 5
+      },
+      {
+        "word": "thermal",
+        "physical_page": 21,
+        "printed_page": 10
+      },
+      {
+        "word": "thermodynamic",
+        "physical_page": 16,
+        "printed_page": 5
+      },
+      {
+        "word": "heating",
+        "physical_page": 21,
+        "printed_page": 10
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 11\n场景词群 | 自然地理\n火山与地热\nvolcano  n.  火山\nerupt  v.  喷发\nmagma  n.  岩浆\nthermal  adj.  热的；与热有关的\nthermodynamic  adj.  热力学的\nheating  n.  供暖\n放进句子里\nHot rock beneath the volcano warms the groundwater.\n火山下方的高温岩石加热了地下水。\n地下的熔融岩石叫 magma；喷出地表后通常叫 lava。\n雅思应用\n听力 P4｜自然与能源\n轮到你了\n岩浆库 → a ______ chamber；热能 → ______ energy\n第1章 自然地理 · 原创例句与练习 · 非真题\n地下水（被加热）\n热交换（热力学原理）\n热的地下水（来自地热）\n向建筑提供热量（供暖）\n较冷的回水（回到地下）",
+    "example_en": "Hot rock beneath the volcano warms the groundwater.",
+    "example_zh": "火山下方的高温岩石加热了地下水。",
+    "examples": [
+      {
+        "en": "Hot rock beneath the volcano warms the groundwater.",
+        "zh": "火山下方的高温岩石加热了地下水。"
+      },
+      {
+        "en": "The town uses underground heat in its heating system.",
+        "zh": "小镇的供暖系统利用地下热能。"
+      }
+    ],
+    "collocations": [
+      [
+        "an active volcano",
+        "一座活火山"
+      ],
+      [
+        "a volcano erupts",
+        "火山喷发"
+      ],
+      [
+        "a magma chamber",
+        "岩浆库"
+      ],
+      [
+        "thermal energy",
+        "热能"
+      ],
+      [
+        "thermodynamic principles",
+        "热力学原理"
+      ],
+      [
+        "a heating system",
+        "供暖系统"
+      ]
+    ],
+    "notes": "地下的熔融岩石叫 magma；喷出地表后通常叫 lava。",
+    "scene": "火山山谷中的地热小镇：远处火山、地下局部剖面、温泉蒸汽与通向建筑的供暖管道共同构成一张水彩场景；研究员手册中的简单热交换小图承接 thermodynamic。",
+    "palette": "暖白 #FAF3E6、岩灰 #3C3431、赭红 #B96343、热金 #DCA84E",
+    "ielts": [
+      "听力 P4｜自然与能源",
+      "阅读｜地热过程"
+    ],
+    "practice": "岩浆库 → a ______ chamber；热能 → ______ energy",
+    "answer": "magma；thermal",
+    "reference_urls": [
+      "https://pubs.usgs.gov/gip/volc/nature.html",
+      "https://www.usgs.gov/programs/VHP/temperatures-surface-reflect-temperatures-below-ground",
+      "https://dictionary.cambridge.org/us/dictionary/english/thermodynamic?topic=energy-force-and-power"
+    ],
+    "image": "previews/11.webp"
+  },
+  {
+    "id": "12",
+    "page": 12,
+    "title": "板块与地震",
+    "kind": "scene",
+    "targets": [
+      "geology",
+      "plate",
+      "seismic",
+      "earthquake",
+      "crack",
+      "debris"
+    ],
+    "labels": [
+      {
+        "word": "geology",
+        "pos": "n.",
+        "zh": "地质学"
+      },
+      {
+        "word": "plate",
+        "pos": "n.",
+        "zh": "板块"
+      },
+      {
+        "word": "seismic",
+        "pos": "adj.",
+        "zh": "地震的"
+      },
+      {
+        "word": "earthquake",
+        "pos": "n.",
+        "zh": "地震"
+      },
+      {
+        "word": "crack",
+        "pos": "n.",
+        "zh": "裂缝"
+      },
+      {
+        "word": "debris",
+        "pos": "n.",
+        "zh": "碎片；残骸"
+      }
+    ],
+    "sources": [
+      {
+        "word": "geology",
+        "physical_page": 25,
+        "printed_page": 14
+      },
+      {
+        "word": "plate",
+        "physical_page": 26,
+        "printed_page": 15
+      },
+      {
+        "word": "seismic",
+        "physical_page": 17,
+        "printed_page": 6
+      },
+      {
+        "word": "earthquake",
+        "physical_page": 16,
+        "printed_page": 5
+      },
+      {
+        "word": "crack",
+        "physical_page": 26,
+        "printed_page": 15
+      },
+      {
+        "word": "debris",
+        "physical_page": 26,
+        "printed_page": 15
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 12\n场景词群 | 自然地理\n板块与地震\ngeology  n.  地质学\nplate  n.  板块\nseismic  adj.  地震的\nearthquake  n.  地震\ncrack  n.  裂缝\ndebris  n.  碎片；残骸\n放进句子里\nThe team studies seismic activity near a plate boundary.\n团队研究板块边界附近的地震活动。\n本卡中的 debris 通常作不可数名词，表示一堆碎片或残骸。\n雅思应用\n听力 P4｜地质讲解\n轮到你了\n地震活动 → ______ activity；路面裂缝 → a ______ in the road\n第1章 自然地理 · 原创例句与练习 · 非真题",
+    "example_en": "The team studies seismic activity near a plate boundary.",
+    "example_zh": "团队研究板块边界附近的地震活动。",
+    "examples": [
+      {
+        "en": "The team studies seismic activity near a plate boundary.",
+        "zh": "团队研究板块边界附近的地震活动。"
+      },
+      {
+        "en": "After the earthquake, workers removed debris from the road.",
+        "zh": "地震后，工人清除了路上的碎片。"
+      }
+    ],
+    "collocations": [
+      [
+        "study geology",
+        "研究地质学"
+      ],
+      [
+        "a tectonic plate",
+        "一块构造板块"
+      ],
+      [
+        "seismic activity",
+        "地震活动"
+      ],
+      [
+        "a powerful earthquake",
+        "一次强烈地震"
+      ],
+      [
+        "a crack in the road",
+        "路面上的裂缝"
+      ],
+      [
+        "falling debris",
+        "掉落的碎片"
+      ]
+    ],
+    "notes": "本卡中的 debris 通常作不可数名词，表示一堆碎片或残骸。",
+    "scene": "地质调查现场：研究员在受震动影响的公路旁记录，前景有路面裂缝和碎石；远处山体剖面和一张真实感地图展示相邻板块，仪器屏幕有简洁地震波。",
+    "palette": "米白 #F5EEDF、深岩灰 #353937、土黄 #B89767、灰紫 #8E849D",
+    "ielts": [
+      "听力 P4｜地质讲解",
+      "阅读｜地震研究"
+    ],
+    "practice": "地震活动 → ______ activity；路面裂缝 → a ______ in the road",
+    "answer": "seismic；crack",
+    "reference_urls": [
+      "https://www.usgs.gov/faqs/what-earthquake-and-what-causes-them-happen",
+      "https://dictionary.cambridge.org/dictionary/english/debris"
+    ],
+    "image": "previews/12.webp"
+  },
+  {
+    "id": "13",
+    "page": 13,
+    "title": "海啸与洪水风险",
+    "kind": "scene",
+    "targets": [
+      "tsunami",
+      "flooding",
+      "torrent",
+      "downpour",
+      "drown"
+    ],
+    "labels": [
+      {
+        "word": "tsunami",
+        "pos": "n.",
+        "zh": "海啸"
+      },
+      {
+        "word": "flooding",
+        "pos": "n.",
+        "zh": "洪水泛滥"
+      },
+      {
+        "word": "torrent",
+        "pos": "n.",
+        "zh": "急流；洪流"
+      },
+      {
+        "word": "downpour",
+        "pos": "n.",
+        "zh": "倾盆大雨"
+      },
+      {
+        "word": "drown",
+        "pos": "v.",
+        "zh": "溺水身亡"
+      }
+    ],
+    "sources": [
+      {
+        "word": "tsunami",
+        "physical_page": 16,
+        "printed_page": 5
+      },
+      {
+        "word": "flooding",
+        "physical_page": 16,
+        "printed_page": 5
+      },
+      {
+        "word": "torrent",
+        "physical_page": 16,
+        "printed_page": 5
+      },
+      {
+        "word": "downpour",
+        "physical_page": 22,
+        "printed_page": 11
+      },
+      {
+        "word": "drown",
+        "physical_page": 29,
+        "printed_page": 18
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 13\n场景词群 | 自然地理\n海啸与洪水风险\ntsunami  n.  海啸\nflooding  n.  洪水泛滥\ntorrent  n.  急流；洪流\ndownpour  n.  倾盆大雨\ndrown  v.  溺水身亡\n放进句子里\nA heavy downpour caused flooding in the valley.\n一场倾盆大雨使山谷出现洪水泛滥。\ntsunami 是海啸；山谷暴雨引起的 flooding 不叫 tsunami。\n雅思应用\n阅读｜自然灾害\n轮到你了\n倾盆大雨 → a heavy ______；海啸预警 → a ______ warning\n第1章 自然地理 · 原创例句与练习 · 非真题\n在洪水或急流中有溺水身亡的风险。\n海啸预警",
+    "example_en": "A heavy downpour caused flooding in the valley.",
+    "example_zh": "一场倾盆大雨使山谷出现洪水泛滥。",
+    "examples": [
+      {
+        "en": "A heavy downpour caused flooding in the valley.",
+        "zh": "一场倾盆大雨使山谷出现洪水泛滥。"
+      },
+      {
+        "en": "The torrent carried branches downstream.",
+        "zh": "急流把树枝冲向下游。"
+      }
+    ],
+    "collocations": [
+      [
+        "a tsunami warning",
+        "海啸预警"
+      ],
+      [
+        "severe flooding",
+        "严重洪涝"
+      ],
+      [
+        "a torrent of water",
+        "一股急流"
+      ],
+      [
+        "a heavy downpour",
+        "一场倾盆大雨"
+      ],
+      [
+        "drown in a river",
+        "在河中溺亡"
+      ]
+    ],
+    "notes": "tsunami 是海啸；山谷暴雨引起的 flooding 不叫 tsunami。",
+    "scene": "主景为山谷暴雨后涌动的河水、漂流树枝与岸上的救援设施；一张置于岸边展示板的小型海岸海啸预警图独立呈现 tsunami，形成完整的自然灾害教育场景。",
+    "palette": "暖白 #F7F1E7、深海蓝 #233F53、洪水蓝 #527D97、救援橙 #E19869",
+    "ielts": [
+      "阅读｜自然灾害",
+      "写作 Task 2｜风险与应对"
+    ],
+    "practice": "倾盆大雨 → a heavy ______；海啸预警 → a ______ warning",
+    "answer": "downpour；tsunami",
+    "reference_urls": [
+      "https://www.usgs.gov/news/tale-two-tsunamis-why-werent-they-bigger-mexico-2017-and-alaska-2018",
+      "https://dictionary.cambridge.org/dictionary/english/drown",
+      "https://dictionary.cambridge.org/dictionary/english/downpour"
+    ],
+    "image": "previews/13.webp"
+  },
+  {
+    "id": "14",
+    "page": 14,
+    "title": "干旱与沙漠绿洲",
+    "kind": "scene",
+    "targets": [
+      "drought",
+      "arid",
+      "desert",
+      "oasis"
+    ],
+    "labels": [
+      {
+        "word": "drought",
+        "pos": "n.",
+        "zh": "干旱；旱灾"
+      },
+      {
+        "word": "arid",
+        "pos": "adj.",
+        "zh": "干旱的"
+      },
+      {
+        "word": "desert",
+        "pos": "n.",
+        "zh": "沙漠"
+      },
+      {
+        "word": "oasis",
+        "pos": "n.",
+        "zh": "绿洲"
+      }
+    ],
+    "sources": [
+      {
+        "word": "drought",
+        "physical_page": 16,
+        "printed_page": 5
+      },
+      {
+        "word": "arid",
+        "physical_page": 21,
+        "printed_page": 10
+      },
+      {
+        "word": "desert",
+        "physical_page": 26,
+        "printed_page": 15
+      },
+      {
+        "word": "oasis",
+        "physical_page": 17,
+        "printed_page": 6
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 14\n场景词群 | 自然地理\n干旱与沙漠绿洲\ndrought  n.  干旱；旱灾\narid  adj.  干旱的\ndesert  n.  沙漠\noasis  n.  绿洲\n放进句子里\nThe prolonged drought left the fields dry.\n长期干旱使田地变得干燥。\ndrought 指一段时期异常缺水；arid 描述长期干燥的环境。\n雅思应用\n阅读｜干旱环境\n轮到你了\n长期干旱 → a prolonged ______；沙漠绿洲 → a desert ______\n第1章 自然地理 · 原创例句与练习 · 非真题\n广阔而干燥、降水稀少的地区（不仅指沙丘）\n长期干燥、降水很少（描述气候或地区特征）\n一段时期异常缺水，使农作物生长受影响\n沙漠中因有地下水等水源而形成的局部植被区",
+    "example_en": "The prolonged drought left the fields dry.",
+    "example_zh": "长期干旱使田地变得干燥。",
+    "examples": [
+      {
+        "en": "The prolonged drought left the fields dry.",
+        "zh": "长期干旱使田地变得干燥。"
+      },
+      {
+        "en": "An oasis provides water in an arid landscape.",
+        "zh": "绿洲为干旱地区提供水源。"
+      }
+    ],
+    "collocations": [
+      [
+        "a prolonged drought",
+        "长期干旱"
+      ],
+      [
+        "an arid region",
+        "干旱地区"
+      ],
+      [
+        "a desert landscape",
+        "沙漠景观"
+      ],
+      [
+        "a desert oasis",
+        "沙漠绿洲"
+      ]
+    ],
+    "notes": "drought 指一段时期异常缺水；arid 描述长期干燥的环境。",
+    "scene": "真实感水彩沙漠边缘：干裂的农田在前景，远处层叠沙丘，一片有地下水补给的绿洲和少量棕榈呈视觉焦点；明亮但不刺眼的阳光与浅绿水面。",
+    "palette": "沙白 #FAF3E4、深棕 #534332、沙金 #D5AF6D、绿洲绿 #729473",
+    "ielts": [
+      "阅读｜干旱环境",
+      "口语 Part 2｜自然地点"
+    ],
+    "practice": "长期干旱 → a prolonged ______；沙漠绿洲 → a desert ______",
+    "answer": "drought；oasis",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/drought",
+      "https://dictionary.cambridge.org/dictionary/english/arid",
+      "https://dictionary.cambridge.org/dictionary/english/oasis"
+    ],
+    "image": "previews/14.webp"
+  },
+  {
+    "id": "15",
+    "page": 15,
+    "title": "一桌岩石标本",
+    "kind": "scene",
+    "targets": [
+      "pebble",
+      "mineral",
+      "ore",
+      "marble",
+      "quartz",
+      "granite"
+    ],
+    "labels": [
+      {
+        "word": "pebble",
+        "pos": "n.",
+        "zh": "小卵石"
+      },
+      {
+        "word": "mineral",
+        "pos": "n.",
+        "zh": "矿物"
+      },
+      {
+        "word": "ore",
+        "pos": "n.",
+        "zh": "矿石"
+      },
+      {
+        "word": "marble",
+        "pos": "n.",
+        "zh": "大理石"
+      },
+      {
+        "word": "quartz",
+        "pos": "n.",
+        "zh": "石英"
+      },
+      {
+        "word": "granite",
+        "pos": "n.",
+        "zh": "花岗岩"
+      }
+    ],
+    "sources": [
+      {
+        "word": "pebble",
+        "physical_page": 14,
+        "printed_page": 3
+      },
+      {
+        "word": "mineral",
+        "physical_page": 15,
+        "printed_page": 4
+      },
+      {
+        "word": "ore",
+        "physical_page": 15,
+        "printed_page": 4
+      },
+      {
+        "word": "marble",
+        "physical_page": 15,
+        "printed_page": 4
+      },
+      {
+        "word": "quartz",
+        "physical_page": 15,
+        "printed_page": 4
+      },
+      {
+        "word": "granite",
+        "physical_page": 15,
+        "printed_page": 4
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 15\n场景词群 | 自然地理\n一桌岩石标本\npebble  n.  小卵石\nmineral  n.  矿物\nore  n.  矿石\nmarble  n.  大理石\nquartz  n.  石英\ngranite  n.  花岗岩\n放进句子里\nThe museum displays quartz crystals beside samples of granite.\n博物馆把石英晶体陈列在花岗岩标本旁。\nquartz 是矿物；granite、marble 是岩石，不能把所有标本都叫矿物。\n雅思应用\n听力 P4｜地质材料\n轮到你了\n石英晶体 → ______ crystals；铁矿石 → iron ______\n第1章 自然地理 · 原创例句与练习 · 非真题",
+    "example_en": "The museum displays quartz crystals beside samples of granite.",
+    "example_zh": "博物馆把石英晶体陈列在花岗岩标本旁。",
+    "examples": [
+      {
+        "en": "The museum displays quartz crystals beside samples of granite.",
+        "zh": "博物馆把石英晶体陈列在花岗岩标本旁。"
+      },
+      {
+        "en": "We collected smooth pebbles beside the river.",
+        "zh": "我们在河边捡了些光滑的小卵石。"
+      }
+    ],
+    "collocations": [
+      [
+        "smooth pebbles",
+        "光滑的小卵石"
+      ],
+      [
+        "mineral deposits",
+        "矿物沉积；矿藏"
+      ],
+      [
+        "iron ore",
+        "铁矿石"
+      ],
+      [
+        "a marble floor",
+        "大理石地面"
+      ],
+      [
+        "quartz crystals",
+        "石英晶体"
+      ],
+      [
+        "a granite cliff",
+        "花岗岩悬崖"
+      ]
+    ],
+    "notes": "quartz 是矿物；granite、marble 是岩石，不能把所有标本都叫矿物。",
+    "scene": "自然光照进地质博物馆，一张木质标本桌摆有圆润卵石、石英晶体、铁矿石、花岗岩切片和带纹理的大理石；标本纸签与手绘放大镜自然融入场景。",
+    "palette": "标本纸白 #F7F3E9、深棕灰 #463D39、玫瑰岩色 #B38F89、矿绿 #7F9784",
+    "ielts": [
+      "听力 P4｜地质材料",
+      "阅读｜矿物与资源"
+    ],
+    "practice": "石英晶体 → ______ crystals；铁矿石 → iron ______",
+    "answer": "quartz；ore",
+    "reference_urls": [
+      "https://www.usgs.gov/faqs/what-difference-between-a-rock-and-a-mineral",
+      "https://pubs.usgs.gov/gip/acidrain/4.html"
+    ],
+    "image": "previews/15.webp"
+  },
+  {
+    "id": "16",
+    "page": 16,
+    "title": "地球仪与指南针",
+    "kind": "scene",
+    "targets": [
+      "magnet",
+      "globe",
+      "hemisphere",
+      "equator",
+      "axis"
+    ],
+    "labels": [
+      {
+        "word": "magnet",
+        "pos": "n.",
+        "zh": "磁铁"
+      },
+      {
+        "word": "globe",
+        "pos": "n.",
+        "zh": "地球仪"
+      },
+      {
+        "word": "hemisphere",
+        "pos": "n.",
+        "zh": "半球"
+      },
+      {
+        "word": "equator",
+        "pos": "n.",
+        "zh": "赤道"
+      },
+      {
+        "word": "axis",
+        "pos": "n.",
+        "zh": "轴；地轴"
+      }
+    ],
+    "sources": [
+      {
+        "word": "magnet",
+        "physical_page": 14,
+        "printed_page": 3
+      },
+      {
+        "word": "globe",
+        "physical_page": 18,
+        "printed_page": 7
+      },
+      {
+        "word": "hemisphere",
+        "physical_page": 18,
+        "printed_page": 7
+      },
+      {
+        "word": "equator",
+        "physical_page": 18,
+        "printed_page": 7
+      },
+      {
+        "word": "axis",
+        "physical_page": 18,
+        "printed_page": 7
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 16\n场景词群 | 自然地理\n地球仪与指南针\nmagnet  n.  磁铁\nglobe  n.  地球仪\nhemisphere  n.  半球\nequator  n.  赤道\naxis  n.  轴；地轴\n放进句子里\nThe equator separates the Northern and Southern Hemispheres.\n赤道把地球分为北半球和南半球。\n地轴是自转轴；赤道是一条与地轴垂直的环线。\n雅思应用\n阅读｜地理科学\n轮到你了\n北半球 → the Northern ______；地轴 → the Earth’s ______\n第1章 自然地理 · 原创例句与练习 · 非真题\nNorthern Hemisphere 北半球\nSouthern Hemisphere 南半球",
+    "example_en": "The equator separates the Northern and Southern Hemispheres.",
+    "example_zh": "赤道把地球分为北半球和南半球。",
+    "examples": [
+      {
+        "en": "The equator separates the Northern and Southern Hemispheres.",
+        "zh": "赤道把地球分为北半球和南半球。"
+      },
+      {
+        "en": "The Earth rotates on its axis.",
+        "zh": "地球绕地轴自转。"
+      }
+    ],
+    "collocations": [
+      [
+        "a bar magnet",
+        "条形磁铁"
+      ],
+      [
+        "a classroom globe",
+        "教室里的地球仪"
+      ],
+      [
+        "the Northern Hemisphere",
+        "北半球"
+      ],
+      [
+        "near the equator",
+        "在赤道附近"
+      ],
+      [
+        "the Earth's axis",
+        "地轴"
+      ]
+    ],
+    "notes": "地轴是自转轴；赤道是一条与地轴垂直的环线。",
+    "scene": "阳光下的地理教室木桌：立体地球仪为主角，旁边放独立条形磁铁、指南针和笔记；地球仪有一条清晰赤道线、两个半球的柔和着色与地轴，视觉像精美自然科学手册。",
+    "palette": "地图纸白 #F5F0E3、深海军蓝 #263A50、海蓝 #5C8FAD、金铜 #B68E55",
+    "ielts": [
+      "阅读｜地理科学",
+      "听力 P4｜实验说明"
+    ],
+    "practice": "北半球 → the Northern ______；地轴 → the Earth’s ______",
+    "answer": "Hemisphere；axis",
+    "reference_urls": [
+      "https://oceanservice.noaa.gov/facts/latitude.html",
+      "https://dictionary.cambridge.org/dictionary/english/globe",
+      "https://dictionary.cambridge.org/dictionary/english/axis"
+    ],
+    "image": "previews/16.webp"
+  },
+  {
+    "id": "17",
+    "page": 17,
+    "title": "从极地到冰川",
+    "kind": "scene",
+    "targets": [
+      "arctic",
+      "Antarctic",
+      "pole",
+      "polar",
+      "glacier",
+      "avalanche"
+    ],
+    "labels": [
+      {
+        "word": "Arctic",
+        "pos": "n.",
+        "zh": "北极地区"
+      },
+      {
+        "word": "Antarctic",
+        "pos": "n.",
+        "zh": "南极地区"
+      },
+      {
+        "word": "pole",
+        "pos": "n.",
+        "zh": "地极"
+      },
+      {
+        "word": "polar",
+        "pos": "adj.",
+        "zh": "极地的"
+      },
+      {
+        "word": "glacier",
+        "pos": "n.",
+        "zh": "冰川"
+      },
+      {
+        "word": "avalanche",
+        "pos": "n.",
+        "zh": "雪崩"
+      }
+    ],
+    "sources": [
+      {
+        "word": "arctic",
+        "physical_page": 18,
+        "printed_page": 7
+      },
+      {
+        "word": "Antarctic",
+        "physical_page": 18,
+        "printed_page": 7
+      },
+      {
+        "word": "pole",
+        "physical_page": 18,
+        "printed_page": 7
+      },
+      {
+        "word": "polar",
+        "physical_page": 18,
+        "printed_page": 7
+      },
+      {
+        "word": "glacier",
+        "physical_page": 17,
+        "printed_page": 6
+      },
+      {
+        "word": "avalanche",
+        "physical_page": 17,
+        "printed_page": 6
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 17\n场景词群 | 自然地理\n从极地到冰川\nArctic  n.  北极地区\nAntarctic  n.  南极地区\npole  n.  地极\npolar  adj.  极地的\nglacier  n.  冰川\navalanche  n.  雪崩\n放进句子里\nResearchers study glaciers in polar regions.\n研究人员研究极地地区的冰川。\nArctic 在北，Antarctic 在南；glacier 是冰川，avalanche 是快速滑落的雪崩。\n雅思应用\n阅读｜极地环境\n轮到你了\n北极地区 → the ______；冰川 → ______\n第1章 自然地理 · 原创例句与练习 · 非真题\n雪崩预警",
+    "example_en": "Researchers study glaciers in polar regions.",
+    "example_zh": "研究人员研究极地地区的冰川。",
+    "examples": [
+      {
+        "en": "Researchers study glaciers in polar regions.",
+        "zh": "研究人员研究极地地区的冰川。"
+      },
+      {
+        "en": "The team checked the avalanche warning before entering the valley.",
+        "zh": "队伍进入山谷前查看了雪崩预警。"
+      }
+    ],
+    "collocations": [
+      [
+        "the Arctic",
+        "北极地区"
+      ],
+      [
+        "the Antarctic",
+        "南极地区"
+      ],
+      [
+        "the North Pole",
+        "北极点"
+      ],
+      [
+        "polar regions",
+        "极地地区"
+      ],
+      [
+        "a retreating glacier",
+        "正在退缩的冰川"
+      ],
+      [
+        "an avalanche warning",
+        "雪崩预警"
+      ]
+    ],
+    "notes": "Arctic 在北，Antarctic 在南；glacier 是冰川，avalanche 是快速滑落的雪崩。",
+    "scene": "水彩极地科考营地为主景，研究员面向山谷冰川，桌面展开的两幅极区地图分别标北极与南极；雪山上的小型雪崩示意保持距离，前景有预警告示。",
+    "palette": "冰雪白 #F5F5EF、极夜蓝 #2B4056、冰蓝 #A5C5D3、极光绿 #87AA9F",
+    "ielts": [
+      "阅读｜极地环境",
+      "听力 P4｜冰川研究"
+    ],
+    "practice": "北极地区 → the ______；冰川 → ______",
+    "answer": "Arctic；glacier",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/arctic",
+      "https://dictionary.cambridge.org/us/dictionary/english/antarctic",
+      "https://www.usgs.gov/water-science-school/science/glaciers-and-icecaps"
+    ],
+    "image": "previews/17.webp"
+  },
+  {
+    "id": "18",
+    "page": 18,
+    "title": "风的不同面貌",
+    "kind": "scene",
+    "targets": [
+      "breeze",
+      "gust",
+      "gale",
+      "blow",
+      "puff"
+    ],
+    "labels": [
+      {
+        "word": "breeze",
+        "pos": "n.",
+        "zh": "微风"
+      },
+      {
+        "word": "gust",
+        "pos": "n.",
+        "zh": "阵风"
+      },
+      {
+        "word": "gale",
+        "pos": "n.",
+        "zh": "大风"
+      },
+      {
+        "word": "blow",
+        "pos": "v.",
+        "zh": "吹；刮"
+      },
+      {
+        "word": "puff",
+        "pos": "n.",
+        "zh": "一小股气流"
+      }
+    ],
+    "sources": [
+      {
+        "word": "breeze",
+        "physical_page": 15,
+        "printed_page": 4
+      },
+      {
+        "word": "gust",
+        "physical_page": 15,
+        "printed_page": 4
+      },
+      {
+        "word": "gale",
+        "physical_page": 15,
+        "printed_page": 4
+      },
+      {
+        "word": "blow",
+        "physical_page": 29,
+        "printed_page": 18
+      },
+      {
+        "word": "puff",
+        "physical_page": 29,
+        "printed_page": 18
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 18\n场景词群 | 自然地理\n风的不同面貌\nbreeze  n.  微风\ngust  n.  阵风\ngale  n.  大风\nblow  v.  吹；刮\npuff  n.  一小股气流\n放进句子里\nA gentle breeze moved the curtains beside the open window.\n轻柔的微风吹动了开着的窗边的窗帘。\ngust 强调短时突然增强；gale 强调风很强，不是所有 gust 都达到 gale。\n雅思应用\n听力｜天气场景\n轮到你了\n一阵风 → a ______ of wind；轻柔的微风 → a gentle ______\n第1章 自然地理 · 原创例句与练习 · 非真题\n先前的观察：微风\n之后的观察：大风",
+    "example_en": "A gentle breeze moved the curtains beside the open window.",
+    "example_zh": "轻柔的微风吹动了开着的窗边的窗帘。",
+    "examples": [
+      {
+        "en": "A gentle breeze moved the curtains beside the open window.",
+        "zh": "轻柔的微风吹动了开着的窗边的窗帘。"
+      },
+      {
+        "en": "A sudden gust of wind lifted the papers from the table.",
+        "zh": "一阵突如其来的风把桌上的纸张吹了起来。"
+      }
+    ],
+    "collocations": [
+      [
+        "a gentle breeze",
+        "一阵轻柔的微风"
+      ],
+      [
+        "a gust of wind",
+        "一阵风"
+      ],
+      [
+        "a strong gale",
+        "一场大风"
+      ],
+      [
+        "the wind blows",
+        "风吹来"
+      ],
+      [
+        "a puff of air",
+        "一小股空气"
+      ]
+    ],
+    "notes": "gust 强调短时突然增强；gale 强调风很强，不是所有 gust 都达到 gale。",
+    "scene": "海边观察站的敞窗为主场景，窗帘和桌面纸张随风移动，远处海岸天气由晴转阴；手账中两幅小幅水彩记录微风与大风，窗边风箱吹出一小股空气承接 puff。",
+    "palette": "海边纸白 #F6F2E9、深青灰 #29454C、海蓝 #7EA8B5、草绿 #93AA86",
+    "ielts": [
+      "听力｜天气场景",
+      "口语｜天气体验"
+    ],
+    "practice": "一阵风 → a ______ of wind；轻柔的微风 → a gentle ______",
+    "answer": "gust；breeze",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/puff?topic=enlarging-and-inflating",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/puff_2",
+      "https://dictionary.cambridge.org/dictionary/english/gust"
+    ],
+    "image": "previews/18.webp"
+  },
+  {
+    "id": "19",
+    "page": 19,
+    "title": "季风与不同风暴",
+    "kind": "scene",
+    "targets": [
+      "monsoon",
+      "hurricane",
+      "typhoon",
+      "tornado",
+      "tropics"
+    ],
+    "labels": [
+      {
+        "word": "monsoon",
+        "pos": "n.",
+        "zh": "季风"
+      },
+      {
+        "word": "hurricane",
+        "pos": "n.",
+        "zh": "飓风"
+      },
+      {
+        "word": "typhoon",
+        "pos": "n.",
+        "zh": "台风"
+      },
+      {
+        "word": "tornado",
+        "pos": "n.",
+        "zh": "龙卷风"
+      },
+      {
+        "word": "tropics",
+        "pos": "n. pl.",
+        "zh": "热带地区"
+      }
+    ],
+    "sources": [
+      {
+        "word": "monsoon",
+        "physical_page": 15,
+        "printed_page": 4
+      },
+      {
+        "word": "hurricane",
+        "physical_page": 15,
+        "printed_page": 4
+      },
+      {
+        "word": "typhoon",
+        "physical_page": 15,
+        "printed_page": 4
+      },
+      {
+        "word": "tornado",
+        "physical_page": 15,
+        "printed_page": 4
+      },
+      {
+        "word": "tropics",
+        "physical_page": 21,
+        "printed_page": 10
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 19\n场景词群 | 自然地理\n季风与不同风暴\nmonsoon  n.  季风\nhurricane  n.  飓风\ntyphoon  n.  台风\ntornado  n.  龙卷风\ntropics  n. pl.  热带地区\n放进句子里\nMonsoon winds can bring heavy rain to the region.\n季风可能给这个地区带来强降雨。\nhurricane 与 typhoon 是同类热带气旋的地区名称；tornado 是另一种风暴现象。\n雅思应用\n听力 P4｜天气讲解\n轮到你了\n季风降雨 → ______ rains；在热带地区 → in the ______\n第1章 自然地理 · 原创例句与练习 · 非真题\n海边气象观测站\n北大西洋或东北太平洋\n西北太平洋\n季节性风向变化\n南北回归线之间",
+    "example_en": "Monsoon winds can bring heavy rain to the region.",
+    "example_zh": "季风可能给这个地区带来强降雨。",
+    "examples": [
+      {
+        "en": "Monsoon winds can bring heavy rain to the region.",
+        "zh": "季风可能给这个地区带来强降雨。"
+      },
+      {
+        "en": "The weather centre issued a typhoon warning.",
+        "zh": "气象中心发布了台风预警。"
+      }
+    ],
+    "collocations": [
+      [
+        "monsoon rains",
+        "季风降雨"
+      ],
+      [
+        "a powerful hurricane",
+        "强烈的飓风"
+      ],
+      [
+        "a typhoon warning",
+        "台风预警"
+      ],
+      [
+        "a tornado warning",
+        "龙卷风预警"
+      ],
+      [
+        "in the tropics",
+        "在热带地区"
+      ]
+    ],
+    "notes": "hurricane 与 typhoon 是同类热带气旋的地区名称；tornado 是另一种风暴现象。",
+    "scene": "热带沿海气象站，雨中的棕榈和海面为主景；气象员桌上的世界地图以真实区域标 hurricane 和 typhoon，另一张独立野外观测照片展示接地龙卷；季风的季节风向以两幅自然场景小图表达。",
+    "palette": "暖白 #F6F1E7、风暴蓝 #293E58、热带绿 #6D9783、珊瑚橙 #D89170",
+    "ielts": [
+      "听力 P4｜天气讲解",
+      "阅读｜天气系统"
+    ],
+    "practice": "季风降雨 → ______ rains；在热带地区 → in the ______",
+    "answer": "monsoon；tropics",
+    "reference_urls": [
+      "https://www.metoffice.gov.uk/blog/2025/met-office-explains-what-are-monsoons",
+      "https://www.metoffice.gov.uk/blog/2025/hurricanes-typhoons-and-tornadoes-whats-the-difference",
+      "https://dictionary.cambridge.org/us/dictionary/english/tropics"
+    ],
+    "image": "previews/19.webp"
+  },
+  {
+    "id": "20",
+    "page": 20,
+    "title": "天气台与气候观察",
+    "kind": "scene",
+    "targets": [
+      "climate",
+      "weather",
+      "meteorology",
+      "forecast",
+      "El Niño",
+      "greenhouse"
+    ],
+    "labels": [
+      {
+        "word": "climate",
+        "pos": "n.",
+        "zh": "气候"
+      },
+      {
+        "word": "weather",
+        "pos": "n.",
+        "zh": "天气"
+      },
+      {
+        "word": "meteorology",
+        "pos": "n.",
+        "zh": "气象学"
+      },
+      {
+        "word": "forecast",
+        "pos": "n.",
+        "zh": "预报"
+      },
+      {
+        "word": "El Niño",
+        "pos": "n.",
+        "zh": "厄尔尼诺现象"
+      },
+      {
+        "word": "greenhouse",
+        "pos": "n.",
+        "zh": "温室"
+      }
+    ],
+    "sources": [
+      {
+        "word": "climate",
+        "physical_page": 20,
+        "printed_page": 9
+      },
+      {
+        "word": "weather",
+        "physical_page": 20,
+        "printed_page": 9
+      },
+      {
+        "word": "meteorology",
+        "physical_page": 21,
+        "printed_page": 10
+      },
+      {
+        "word": "forecast",
+        "physical_page": 23,
+        "printed_page": 12
+      },
+      {
+        "word": "El Niño",
+        "physical_page": 14,
+        "printed_page": 3
+      },
+      {
+        "word": "greenhouse",
+        "physical_page": 14,
+        "printed_page": 3
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 20\n场景词群 | 自然地理\n天气台与气候观察\nclimate  n.  气候\nweather  n.  天气\nmeteorology  n.  气象学\nforecast  n.  预报\nEl Niño  n.  厄尔尼诺现象\ngreenhouse  n.  温室\n放进句子里\nThe forecast suggests rain tomorrow.\n天气预报显示明天可能下雨。\nweather 指某时某地的天气；climate 描述较长时期的气候特征。\n雅思应用\n听力｜天气预报\n轮到你了\n天气预报 → a weather ______；气象学 → ______\n第1章 自然地理 · 原创例句与练习 · 非真题\n24.6°C\n用法提醒",
+    "example_en": "The forecast suggests rain tomorrow.",
+    "example_zh": "天气预报显示明天可能下雨。",
+    "examples": [
+      {
+        "en": "The forecast suggests rain tomorrow.",
+        "zh": "天气预报显示明天可能下雨。"
+      },
+      {
+        "en": "Researchers study how El Niño affects weather patterns.",
+        "zh": "研究人员研究厄尔尼诺如何影响天气模式。"
+      }
+    ],
+    "collocations": [
+      [
+        "a dry climate",
+        "干燥的气候"
+      ],
+      [
+        "changeable weather",
+        "多变的天气"
+      ],
+      [
+        "study meteorology",
+        "学习气象学"
+      ],
+      [
+        "a weather forecast",
+        "天气预报"
+      ],
+      [
+        "an El Niño event",
+        "一次厄尔尼诺事件"
+      ],
+      [
+        "grow plants in a greenhouse",
+        "在温室中种植物"
+      ]
+    ],
+    "notes": "weather 指某时某地的天气；climate 描述较长时期的气候特征。",
+    "scene": "真实的校园气象观测站：雨量计、温度记录、天气预报图与研究员，窗外有种植温室；桌上的太平洋海温研究图作为 El Niño 的小型信息焦点，主视觉仍是连贯场景。",
+    "palette": "气象记录纸白 #F7F3E9、深靛蓝 #2E3D55、晴空蓝 #7AA6C8、暖黄 #D6B465",
+    "ielts": [
+      "听力｜天气预报",
+      "阅读｜气候与环境"
+    ],
+    "practice": "天气预报 → a weather ______；气象学 → ______",
+    "answer": "forecast；meteorology",
+    "reference_urls": [
+      "https://www.noaa.gov/understanding-el-nino",
+      "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensostuff/ensofaq.shtml",
+      "https://dictionary.cambridge.org/dictionary/english/climate"
+    ],
+    "image": "previews/20.webp"
+  },
+  {
+    "id": "21",
+    "page": 21,
+    "title": "温度与舒适体感",
+    "kind": "scene",
+    "targets": [
+      "temperature",
+      "Celsius",
+      "mild",
+      "moderate",
+      "warm"
+    ],
+    "labels": [
+      {
+        "word": "temperature",
+        "pos": "n.",
+        "zh": "温度"
+      },
+      {
+        "word": "Celsius",
+        "pos": "adj.",
+        "zh": "摄氏的"
+      },
+      {
+        "word": "mild",
+        "pos": "adj.",
+        "zh": "温和的"
+      },
+      {
+        "word": "moderate",
+        "pos": "adj.",
+        "zh": "适中的"
+      },
+      {
+        "word": "warm",
+        "pos": "adj.",
+        "zh": "暖和的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "temperature",
+        "physical_page": 23,
+        "printed_page": 12
+      },
+      {
+        "word": "Celsius",
+        "physical_page": 23,
+        "printed_page": 12
+      },
+      {
+        "word": "mild",
+        "physical_page": 21,
+        "printed_page": 10
+      },
+      {
+        "word": "moderate",
+        "physical_page": 21,
+        "printed_page": 10
+      },
+      {
+        "word": "warm",
+        "physical_page": 21,
+        "printed_page": 10
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 21\n场景词群 | 自然地理\n温度与舒适体感\ntemperature  n.  温度\nCelsius  adj.  摄氏的\nmild  adj.  温和的\nmoderate  adj.  适中的\nwarm  adj.  暖和的\n放进句子里\nThe temperature reached 18 degrees Celsius this afternoon.\n今天下午气温达到摄氏18度。\n写 18 degrees Celsius；Celsius 首字母大写，常简写为 °C。\n雅思应用\n听力｜天气数据\n轮到你了\n摄氏18度 → 18 degrees ______；温和的冬季 → a ______ winter\n第1章 自然地理 · 原创例句与练习 · 非真题\n18°C\n此时为 18°C\n阳光让人感到暖和、舒适\n体感适中、舒适\n春季的天气温和\n冬季（winter）\n较冷、偏寒（体感偏冷）\n春季（spring）\n天气更温和、更舒适",
+    "example_en": "The temperature reached 18 degrees Celsius this afternoon.",
+    "example_zh": "今天下午气温达到摄氏18度。",
+    "examples": [
+      {
+        "en": "The temperature reached 18 degrees Celsius this afternoon.",
+        "zh": "今天下午气温达到摄氏18度。"
+      },
+      {
+        "en": "We enjoyed warm weather after a mild winter.",
+        "zh": "在一个温和的冬季之后，我们享受着暖和的天气。"
+      }
+    ],
+    "collocations": [
+      [
+        "the average temperature",
+        "平均温度"
+      ],
+      [
+        "18 degrees Celsius",
+        "摄氏18度"
+      ],
+      [
+        "a mild winter",
+        "温和的冬季"
+      ],
+      [
+        "moderate temperatures",
+        "适中的温度"
+      ],
+      [
+        "warm weather",
+        "暖和的天气"
+      ]
+    ],
+    "notes": "写 18 degrees Celsius；Celsius 首字母大写，常简写为 °C。",
+    "scene": "春日公园中的温度观察：一支清晰可读的摄氏温度计、轻装散步的人、阳光照在长椅上，角落的自然手账记录冬季与春季；以柔和自然色温表达舒适感。",
+    "palette": "日光米白 #FAF4E8、深灰绿 #3E4A40、暖杏 #E3B886、薄荷绿 #91B39F",
+    "ielts": [
+      "听力｜天气数据",
+      "口语｜季节与气温"
+    ],
+    "practice": "摄氏18度 → 18 degrees ______；温和的冬季 → a ______ winter",
+    "answer": "Celsius；mild",
+    "reference_urls": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/celsius_1?q=Celsius",
+      "https://dictionary.cambridge.org/dictionary/english/celsius"
+    ],
+    "image": "previews/21.webp"
+  },
+  {
+    "id": "22",
+    "page": 22,
+    "title": "冷到发抖",
+    "kind": "scene",
+    "targets": [
+      "chill",
+      "frigid",
+      "tremble",
+      "shiver"
+    ],
+    "labels": [
+      {
+        "word": "chill",
+        "pos": "n.",
+        "zh": "寒意"
+      },
+      {
+        "word": "frigid",
+        "pos": "adj.",
+        "zh": "极寒的"
+      },
+      {
+        "word": "tremble",
+        "pos": "v.",
+        "zh": "发抖；颤抖"
+      },
+      {
+        "word": "shiver",
+        "pos": "v.",
+        "zh": "打寒战；发抖"
+      }
+    ],
+    "sources": [
+      {
+        "word": "chill",
+        "physical_page": 22,
+        "printed_page": 11
+      },
+      {
+        "word": "frigid",
+        "physical_page": 22,
+        "printed_page": 11
+      },
+      {
+        "word": "tremble",
+        "physical_page": 22,
+        "printed_page": 11
+      },
+      {
+        "word": "shiver",
+        "physical_page": 22,
+        "printed_page": 11
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 22\n场景词群 | 自然地理\n冷到发抖\nchill  n.  寒意\nfrigid  adj.  极寒的\ntremble  v.  发抖；颤抖\nshiver  v.  打寒战；发抖\n放进句子里\nThere was a chill in the air beside the lake.\n湖边的空气透着寒意。\ntremble 和 shiver 都可表示发抖；原因要结合上下文判断。\n雅思应用\n口语｜天气体验\n轮到你了\n空气中的寒意 → a ______ in the air；极寒的空气 → ______ air\n第1章 自然地理 · 原创例句与练习 · 非真题\n用法提醒\n指空气中的寒意，让人感觉发冷。\n指温度极低、非常寒冷的。\n指（因寒冷、紧张、害怕等）身体轻微颤抖。\n指（通常因寒冷）身体一阵阵地发抖。",
+    "example_en": "There was a chill in the air beside the lake.",
+    "example_zh": "湖边的空气透着寒意。",
+    "examples": [
+      {
+        "en": "There was a chill in the air beside the lake.",
+        "zh": "湖边的空气透着寒意。"
+      },
+      {
+        "en": "We began to shiver in the frigid wind.",
+        "zh": "在冰冷的风中，我们开始打寒战。"
+      }
+    ],
+    "collocations": [
+      [
+        "a chill in the air",
+        "空气中的寒意"
+      ],
+      [
+        "frigid air",
+        "冰冷的空气"
+      ],
+      [
+        "tremble with cold",
+        "冷得发抖"
+      ],
+      [
+        "shiver with cold",
+        "冷得打寒战"
+      ]
+    ],
+    "notes": "tremble 和 shiver 都可表示发抖；原因要结合上下文判断。",
+    "scene": "清晨寒冷湖畔，一名旅行者裹紧围巾站在木栈道边，手部轻微颤抖；湖面远山、冷色天空与暖色围巾形成细腻对照，不用夸张漫画表情。",
+    "palette": "冷纸白 #F4F3EE、深蓝灰 #304459、冰蓝 #98BACB、围巾橙 #C98765",
+    "ielts": [
+      "口语｜天气体验",
+      "阅读｜身体反应"
+    ],
+    "practice": "空气中的寒意 → a ______ in the air；极寒的空气 → ______ air",
+    "answer": "chill；frigid",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/chill",
+      "https://dictionary.cambridge.org/dictionary/english/frigid",
+      "https://dictionary.cambridge.org/dictionary/english/shiver"
+    ],
+    "image": "previews/22.webp"
+  },
+  {
+    "id": "23",
+    "page": 23,
+    "title": "冰冻与融化",
+    "kind": "scene",
+    "targets": [
+      "freeze",
+      "thaw",
+      "snowy",
+      "frost",
+      "hail"
+    ],
+    "labels": [
+      {
+        "word": "freeze",
+        "pos": "v.",
+        "zh": "结冰；冻结"
+      },
+      {
+        "word": "thaw",
+        "pos": "v.",
+        "zh": "解冻；融化"
+      },
+      {
+        "word": "snowy",
+        "pos": "adj.",
+        "zh": "下雪的；积雪的"
+      },
+      {
+        "word": "frost",
+        "pos": "n.",
+        "zh": "霜"
+      },
+      {
+        "word": "hail",
+        "pos": "n.",
+        "zh": "冰雹"
+      }
+    ],
+    "sources": [
+      {
+        "word": "freeze",
+        "physical_page": 22,
+        "printed_page": 11
+      },
+      {
+        "word": "thaw",
+        "physical_page": 22,
+        "printed_page": 11
+      },
+      {
+        "word": "snowy",
+        "physical_page": 21,
+        "printed_page": 10
+      },
+      {
+        "word": "frost",
+        "physical_page": 21,
+        "printed_page": 10
+      },
+      {
+        "word": "hail",
+        "physical_page": 22,
+        "printed_page": 11
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 23\n场景词群 | 自然地理\n冰冻与融化\nfreeze  v.  结冰；冻结\nthaw  v.  解冻；融化\nsnowy  adj.  下雪的；积雪的\nfrost  n.  霜\nhail  n.  冰雹\n放进句子里\nA layer of frost covered the grass at dawn.\n黎明时，草地上覆盖着一层霜。\nfrost 附着在表面；hail 是从云中落下的冰粒。\n雅思应用\n听力 P4｜自然过程\n轮到你了\n雪开始融化 → snow begins to ______；一层霜 → a layer of ______\n第1章 自然地理 · 原创例句与练习 · 非真题\nsnow 积雪（正在融化）\n另一时间的观察：冰雹天气\nfreeze 结冰\nthaw 融化\n用法提醒",
+    "example_en": "A layer of frost covered the grass at dawn.",
+    "example_zh": "黎明时，草地上覆盖着一层霜。",
+    "examples": [
+      {
+        "en": "A layer of frost covered the grass at dawn.",
+        "zh": "黎明时，草地上覆盖着一层霜。"
+      },
+      {
+        "en": "By midday, the snow had begun to thaw.",
+        "zh": "到中午时，积雪已经开始融化。"
+      }
+    ],
+    "collocations": [
+      [
+        "water freezes",
+        "水结冰"
+      ],
+      [
+        "snow begins to thaw",
+        "雪开始融化"
+      ],
+      [
+        "a snowy morning",
+        "一个下雪的早晨"
+      ],
+      [
+        "a layer of frost",
+        "一层霜"
+      ],
+      [
+        "heavy hail",
+        "猛烈的冰雹"
+      ]
+    ],
+    "notes": "frost 附着在表面；hail 是从云中落下的冰粒。",
+    "scene": "窗边的冬季自然观察手账：主景是阳光下部分解冻的雪地和草叶上的冰晶，融雪滴入小水洼；手账一角保留另一场冰雹天气的写生，明确是不同时间的观察。",
+    "palette": "雪白 #F7F6F0、深冰蓝 #32485C、淡冰蓝 #ABCAD8、晨光金 #D8BD83",
+    "ielts": [
+      "听力 P4｜自然过程",
+      "阅读｜低温天气"
+    ],
+    "practice": "雪开始融化 → snow begins to ______；一层霜 → a layer of ______",
+    "answer": "thaw；frost",
+    "reference_urls": [
+      "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/frost-and-ice",
+      "https://dictionary.cambridge.org/us/dictionary/english/thaw?topic=snow-and-ice",
+      "https://dictionary.cambridge.org/dictionary/english/freeze?topic=causing-something-to-end"
+    ],
+    "image": "previews/23.webp"
+  },
+  {
+    "id": "24",
+    "page": 24,
+    "title": "一场雷雨",
+    "kind": "scene",
+    "targets": [
+      "thunder",
+      "lightning",
+      "stormy",
+      "rainfall",
+      "shower"
+    ],
+    "labels": [
+      {
+        "word": "thunder",
+        "pos": "n.",
+        "zh": "雷；雷声"
+      },
+      {
+        "word": "lightning",
+        "pos": "n.",
+        "zh": "闪电"
+      },
+      {
+        "word": "stormy",
+        "pos": "adj.",
+        "zh": "暴风雨的"
+      },
+      {
+        "word": "rainfall",
+        "pos": "n.",
+        "zh": "降雨；降雨量"
+      },
+      {
+        "word": "shower",
+        "pos": "n.",
+        "zh": "阵雨"
+      }
+    ],
+    "sources": [
+      {
+        "word": "thunder",
+        "physical_page": 22,
+        "printed_page": 11
+      },
+      {
+        "word": "lightning",
+        "physical_page": 22,
+        "printed_page": 11
+      },
+      {
+        "word": "stormy",
+        "physical_page": 22,
+        "printed_page": 11
+      },
+      {
+        "word": "rainfall",
+        "physical_page": 22,
+        "printed_page": 11
+      },
+      {
+        "word": "shower",
+        "physical_page": 23,
+        "printed_page": 12
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 24\n场景词群 | 自然地理\n一场雷雨\nthunder  n.  雷；雷声\nlightning  n.  闪电\nstormy  adj.  暴风雨的\nrainfall  n.  降雨；降雨量\nshower  n.  阵雨\n放进句子里\nA flash of lightning lit the hills, followed by a clap of thunder.\n一道闪电照亮山丘，随后传来一声雷响。\nthunder 是声音，lightning 是闪电；一次阵雨可说 a shower。\n雅思应用\n听力｜天气描述\n轮到你了\n一道闪电 → a flash of ______；一声雷响 → a clap of ______\n第1章 自然地理 · 原创例句与练习 · 非真题\n这里指一阵大雨：heavy shower\nmm\nAnnual Rainfall 全年降雨记录\nJan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec\n用法提醒",
+    "example_en": "A flash of lightning lit the hills, followed by a clap of thunder.",
+    "example_zh": "一道闪电照亮山丘，随后传来一声雷响。",
+    "examples": [
+      {
+        "en": "A flash of lightning lit the hills, followed by a clap of thunder.",
+        "zh": "一道闪电照亮山丘，随后传来一声雷响。"
+      },
+      {
+        "en": "The heavy shower ended before sunset.",
+        "zh": "这场大阵雨在日落前结束了。"
+      }
+    ],
+    "collocations": [
+      [
+        "a clap of thunder",
+        "一声雷响"
+      ],
+      [
+        "a flash of lightning",
+        "一道闪电"
+      ],
+      [
+        "stormy weather",
+        "暴风雨天气"
+      ],
+      [
+        "annual rainfall",
+        "年降雨量"
+      ],
+      [
+        "a heavy shower",
+        "一场大阵雨"
+      ]
+    ],
+    "notes": "thunder 是声音，lightning 是闪电；一次阵雨可说 a shower。",
+    "scene": "从安全室内望向山丘上的雷雨，窗外雨滴、远处闪电与雨量计构成完整场景；雷声用克制的声音波纹表示，桌上是一张全年降雨记录。",
+    "palette": "暖白 #F6F0E5、深靛蓝 #293954、雷雨蓝 #637E9B、闪电金 #E0C56B",
+    "ielts": [
+      "听力｜天气描述",
+      "口语｜天气经历"
+    ],
+    "practice": "一道闪电 → a flash of ______；一声雷响 → a clap of ______",
+    "answer": "lightning；thunder",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/thunder",
+      "https://dictionary.cambridge.org/dictionary/english/lightning",
+      "https://dictionary.cambridge.org/us/dictionary/english/rainfall",
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/shower_1"
+    ],
+    "image": "previews/24.webp"
+  },
+  {
+    "id": "25",
+    "page": 25,
+    "title": "雨后与清晨的湿润",
+    "kind": "scene",
+    "targets": [
+      "rainbow",
+      "moist",
+      "damp",
+      "humid",
+      "dew",
+      "mist"
+    ],
+    "labels": [
+      {
+        "word": "rainbow",
+        "pos": "n.",
+        "zh": "彩虹"
+      },
+      {
+        "word": "moist",
+        "pos": "adj.",
+        "zh": "湿润的"
+      },
+      {
+        "word": "damp",
+        "pos": "adj.",
+        "zh": "潮湿的"
+      },
+      {
+        "word": "humid",
+        "pos": "adj.",
+        "zh": "空气潮湿的"
+      },
+      {
+        "word": "dew",
+        "pos": "n.",
+        "zh": "露水"
+      },
+      {
+        "word": "mist",
+        "pos": "n.",
+        "zh": "薄雾"
+      }
+    ],
+    "sources": [
+      {
+        "word": "rainbow",
+        "physical_page": 23,
+        "printed_page": 12
+      },
+      {
+        "word": "moist",
+        "physical_page": 21,
+        "printed_page": 10
+      },
+      {
+        "word": "damp",
+        "physical_page": 21,
+        "printed_page": 10
+      },
+      {
+        "word": "humid",
+        "physical_page": 21,
+        "printed_page": 10
+      },
+      {
+        "word": "dew",
+        "physical_page": 28,
+        "printed_page": 17
+      },
+      {
+        "word": "mist",
+        "physical_page": 16,
+        "printed_page": 5
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 25\n场景词群 | 自然地理\n雨后与清晨的湿润\nrainbow  n.  彩虹\nmoist  adj.  湿润的\ndamp  adj.  潮湿的\nhumid  adj.  空气潮湿的\ndew  n.  露水\nmist  n.  薄雾\n放进句子里\nA rainbow appeared above the garden after the shower.\n阵雨过后，花园上方出现了一道彩虹。\nhumid 常描述空气或天气；衣服潮湿可说 damp clothes。\n雅思应用\n口语｜自然景色\n轮到你了\n潮湿的空气 → ______ air；清晨薄雾 → morning ______\n第1章 自然地理 · 原创例句与练习 · 非真题\n清晨\n用法提醒",
+    "example_en": "A rainbow appeared above the garden after the shower.",
+    "example_zh": "阵雨过后，花园上方出现了一道彩虹。",
+    "examples": [
+      {
+        "en": "A rainbow appeared above the garden after the shower.",
+        "zh": "阵雨过后，花园上方出现了一道彩虹。"
+      },
+      {
+        "en": "At dawn, dew covered the grass and mist hung over the pond.",
+        "zh": "黎明时，露水覆在草上，薄雾笼罩池塘。"
+      }
+    ],
+    "collocations": [
+      [
+        "a rainbow in the sky",
+        "天空中的彩虹"
+      ],
+      [
+        "moist soil",
+        "湿润的土壤"
+      ],
+      [
+        "damp clothes",
+        "潮湿的衣服"
+      ],
+      [
+        "humid air",
+        "潮湿的空气"
+      ],
+      [
+        "dew on the grass",
+        "草上的露水"
+      ],
+      [
+        "morning mist",
+        "晨雾"
+      ]
+    ],
+    "notes": "humid 常描述空气或天气；衣服潮湿可说 damp clothes。",
+    "scene": "雨后花园为主场景：彩虹、湿润土壤、晾着的潮湿外套与池塘边植物；前景自然观察本单独画一幅标注“清晨”的露珠与薄雾小景，形成真实的跨时观察。",
+    "palette": "花园米白 #F8F4E9、深梅灰 #4D3C51、雾绿 #A2B6A0、浅紫 #C2AECF",
+    "ielts": [
+      "口语｜自然景色",
+      "阅读｜水分与环境"
+    ],
+    "practice": "潮湿的空气 → ______ air；清晨薄雾 → morning ______",
+    "answer": "humid；mist",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/moist",
+      "https://dictionary.cambridge.org/dictionary/english/damp",
+      "https://dictionary.cambridge.org/us/dictionary/english/humid",
+      "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/temperature/dew",
+      "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog"
+    ],
+    "image": "previews/25.webp"
+  },
+  {
+    "id": "26",
+    "page": 26,
+    "title": "海洋航行",
+    "kind": "scene",
+    "targets": [
+      "Mediterranean",
+      "Atlantic",
+      "pacific",
+      "ocean",
+      "marine",
+      "navigation"
+    ],
+    "labels": [
+      {
+        "word": "Mediterranean",
+        "pos": "adj.",
+        "zh": "地中海的"
+      },
+      {
+        "word": "Atlantic",
+        "pos": "adj.",
+        "zh": "大西洋的"
+      },
+      {
+        "word": "Pacific",
+        "pos": "adj.",
+        "zh": "太平洋的"
+      },
+      {
+        "word": "ocean",
+        "pos": "n.",
+        "zh": "海洋"
+      },
+      {
+        "word": "marine",
+        "pos": "adj.",
+        "zh": "海洋的"
+      },
+      {
+        "word": "navigation",
+        "pos": "n.",
+        "zh": "航海；导航"
+      }
+    ],
+    "sources": [
+      {
+        "word": "Mediterranean",
+        "physical_page": 19,
+        "printed_page": 8
+      },
+      {
+        "word": "Atlantic",
+        "physical_page": 19,
+        "printed_page": 8
+      },
+      {
+        "word": "pacific",
+        "physical_page": 19,
+        "printed_page": 8
+      },
+      {
+        "word": "ocean",
+        "physical_page": 19,
+        "printed_page": 8
+      },
+      {
+        "word": "marine",
+        "physical_page": 19,
+        "printed_page": 8
+      },
+      {
+        "word": "navigation",
+        "physical_page": 19,
+        "printed_page": 8
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 26\n场景词群 | 自然地理\n海洋航行\nMediterranean  adj.  地中海的\nAtlantic  adj.  大西洋的\nPacific  adj.  太平洋的\nocean  n.  海洋\nmarine  adj.  海洋的\nnavigation  n.  航海；导航\n放进句子里\nThe research ship crossed the Atlantic Ocean to study marine life.\n研究船横渡大西洋，研究海洋生物。\n海洋专名中的 Mediterranean、Atlantic、Pacific 都大写；本卡 Pacific 指太平洋。\n雅思应用\n听力｜旅行与航行\n轮到你了\n海洋生物 → ______ life；太平洋 → the ______ Ocean\n第1章 自然地理 · 原创例句与练习 · 非真题\nMediterranean 地中海\nAtlantic Ocean 大西洋\nPacific Ocean 太平洋\n用法提醒",
+    "example_en": "The research ship crossed the Atlantic Ocean to study marine life.",
+    "example_zh": "研究船横渡大西洋，研究海洋生物。",
+    "examples": [
+      {
+        "en": "The research ship crossed the Atlantic Ocean to study marine life.",
+        "zh": "研究船横渡大西洋，研究海洋生物。"
+      },
+      {
+        "en": "Accurate navigation helped the crew reach the island.",
+        "zh": "准确的导航帮助船员抵达岛屿。"
+      }
+    ],
+    "collocations": [
+      [
+        "the Mediterranean Sea",
+        "地中海"
+      ],
+      [
+        "the Atlantic Ocean",
+        "大西洋"
+      ],
+      [
+        "the Pacific Ocean",
+        "太平洋"
+      ],
+      [
+        "cross the ocean",
+        "横渡海洋"
+      ],
+      [
+        "marine life",
+        "海洋生物"
+      ],
+      [
+        "marine navigation",
+        "航海导航"
+      ]
+    ],
+    "notes": "海洋专名中的 Mediterranean、Atlantic、Pacific 都大写；本卡 Pacific 指太平洋。",
+    "scene": "航海研究船的甲板与导航台：海面、海鸟、海洋采样设备形成主景，桌上展开有真实海陆轮廓的世界海图，地中海、大西洋、太平洋用小号清晰标签定位。",
+    "palette": "航海图米白 #F5F0E3、海军蓝 #263D55、绿松石 #5D9DA6、帆布金 #C9A46B",
+    "ielts": [
+      "听力｜旅行与航行",
+      "阅读｜海洋环境"
+    ],
+    "practice": "海洋生物 → ______ life；太平洋 → the ______ Ocean",
+    "answer": "marine；Pacific",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/mediterranean",
+      "https://dictionary.cambridge.org/dictionary/english/atlantic",
+      "https://dictionary.cambridge.org/dictionary/english/pacific",
+      "https://dictionary.cambridge.org/dictionary/english/marine"
+    ],
+    "image": "previews/26.webp"
+  },
+  {
+    "id": "27",
+    "page": 27,
+    "title": "走到海岸边",
+    "kind": "scene",
+    "targets": [
+      "gulf",
+      "beach",
+      "coast",
+      "shore",
+      "tide",
+      "current"
+    ],
+    "labels": [
+      {
+        "word": "gulf",
+        "pos": "n.",
+        "zh": "海湾"
+      },
+      {
+        "word": "beach",
+        "pos": "n.",
+        "zh": "海滩"
+      },
+      {
+        "word": "coast",
+        "pos": "n.",
+        "zh": "海岸；沿海地带"
+      },
+      {
+        "word": "shore",
+        "pos": "n.",
+        "zh": "岸；滨"
+      },
+      {
+        "word": "tide",
+        "pos": "n.",
+        "zh": "潮汐"
+      },
+      {
+        "word": "current",
+        "pos": "n.",
+        "zh": "水流；洋流"
+      }
+    ],
+    "sources": [
+      {
+        "word": "gulf",
+        "physical_page": 19,
+        "printed_page": 8
+      },
+      {
+        "word": "beach",
+        "physical_page": 19,
+        "printed_page": 8
+      },
+      {
+        "word": "coast",
+        "physical_page": 19,
+        "printed_page": 8
+      },
+      {
+        "word": "shore",
+        "physical_page": 19,
+        "printed_page": 8
+      },
+      {
+        "word": "tide",
+        "physical_page": 19,
+        "printed_page": 8
+      },
+      {
+        "word": "current",
+        "physical_page": 19,
+        "printed_page": 8
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 27\n场景词群 | 自然地理\n走到海岸边\ngulf  n.  海湾\nbeach  n.  海滩\ncoast  n.  海岸；沿海地带\nshore  n.  岸；滨\ntide  n.  潮汐\ncurrent  n.  水流；洋流\n放进句子里\nAt low tide, we walked along the beach and collected shells.\n低潮时，我们沿着海滩散步，捡了一些贝壳。\ntide 看水位涨落；current 看水的流动方向。\n雅思应用\n口语 Part 2｜描述一次海边旅行，交代地点与所见。\n轮到你了\n遮住英文：在低潮时＝at low ____；强劲水流＝a strong ____。\n第1章 自然地理 · 原创例句与练习 · 非真题\n高潮（高水位）\n低潮（低水位）",
+    "example_en": "At low tide, we walked along the beach and collected shells.",
+    "example_zh": "低潮时，我们沿着海滩散步，捡了一些贝壳。",
+    "examples": [
+      {
+        "en": "At low tide, we walked along the beach and collected shells.",
+        "zh": "低潮时，我们沿着海滩散步，捡了一些贝壳。",
+        "original": true
+      },
+      {
+        "en": "The boat crossed the gulf and followed the coast.",
+        "zh": "小船穿过海湾，沿着海岸前行。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "across the gulf",
+        "穿过海湾"
+      ],
+      [
+        "a sandy beach",
+        "一片沙滩"
+      ],
+      [
+        "along the coast",
+        "沿着海岸"
+      ],
+      [
+        "on the shore",
+        "在岸边"
+      ],
+      [
+        "at low tide",
+        "在低潮时"
+      ],
+      [
+        "a strong current",
+        "一股强劲水流"
+      ]
+    ],
+    "notes": "tide 看水位涨落；current 看水的流动方向。",
+    "scene": "水彩海湾鸟瞰：陆地半包围的开阔海湾，弧形沙滩、小船沿岸航行；右下用同一潮位尺画高低潮两个时刻，海面少量方向箭头示意current。",
+    "palette": "#F8F4EA、#253B49、#4C8EAD、#DCC394、#E9AFA0、海水蓝、沙滩金和贝壳粉来自同一海湾场景。",
+    "ielts": [
+      "口语 Part 2｜描述一次海边旅行，交代地点与所见。",
+      "阅读｜结合上下文区分岸线、潮汐和水流。"
+    ],
+    "practice": "遮住英文：在低潮时＝at low ____；强劲水流＝a strong ____。",
+    "answer": "tide；current",
+    "reference_urls": [
+      "https://oceanservice.noaa.gov/facts/tidescurrents.html",
+      "https://dictionary.cambridge.org/dictionary/english/shore"
+    ],
+    "image": "previews/27.webp"
+  },
+  {
+    "id": "28",
+    "page": 28,
+    "title": "河流从源头到河口",
+    "kind": "scene",
+    "targets": [
+      "brook",
+      "stream",
+      "source",
+      "delta"
+    ],
+    "labels": [
+      {
+        "word": "brook",
+        "pos": "n.",
+        "zh": "小溪"
+      },
+      {
+        "word": "stream",
+        "pos": "n.",
+        "zh": "溪流"
+      },
+      {
+        "word": "source",
+        "pos": "n.",
+        "zh": "源头；来源"
+      },
+      {
+        "word": "delta",
+        "pos": "n.",
+        "zh": "河口三角洲"
+      }
+    ],
+    "sources": [
+      {
+        "word": "brook",
+        "physical_page": 19,
+        "printed_page": 8
+      },
+      {
+        "word": "stream",
+        "physical_page": 19,
+        "printed_page": 8
+      },
+      {
+        "word": "source",
+        "physical_page": 19,
+        "printed_page": 8
+      },
+      {
+        "word": "delta",
+        "physical_page": 17,
+        "printed_page": 6
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 28\n场景词群 | 自然地理\n河流从源头到河口\nbrook  n.  小溪\nstream  n.  溪流\nsource  n.  源头；来源\ndelta  n.  河口三角洲\n放进句子里\nWe followed a mountain stream towards its source.\n我们沿着山间溪流，朝它的源头走去。\nbrook 与 stream 都可指溪流，不必硬背成大小固定的两级。\n雅思应用\n阅读｜跟随上下游关系理解河流地理。\n轮到你了\n遮住英文：河的源头＝the ____ of a river；河口三角洲＝a river ____。\n第1章 自然地理 · 原创例句与练习 · 非真题\n用法提醒",
+    "example_en": "We followed a mountain stream towards its source.",
+    "example_zh": "我们沿着山间溪流，朝它的源头走去。",
+    "examples": [
+      {
+        "en": "We followed a mountain stream towards its source.",
+        "zh": "我们沿着山间溪流，朝它的源头走去。",
+        "original": true
+      },
+      {
+        "en": "Near the coast, the river divides into channels across the delta.",
+        "zh": "临近海岸时，河流分成多条水道，流过三角洲。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a babbling brook",
+        "一条潺潺小溪"
+      ],
+      [
+        "a mountain stream",
+        "一条山间溪流"
+      ],
+      [
+        "the source of a river",
+        "一条河的源头"
+      ],
+      [
+        "a river delta",
+        "河口三角洲"
+      ]
+    ],
+    "notes": "brook 与 stream 都可指溪流，不必硬背成大小固定的两级。",
+    "scene": "从左上山间源头向右下海岸展开的河流手绘长卷：前景有一段潺潺小溪，中段较宽河道，下游在沉积形成的陆地上分汊入海。",
+    "palette": "#F8F4EA、#253B49、#5199AB、#92AF7C、#D2AD6F、清溪蓝、山草绿和河口泥沙金对应水流沿途。",
+    "ielts": [
+      "阅读｜跟随上下游关系理解河流地理。",
+      "听力 Part 4｜练习记录源头、流向和河口地貌。"
+    ],
+    "practice": "遮住英文：河的源头＝the ____ of a river；河口三角洲＝a river ____。",
+    "answer": "source；delta",
+    "reference_urls": [
+      "https://apps.usgs.gov/thesaurus/term-simple.php?code=GC-074&thcode=62",
+      "https://pubs.usgs.gov/of/2003/of03-337/rivers-deltas.html"
+    ],
+    "image": "previews/28.webp"
+  },
+  {
+    "id": "29",
+    "page": 29,
+    "title": "水景与储水",
+    "kind": "scene",
+    "targets": [
+      "reservoir",
+      "waterfall",
+      "fountain",
+      "spring"
+    ],
+    "labels": [
+      {
+        "word": "reservoir",
+        "pos": "n.",
+        "zh": "水库"
+      },
+      {
+        "word": "waterfall",
+        "pos": "n.",
+        "zh": "瀑布"
+      },
+      {
+        "word": "fountain",
+        "pos": "n.",
+        "zh": "喷泉"
+      },
+      {
+        "word": "spring",
+        "pos": "n.",
+        "zh": "泉；泉眼"
+      }
+    ],
+    "sources": [
+      {
+        "word": "reservoir",
+        "physical_page": 28,
+        "printed_page": 17
+      },
+      {
+        "word": "waterfall",
+        "physical_page": 28,
+        "printed_page": 17
+      },
+      {
+        "word": "fountain",
+        "physical_page": 28,
+        "printed_page": 17
+      },
+      {
+        "word": "spring",
+        "physical_page": 28,
+        "printed_page": 17
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 29\n场景词群 | 自然地理\n水景与储水\nreservoir  n.  水库\nwaterfall  n.  瀑布\nfountain  n.  喷泉\nspring  n.  泉；泉眼\n放进句子里\nThe town stores water in a reservoir behind the dam.\n这座城镇把水储存在大坝后方的水库里。\nspring 在这里是“泉”；fountain 是喷泉设施。\n雅思应用\n听力 Part 2｜听地点介绍，分清人工设施和自然水景。\n轮到你了\n遮住英文：天然泉眼＝a natural ____；广场上的喷泉＝a public ____。\n第1章 自然地理 · 原创例句与练习 · 非真题\n用于储存大量的水\n上游（大坝后方）为水库\ndam 大坝\n拦截河水，在上游形成水库\n水流从高处跌落到低处形成的自然景观\n水流向低处跌落\n人工建造的喷泉设施，从出水口喷出水流\n出水口（喷出水流）\n人工池体（收集并循环水流）\n地下水在地表自然出露形成的泉或泉眼\n地下水自然出露",
+    "example_en": "The town stores water in a reservoir behind the dam.",
+    "example_zh": "这座城镇把水储存在大坝后方的水库里。",
+    "examples": [
+      {
+        "en": "The town stores water in a reservoir behind the dam.",
+        "zh": "这座城镇把水储存在大坝后方的水库里。",
+        "original": true
+      },
+      {
+        "en": "A natural spring feeds the stream, which flows over a small waterfall.",
+        "zh": "天然泉水汇入溪流，溪流流过一处小瀑布。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a water reservoir",
+        "一座蓄水库"
+      ],
+      [
+        "a spectacular waterfall",
+        "一处壮观的瀑布"
+      ],
+      [
+        "a public fountain",
+        "一座公共喷泉"
+      ],
+      [
+        "a natural spring",
+        "一处天然泉眼"
+      ]
+    ],
+    "notes": "spring 在这里是“泉”；fountain 是喷泉设施。",
+    "scene": "四个有呼吸感的水彩观察窗：大坝后方水库、悬崖落水形成的瀑布、广场人工喷泉、岩层出水的天然泉眼；画面互不相连。",
+    "palette": "#F8F4EA、#253B49、#639FB1、#9CA9A4、#86A577、湖水蓝、湿岩灰和园林绿串联四类水景。",
+    "ielts": [
+      "听力 Part 2｜听地点介绍，分清人工设施和自然水景。",
+      "口语 Part 2｜描述一处水边地点及吸引你的细节。"
+    ],
+    "practice": "遮住英文：天然泉眼＝a natural ____；广场上的喷泉＝a public ____。",
+    "answer": "spring；fountain",
+    "reference_urls": [
+      "https://www.usgs.gov/water-science-school/science/springs-and-water-cycle"
+    ],
+    "image": "previews/29.webp"
+  },
+  {
+    "id": "30",
+    "page": 30,
+    "title": "水在地球上循环",
+    "kind": "scene",
+    "targets": [
+      "vapour",
+      "evaporate",
+      "circulate",
+      "precipitate"
+    ],
+    "labels": [
+      {
+        "word": "vapour",
+        "pos": "n.",
+        "zh": "水汽；蒸气"
+      },
+      {
+        "word": "evaporate",
+        "pos": "v.",
+        "zh": "蒸发"
+      },
+      {
+        "word": "circulate",
+        "pos": "v.",
+        "zh": "循环；流动"
+      },
+      {
+        "word": "precipitate",
+        "pos": "v.",
+        "zh": "凝结并以雨雪降下"
+      }
+    ],
+    "sources": [
+      {
+        "word": "vapour",
+        "physical_page": 28,
+        "printed_page": 17
+      },
+      {
+        "word": "evaporate",
+        "physical_page": 28,
+        "printed_page": 17
+      },
+      {
+        "word": "circulate",
+        "physical_page": 28,
+        "printed_page": 17
+      },
+      {
+        "word": "precipitate",
+        "physical_page": 28,
+        "printed_page": 17
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 30\n场景词群 | 自然地理\n水在地球上循环\nvapour  n.  水汽；蒸气\nevaporate  v.  蒸发\ncirculate  v.  循环；流动\nprecipitate  v.  凝结并以雨雪降下\n放进句子里\nWater evaporates from the lake and enters the air as vapour.\n湖水蒸发，以水汽形式进入空气。\nprecipitate 此处用气象动词义；常见名词 precipitation 表示“降水”。\n雅思应用\n听力 Part 4｜根据动词辨认蒸发、输送和降水阶段。\n轮到你了\n遮住英文：水从湖面“蒸发”用 ____；以雨雪形式“降下”用 ____。\n第1章 自然地理 · 原创例句与练习 · 非真题\n水在地球上不断循环\n凝结\n云（由微小水滴或冰晶组成）\n水汽不可见，虚线仅作示意",
+    "example_en": "Water evaporates from the lake and enters the air as vapour.",
+    "example_zh": "湖水蒸发，以水汽形式进入空气。",
+    "examples": [
+      {
+        "en": "Water evaporates from the lake and enters the air as vapour.",
+        "zh": "湖水蒸发，以水汽形式进入空气。",
+        "original": true
+      },
+      {
+        "en": "It circulates through the environment and can later precipitate as rain or snow.",
+        "zh": "水在环境中循环，之后可以以雨或雪的形式降下。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "water vapour",
+        "水蒸气"
+      ],
+      [
+        "evaporate from the surface",
+        "从表面蒸发"
+      ],
+      [
+        "circulate through the environment",
+        "在环境中循环"
+      ],
+      [
+        "precipitate as rain or snow",
+        "以雨或雪的形式降下"
+      ]
+    ],
+    "notes": "precipitate 此处用气象动词义；常见名词 precipitation 表示“降水”。",
+    "scene": "简洁水循环横向场景：阳光照湖，细虚线上升箭头表示不可见水汽；天空输送箭头通向云，云下雨雪落向陆地，再由溪流回到湖泊。",
+    "palette": "#F8F4EA、#253B49、#77B3CB、#3D83A0、#E3BB67、天蓝与海蓝表示水的不同环境，日光金提示蒸发能量。",
+    "ielts": [
+      "听力 Part 4｜根据动词辨认蒸发、输送和降水阶段。",
+      "阅读｜用过程顺序理解水循环说明。"
+    ],
+    "practice": "遮住英文：水从湖面“蒸发”用 ____；以雨雪形式“降下”用 ____。",
+    "answer": "evaporate；precipitate",
+    "reference_urls": [
+      "https://www.merriam-webster.com/dictionary/precipitate",
+      "https://www.usgs.gov/centers/new-york-water-science-center/science/hydrologic-cycle",
+      "https://www.usgs.gov/water-science-school/science/condensation-and-water-cycle"
+    ],
+    "image": "previews/30.webp"
+  },
+  {
+    "id": "31",
+    "page": 31,
+    "title": "水怎样移动",
+    "kind": "scene",
+    "targets": [
+      "pour",
+      "drip",
+      "gush",
+      "drain",
+      "sprinkle"
+    ],
+    "labels": [
+      {
+        "word": "pour",
+        "pos": "v.",
+        "zh": "倒；倾注"
+      },
+      {
+        "word": "drip",
+        "pos": "v.",
+        "zh": "滴下"
+      },
+      {
+        "word": "gush",
+        "pos": "v.",
+        "zh": "涌出；喷出"
+      },
+      {
+        "word": "drain",
+        "pos": "v.",
+        "zh": "排出；排干"
+      },
+      {
+        "word": "sprinkle",
+        "pos": "v.",
+        "zh": "洒；撒"
+      }
+    ],
+    "sources": [
+      {
+        "word": "pour",
+        "physical_page": 28,
+        "printed_page": 17
+      },
+      {
+        "word": "drip",
+        "physical_page": 29,
+        "printed_page": 18
+      },
+      {
+        "word": "gush",
+        "physical_page": 29,
+        "printed_page": 18
+      },
+      {
+        "word": "drain",
+        "physical_page": 28,
+        "printed_page": 17
+      },
+      {
+        "word": "sprinkle",
+        "physical_page": 22,
+        "printed_page": 11
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 31\n场景词群 | 自然地理\n水怎样移动\npour  v.  倒；倾注\ndrip  v.  滴下\ngush  v.  涌出；喷出\ndrain  v.  排出；排干\nsprinkle  v.  洒；撒\n放进句子里\nWater dripped from the tap while I poured some into a jug.\n我往水壶里倒水时，水龙头仍在滴水。\ndrip 是一滴滴落下；gush 强调大量、快速涌出。\n雅思应用\n听力｜根据动作动词理解操作或过程说明。\n轮到你了\n遮住英文：一滴滴落下＝____；从破管中大量涌出＝____。\n第1章 自然地理 · 原创例句与练习 · 非真题\n用法提醒",
+    "example_en": "Water dripped from the tap while I poured some into a jug.",
+    "example_zh": "我往水壶里倒水时，水龙头仍在滴水。",
+    "examples": [
+      {
+        "en": "Water dripped from the tap while I poured some into a jug.",
+        "zh": "我往水壶里倒水时，水龙头仍在滴水。",
+        "original": true
+      },
+      {
+        "en": "Use a watering can to sprinkle water over the plants.",
+        "zh": "用洒水壶给植物洒水。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "pour water into a jug",
+        "把水倒进水壶"
+      ],
+      [
+        "drip from a tap",
+        "从水龙头滴落"
+      ],
+      [
+        "gush out of a pipe",
+        "从管道中涌出"
+      ],
+      [
+        "drain water from a basin",
+        "把盆里的水排走"
+      ],
+      [
+        "sprinkle water on plants",
+        "往植物上洒水"
+      ]
+    ],
+    "notes": "drip 是一滴滴落下；gush 强调大量、快速涌出。",
+    "scene": "花园工作台的五个动作小窗：向壶里倒水、滴水龙头、破管涌水、洗手盆排水、洒水壶浇花；水的形态清楚不同。",
+    "palette": "#F8F4EA、#253B49、#73ACBC、#9ABFB1、#C89175、清水蓝搭配花园薄荷绿与陶土花盆色。",
+    "ielts": [
+      "听力｜根据动作动词理解操作或过程说明。",
+      "口语｜用具体动词描述浇水、倒水和排水。"
+    ],
+    "practice": "遮住英文：一滴滴落下＝____；从破管中大量涌出＝____。",
+    "answer": "drip；gush",
+    "reference_urls": [],
+    "image": "previews/31.webp"
+  },
+  {
+    "id": "32",
+    "page": 32,
+    "title": "观察自然现象",
+    "kind": "scene",
+    "targets": [
+      "phenomenon",
+      "emerge",
+      "float",
+      "flash",
+      "dense"
+    ],
+    "labels": [
+      {
+        "word": "phenomenon",
+        "pos": "n.",
+        "zh": "现象"
+      },
+      {
+        "word": "emerge",
+        "pos": "v.",
+        "zh": "出现；显露"
+      },
+      {
+        "word": "float",
+        "pos": "v.",
+        "zh": "漂浮"
+      },
+      {
+        "word": "flash",
+        "pos": "v.",
+        "zh": "闪光；闪现"
+      },
+      {
+        "word": "dense",
+        "pos": "adj.",
+        "zh": "浓密的；稠密的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "phenomenon",
+        "physical_page": 14,
+        "printed_page": 3
+      },
+      {
+        "word": "emerge",
+        "physical_page": 29,
+        "printed_page": 18
+      },
+      {
+        "word": "float",
+        "physical_page": 29,
+        "printed_page": 18
+      },
+      {
+        "word": "flash",
+        "physical_page": 29,
+        "printed_page": 18
+      },
+      {
+        "word": "dense",
+        "physical_page": 29,
+        "printed_page": 18
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 32\n场景词群 | 自然地理\n观察自然现象\nphenomenon  n.  现象\nemerge  v.  出现；显露\nfloat  v.  漂浮\nflash  v.  闪光；闪现\ndense  adj.  浓密的；稠密的\n放进句子里\nThe boat emerged from dense fog.\n小船从浓雾中显现出来。\nphenomenon 的复数是 phenomena。\n雅思应用\n阅读｜辨认自然现象及其出现、移动的方式。\n轮到你了\n遮住英文：从雾中显现＝____ from the fog；一种现象的复数形式＝____。\n第1章 自然地理 · 原创例句与练习 · 非真题\n用法提醒",
+    "example_en": "The boat emerged from dense fog.",
+    "example_zh": "小船从浓雾中显现出来。",
+    "examples": [
+      {
+        "en": "The boat emerged from dense fog.",
+        "zh": "小船从浓雾中显现出来。",
+        "original": true
+      },
+      {
+        "en": "A leaf floated on the pond as lightning flashed in the distance.",
+        "zh": "一片叶子漂在池塘上，远处闪过一道闪电。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a natural phenomenon",
+        "一种自然现象"
+      ],
+      [
+        "emerge from the fog",
+        "从雾中显现"
+      ],
+      [
+        "float on the surface",
+        "漂浮在水面上"
+      ],
+      [
+        "flash across the sky",
+        "划过天空闪亮"
+      ],
+      [
+        "dense fog",
+        "浓雾"
+      ]
+    ],
+    "notes": "phenomenon 的复数是 phenomena。",
+    "scene": "自然观察笔记：主景是浓雾中的湖面和逐渐显现的小船，近景叶片漂浮；角落用单独远景小窗表现天空闪光，phenomenon作为观察主题标题。",
+    "palette": "#F8F4EA、#253B49、#8DA8B3、#6F947B、#E4C86C、雾蓝与林绿营造观察场景，微光黄只用于闪光。",
+    "ielts": [
+      "阅读｜辨认自然现象及其出现、移动的方式。",
+      "听力 Part 4｜记录观察对象、状态和变化。"
+    ],
+    "practice": "遮住英文：从雾中显现＝____ from the fog；一种现象的复数形式＝____。",
+    "answer": "emerge；phenomena",
+    "reference_urls": [],
+    "image": "previews/32.webp"
+  },
+  {
+    "id": "33",
+    "page": 33,
+    "title": "大陆与整体地貌",
+    "kind": "scene",
+    "targets": [
+      "terrain",
+      "landscape",
+      "continent",
+      "Oceania",
+      "mainland",
+      "peninsula"
+    ],
+    "labels": [
+      {
+        "word": "terrain",
+        "pos": "n.",
+        "zh": "地形；地势"
+      },
+      {
+        "word": "landscape",
+        "pos": "n.",
+        "zh": "景观；风景"
+      },
+      {
+        "word": "continent",
+        "pos": "n.",
+        "zh": "大洲；大陆"
+      },
+      {
+        "word": "Oceania",
+        "pos": "n.",
+        "zh": "大洋洲地区"
+      },
+      {
+        "word": "mainland",
+        "pos": "n.",
+        "zh": "大陆；本土"
+      },
+      {
+        "word": "peninsula",
+        "pos": "n.",
+        "zh": "半岛"
+      }
+    ],
+    "sources": [
+      {
+        "word": "terrain",
+        "physical_page": 17,
+        "printed_page": 6
+      },
+      {
+        "word": "landscape",
+        "physical_page": 17,
+        "printed_page": 6
+      },
+      {
+        "word": "continent",
+        "physical_page": 17,
+        "printed_page": 6
+      },
+      {
+        "word": "Oceania",
+        "physical_page": 20,
+        "printed_page": 9
+      },
+      {
+        "word": "mainland",
+        "physical_page": 20,
+        "printed_page": 9
+      },
+      {
+        "word": "peninsula",
+        "physical_page": 20,
+        "printed_page": 9
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 33\n场景词群 | 自然地理\n大陆与整体地貌\nterrain  n.  地形；地势\nlandscape  n.  景观；风景\ncontinent  n.  大洲；大陆\nOceania  n.  大洋洲地区\nmainland  n.  大陆；本土\npeninsula  n.  半岛\n放进句子里\nThe peninsula has rugged terrain and a dramatic coastal landscape.\n这个半岛地形崎岖，海岸景观十分壮观。\nmainland 与附近岛屿相对；Oceania 是地区名，不是一整块相连的陆地。\n雅思应用\n阅读｜留意大洲、地区、岛屿与半岛的空间尺度。\n轮到你了\n遮住英文：与附近岛屿相对的大陆＝____；三面临水并与陆地相连的半岛＝____。\n第1章 自然地理 · 原创例句与练习 · 非真题\n示意图，不按比例\nAfrica 非洲大陆\nAustralia 澳大利亚大陆\n用法提醒",
+    "example_en": "The peninsula has rugged terrain and a dramatic coastal landscape.",
+    "example_zh": "这个半岛地形崎岖，海岸景观十分壮观。",
+    "examples": [
+      {
+        "en": "The peninsula has rugged terrain and a dramatic coastal landscape.",
+        "zh": "这个半岛地形崎岖，海岸景观十分壮观。",
+        "original": true
+      },
+      {
+        "en": "The map shows the Australian mainland and several islands in Oceania.",
+        "zh": "这张地图展示了澳大利亚大陆及大洋洲的几个岛屿。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "rugged terrain",
+        "崎岖地形"
+      ],
+      [
+        "a coastal landscape",
+        "海岸景观"
+      ],
+      [
+        "the African continent",
+        "非洲大陆"
+      ],
+      [
+        "islands in Oceania",
+        "大洋洲的岛屿"
+      ],
+      [
+        "the Australian mainland",
+        "澳大利亚大陆"
+      ],
+      [
+        "a narrow peninsula",
+        "狭长的半岛"
+      ]
+    ],
+    "notes": "mainland 与附近岛屿相对；Oceania 是地区名，不是一整块相连的陆地。",
+    "scene": "地理观察板：左侧独立小世界地图高亮非洲大陆；右侧独立大洋洲区域简图标澳大利亚大陆与海上岛屿；下方另放虚构半岛的山海风景近景。",
+    "palette": "#F8F4EA、#253B49、#538AA5、#88A377、#C8AC83、海蓝、地形绿和砂岩色随地图尺度转入山海风景。",
+    "ielts": [
+      "阅读｜留意大洲、地区、岛屿与半岛的空间尺度。",
+      "口语 Part 2｜同时说明地点位置和可见地貌。"
+    ],
+    "practice": "遮住英文：与附近岛屿相对的大陆＝____；三面临水并与陆地相连的半岛＝____。",
+    "answer": "mainland；peninsula",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/oceania"
+    ],
+    "image": "previews/33.webp"
+  },
+  {
+    "id": "34",
+    "page": 34,
+    "title": "沿途的五种地形",
+    "kind": "scene",
+    "targets": [
+      "cave",
+      "cliff",
+      "plain",
+      "plateau",
+      "swamp"
+    ],
+    "labels": [
+      {
+        "word": "cave",
+        "pos": "n.",
+        "zh": "洞穴"
+      },
+      {
+        "word": "cliff",
+        "pos": "n.",
+        "zh": "悬崖；峭壁"
+      },
+      {
+        "word": "plain",
+        "pos": "n.",
+        "zh": "平原；广阔平地"
+      },
+      {
+        "word": "plateau",
+        "pos": "n.",
+        "zh": "高原"
+      },
+      {
+        "word": "swamp",
+        "pos": "n.",
+        "zh": "沼泽"
+      }
+    ],
+    "sources": [
+      {
+        "word": "cave",
+        "physical_page": 17,
+        "printed_page": 6
+      },
+      {
+        "word": "cliff",
+        "physical_page": 17,
+        "printed_page": 6
+      },
+      {
+        "word": "plain",
+        "physical_page": 17,
+        "printed_page": 6
+      },
+      {
+        "word": "plateau",
+        "physical_page": 17,
+        "printed_page": 6
+      },
+      {
+        "word": "swamp",
+        "physical_page": 17,
+        "printed_page": 6
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 34\n场景词群 | 自然地理\n沿途的五种地形\ncave  n.  洞穴\ncliff  n.  悬崖；峭壁\nplain  n.  平原；广阔平地\nplateau  n.  高原\nswamp  n.  沼泽\n放进句子里\nBeyond the cave, a wide plain stretches towards the cliffs.\n洞穴外，一片广阔平原延伸到悬崖附近。\nplain 强调平坦广阔；plateau 强调地势较高、顶部较平。\n雅思应用\n阅读｜从地形特点判断词义和地点关系。\n轮到你了\n遮住英文：广阔平地＝____；高出周围且顶部较平的地形＝____。\n第1章 自然地理 · 原创例句与练习 · 非真题",
+    "example_en": "Beyond the cave, a wide plain stretches towards the cliffs.",
+    "example_zh": "洞穴外，一片广阔平原延伸到悬崖附近。",
+    "examples": [
+      {
+        "en": "Beyond the cave, a wide plain stretches towards the cliffs.",
+        "zh": "洞穴外，一片广阔平原延伸到悬崖附近。",
+        "original": true
+      },
+      {
+        "en": "The plateau rises above the surrounding lowlands.",
+        "zh": "这片高原高出周围的低地。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a limestone cave",
+        "石灰岩洞穴"
+      ],
+      [
+        "a steep cliff",
+        "陡峭的悬崖"
+      ],
+      [
+        "a wide plain",
+        "广阔的平原"
+      ],
+      [
+        "a high plateau",
+        "高原"
+      ],
+      [
+        "a forested swamp",
+        "林木茂密的沼泽"
+      ]
+    ],
+    "notes": "plain 强调平坦广阔；plateau 强调地势较高、顶部较平。",
+    "scene": "一张虚构探险路线图配五个放大观察窗：岩洞入口、陡壁、开阔平原、明显高起且顶面较平的高原、积水与树木相间的沼泽。",
+    "palette": "#F8F4EA、#253B49、#809A75、#A88A68、#70969C、山林绿、岩土棕与湿地蓝区分五种地形。",
+    "ielts": [
+      "阅读｜从地形特点判断词义和地点关系。",
+      "听力｜听取路线说明中的自然地标。"
+    ],
+    "practice": "遮住英文：广阔平地＝____；高出周围且顶部较平的地形＝____。",
+    "answer": "plain；plateau",
+    "reference_urls": [],
+    "image": "previews/34.webp"
+  },
+  {
+    "id": "35",
+    "page": 35,
+    "title": "山脉的名字",
+    "kind": "scene",
+    "targets": [
+      "peak",
+      "mount",
+      "mountain",
+      "range",
+      "ridge"
+    ],
+    "labels": [
+      {
+        "word": "peak",
+        "pos": "n.",
+        "zh": "山峰；峰顶"
+      },
+      {
+        "word": "mount",
+        "pos": "n.",
+        "zh": "山（用于山名）"
+      },
+      {
+        "word": "mountain",
+        "pos": "n.",
+        "zh": "山；高山"
+      },
+      {
+        "word": "range",
+        "pos": "n.",
+        "zh": "山脉"
+      },
+      {
+        "word": "ridge",
+        "pos": "n.",
+        "zh": "山脊"
+      }
+    ],
+    "sources": [
+      {
+        "word": "peak",
+        "physical_page": 23,
+        "printed_page": 12
+      },
+      {
+        "word": "mount",
+        "physical_page": 23,
+        "printed_page": 12
+      },
+      {
+        "word": "mountain",
+        "physical_page": 23,
+        "printed_page": 12
+      },
+      {
+        "word": "range",
+        "physical_page": 23,
+        "printed_page": 12
+      },
+      {
+        "word": "ridge",
+        "physical_page": 23,
+        "printed_page": 12
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 35\n场景词群 | 自然地理\n山脉的名字\npeak  n.  山峰；峰顶\nmount  n.  山（用于山名）\nmountain  n.  山；高山\nrange  n.  山脉\nridge  n.  山脊\n放进句子里\nA long ridge links several peaks in this mountain range.\n这条山脉中，一道长山脊连接着数座山峰。\nMount 常置于具体山名前并大写；一般说一座山用 a mountain。\n雅思应用\n阅读｜区分单座山、峰顶、山脊和整条山脉。\n轮到你了\n遮住英文：一条山脉＝a mountain ____；富士山＝____ Fuji。\n第1章 自然地理 · 原创例句与练习 · 非真题\nMount Fuji",
+    "example_en": "A long ridge links several peaks in this mountain range.",
+    "example_zh": "这条山脉中，一道长山脊连接着数座山峰。",
+    "examples": [
+      {
+        "en": "A long ridge links several peaks in this mountain range.",
+        "zh": "这条山脉中，一道长山脊连接着数座山峰。",
+        "original": true
+      },
+      {
+        "en": "I hope to see Mount Fuji on a clear day.",
+        "zh": "我希望在晴朗的一天看到富士山。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a snow-covered peak",
+        "白雪覆盖的山峰"
+      ],
+      [
+        "Mount Fuji",
+        "富士山"
+      ],
+      [
+        "climb a mountain",
+        "登山"
+      ],
+      [
+        "a mountain range",
+        "一条山脉"
+      ],
+      [
+        "along the ridge",
+        "沿着山脊"
+      ]
+    ],
+    "notes": "Mount 常置于具体山名前并大写；一般说一座山用 a mountain。",
+    "scene": "清晨山脉水彩全景：多座峰顶由细长山脊连接；一座完整山体单独框选。角落加独立富士山明信片，用Mount Fuji展示名称用法。",
+    "palette": "#F8F4EA、#253B49、#6A8EA9、#BFC1B9、#DEC58B、远山蓝、岩石灰与晨光金构成山脉层次。",
+    "ielts": [
+      "阅读｜区分单座山、峰顶、山脊和整条山脉。",
+      "口语 Part 2｜描述看过或想去的山景。"
+    ],
+    "practice": "遮住英文：一条山脉＝a mountain ____；富士山＝____ Fuji。",
+    "answer": "range；Mount",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/mount"
+    ],
+    "image": "previews/35.webp"
+  },
+  {
+    "id": "36",
+    "page": 36,
+    "title": "山路与眺望",
+    "kind": "scene",
+    "targets": [
+      "slope",
+      "valley",
+      "hillside",
+      "overlook",
+      "steep"
+    ],
+    "labels": [
+      {
+        "word": "slope",
+        "pos": "n.",
+        "zh": "斜坡；山坡"
+      },
+      {
+        "word": "valley",
+        "pos": "n.",
+        "zh": "山谷"
+      },
+      {
+        "word": "hillside",
+        "pos": "n.",
+        "zh": "山坡；山腰地带"
+      },
+      {
+        "word": "overlook",
+        "pos": "v.",
+        "zh": "俯瞰；眺望"
+      },
+      {
+        "word": "steep",
+        "pos": "adj.",
+        "zh": "陡峭的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "slope",
+        "physical_page": 23,
+        "printed_page": 12
+      },
+      {
+        "word": "valley",
+        "physical_page": 23,
+        "printed_page": 12
+      },
+      {
+        "word": "hillside",
+        "physical_page": 23,
+        "printed_page": 12
+      },
+      {
+        "word": "overlook",
+        "physical_page": 23,
+        "printed_page": 12
+      },
+      {
+        "word": "steep",
+        "physical_page": 20,
+        "printed_page": 9
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 36\n场景词群 | 自然地理\n山路与眺望\nslope  n.  斜坡；山坡\nvalley  n.  山谷\nhillside  n.  山坡；山腰地带\noverlook  v.  俯瞰；眺望\nsteep  adj.  陡峭的\n放进句子里\nThe path climbs a steep hillside before reaching a viewpoint.\n小路沿着陡峭山坡向上，最后到达观景点。\noverlook the valley 是“俯瞰山谷”；overlook 也可表示“忽略”，要看语境。\n雅思应用\n口语 Part 2｜按路线和视角描述徒步经历。\n轮到你了\n遮住英文：陡峭的小路＝a ____ path；俯瞰山谷＝____ the valley。\n第1章 自然地理 · 原创例句与练习 · 非真题\n用法提醒",
+    "example_en": "The path climbs a steep hillside before reaching a viewpoint.",
+    "example_zh": "小路沿着陡峭山坡向上，最后到达观景点。",
+    "examples": [
+      {
+        "en": "The path climbs a steep hillside before reaching a viewpoint.",
+        "zh": "小路沿着陡峭山坡向上，最后到达观景点。",
+        "original": true
+      },
+      {
+        "en": "From there, we overlooked a green valley with a winding river.",
+        "zh": "从那里，我们俯瞰着一片绿色山谷，河水蜿蜒流过。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a gentle slope",
+        "缓坡"
+      ],
+      [
+        "a river valley",
+        "河谷"
+      ],
+      [
+        "a wooded hillside",
+        "林木覆盖的山坡"
+      ],
+      [
+        "overlook the valley",
+        "俯瞰山谷"
+      ],
+      [
+        "a steep path",
+        "陡峭的小路"
+      ]
+    ],
+    "notes": "overlook the valley 是“俯瞰山谷”；overlook 也可表示“忽略”，要看语境。",
+    "scene": "从低处缓坡延伸到较陡的林间山路，再抵达有护栏的观景点；远处河谷低于观察者，人物视线斜向下看山谷。",
+    "palette": "#F8F4EA、#253B49、#7E9B75、#A3AAA1、#8FB5CB、山坡绿、岩壁灰和高处天空蓝呈现上行路线。",
+    "ielts": [
+      "口语 Part 2｜按路线和视角描述徒步经历。",
+      "听力｜根据坡度、山谷与观景点还原路线。"
+    ],
+    "practice": "遮住英文：陡峭的小路＝a ____ path；俯瞰山谷＝____ the valley。",
+    "answer": "steep；overlook",
+    "reference_urls": [],
+    "image": "previews/36.webp"
+  },
+  {
+    "id": "37",
+    "page": 37,
+    "title": "路面与质地",
+    "kind": "scene",
+    "targets": [
+      "flat",
+      "smooth",
+      "rough",
+      "sandy",
+      "stony"
+    ],
+    "labels": [
+      {
+        "word": "flat",
+        "pos": "adj.",
+        "zh": "平坦的；平的"
+      },
+      {
+        "word": "smooth",
+        "pos": "adj.",
+        "zh": "光滑的；平滑的"
+      },
+      {
+        "word": "rough",
+        "pos": "adj.",
+        "zh": "粗糙的；不平的"
+      },
+      {
+        "word": "sandy",
+        "pos": "adj.",
+        "zh": "多沙的；沙质的"
+      },
+      {
+        "word": "stony",
+        "pos": "adj.",
+        "zh": "多石的；铺满石头的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "flat",
+        "physical_page": 20,
+        "printed_page": 9
+      },
+      {
+        "word": "smooth",
+        "physical_page": 20,
+        "printed_page": 9
+      },
+      {
+        "word": "rough",
+        "physical_page": 20,
+        "printed_page": 9
+      },
+      {
+        "word": "sandy",
+        "physical_page": 20,
+        "printed_page": 9
+      },
+      {
+        "word": "stony",
+        "physical_page": 20,
+        "printed_page": 9
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 37\n场景词群 | 自然地理\n路面与质地\nflat  adj.  平坦的；平的\nsmooth  adj.  光滑的；平滑的\nrough  adj.  粗糙的；不平的\nsandy  adj.  多沙的；沙质的\nstony  adj.  多石的；铺满石头的\n放进句子里\nThe trail changes from a sandy track to a rough, stony path.\n这条步道从沙质小径变成了粗糙多石的路。\nflat 看整体是否平；smooth 看表面是否光滑。平面也可能粗糙。\n雅思应用\n口语｜用表面细节让地点描写更具体。\n轮到你了\n遮住英文：整体是平的但表面粗糙，可说flat but not ____。\n第1章 自然地理 · 原创例句与练习 · 非真题\n平整地面：整体平坦\n光滑石面：表面平滑\n粗糙路面：表面不平、质地粗\nflat (but not smooth)\n平但粗糙：整体平坦，但表面粗糙\n细沙小径：由细小沙粒构成\n石子小路：布满可辨认的石块",
+    "example_en": "The trail changes from a sandy track to a rough, stony path.",
+    "example_zh": "这条步道从沙质小径变成了粗糙多石的路。",
+    "examples": [
+      {
+        "en": "The trail changes from a sandy track to a rough, stony path.",
+        "zh": "这条步道从沙质小径变成了粗糙多石的路。",
+        "original": true
+      },
+      {
+        "en": "The rock is flat, but its surface is not smooth.",
+        "zh": "这块岩石是平的，但表面并不光滑。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "flat ground",
+        "平坦的地面"
+      ],
+      [
+        "a smooth surface",
+        "光滑的表面"
+      ],
+      [
+        "a rough path",
+        "崎岖不平的小路"
+      ],
+      [
+        "a sandy track",
+        "沙质小径"
+      ],
+      [
+        "a stony path",
+        "多石的小路"
+      ]
+    ],
+    "notes": "flat 看整体是否平；smooth 看表面是否光滑。平面也可能粗糙。",
+    "scene": "同一条自然步道的五个近景样本：平整地面、光滑石面、粗糙路面、细沙小径、石子小路；增加一块“平但粗糙”的石板小对照。",
+    "palette": "#F8F4EA、#253B49、#D1B480、#B8B7AD、#AA8465、沙粒金、石灰和暖棕对应步道材料。",
+    "ielts": [
+      "口语｜用表面细节让地点描写更具体。",
+      "阅读｜区分形状、质地和材料描述。"
+    ],
+    "practice": "遮住英文：整体是平的但表面粗糙，可说flat but not ____。",
+    "answer": "smooth",
+    "reference_urls": [],
+    "image": "previews/37.webp"
+  },
+  {
+    "id": "38",
+    "page": 38,
+    "title": "深浅、方向与宽窄",
+    "kind": "scene",
+    "targets": [
+      "shallow",
+      "superficial",
+      "vertical",
+      "parallel",
+      "narrow"
+    ],
+    "labels": [
+      {
+        "word": "shallow",
+        "pos": "adj.",
+        "zh": "浅的"
+      },
+      {
+        "word": "superficial",
+        "pos": "adj.",
+        "zh": "表面的；不深入的"
+      },
+      {
+        "word": "vertical",
+        "pos": "adj.",
+        "zh": "垂直的；竖直的"
+      },
+      {
+        "word": "parallel",
+        "pos": "adj.",
+        "zh": "平行的"
+      },
+      {
+        "word": "narrow",
+        "pos": "adj.",
+        "zh": "狭窄的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "shallow",
+        "physical_page": 20,
+        "printed_page": 9
+      },
+      {
+        "word": "superficial",
+        "physical_page": 20,
+        "printed_page": 9
+      },
+      {
+        "word": "vertical",
+        "physical_page": 20,
+        "printed_page": 9
+      },
+      {
+        "word": "parallel",
+        "physical_page": 20,
+        "printed_page": 9
+      },
+      {
+        "word": "narrow",
+        "physical_page": 20,
+        "printed_page": 9
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 38\n场景词群 | 自然地理\n深浅、方向与宽窄\nshallow  adj.  浅的\nsuperficial  adj.  表面的；不深入的\nvertical  adj.  垂直的；竖直的\nparallel  adj.  平行的\nnarrow  adj.  狭窄的\n放进句子里\nA narrow path runs beside the shallow stream.\n一条狭窄小路沿浅溪延伸。\nshallow 描述水等的深度；superficial 强调仅及表面或不深入。\n雅思应用\n阅读｜识别描述空间和性质的形容词。\n轮到你了\n遮住英文：浅水＝____ water；表面损伤＝____ damage。\n第1章 自然地理 · 原创例句与练习 · 非真题\n水平基准\n用法提醒",
+    "example_en": "A narrow path runs beside the shallow stream.",
+    "example_zh": "一条狭窄小路沿浅溪延伸。",
+    "examples": [
+      {
+        "en": "A narrow path runs beside the shallow stream.",
+        "zh": "一条狭窄小路沿浅溪延伸。",
+        "original": true
+      },
+      {
+        "en": "The two lines are parallel, and the scratches on the sign are only superficial.",
+        "zh": "这两条线彼此平行，路牌上的划痕也只在表面。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "shallow water",
+        "浅水"
+      ],
+      [
+        "superficial damage",
+        "表面损伤"
+      ],
+      [
+        "a vertical cliff",
+        "近乎垂直的峭壁"
+      ],
+      [
+        "parallel lines",
+        "平行线"
+      ],
+      [
+        "a narrow path",
+        "狭窄的小路"
+      ]
+    ],
+    "notes": "shallow 描述水等的深度；superficial 强调仅及表面或不深入。",
+    "scene": "户外观察工具页：浅溪剖面显示水深，窄道有宽度箭头；独立小框里画相对水平基准竖直的岩壁、两条平行直线、只有表面划痕的木路牌。",
+    "palette": "#F8F4EA、#253B49、#4F7994、#B7BCB5、#D4A46F、测量感的墨蓝、浅石灰和少量标记橙。",
+    "ielts": [
+      "阅读｜识别描述空间和性质的形容词。",
+      "听力｜根据深浅、宽窄和方向定位对象。"
+    ],
+    "practice": "遮住英文：浅水＝____ water；表面损伤＝____ damage。",
+    "answer": "shallow；superficial",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/superficial?topic=seeming-and-purporting-to-be"
+    ],
+    "image": "previews/38.webp"
+  },
+  {
+    "id": "39",
+    "page": 39,
+    "title": "从城郊到荒野",
+    "kind": "scene",
+    "targets": [
+      "rural",
+      "suburb",
+      "outskirts",
+      "remote",
+      "desolate",
+      "wilderness"
+    ],
+    "labels": [
+      {
+        "word": "rural",
+        "pos": "adj.",
+        "zh": "乡村的"
+      },
+      {
+        "word": "suburb",
+        "pos": "n.",
+        "zh": "郊区；城郊住宅区"
+      },
+      {
+        "word": "outskirts",
+        "pos": "n. pl.",
+        "zh": "城市边缘地带"
+      },
+      {
+        "word": "remote",
+        "pos": "adj.",
+        "zh": "偏远的"
+      },
+      {
+        "word": "desolate",
+        "pos": "adj.",
+        "zh": "荒凉的；空寂的"
+      },
+      {
+        "word": "wilderness",
+        "pos": "n.",
+        "zh": "荒野"
+      }
+    ],
+    "sources": [
+      {
+        "word": "rural",
+        "physical_page": 25,
+        "printed_page": 14
+      },
+      {
+        "word": "suburb",
+        "physical_page": 25,
+        "printed_page": 14
+      },
+      {
+        "word": "outskirts",
+        "physical_page": 25,
+        "printed_page": 14
+      },
+      {
+        "word": "remote",
+        "physical_page": 25,
+        "printed_page": 14
+      },
+      {
+        "word": "desolate",
+        "physical_page": 25,
+        "printed_page": 14
+      },
+      {
+        "word": "wilderness",
+        "physical_page": 26,
+        "printed_page": 15
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 39\n场景词群 | 自然地理\n从城郊到荒野\nrural  adj.  乡村的\nsuburb  n.  郊区；城郊住宅区\noutskirts  n. pl.  城市边缘地带\nremote  adj.  偏远的\ndesolate  adj.  荒凉的；空寂的\nwilderness  n.  荒野\n放进句子里\nWe left the quiet suburb and drove through a rural area.\n我们离开安静的郊区，开车经过一片乡村地区。\noutskirts 常用复数：on the outskirts of a city。\n雅思应用\n口语 Part 2｜比较住处、乡村与偏远旅行地。\n轮到你了\n遮住英文：在城镇边缘＝on the ____ of town；偏远村庄＝a ____ village。\n第1章 自然地理 · 原创例句与练习 · 非真题",
+    "example_en": "We left the quiet suburb and drove through a rural area.",
+    "example_zh": "我们离开安静的郊区，开车经过一片乡村地区。",
+    "examples": [
+      {
+        "en": "We left the quiet suburb and drove through a rural area.",
+        "zh": "我们离开安静的郊区，开车经过一片乡村地区。",
+        "original": true
+      },
+      {
+        "en": "Beyond the remote village, the road led towards open wilderness.",
+        "zh": "越过偏远村庄后，道路通向开阔的荒野。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a rural area",
+        "乡村地区"
+      ],
+      [
+        "a quiet suburb",
+        "安静的郊区"
+      ],
+      [
+        "on the outskirts of town",
+        "在城镇边缘"
+      ],
+      [
+        "a remote village",
+        "偏远村庄"
+      ],
+      [
+        "a desolate landscape",
+        "荒凉的景象"
+      ],
+      [
+        "untouched wilderness",
+        "未受明显开发的荒野"
+      ]
+    ],
+    "notes": "outskirts 常用复数：on the outskirts of a city。",
+    "scene": "一幅横向旅行画卷：城市建筑边缘、住宅郊区、农田村落、远处小村、空旷荒原；用虚线旅程串联，局部框选城镇边缘与偏远位置。",
+    "palette": "#F8F4EA、#253B49、#9FA7A3、#8EAA75、#B99C7D、城灰渐变为乡野绿、荒原棕，体现离城距离与景观变化。",
+    "ielts": [
+      "口语 Part 2｜比较住处、乡村与偏远旅行地。",
+      "阅读｜理解城乡环境和人类活动的分布。"
+    ],
+    "practice": "遮住英文：在城镇边缘＝on the ____ of town；偏远村庄＝a ____ village。",
+    "answer": "outskirts；remote",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/outskirts"
+    ],
+    "image": "previews/39.webp"
+  },
+  {
+    "id": "40",
+    "page": 40,
+    "title": "远近与边缘",
+    "kind": "scene",
+    "targets": [
+      "distant",
+      "adjacent",
+      "border",
+      "margin",
+      "fringe",
+      "gap"
+    ],
+    "labels": [
+      {
+        "word": "distant",
+        "pos": "adj.",
+        "zh": "遥远的"
+      },
+      {
+        "word": "adjacent",
+        "pos": "adj.",
+        "zh": "相邻的"
+      },
+      {
+        "word": "border",
+        "pos": "n.",
+        "zh": "边界；边缘"
+      },
+      {
+        "word": "margin",
+        "pos": "n.",
+        "zh": "边缘；边沿"
+      },
+      {
+        "word": "fringe",
+        "pos": "n.",
+        "zh": "外围；边缘"
+      },
+      {
+        "word": "gap",
+        "pos": "n.",
+        "zh": "空隙；缺口"
+      }
+    ],
+    "sources": [
+      {
+        "word": "distant",
+        "physical_page": 25,
+        "printed_page": 14
+      },
+      {
+        "word": "adjacent",
+        "physical_page": 25,
+        "printed_page": 14
+      },
+      {
+        "word": "border",
+        "physical_page": 25,
+        "printed_page": 14
+      },
+      {
+        "word": "margin",
+        "physical_page": 26,
+        "printed_page": 15
+      },
+      {
+        "word": "fringe",
+        "physical_page": 26,
+        "printed_page": 15
+      },
+      {
+        "word": "gap",
+        "physical_page": 26,
+        "printed_page": 15
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 40\n场景词群 | 自然地理\n远近与边缘\ndistant  adj.  遥远的\nadjacent  adj.  相邻的\nborder  n.  边界；边缘\nmargin  n.  边缘；边沿\nfringe  n.  外围；边缘\ngap  n.  空隙；缺口\n放进句子里\nThe campsite is adjacent to the river, with distant mountains beyond it.\n营地紧邻河流，更远处是群山。\nadjacent 后常接 to：adjacent to the river。\n雅思应用\n听力｜抓住adjacent to等词组判断位置。\n轮到你了\n遮住英文：紧邻河流＝adjacent ____ the river；栅栏缺口＝a ____ in the fence。\n第1章 自然地理 · 原创例句与练习 · 非真题\n营地（campsite）\n河流（river）\nA国\nB国",
+    "example_en": "The campsite is adjacent to the river, with distant mountains beyond it.",
+    "example_zh": "营地紧邻河流，更远处是群山。",
+    "examples": [
+      {
+        "en": "The campsite is adjacent to the river, with distant mountains beyond it.",
+        "zh": "营地紧邻河流，更远处是群山。",
+        "original": true
+      },
+      {
+        "en": "We passed through a gap in the fence at the fringe of the forest.",
+        "zh": "我们从森林边缘栅栏上的缺口穿了过去。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "distant mountains",
+        "远处的群山"
+      ],
+      [
+        "adjacent to the river",
+        "紧邻河流"
+      ],
+      [
+        "a national border",
+        "国界"
+      ],
+      [
+        "at the margin of the lake",
+        "在湖的边缘"
+      ],
+      [
+        "on the fringe of the forest",
+        "在森林边缘"
+      ],
+      [
+        "a gap in the fence",
+        "栅栏上的缺口"
+      ]
+    ],
+    "notes": "adjacent 后常接 to：adjacent to the river。",
+    "scene": "虚构营地平面地图：营地紧邻河流，远山位于远景；森林外围有一处栅栏缺口；湖边小植被带表示margin。独立小图用虚构A、B两国边界展示border。",
+    "palette": "#F8F4EA、#253B49、#89A083、#6D9CAB、#9D8EAC、地图绿与河流蓝为主体，边界紫只用于位置提示。",
+    "ielts": [
+      "听力｜抓住adjacent to等词组判断位置。",
+      "阅读｜区分边界、外围区域和实际缺口。"
+    ],
+    "practice": "遮住英文：紧邻河流＝adjacent ____ the river；栅栏缺口＝a ____ in the fence。",
+    "answer": "to；gap",
+    "reference_urls": [],
+    "image": "previews/40.webp"
+  },
+  {
+    "id": "41",
+    "page": 41,
+    "title": "污染从哪里来",
+    "kind": "scene",
+    "targets": [
+      "toxic",
+      "pollution",
+      "pollutant",
+      "contaminate",
+      "smog",
+      "fume"
+    ],
+    "labels": [
+      {
+        "word": "toxic",
+        "pos": "adj.",
+        "zh": "有毒的"
+      },
+      {
+        "word": "pollution",
+        "pos": "n.",
+        "zh": "污染"
+      },
+      {
+        "word": "pollutant",
+        "pos": "n.",
+        "zh": "污染物"
+      },
+      {
+        "word": "contaminate",
+        "pos": "v.",
+        "zh": "污染；使受污染"
+      },
+      {
+        "word": "smog",
+        "pos": "n.",
+        "zh": "烟雾；污染性雾霾"
+      },
+      {
+        "word": "fume",
+        "pos": "n.（常用复数fumes）",
+        "zh": "刺激性或有害烟气"
+      }
+    ],
+    "sources": [
+      {
+        "word": "toxic",
+        "physical_page": 25,
+        "printed_page": 14
+      },
+      {
+        "word": "pollution",
+        "physical_page": 25,
+        "printed_page": 14
+      },
+      {
+        "word": "pollutant",
+        "physical_page": 25,
+        "printed_page": 14
+      },
+      {
+        "word": "contaminate",
+        "physical_page": 25,
+        "printed_page": 14
+      },
+      {
+        "word": "smog",
+        "physical_page": 16,
+        "printed_page": 5
+      },
+      {
+        "word": "fume",
+        "physical_page": 16,
+        "printed_page": 5
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 41\n场景词群 | 自然地理\n污染从哪里来\ntoxic  adj.  有毒的\npollution  n.  污染\npollutant  n.  污染物\ncontaminate  v.  污染；使受污染\nsmog  n.  烟雾；污染性雾霾\nfume  n.（常用复数fumes）  刺激性或有害烟气\n放进句子里\nExhaust fumes contribute to air pollution in busy streets.\n繁忙街道上的汽车尾气会加剧空气污染。\npollution 是污染现象；pollutant 是造成污染的物质。\n雅思应用\n阅读｜区分污染来源、污染物和受影响对象。\n轮到你了\n遮住英文：空气污染＝air ____；一种空气污染物＝an air ____。\n第1章 自然地理 · 原创例句与练习 · 非真题\n工厂排放\n交通排放\n工业废水排放\n河水采样\nfumes 有害烟气\nsmog 污染性雾霾\ncontaminate 使河水受污染\ntoxic 有毒的（检测示意）",
+    "example_en": "Exhaust fumes contribute to air pollution in busy streets.",
+    "example_zh": "繁忙街道上的汽车尾气会加剧空气污染。",
+    "examples": [
+      {
+        "en": "Exhaust fumes contribute to air pollution in busy streets.",
+        "zh": "繁忙街道上的汽车尾气会加剧空气污染。",
+        "original": true
+      },
+      {
+        "en": "Toxic chemicals can contaminate rivers and drinking water.",
+        "zh": "有毒化学物质可能污染河流和饮用水。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "toxic chemicals",
+        "有毒化学物质"
+      ],
+      [
+        "air pollution",
+        "空气污染"
+      ],
+      [
+        "an air pollutant",
+        "一种空气污染物"
+      ],
+      [
+        "contaminate drinking water",
+        "污染饮用水"
+      ],
+      [
+        "a layer of smog",
+        "一层烟雾"
+      ],
+      [
+        "exhaust fumes",
+        "废气；尾气"
+      ]
+    ],
+    "notes": "pollution 是污染现象；pollutant 是造成污染的物质。",
+    "scene": "环境观察场景：一侧交通道路与工厂排放，远处城市被薄层污染性霾遮蔽；另一侧用独立河水采样窗表现污染风险。用小标签区分污染源、污染物与受影响的空气和水。",
+    "palette": "#F8F4EA、#253B49、#91979A、#C6BA77、#D2996A、烟灰与偏灰酸黄呈现受影响环境，警示橙用于污染源。",
+    "ielts": [
+      "阅读｜区分污染来源、污染物和受影响对象。",
+      "写作 Task 2｜练习用具体原因与措施讨论污染治理。"
+    ],
+    "practice": "遮住英文：空气污染＝air ____；一种空气污染物＝an air ____。",
+    "answer": "pollution；pollutant",
+    "reference_urls": [
+      "https://www.merriam-webster.com/dictionary/fume",
+      "https://www.epa.gov/ground-level-ozone-pollution/ground-level-ozone-basics"
+    ],
+    "image": "previews/41.webp"
+  },
+  {
+    "id": "42",
+    "page": 42,
+    "title": "土地退化与修复",
+    "kind": "scene",
+    "targets": [
+      "deforest",
+      "barren",
+      "fertile",
+      "fertilise"
+    ],
+    "labels": [
+      {
+        "word": "deforest",
+        "pos": "v.",
+        "zh": "砍伐某地的森林"
+      },
+      {
+        "word": "barren",
+        "pos": "adj.",
+        "zh": "贫瘠的；不长植物的"
+      },
+      {
+        "word": "fertile",
+        "pos": "adj.",
+        "zh": "肥沃的"
+      },
+      {
+        "word": "fertilise",
+        "pos": "v.",
+        "zh": "给……施肥"
+      }
+    ],
+    "sources": [
+      {
+        "word": "deforest",
+        "physical_page": 27,
+        "printed_page": 16
+      },
+      {
+        "word": "barren",
+        "physical_page": 27,
+        "printed_page": 16
+      },
+      {
+        "word": "fertile",
+        "physical_page": 27,
+        "printed_page": 16
+      },
+      {
+        "word": "fertilise",
+        "physical_page": 27,
+        "printed_page": 16
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 42\n场景词群 | 自然地理\n土地退化与修复\ndeforest  v.  砍伐某地的森林\nbarren  adj.  贫瘠的；不长植物的\nfertile  adj.  肥沃的\nfertilise  v.  给……施肥\n放进句子里\nLarge areas were deforested to make room for farms.\n大片地区的森林被砍伐，以腾出农田。\nbarren 描述土地贫瘠；fertile 描述土壤肥沃。fertilise 是“施肥”动作。\n雅思应用\n阅读｜识别土地利用与土壤变化。\n轮到你了\n选词填空：We ____ the soil to help crops grow.（fertile / fertilise）\n第1章 自然地理 · 原创例句与练习 · 非真题\n修复地块（独立示意）\n土壤取样与覆盖（如秸秆等）\n促进地表保护与植被恢复\n贫瘠土壤（barren）\n肥沃土壤（fertile）",
+    "example_en": "Large areas were deforested to make room for farms.",
+    "example_zh": "大片地区的森林被砍伐，以腾出农田。",
+    "examples": [
+      {
+        "en": "Large areas were deforested to make room for farms.",
+        "zh": "大片地区的森林被砍伐，以腾出农田。",
+        "original": true
+      },
+      {
+        "en": "The farmers fertilise the soil before planting vegetables.",
+        "zh": "农民在种菜前给土壤施肥。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "deforest an area",
+        "砍伐一片地区的森林"
+      ],
+      [
+        "barren land",
+        "贫瘠的土地"
+      ],
+      [
+        "fertile soil",
+        "肥沃的土壤"
+      ],
+      [
+        "fertilise the soil",
+        "给土壤施肥"
+      ]
+    ],
+    "notes": "barren 描述土地贫瘠；fertile 描述土壤肥沃。fertilise 是“施肥”动作。",
+    "scene": "横向水彩田野观察图：左边保留树桩与裸露坡地，中部是研究人员采样和覆盖土壤的修复地块，右边是种植者适量施肥的菜畦与作物。背景保留一片未砍伐树林；前景放两盒土壤与苗木，让贫瘠与肥沃可比较。",
+    "palette": "#F8F4EA、#343D29、#6F8C4F、#A17B58、#D9B65B、枯土棕来自裸露坡地，修复绿来自幼苗，金黄来自成熟作物。",
+    "ielts": [
+      "阅读｜识别土地利用与土壤变化。",
+      "写作 Task 2｜讨论森林保护与土地修复。"
+    ],
+    "practice": "选词填空：We ____ the soil to help crops grow.（fertile / fertilise）",
+    "answer": "fertilise",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/deforest"
+    ],
+    "image": "previews/42.webp"
+  },
+  {
+    "id": "43",
+    "page": 43,
+    "title": "侵蚀与土壤",
+    "kind": "scene",
+    "targets": [
+      "erode",
+      "sediment",
+      "silt",
+      "muddy",
+      "clay",
+      "dirt"
+    ],
+    "labels": [
+      {
+        "word": "erode",
+        "pos": "v.",
+        "zh": "侵蚀；逐渐磨损"
+      },
+      {
+        "word": "sediment",
+        "pos": "n.",
+        "zh": "沉积物"
+      },
+      {
+        "word": "silt",
+        "pos": "n.",
+        "zh": "水流带来的细泥沙"
+      },
+      {
+        "word": "muddy",
+        "pos": "adj.",
+        "zh": "泥泞的；含泥的"
+      },
+      {
+        "word": "clay",
+        "pos": "n.",
+        "zh": "黏土"
+      },
+      {
+        "word": "dirt",
+        "pos": "n.",
+        "zh": "泥土；尘土"
+      }
+    ],
+    "sources": [
+      {
+        "word": "erode",
+        "physical_page": 18,
+        "printed_page": 7
+      },
+      {
+        "word": "sediment",
+        "physical_page": 24,
+        "printed_page": 13
+      },
+      {
+        "word": "silt",
+        "physical_page": 24,
+        "printed_page": 13
+      },
+      {
+        "word": "muddy",
+        "physical_page": 24,
+        "printed_page": 13
+      },
+      {
+        "word": "clay",
+        "physical_page": 24,
+        "printed_page": 13
+      },
+      {
+        "word": "dirt",
+        "physical_page": 24,
+        "printed_page": 13
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 43\n场景词群 | 自然地理\n侵蚀与土壤\nerode  v.  侵蚀；逐渐磨损\nsediment  n.  沉积物\nsilt  n.  水流带来的细泥沙\nmuddy  adj.  泥泞的；含泥的\nclay  n.  黏土\ndirt  n.  泥土；尘土\n放进句子里\nFast-flowing water can erode the riverbank.\n湍急的水流会侵蚀河岸。\nsediment 泛指沉积物；silt 在这里强调水流搬运后留下的细泥沙。\n雅思应用\n听力 Part 4｜听懂侵蚀与沉积过程。\n轮到你了\n看图回忆：侵蚀河岸＝____ the riverbank；一层淤泥＝a layer of ____。\n第1章 自然地理 · 原创例句与练习 · 非真题\n河水冲刷河岸，使其被侵蚀。\n水流减缓时，携带的颗粒在河湾内侧堆积形成沉积物。\n水流搬运（携带沉积物）\n河岸边的泥土形成了一条泥泞的土路。\n沉积物中较细的泥沙颗粒。\n一种细粒、具黏性的土壤材料。\n靴子上沾满了湿泥，很泥泞。\nsediment 沉积物\nsilt 细泥沙",
+    "example_en": "Fast-flowing water can erode the riverbank.",
+    "example_zh": "湍急的水流会侵蚀河岸。",
+    "examples": [
+      {
+        "en": "Fast-flowing water can erode the riverbank.",
+        "zh": "湍急的水流会侵蚀河岸。",
+        "original": true
+      },
+      {
+        "en": "The flood left a layer of silt beside the muddy path.",
+        "zh": "洪水在泥泞小路旁留下了一层淤泥。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "erode the riverbank",
+        "侵蚀河岸"
+      ],
+      [
+        "river sediment",
+        "河流沉积物"
+      ],
+      [
+        "a layer of silt",
+        "一层淤泥"
+      ],
+      [
+        "muddy water",
+        "浑浊的泥水"
+      ],
+      [
+        "clay soil",
+        "黏土土壤"
+      ],
+      [
+        "a dirt path",
+        "一条土路"
+      ]
+    ],
+    "notes": "sediment 泛指沉积物；silt 在这里强调水流搬运后留下的细泥沙。",
+    "scene": "近景水彩河流剖面：外弯河岸有被水侵蚀的缺口，缓流处堆积细泥沙；前景木板上放沉积物玻璃瓶、黏土样本和沾土的靴子，旁边一条泥泞土路。用少量透明流向线将侵蚀和沉积位置联系起来。",
+    "palette": "#F8F4EA、#45382F、#A37856、#B76E50、#6597A6、河岸泥棕、黏土赭红与溪流灰蓝构成地质观察配色。",
+    "ielts": [
+      "听力 Part 4｜听懂侵蚀与沉积过程。",
+      "阅读｜区分土壤材料、沉积物和性质。"
+    ],
+    "practice": "看图回忆：侵蚀河岸＝____ the riverbank；一层淤泥＝a layer of ____。",
+    "answer": "erode；silt",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/silt"
+    ],
+    "image": "previews/43.webp"
+  },
+  {
+    "id": "44",
+    "page": 44,
+    "title": "地图方向",
+    "kind": "scene",
+    "targets": [
+      "southern",
+      "southeast",
+      "southwest",
+      "northeast",
+      "northwest",
+      "eastern"
+    ],
+    "labels": [
+      {
+        "word": "southern",
+        "pos": "adj.",
+        "zh": "南部的"
+      },
+      {
+        "word": "southeast",
+        "pos": "n.",
+        "zh": "东南方"
+      },
+      {
+        "word": "southwest",
+        "pos": "n.",
+        "zh": "西南方"
+      },
+      {
+        "word": "northeast",
+        "pos": "n.",
+        "zh": "东北方"
+      },
+      {
+        "word": "northwest",
+        "pos": "n.",
+        "zh": "西北方"
+      },
+      {
+        "word": "eastern",
+        "pos": "adj.",
+        "zh": "东部的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "southern",
+        "physical_page": 23,
+        "printed_page": 12
+      },
+      {
+        "word": "southeast",
+        "physical_page": 24,
+        "printed_page": 13
+      },
+      {
+        "word": "southwest",
+        "physical_page": 24,
+        "printed_page": 13
+      },
+      {
+        "word": "northeast",
+        "physical_page": 24,
+        "printed_page": 13
+      },
+      {
+        "word": "northwest",
+        "physical_page": 24,
+        "printed_page": 13
+      },
+      {
+        "word": "eastern",
+        "physical_page": 24,
+        "printed_page": 13
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 44\n场景词群 | 自然地理\n地图方向\nsouthern  adj.  南部的\nsoutheast  n.  东南方\nsouthwest  n.  西南方\nnortheast  n.  东北方\nnorthwest  n.  西北方\neastern  adj.  东部的\n放进句子里\nThe campsite is to the southwest of the station.\n营地在车站的西南方。\n本图北朝上：东北在右上，东南在右下。描述相对位置时先找到参照点。\n雅思应用\n听力｜根据参照点判断地图方位。\n轮到你了\n北朝上，车站右下方的果园位于车站的哪个方向？用英文回答。\n第1章 自然地理 · 原创例句与练习 · 非真题\nN / E / S / W\n车站 station\n风车 windmill：to the northwest of the station 在车站的西北方\n湖泊 lake：to the northeast of the station 在车站的东北方\n营地 campsite：to the southwest of the station 在车站的西南方\n果园 orchard：to the southeast of the station 在车站的东南方\n公园 park：southern 南部的\neastern 东部的 coast 海岸（东部）\n用法提醒",
+    "example_en": "The campsite is to the southwest of the station.",
+    "example_zh": "营地在车站的西南方。",
+    "examples": [
+      {
+        "en": "The campsite is to the southwest of the station.",
+        "zh": "营地在车站的西南方。",
+        "original": true
+      },
+      {
+        "en": "A small village lies on the eastern coast.",
+        "zh": "一个小村庄坐落在东海岸。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the southern part",
+        "南部地区"
+      ],
+      [
+        "to the southeast of",
+        "在……的东南方"
+      ],
+      [
+        "to the southwest of",
+        "在……的西南方"
+      ],
+      [
+        "to the northeast of",
+        "在……的东北方"
+      ],
+      [
+        "to the northwest of",
+        "在……的西北方"
+      ],
+      [
+        "the eastern coast",
+        "东海岸"
+      ]
+    ],
+    "notes": "本图北朝上：东北在右上，东南在右下。描述相对位置时先找到参照点。",
+    "scene": "一幅丰富但清楚的水彩海滨小镇地图：车站居中，左下营地、右下果园、右上湖泊、左上风车；右侧海岸有小村庄，南部是一片公园。四角方位加在同一张朝北地图上，罗盘独立留白，细点线连接参照点。",
+    "palette": "#F8F4EA、#283D56、#4B6B88、#C8D4C5、#D68F47、纸白与墨蓝表现旅行地图，方向橙只强调方位和定位点。",
+    "ielts": [
+      "听力｜根据参照点判断地图方位。",
+      "阅读｜理解地区位置与地理分布。"
+    ],
+    "practice": "北朝上，车站右下方的果园位于车站的哪个方向？用英文回答。",
+    "answer": "to the southeast of the station",
+    "reference_urls": [
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/south-east_3"
+    ],
+    "image": "previews/44.webp"
+  },
+  {
+    "id": "45",
+    "page": 45,
+    "title": "oriental：读懂旧称，表达更具体",
+    "kind": "word",
+    "targets": [
+      "oriental"
+    ],
+    "labels": [
+      {
+        "word": "oriental",
+        "pos": "adj.",
+        "zh": "东方的（旧式泛称，语境受限）"
+      }
+    ],
+    "sources": [
+      {
+        "word": "oriental",
+        "physical_page": 24,
+        "printed_page": 13
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 45\n单词精讲 | 自然地理\noriental：读懂旧称，表达更具体\noriental  adj.  东方的（旧式泛称，语境受限）\n/ˌɔːriˈentəl/\n常见旧标签：oriental art  东方艺术\n放进句子里\nThe old guide uses the word “oriental”.\n这本旧指南使用了“oriental”一词。\n以阅读识别为主；用于人可能冒犯。谈艺术或文化时，尽量写明具体国家或地区。\n雅思应用\n阅读｜识别历史材料中的旧式称呼。\n轮到你了\n已知展品来自日本，用更具体的英文描述这件陶器。\n第1章 自然地理 · 原创例句与练习 · 非真题\n旅行指南（旧版）\n“oriental art” 东方艺术\n产地：日本\nJapanese prints 日本版画\n用法提醒",
+    "example_en": "The old guide uses the word “oriental”.",
+    "example_zh": "这本旧指南使用了“oriental”一词。",
+    "examples": [
+      {
+        "en": "The old guide uses the word “oriental”.",
+        "zh": "这本旧指南使用了“oriental”一词。",
+        "original": true
+      },
+      {
+        "en": "A clearer label names the country or region.",
+        "zh": "更清楚的标签会写明国家或地区。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "oriental art",
+        "“东方艺术”（旧式泛称）"
+      ]
+    ],
+    "notes": "以阅读识别为主；用于人可能冒犯。谈艺术或文化时，尽量写明具体国家或地区。",
+    "scene": "水彩博物馆整理桌：一本翻开的旧旅行指南、一张旧地图、带有已知产地信息的陶器和两张标签。旧标签的 oriental art 用浅色引号框表示引文；新版标签写明产地。以文献和物件表现语境，不安排服饰化人物或混杂地域符号。",
+    "palette": "#F8F4EA、#283950、#55748E、#A96653、#B8A783、旧地图深蓝、陶器砖红与博物馆米白支持历史用语识别场景。",
+    "ielts": [
+      "阅读｜识别历史材料中的旧式称呼。",
+      "写作｜避免含混泛称，使用准确的地区名称。"
+    ],
+    "practice": "已知展品来自日本，用更具体的英文描述这件陶器。",
+    "answer": "Japanese pottery（日本陶器）",
+    "reference_urls": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/oriental"
+    ],
+    "image": "previews/45.webp"
+  },
+  {
+    "id": "46",
+    "page": 46,
+    "title": "变化与异常",
+    "kind": "scene",
+    "targets": [
+      "inevitable",
+      "irreversible",
+      "irregularly",
+      "inappropriate",
+      "abnormal"
+    ],
+    "labels": [
+      {
+        "word": "inevitable",
+        "pos": "adj.",
+        "zh": "不可避免的"
+      },
+      {
+        "word": "irreversible",
+        "pos": "adj.",
+        "zh": "不可逆转的"
+      },
+      {
+        "word": "irregularly",
+        "pos": "adv.",
+        "zh": "不规则地；不定期地"
+      },
+      {
+        "word": "inappropriate",
+        "pos": "adj.",
+        "zh": "不合适的"
+      },
+      {
+        "word": "abnormal",
+        "pos": "adj.",
+        "zh": "异常的；不正常的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "inevitable",
+        "physical_page": 24,
+        "printed_page": 13
+      },
+      {
+        "word": "irreversible",
+        "physical_page": 24,
+        "printed_page": 13
+      },
+      {
+        "word": "irregularly",
+        "physical_page": 24,
+        "printed_page": 13
+      },
+      {
+        "word": "inappropriate",
+        "physical_page": 24,
+        "printed_page": 13
+      },
+      {
+        "word": "abnormal",
+        "physical_page": 24,
+        "printed_page": 13
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 46\n场景词群 | 自然地理\n变化与异常\ninevitable  adj.  不可避免的\nirreversible  adj.  不可逆转的\nirregularly  adv.  不规则地；不定期地\ninappropriate  adj.  不合适的\nabnormal  adj.  异常的；不正常的\n放进句子里\nThe sensors recorded abnormal temperatures at the lake.\n传感器记录到了湖区的异常气温。\ninevitable 看“能否避免发生”；irreversible 看“发生后能否恢复原状”。\n雅思应用\n阅读｜判断变化、频率与异常现象。\n轮到你了\n选词：无法避免的后果＝an ____ consequence；无法逆转的损害＝____ damage。\n第1章 自然地理 · 原创例句与练习 · 非真题\n杯子倒满后倾倒，水流出是不可避免的。\n物体破碎后，无法恢复原状，是不可逆转的。\n事件点的间隔不一致，表示不规则地（不定期地）发生。\n用小水桶应对大范围积水，措施与实际情况不匹配，是不合适的。\n正常参考带\n有一个观测点落在正常参考带之外，表示异常（不正常）。\n用法提醒",
+    "example_en": "The sensors recorded abnormal temperatures at the lake.",
+    "example_zh": "传感器记录到了湖区的异常气温。",
+    "examples": [
+      {
+        "en": "The sensors recorded abnormal temperatures at the lake.",
+        "zh": "传感器记录到了湖区的异常气温。",
+        "original": true
+      },
+      {
+        "en": "Such damage may be irreversible, so early action matters.",
+        "zh": "这种损害可能无法逆转，因此及早行动很重要。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an inevitable consequence",
+        "不可避免的后果"
+      ],
+      [
+        "irreversible damage",
+        "不可逆转的损害"
+      ],
+      [
+        "occur irregularly",
+        "不定期发生"
+      ],
+      [
+        "inappropriate measures",
+        "不合适的措施"
+      ],
+      [
+        "abnormal temperatures",
+        "异常气温"
+      ]
+    ],
+    "notes": "inevitable 看“能否避免发生”；irreversible 看“发生后能否恢复原状”。",
+    "scene": "湖边环境监测站的水彩工作台：窗外是湖泊与岸边植被，桌上有温度记录卡、时间线上间隔不齐的事件点、措施评估纸和破损物体。每个抽象词对应一张独立观察卡，异常图只用无数字的示意点和标明的正常参考带。",
+    "palette": "#F8F4EA、#344351、#6D879A、#BCC2C0、#D78A4C、监测站冷灰和对照蓝承载记录，警示橙只提示异常点。",
+    "ielts": [
+      "阅读｜判断变化、频率与异常现象。",
+      "写作 Task 2｜准确区分风险、后果和措施。"
+    ],
+    "practice": "选词：无法避免的后果＝an ____ consequence；无法逆转的损害＝____ damage。",
+    "answer": "inevitable；irreversible",
+    "reference_urls": [
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/inevitable",
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/irreversible"
+    ],
+    "image": "previews/46.webp"
+  },
+  {
+    "id": "47",
+    "page": 47,
+    "title": "强度与密集投入",
+    "kind": "scene",
+    "targets": [
+      "intensity",
+      "intensive"
+    ],
+    "labels": [
+      {
+        "word": "intensity",
+        "pos": "n.",
+        "zh": "强度"
+      },
+      {
+        "word": "intensive",
+        "pos": "adj.",
+        "zh": "密集的；投入大量精力的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "intensity",
+        "physical_page": 29,
+        "printed_page": 18
+      },
+      {
+        "word": "intensive",
+        "physical_page": 29,
+        "printed_page": 18
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 47\n场景词群 | 自然地理\n强度与密集投入\nintensity  n.  强度\nintensive  adj.  密集的；投入大量精力的\n放进句子里\nRainfall intensity increased during the afternoon.\n下午的降雨强度增大了。\nintensity 是名词，回答“强度多大”；intensive 是形容词，强调活动或投入密集。\n雅思应用\n阅读｜区分测量强度与研究方式。\n轮到你了\n填空：rainfall ____（强度）；____ research（密集研究）。\n第1章 自然地理 · 原创例句与练习 · 非真题\n降雨强度（单位时间的降雨量）\nrainfall intensity\n较小的降雨强度（同一时段）\n较大的降雨强度（同一时段）\n雨量仪 rain gauge（相同仪器）\n等长时段（相同的观测时长）\nrainfall intensity：单位时间的降雨量。\n密集的研究投入 intensive research\n研究日程（密集安排）\n采样（多次）\n讨论（多次）\n实验（多次）\n讨论 discussion\n湖区地图 lake area map\n采样 sampling\n实验 experiment",
+    "example_en": "Rainfall intensity increased during the afternoon.",
+    "example_zh": "下午的降雨强度增大了。",
+    "examples": [
+      {
+        "en": "Rainfall intensity increased during the afternoon.",
+        "zh": "下午的降雨强度增大了。",
+        "original": true
+      },
+      {
+        "en": "The team carried out intensive research into the floods.",
+        "zh": "团队对洪水进行了深入研究。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "rainfall intensity",
+        "降雨强度"
+      ],
+      [
+        "intensive research",
+        "深入、密集的研究"
+      ]
+    ],
+    "notes": "intensity 是名词，回答“强度多大”；intensive 是形容词，强调活动或投入密集。",
+    "scene": "并列水彩观察窗：左侧同一雨量仪在相同时间长度内接收不同量的雨水，体现单位时间强度；右侧研究室里是密集安排的采样、讨论和实验，人员围着湖区地图工作。中间用 n. 与 adj. 的短排版区分，避免共用一根强弱刻度。",
+    "palette": "#F8F4EA、#233D57、#4F7292、#D4DDE1、#D9904D、雨量观测的深蓝和研究日程的橙色，对应两种不同语义。",
+    "ielts": [
+      "阅读｜区分测量强度与研究方式。",
+      "写作｜正确使用名词 intensity 与形容词 intensive。"
+    ],
+    "practice": "填空：rainfall ____（强度）；____ research（密集研究）。",
+    "answer": "intensity；intensive",
+    "reference_urls": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/intensity",
+      "https://dictionary.cambridge.org/us/dictionary/english/intensive"
+    ],
+    "image": "previews/47.webp"
+  },
+  {
+    "id": "48",
+    "page": 48,
+    "title": "壮观的景色",
+    "kind": "scene",
+    "targets": [
+      "splendid",
+      "grand",
+      "magnificent",
+      "dramatic"
+    ],
+    "labels": [
+      {
+        "word": "splendid",
+        "pos": "adj.",
+        "zh": "极好的；壮丽的"
+      },
+      {
+        "word": "grand",
+        "pos": "adj.",
+        "zh": "宏伟的；壮阔的"
+      },
+      {
+        "word": "magnificent",
+        "pos": "adj.",
+        "zh": "壮丽的；令人赞叹的"
+      },
+      {
+        "word": "dramatic",
+        "pos": "adj.",
+        "zh": "引人注目的；震撼的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "splendid",
+        "physical_page": 26,
+        "printed_page": 15
+      },
+      {
+        "word": "grand",
+        "physical_page": 26,
+        "printed_page": 15
+      },
+      {
+        "word": "magnificent",
+        "physical_page": 26,
+        "printed_page": 15
+      },
+      {
+        "word": "dramatic",
+        "physical_page": 26,
+        "printed_page": 15
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 48\n场景词群 | 自然地理\n壮观的景色\nsplendid  adj.  极好的；壮丽的\ngrand  adj.  宏伟的；壮阔的\nmagnificent  adj.  壮丽的；令人赞叹的\ndramatic  adj.  引人注目的；震撼的\n放进句子里\nThe path led us to a magnificent waterfall.\n这条小路把我们带到了一道壮观的瀑布前。\n不要只堆赞美词；补一个具体细节，如陡峭岩壁、巨大落差或远处雪峰。\n雅思应用\n口语 Part 2｜描述景色，并说明震撼你的细节。\n轮到你了\n补全：一道壮观的瀑布＝a ____ waterfall；再说一个画面细节。\n第1章 自然地理 · 原创例句与练习 · 非真题\n连绵的雪峰与广阔山谷，展现出宏伟壮阔的格局。\n陡峭的岩壁与奔涌的水流形成强烈对比，格外引人注目。\n奔腾的瀑布飞泻而下，气势壮丽，令人赞叹。\n在观景步道的高处俯瞰山谷全景，景色极好而壮丽。",
+    "example_en": "The path led us to a magnificent waterfall.",
+    "example_zh": "这条小路把我们带到了一道壮观的瀑布前。",
+    "examples": [
+      {
+        "en": "The path led us to a magnificent waterfall.",
+        "zh": "这条小路把我们带到了一道壮观的瀑布前。",
+        "original": true
+      },
+      {
+        "en": "Dark cliffs gave the valley a dramatic appearance.",
+        "zh": "深色峭壁让山谷显得格外震撼。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "splendid views",
+        "壮丽的景色"
+      ],
+      [
+        "grand mountain scenery",
+        "壮阔的山景"
+      ],
+      [
+        "a magnificent waterfall",
+        "一道壮观的瀑布"
+      ],
+      [
+        "a dramatic landscape",
+        "令人震撼的地貌景观"
+      ]
+    ],
+    "notes": "不要只堆赞美词；补一个具体细节，如陡峭岩壁、巨大落差或远处雪峰。",
+    "scene": "全幅纵深水彩山谷：近处观景步道与微小旅人，中景高落差瀑布穿过深色峡谷，远景连绵雪峰被晨光点亮。四条短评价像旅行手记散落在留白区，标签对应完整景观，不虚构不同词的精确客观等级。",
+    "palette": "#F8F4EA、#393349、#857695、#6C9FB0、#DFB76D、山体灰紫、瀑布蓝白和雪峰晨金带出大尺度自然景观。",
+    "ielts": [
+      "口语 Part 2｜描述景色，并说明震撼你的细节。",
+      "阅读｜理解描写景物的评价性形容词。"
+    ],
+    "practice": "补全：一道壮观的瀑布＝a ____ waterfall；再说一个画面细节。",
+    "answer": "magnificent；示例细节：Water falls between two steep cliffs.（水从两侧陡峭岩壁之间落下。）",
+    "reference_urls": [
+      "https://www.collinsdictionary.com/us/dictionary/english/grand"
+    ],
+    "image": "previews/48.webp"
+  },
+  {
+    "id": "49",
+    "page": 49,
+    "title": "喜欢一个地方的理由",
+    "kind": "scene",
+    "targets": [
+      "super",
+      "interesting",
+      "heaven",
+      "paradise"
+    ],
+    "labels": [
+      {
+        "word": "super",
+        "pos": "adj.",
+        "zh": "很棒的（非正式，略显老派）"
+      },
+      {
+        "word": "interesting",
+        "pos": "adj.",
+        "zh": "有趣的；引人兴趣的"
+      },
+      {
+        "word": "heaven",
+        "pos": "n.",
+        "zh": "极其惬意的地方或状态（比喻）"
+      },
+      {
+        "word": "paradise",
+        "pos": "n.",
+        "zh": "乐园；理想之地（比喻）"
+      }
+    ],
+    "sources": [
+      {
+        "word": "super",
+        "physical_page": 26,
+        "printed_page": 15
+      },
+      {
+        "word": "interesting",
+        "physical_page": 26,
+        "printed_page": 15
+      },
+      {
+        "word": "heaven",
+        "physical_page": 27,
+        "printed_page": 16
+      },
+      {
+        "word": "paradise",
+        "physical_page": 27,
+        "printed_page": 16
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 49\n场景词群 | 自然地理\n喜欢一个地方的理由\nsuper  adj.  很棒的（非正式，略显老派）\ninteresting  adj.  有趣的；引人兴趣的\nheaven  n.  极其惬意的地方或状态（比喻）\nparadise  n.  乐园；理想之地（比喻）\n放进句子里\nThe garden is heaven for anyone who loves quiet afternoons.\n对喜欢安静午后的人来说，这座花园就是天堂。\nsuper 偏非正式；heaven、paradise 在这里是赞美地点的比喻，不指宗教场所。\n雅思应用\n口语｜说明喜欢某地的理由与个人感受。\n轮到你了\n为观鸟爱好者推荐图中湿地：It is a ____ for birdwatchers.\n第1章 自然地理 · 原创例句与练习 · 非真题\n自然历史博物馆（natural-history museum）\n芦苇湿地（wetland）\n观鸟屋（birdwatching hide）\n连通的花园小径与木栈道（garden path and boardwalk）\n在花园里读书，是我最放松的时光。\n坐在观鸟屋里，看着一群鸟飞过，太惬意了！",
+    "example_en": "The garden is heaven for anyone who loves quiet afternoons.",
+    "example_zh": "对喜欢安静午后的人来说，这座花园就是天堂。",
+    "examples": [
+      {
+        "en": "The garden is heaven for anyone who loves quiet afternoons.",
+        "zh": "对喜欢安静午后的人来说，这座花园就是天堂。",
+        "original": true
+      },
+      {
+        "en": "The wetland is a paradise for birdwatchers.",
+        "zh": "这片湿地是观鸟者的天堂。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a super place",
+        "一个很棒的地方"
+      ],
+      [
+        "an interesting museum",
+        "一家有趣的博物馆"
+      ],
+      [
+        "heaven for readers",
+        "读者的天堂"
+      ],
+      [
+        "a paradise for birdwatchers",
+        "观鸟者的天堂"
+      ]
+    ],
+    "notes": "super 偏非正式；heaven、paradise 在这里是赞美地点的比喻，不指宗教场所。",
+    "scene": "两张叠放的水彩旅行明信片：一张是有书和藤椅的安静花园与小型自然博物馆，另一张是芦苇湿地、观鸟屋和远处飞鸟。边缘有手写感的感受短句，人物通过阅读、观察体现偏好，不画云端宫殿或天使。",
+    "palette": "#F8F4EA、#493B4A、#75A0B4、#D9A69D、#7E9B65、午后花园的草绿、明信片桃粉和湿地晴蓝烘托轻松体验。",
+    "ielts": [
+      "口语｜说明喜欢某地的理由与个人感受。",
+      "阅读｜区分普通评价与“天堂”类比喻。"
+    ],
+    "practice": "为观鸟爱好者推荐图中湿地：It is a ____ for birdwatchers.",
+    "answer": "paradise",
+    "reference_urls": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/heaven",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/super_1"
+    ],
+    "image": "previews/49.webp"
+  },
+  {
+    "id": "50",
+    "page": 50,
+    "title": "日月与历法",
+    "kind": "scene",
+    "targets": [
+      "solar",
+      "lunar",
+      "calendar",
+      "eclipse"
+    ],
+    "labels": [
+      {
+        "word": "solar",
+        "pos": "adj.",
+        "zh": "太阳的"
+      },
+      {
+        "word": "lunar",
+        "pos": "adj.",
+        "zh": "月球的；月亮的"
+      },
+      {
+        "word": "calendar",
+        "pos": "n.",
+        "zh": "日历；历法"
+      },
+      {
+        "word": "eclipse",
+        "pos": "n.",
+        "zh": "日食；月食"
+      }
+    ],
+    "sources": [
+      {
+        "word": "solar",
+        "physical_page": 27,
+        "printed_page": 16
+      },
+      {
+        "word": "lunar",
+        "physical_page": 27,
+        "printed_page": 16
+      },
+      {
+        "word": "calendar",
+        "physical_page": 27,
+        "printed_page": 16
+      },
+      {
+        "word": "eclipse",
+        "physical_page": 27,
+        "printed_page": 16
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 50\n场景词群 | 自然地理\n日月与历法\nsolar  adj.  太阳的\nlunar  adj.  月球的；月亮的\ncalendar  n.  日历；历法\neclipse  n.  日食；月食\n放进句子里\nA lunar calendar follows the cycles of the Moon.\n阴历遵循月亮的周期。\n日食：太阳—月球—地球；月食：太阳—地球—月球。示意不按比例。\n雅思应用\n听力 Part 4｜理解天文讲解中的位置关系。\n轮到你了\n遮住图示，用英文说出日食时三个天体的排列顺序。\n第1章 自然地理 · 原创例句与练习 · 非真题\n月相日历\n月相循环\n日食：Sun 太阳 → Moon 月球 → Earth 地球\n月食：Sun 太阳 → Earth 地球 → Moon 月球",
+    "example_en": "A lunar calendar follows the cycles of the Moon.",
+    "example_zh": "阴历遵循月亮的周期。",
+    "examples": [
+      {
+        "en": "A lunar calendar follows the cycles of the Moon.",
+        "zh": "阴历遵循月亮的周期。",
+        "original": true
+      },
+      {
+        "en": "During a solar eclipse, the Moon passes between Earth and the Sun.",
+        "zh": "日食发生时，月球从地球和太阳之间经过。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "solar energy",
+        "太阳能"
+      ],
+      [
+        "a lunar calendar",
+        "一种阴历"
+      ],
+      [
+        "a calendar year",
+        "一个日历年"
+      ],
+      [
+        "a solar eclipse",
+        "日食"
+      ]
+    ],
+    "notes": "日食：太阳—月球—地球；月食：太阳—地球—月球。示意不按比例。",
+    "scene": "水彩天文手册：上部以太阳光、月面和一册月相日历构成精致观测桌；下部两条独立横向示意分别表示日食和月食，保留清楚的天体顺序和阴影锥。日历只表现月相循环，不套用某年的真实日期。",
+    "palette": "#F8F4EA、#23314C、#3B557C、#C4CAD4、#E4BB58、深空蓝、月面银灰和日光金来自三个天体，而非任意装饰色。",
+    "ielts": [
+      "听力 Part 4｜理解天文讲解中的位置关系。",
+      "阅读｜区分历法、月相与日月食。"
+    ],
+    "practice": "遮住图示，用英文说出日食时三个天体的排列顺序。",
+    "answer": "Sun → Moon → Earth。月球位于太阳和地球之间。",
+    "reference_urls": [
+      "https://science.nasa.gov/eclipses/geometry/",
+      "https://science.nasa.gov/Moon/eclipses/"
+    ],
+    "image": "previews/50.webp"
+  },
+  {
+    "id": "51",
+    "page": 51,
+    "title": "一天里的光与影",
+    "kind": "scene",
+    "targets": [
+      "sunrise",
+      "sunset",
+      "dusk",
+      "sunshine",
+      "shade",
+      "shadow"
+    ],
+    "labels": [
+      {
+        "word": "sunrise",
+        "pos": "n.",
+        "zh": "日出"
+      },
+      {
+        "word": "sunset",
+        "pos": "n.",
+        "zh": "日落"
+      },
+      {
+        "word": "dusk",
+        "pos": "n.",
+        "zh": "黄昏；暮色"
+      },
+      {
+        "word": "sunshine",
+        "pos": "n.",
+        "zh": "阳光"
+      },
+      {
+        "word": "shade",
+        "pos": "n.",
+        "zh": "阴凉处"
+      },
+      {
+        "word": "shadow",
+        "pos": "n.",
+        "zh": "影子；投影"
+      }
+    ],
+    "sources": [
+      {
+        "word": "sunrise",
+        "physical_page": 27,
+        "printed_page": 16
+      },
+      {
+        "word": "sunset",
+        "physical_page": 27,
+        "printed_page": 16
+      },
+      {
+        "word": "dusk",
+        "physical_page": 27,
+        "printed_page": 16
+      },
+      {
+        "word": "sunshine",
+        "physical_page": 28,
+        "printed_page": 17
+      },
+      {
+        "word": "shade",
+        "physical_page": 28,
+        "printed_page": 17
+      },
+      {
+        "word": "shadow",
+        "physical_page": 28,
+        "printed_page": 17
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 51\n场景词群 | 自然地理\n一天里的光与影\nsunrise  n.  日出\nsunset  n.  日落\ndusk  n.  黄昏；暮色\nsunshine  n.  阳光\nshade  n.  阴凉处\nshadow  n.  影子；投影\n放进句子里\nWe sat in the shade while the path lay in bright sunshine.\n我们坐在阴凉处，小路则沐浴在明媚的阳光里。\nshade 强调遮阳的阴凉区域；shadow 强调物体挡光形成的影子。\n雅思应用\n口语 Part 2｜用光线与时间描写景色。\n轮到你了\n选词：sit in the ____（阴凉处）；cast a long ____（影子）。\n第1章 自然地理 · 原创例句与练习 · 非真题",
+    "example_en": "We sat in the shade while the path lay in bright sunshine.",
+    "example_zh": "我们坐在阴凉处，小路则沐浴在明媚的阳光里。",
+    "examples": [
+      {
+        "en": "We sat in the shade while the path lay in bright sunshine.",
+        "zh": "我们坐在阴凉处，小路则沐浴在明媚的阳光里。",
+        "original": true
+      },
+      {
+        "en": "At sunset, the trees cast long shadows across the grass.",
+        "zh": "日落时，树木在草地上投下长长的影子。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "at sunrise",
+        "在日出时"
+      ],
+      [
+        "watch the sunset",
+        "看日落"
+      ],
+      [
+        "at dusk",
+        "在黄昏时"
+      ],
+      [
+        "bright sunshine",
+        "明媚的阳光"
+      ],
+      [
+        "in the shade",
+        "在阴凉处"
+      ],
+      [
+        "cast a shadow",
+        "投下影子"
+      ]
+    ],
+    "notes": "shade 强调遮阳的阴凉区域；shadow 强调物体挡光形成的影子。",
+    "scene": "同一湖畔公园的水彩时间长卷：左侧日出薄金，中部白昼长椅坐在树荫里，右侧低斜夕阳与长影，再以小幅暮色收尾。中央放大树荫可休息区域；旁边单独用路灯或树干的明确轮廓投影解释 shadow。",
+    "palette": "#F8F4EA、#40394B、#8B809E、#82A08A、#E3B66B、日出金、午后树绿与暮色紫来自同一公园的光线变化。",
+    "ielts": [
+      "口语 Part 2｜用光线与时间描写景色。",
+      "听力｜区分一天中的时段与具体场景。"
+    ],
+    "practice": "选词：sit in the ____（阴凉处）；cast a long ____（影子）。",
+    "answer": "shade；shadow",
+    "reference_urls": [
+      "https://blog.collinsdictionary.com/language-learners/learning-english/whats-the-difference-between-shadow-and-shade/"
+    ],
+    "image": "previews/51.webp"
+  },
+  {
+    "id": "52",
+    "page": 52,
+    "title": "环境、周围与状况",
+    "kind": "scene",
+    "targets": [
+      "environment",
+      "surrounding",
+      "condition",
+      "situation"
+    ],
+    "labels": [
+      {
+        "word": "environment",
+        "pos": "n.",
+        "zh": "环境"
+      },
+      {
+        "word": "surrounding",
+        "pos": "adj.",
+        "zh": "周围的"
+      },
+      {
+        "word": "condition",
+        "pos": "n.",
+        "zh": "状态；状况"
+      },
+      {
+        "word": "situation",
+        "pos": "n.",
+        "zh": "局面；情况"
+      }
+    ],
+    "sources": [
+      {
+        "word": "environment",
+        "physical_page": 29,
+        "printed_page": 18
+      },
+      {
+        "word": "surrounding",
+        "physical_page": 29,
+        "printed_page": 18
+      },
+      {
+        "word": "condition",
+        "physical_page": 29,
+        "printed_page": 18
+      },
+      {
+        "word": "situation",
+        "physical_page": 30,
+        "printed_page": 19
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 52\n场景词群 | 自然地理\n环境、周围与状况\nenvironment  n.  环境\nsurrounding  adj.  周围的\ncondition  n.  状态；状况\nsituation  n.  局面；情况\n放进句子里\nThe tents are in good condition, and the surrounding area is quiet.\n帐篷状态良好，周围地区也很安静。\nsurrounding + 名词，表示“周围的”；surroundings 是复数名词，表示“周围环境”。\n雅思应用\n阅读｜根据语境区分环境、状态和局面。\n轮到你了\n填空：the ____ area（周围地区）；tents in good ____（状态良好的帐篷）。\n第1章 自然地理 · 原创例句与练习 · 非真题\nthe surrounding area 周围地区\n（帐篷的状态）\n拉链完好、可正常使用\n支架稳固、无损坏\n帐篷状态良好 tents in good condition\n（当时的局面）\n积水使游客商量改道，这是他们当时面临的局面。",
+    "example_en": "The tents are in good condition, and the surrounding area is quiet.",
+    "example_zh": "帐篷状态良好，周围地区也很安静。",
+    "examples": [
+      {
+        "en": "The tents are in good condition, and the surrounding area is quiet.",
+        "zh": "帐篷状态良好，周围地区也很安静。",
+        "original": true
+      },
+      {
+        "en": "Heavy rain created a difficult situation for the campers.",
+        "zh": "大雨使露营者陷入了困境。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the natural environment",
+        "自然环境"
+      ],
+      [
+        "the surrounding area",
+        "周围地区"
+      ],
+      [
+        "in good condition",
+        "状态良好"
+      ],
+      [
+        "a difficult situation",
+        "困难的局面"
+      ]
+    ],
+    "notes": "surrounding + 名词，表示“周围的”；surroundings 是复数名词，表示“周围环境”。",
+    "scene": "水彩营地观察册：主体是山林、溪水和帐篷构成的完整环境，外圈轻线标示 surrounding area；放大帐篷拉链和支架展示 good condition；另一张独立雨天记录里，积水使游客商量改道，表现 situation。",
+    "palette": "#F8F4EA、#324539、#6C8A69、#8AA9B6、#D58E54、营地树林绿、帐篷橙和雨后天空蓝对应空间与设施观察。",
+    "ielts": [
+      "阅读｜根据语境区分环境、状态和局面。",
+      "口语｜描述营地设施及旅行中的情况。"
+    ],
+    "practice": "填空：the ____ area（周围地区）；tents in good ____（状态良好的帐篷）。",
+    "answer": "surrounding；condition",
+    "reference_urls": [
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/surrounding",
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/surroundings"
+    ],
+    "image": "previews/52.webp"
+  },
+  {
+    "id": "53",
+    "page": 53,
+    "title": "天然与人工",
+    "kind": "scene",
+    "targets": [
+      "nature",
+      "natural",
+      "artificial",
+      "synthetic"
+    ],
+    "labels": [
+      {
+        "word": "nature",
+        "pos": "n.",
+        "zh": "大自然"
+      },
+      {
+        "word": "natural",
+        "pos": "adj.",
+        "zh": "天然的；自然的"
+      },
+      {
+        "word": "artificial",
+        "pos": "adj.",
+        "zh": "人工制造的；非天然的"
+      },
+      {
+        "word": "synthetic",
+        "pos": "adj.",
+        "zh": "化学合成的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "nature",
+        "physical_page": 30,
+        "printed_page": 19
+      },
+      {
+        "word": "natural",
+        "physical_page": 30,
+        "printed_page": 19
+      },
+      {
+        "word": "artificial",
+        "physical_page": 30,
+        "printed_page": 19
+      },
+      {
+        "word": "synthetic",
+        "physical_page": 30,
+        "printed_page": 19
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 53\n场景词群 | 自然地理\n天然与人工\nnature  n.  大自然\nnatural  adj.  天然的；自然的\nartificial  adj.  人工制造的；非天然的\nsynthetic  adj.  化学合成的\n放进句子里\nCotton is a natural fibre; nylon is synthetic.\n棉是天然纤维；尼龙是合成纤维。\nartificial 范围较广，表示人工制造；synthetic 更强调通过化学方法合成。\n雅思应用\n阅读｜识别材料的来源与制造方式。\n轮到你了\n选择：棉是 a ____ fibre；尼龙是 a ____ fibre。（natural / synthetic）\n第1章 自然地理 · 原创例句与练习 · 非真题\n如森林、山川、动植物等构成的自然界\n如棉纤维，来自植物\n如人造花，由人工制作\n如尼龙，通过化学方法合成的纤维\n棉（植物来源）来自棉花植株\n天然纤维（植物等自然来源）\n尼龙（合成纤维）通过化学方法合成\n棉（天然纤维）来自植物",
+    "example_en": "Cotton is a natural fibre; nylon is synthetic.",
+    "example_zh": "棉是天然纤维；尼龙是合成纤维。",
+    "examples": [
+      {
+        "en": "Cotton is a natural fibre; nylon is synthetic.",
+        "zh": "棉是天然纤维；尼龙是合成纤维。",
+        "original": true
+      },
+      {
+        "en": "The visitor centre uses artificial light after dark.",
+        "zh": "天黑后，游客中心使用人工照明。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "protect nature",
+        "保护大自然"
+      ],
+      [
+        "natural materials",
+        "天然材料"
+      ],
+      [
+        "artificial flowers",
+        "人造花"
+      ],
+      [
+        "synthetic fibres",
+        "合成纤维"
+      ]
+    ],
+    "notes": "artificial 范围较广，表示人工制造；synthetic 更强调通过化学方法合成。",
+    "scene": "水彩材料标本桌，窗外可见树林：左侧棉铃、木片与天然纤维，右侧合成纤维线轴、结构规整的人造花和一盏灯。手写小标签说清材料来源；一条细小连接线从化学实验瓶连向合成线轴，不把人工材料全部画成塑料垃圾。",
+    "palette": "#F8F4EA、#3C4540、#7C9666、#D9CBAF、#7598B0、棉纤维米白、植物绿和实验材料蓝形成实物观察配色。",
+    "ielts": [
+      "阅读｜识别材料的来源与制造方式。",
+      "写作 Task 2｜讨论科技、材料与自然环境。"
+    ],
+    "practice": "选择：棉是 a ____ fibre；尼龙是 a ____ fibre。（natural / synthetic）",
+    "answer": "natural；synthetic",
+    "reference_urls": [
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/synthetic_1"
+    ],
+    "image": "previews/53.webp"
+  },
+  {
+    "id": "54",
+    "page": 54,
+    "title": "石油与加油站",
+    "kind": "scene",
+    "targets": [
+      "petrol",
+      "gas",
+      "gasoline",
+      "petroleum"
+    ],
+    "labels": [
+      {
+        "word": "petrol",
+        "pos": "n.",
+        "zh": "汽油（英式）"
+      },
+      {
+        "word": "gas",
+        "pos": "n.",
+        "zh": "汽油（美式口语，本卡义）"
+      },
+      {
+        "word": "gasoline",
+        "pos": "n.",
+        "zh": "汽油（美式）"
+      },
+      {
+        "word": "petroleum",
+        "pos": "n.",
+        "zh": "石油"
+      }
+    ],
+    "sources": [
+      {
+        "word": "petrol",
+        "physical_page": 30,
+        "printed_page": 19
+      },
+      {
+        "word": "gas",
+        "physical_page": 30,
+        "printed_page": 19
+      },
+      {
+        "word": "gasoline",
+        "physical_page": 30,
+        "printed_page": 19
+      },
+      {
+        "word": "petroleum",
+        "physical_page": 30,
+        "printed_page": 19
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 54\n场景词群 | 自然地理\n石油与加油站\npetrol  n.  汽油（英式）\ngas  n.  汽油（美式口语，本卡义）\ngasoline  n.  汽油（美式）\npetroleum  n.  石油\n放进句子里\nWe stopped for petrol before driving into the mountains.\n开车进山之前，我们停下来加了汽油。\npetrol＝gasoline；美式 gas 也可指汽油。gas 另有“气体”义，petroleum 指石油。\n雅思应用\n听力｜辨认租车、加油中的英美表达。\n轮到你了\n配对：英国汽油 petrol＝美国 ____；制造汽油的石油＝____。\n第1章 自然地理 · 原创例句与练习 · 非真题\n加油站 gas station n. 加油站\nmountains n. 山脉；山区\ndrive v. 开车；驾驶\ncar n. 汽车；小汽车\nmap n. 地图\nrefuel v. 加油；为…加注燃料\npetrol（UK）汽油（英式）\ngasoline（US）汽油（美式）\ngas（US, colloquial）汽油（美式口语）\n石油储层 oil reservoir n. 石油储层\n炼制 refine v. 炼制；精炼\n炼油厂 refinery n. 炼油厂\n汽油 gasoline n. 汽油\n柴油 diesel n. 柴油\n润滑油 lubricating oil n. 润滑油\n沥青 asphalt n. 沥青等\n关系：petroleum（石油）是原料，经过炼制可得到 gasoline（汽油）等多种产品。\n用法提醒",
+    "example_en": "We stopped for petrol before driving into the mountains.",
+    "example_zh": "开车进山之前，我们停下来加了汽油。",
+    "examples": [
+      {
+        "en": "We stopped for petrol before driving into the mountains.",
+        "zh": "开车进山之前，我们停下来加了汽油。",
+        "original": true
+      },
+      {
+        "en": "Gasoline is one of the fuels made from petroleum.",
+        "zh": "汽油是由石油加工得到的燃料之一。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "unleaded petrol",
+        "无铅汽油"
+      ],
+      [
+        "a tank of gas",
+        "一箱汽油"
+      ],
+      [
+        "a gasoline engine",
+        "汽油发动机"
+      ],
+      [
+        "petroleum reserves",
+        "石油储量"
+      ]
+    ],
+    "notes": "petrol＝gasoline；美式 gas 也可指汽油。gas 另有“气体”义，petroleum 指石油。",
+    "scene": "水彩公路旅行与能源小示意：主画面是一辆停在加油站的车、纸地图和山路；旁边两张地域标签并排写 UK petrol 与 US gasoline / gas。下部独立概念带从地下石油储层经过炼制设施通向汽油及其他产品，汽油小瓶为浅透明色。",
+    "palette": "#F8F4EA、#302F31、#595B59、#B44E46、#DFCA9C、原油炭黑、加油站砖红和旧旅行地图米白突出资源与出行场景。",
+    "ielts": [
+      "听力｜辨认租车、加油中的英美表达。",
+      "阅读｜区分能源原料与加工后的燃料。"
+    ],
+    "practice": "配对：英国汽油 petrol＝美国 ____；制造汽油的石油＝____。",
+    "answer": "gasoline（或 gas）；petroleum",
+    "reference_urls": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/petrol",
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/gasoline",
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/gas_1",
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/petroleum"
+    ],
+    "image": "previews/54.webp"
   }
 ]
