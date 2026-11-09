@@ -1,0 +1,4162 @@
+[
+  {
+    "id": "01",
+    "page": 1,
+    "title": "体育新闻怎样出炉",
+    "kind": "scene",
+    "targets": [
+      "medium",
+      "press",
+      "journalist",
+      "editor"
+    ],
+    "labels": [
+      {
+        "word": "medium",
+        "pos": "n.",
+        "zh": "媒介"
+      },
+      {
+        "word": "press",
+        "pos": "n.",
+        "zh": "新闻界；报刊"
+      },
+      {
+        "word": "journalist",
+        "pos": "n.",
+        "zh": "记者"
+      },
+      {
+        "word": "editor",
+        "pos": "n.",
+        "zh": "编辑"
+      }
+    ],
+    "sources": [
+      {
+        "word": "medium",
+        "physical_page": 121,
+        "printed_page": 110
+      },
+      {
+        "word": "press",
+        "physical_page": 121,
+        "printed_page": 110
+      },
+      {
+        "word": "journalist",
+        "physical_page": 121,
+        "printed_page": 110
+      },
+      {
+        "word": "editor",
+        "physical_page": 121,
+        "printed_page": 110
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 01\n场景词群 | 娱乐运动\n体育新闻怎样出炉\nmedium  n.  媒介\npress  n.  新闻界；报刊\njournalist  n.  记者\neditor  n.  编辑\n放进句子里\nThe journalist sent the match report to her editor.\n记者把比赛报道发给了她的编辑。\n用法提醒\nmedium 指传播渠道，复数常用 media；the press 可统称新闻界。\n雅思应用\n写作 Task 2｜举例说明媒体如何报道体育\n轮到你了\n用 medium 说出一种获取体育新闻的渠道。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The journalist sent the match report to her editor.",
+    "example_zh": "记者把比赛报道发给了她的编辑。",
+    "examples": [
+      {
+        "en": "The journalist sent the match report to her editor.",
+        "zh": "记者把比赛报道发给了她的编辑。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a news medium",
+        "一种新闻媒介"
+      ],
+      [
+        "the local press",
+        "当地新闻界"
+      ],
+      [
+        "a sports journalist",
+        "体育记者"
+      ]
+    ],
+    "notes": "medium 指传播渠道，复数常用 media；the press 可统称新闻界。",
+    "scene": "One immersive sports newsroom with a continuous room opening onto a football venue through a glass wall. Journalist callout points to a person interviewing an athlete and holding a notebook. Editor callout points to a woman revising a draft at a desk with a red pencil. Press callout points to a cluster of local news reporters and newspaper stacks, medium callout to a single radio receiver as one channel for a broadcast. No fake newspaper headlines or background words.",
+    "palette": "新闻编辑台用赭红和墨蓝，窗外球场用自然绿，区别采编与赛事现场。",
+    "ielts": "写作 Task 2｜举例说明媒体如何报道体育",
+    "practice": "用 medium 说出一种获取体育新闻的渠道。",
+    "answer": "Radio is a useful medium for following live sport.",
+    "reference_urls": [],
+    "image": "previews/01.webp"
+  },
+  {
+    "id": "02",
+    "page": 2,
+    "title": "预料与等待",
+    "kind": "contrast",
+    "targets": [
+      "foresee",
+      "anticipate",
+      "expect",
+      "await"
+    ],
+    "labels": [
+      {
+        "word": "foresee",
+        "pos": "v.",
+        "zh": "预见"
+      },
+      {
+        "word": "anticipate",
+        "pos": "v.",
+        "zh": "预料；预作准备"
+      },
+      {
+        "word": "expect",
+        "pos": "v.",
+        "zh": "预计"
+      },
+      {
+        "word": "await",
+        "pos": "v.",
+        "zh": "等待"
+      }
+    ],
+    "sources": [
+      {
+        "word": "foresee",
+        "physical_page": 122,
+        "printed_page": 111
+      },
+      {
+        "word": "anticipate",
+        "physical_page": 122,
+        "printed_page": 111
+      },
+      {
+        "word": "expect",
+        "physical_page": 122,
+        "printed_page": 111
+      },
+      {
+        "word": "await",
+        "physical_page": 122,
+        "printed_page": 111
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 02\n词义辨析 | 娱乐运动\n预料与等待\nforesee  v.  预见\nanticipate  v.  预料；预作准备\nexpect  v.  预计\nawait  v.  等待\n放进句子里\nWe anticipated rain, so we put up a canopy.\n我们预料会下雨，所以搭了雨棚。\n用法提醒\n前三词都可谈预期；await 直接接等待的对象。\n雅思应用\n听力 Part 3｜区分预计与等待\n轮到你了\n填一词：观众正在等结果。The audience is ___ the result.\n第9章 娱乐运动 · 原创例句与练习 · 非真题\nPlan B: Cancellation?\nProducer\nCREW\nFestival Entry\nReservations (Bookings) 1,280",
+    "example_en": "We anticipated rain, so we put up a canopy.",
+    "example_zh": "我们预料会下雨，所以搭了雨棚。",
+    "examples": [
+      {
+        "en": "We anticipated rain, so we put up a canopy.",
+        "zh": "我们预料会下雨，所以搭了雨棚。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "foresee a problem",
+        "预见问题"
+      ],
+      [
+        "anticipate delays",
+        "预料延误"
+      ],
+      [
+        "expect a large turnout",
+        "预计到场人数多"
+      ],
+      [
+        "await the result",
+        "等待结果"
+      ]
+    ],
+    "notes": "前三词都可谈预期；await 直接接等待的对象。",
+    "scene": "One cinematic outdoor community festival staging ground with four visually coherent parts. At planning table a producer checks dark approaching clouds and sketches a possible cancellation (foresee). Nearby a crew unfolds a rain canopy before rain (anticipate). At entry a coordinator estimates likely turnout from reservations (expect). An audience already seated watches a closed curtain and wall clock (await). Keep these labels precisely tied to evidence, and no false exclusive rules: usage note explicitly says meanings overlap.",
+    "palette": "阴云靛蓝与雨棚珊瑚橙区分预判和准备，台前暖灯表现等待。",
+    "ielts": "听力 Part 3｜区分预计与等待",
+    "practice": "填一词：观众正在等结果。The audience is ___ the result.",
+    "answer": "awaiting。可比较 The audience is waiting for the result.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/anticipate",
+      "https://dictionary.cambridge.org/grammar/british-grammar/expect-hope-wait"
+    ],
+    "image": "previews/02.webp"
+  },
+  {
+    "id": "03",
+    "page": 3,
+    "title": "recreation",
+    "kind": "word",
+    "targets": [
+      "recreation"
+    ],
+    "labels": [
+      {
+        "word": "recreation",
+        "pos": "n.",
+        "zh": "休闲活动"
+      }
+    ],
+    "sources": [
+      {
+        "word": "recreation",
+        "physical_page": 122,
+        "printed_page": 111
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 03\n单词精讲 | 娱乐运动\nrecreation\n/ˌrek.riˈeɪ.ʃən/  recreation  n.  休闲活动\n闲暇时让人放松或愉快的活动。\n常用搭配  outdoor recreation · a recreation centre\n放进句子里\nThe riverside park provides space for outdoor recreation.\n这座河滨公园为户外休闲活动提供了空间。\n用法提醒\n表示休闲活动这个总称时，通常用不可数名词。\n雅思应用\n写作 Task 2｜解释公共公园的用途\n轮到你了\n用 outdoor recreation 写一句关于社区设施的建议。\n第9章 娱乐运动 · 原创例句与练习 · 非真题\nriverside park  n. 河滨公园\nbadminton  n. 羽毛球\ncycling  n. 骑自行车\npicnic  n. 野餐",
+    "example_en": "The riverside park provides space for outdoor recreation.",
+    "example_zh": "这座河滨公园为户外休闲活动提供了空间。",
+    "examples": [
+      {
+        "en": "The riverside park provides space for outdoor recreation.",
+        "zh": "这座河滨公园为户外休闲活动提供了空间。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "outdoor recreation",
+        "户外休闲"
+      ],
+      [
+        "a recreation centre",
+        "休闲活动中心"
+      ]
+    ],
+    "notes": "表示休闲活动这个总称时，通常用不可数名词。",
+    "scene": "Word masterclass like atmosphere. Put huge recreation and accurate IPA plus n. and 休闲活动 at upper left. Upper right through middle is a luminous riverside park on a relaxed weekend with neighbors cycling on a path and playing casual badminton, plus a family taking a picnic. The activities show pleasure and relaxation, no competitive scoreboard. Add a compact collocations band.",
+    "palette": "河岸草绿、阳光蜜黄和水面蓝，体现轻松户外休闲。",
+    "ielts": "写作 Task 2｜解释公共公园的用途",
+    "practice": "用 outdoor recreation 写一句关于社区设施的建议。",
+    "answer": "The council should provide more space for outdoor recreation.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/pronunciation/english/recreation"
+    ],
+    "image": "previews/03.webp"
+  },
+  {
+    "id": "04",
+    "page": 4,
+    "title": "旧报社的三种工作",
+    "kind": "scene",
+    "targets": [
+      "correspondent",
+      "typist",
+      "messenger"
+    ],
+    "labels": [
+      {
+        "word": "correspondent",
+        "pos": "n.",
+        "zh": "通讯记者"
+      },
+      {
+        "word": "typist",
+        "pos": "n.",
+        "zh": "打字员"
+      },
+      {
+        "word": "messenger",
+        "pos": "n.",
+        "zh": "信使；送信人"
+      }
+    ],
+    "sources": [
+      {
+        "word": "correspondent",
+        "physical_page": 121,
+        "printed_page": 110
+      },
+      {
+        "word": "typist",
+        "physical_page": 121,
+        "printed_page": 110
+      },
+      {
+        "word": "messenger",
+        "physical_page": 121,
+        "printed_page": 110
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 04\n场景词群 | 娱乐运动\n旧报社的三种工作\ncorrespondent  n.  通讯记者\ntypist  n.  打字员\nmessenger  n.  信使；送信人\n地方新闻编辑部\n现场\n打字台\n送信\n放进句子里\nThe correspondent phoned in a report, and the typist prepared a clean copy.\n通讯记者通过电话发回报道，打字员整理出一份清稿。\n用法提醒\ncorrespondent 常负责特定地区或领域；messenger 负责传递消息或物件。\n雅思应用\n听力 Part 4｜听懂工作角色及其分工\n轮到你了\n用 messenger 描述一份纸质邀请函如何送达。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The correspondent phoned in a report, and the typist prepared a clean copy.",
+    "example_zh": "通讯记者通过电话发回报道，打字员整理出一份清稿。",
+    "examples": [
+      {
+        "en": "The correspondent phoned in a report, and the typist prepared a clean copy.",
+        "zh": "通讯记者通过电话发回报道，打字员整理出一份清稿。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a foreign correspondent",
+        "驻外记者"
+      ],
+      [
+        "a skilled typist",
+        "熟练的打字员"
+      ],
+      [
+        "send a messenger",
+        "派人送信"
+      ]
+    ],
+    "notes": "correspondent 常负责特定地区或领域；messenger 负责传递消息或物件。",
+    "scene": "历史博物馆还原的旧式地方新闻编辑部。一个连续横向空间，左侧窗外可见远处运动场，correspondent 指向从赛事现场来电的通讯记者的小型场景窗，明确记者在打现场电话；typist 指向中央录入报道的老式打字机操作员；messenger 指向右方跨入门槛、把有封蜡的纸信递给工作人员的送信人。三者各有独立短引线，只将「现场」「打字台」「送信」用于极短场景提示（可选）。不将信使误画为送报纸。不要在下方复现词头。",
+    "palette": "老报社铜褐、打字机墨绿，窗外赛事冷蓝，信封赭红强调递送对象。",
+    "ielts": "听力 Part 4｜听懂工作角色及其分工",
+    "practice": "用 messenger 描述一份纸质邀请函如何送达。",
+    "answer": "A messenger brought the invitation to the theatre.",
+    "reference_urls": [],
+    "image": "previews/04.webp"
+  },
+  {
+    "id": "05",
+    "page": 5,
+    "title": "介绍、解说与评论",
+    "kind": "contrast",
+    "targets": [
+      "critic",
+      "commentator",
+      "announcer"
+    ],
+    "labels": [
+      {
+        "word": "critic",
+        "pos": "n.",
+        "zh": "评论家"
+      },
+      {
+        "word": "commentator",
+        "pos": "n.",
+        "zh": "实况解说员"
+      },
+      {
+        "word": "announcer",
+        "pos": "n.",
+        "zh": "播音员；广播员"
+      }
+    ],
+    "sources": [
+      {
+        "word": "critic",
+        "physical_page": 121,
+        "printed_page": 110
+      },
+      {
+        "word": "commentator",
+        "physical_page": 121,
+        "printed_page": 110
+      },
+      {
+        "word": "announcer",
+        "physical_page": 121,
+        "printed_page": 110
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 05\n词义辨析 | 娱乐运动\n介绍、解说与评论\ncritic  n.  评论家\ncommentator  n.  实况解说员\nannouncer  n.  播音员；广播员\n广播台\n播报赛程\n转播席\n跟随比赛解说\n影评展评角\n撰写影评\n放进句子里\nThe announcer introduced the teams before the commentator described the action.\n播音员先介绍两支队伍，随后解说员讲述比赛实况。\n用法提醒\nannouncer 发布消息；commentator 解说或评论；critic 评价作品等。\n雅思应用\n听力 Part 3｜区分谁在播报、解说或评价\n轮到你了\n用 critic 描述一位影评人看完电影后做的事。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The announcer introduced the teams before the commentator described the action.",
+    "example_zh": "播音员先介绍两支队伍，随后解说员讲述比赛实况。",
+    "examples": [
+      {
+        "en": "The announcer introduced the teams before the commentator described the action.",
+        "zh": "播音员先介绍两支队伍，随后解说员讲述比赛实况。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a sports commentator",
+        "体育解说员"
+      ],
+      [
+        "a radio announcer",
+        "电台播音员"
+      ],
+      [
+        "a film critic",
+        "影评人"
+      ]
+    ],
+    "notes": "announcer 发布消息；commentator 解说或评论；critic 评价作品等。",
+    "scene": "一座室内运动馆的观众席、广播台和转播席在连续透视画面中。announcer 指向对着扩音麦宣读下一项赛程的人，commentator 指向从隔音转播位边看正在进行的比赛边对话筒解说的人，critic 指向在小型展评角看完体育纪录片后写评价的人，人物和工作动作清楚。可加三处极短中文场景提示「播报赛程」「跟随比赛解说」「撰写影评」，不要另加词表。",
+    "palette": "赛馆冷蓝，扩音台暖金，评论写作角深紫；三种工作可凭区域辨认。",
+    "ielts": "听力 Part 3｜区分谁在播报、解说或评价",
+    "practice": "用 critic 描述一位影评人看完电影后做的事。",
+    "answer": "The critic wrote a review of the documentary.",
+    "reference_urls": [],
+    "image": "previews/05.webp"
+  },
+  {
+    "id": "06",
+    "page": 6,
+    "title": "讲座讲义与活动传单",
+    "kind": "contrast",
+    "targets": [
+      "handout",
+      "leaflet"
+    ],
+    "labels": [
+      {
+        "word": "handout",
+        "pos": "n.",
+        "zh": "讲义；分发资料"
+      },
+      {
+        "word": "leaflet",
+        "pos": "n.",
+        "zh": "宣传单；小册子"
+      }
+    ],
+    "sources": [
+      {
+        "word": "handout",
+        "physical_page": 121,
+        "printed_page": 110
+      },
+      {
+        "word": "leaflet",
+        "physical_page": 121,
+        "printed_page": 110
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 06\n词义辨析 | 娱乐运动\n讲座讲义与活动传单\nhandout  n.  讲义；分发资料\nleaflet  n.  宣传单；小册子\n社区文化中心\n小教室\n周末音乐会\n放进句子里\nThe leaflet advertised the workshop, and the handout explained the exercises.\n传单为工作坊做宣传，讲义则说明了练习内容。\n用法提醒\n两者都可分发；handout 常用于教学，leaflet 常介绍或宣传活动。\n雅思应用\n听力 Part 2｜识别访客材料和活动信息\n轮到你了\n用 handout 说一句你在讲座上拿到的资料。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The leaflet advertised the workshop, and the handout explained the exercises.",
+    "example_zh": "传单为工作坊做宣传，讲义则说明了练习内容。",
+    "examples": [
+      {
+        "en": "The leaflet advertised the workshop, and the handout explained the exercises.",
+        "zh": "传单为工作坊做宣传，讲义则说明了练习内容。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a workshop handout",
+        "工作坊讲义"
+      ],
+      [
+        "a promotional leaflet",
+        "宣传传单"
+      ]
+    ],
+    "notes": "两者都可分发；handout 常用于教学，leaflet 常介绍或宣传活动。",
+    "scene": "社区文化中心入口到小教室的自然连续图。handout 指向讲师放到学生桌上的两页教学讲义，有简单几何图表不写正文；leaflet 指向大厅志愿者递给访客的彩色三折宣传单，单面只写「周末音乐会」。两纸张形态、使用目的和引线明确，避免双栏对照词表。",
+    "palette": "教室白纸和靛青墨、门厅传单亮橙，颜色辅助区分教学材料与宣传。",
+    "ielts": "听力 Part 2｜识别访客材料和活动信息",
+    "practice": "用 handout 说一句你在讲座上拿到的资料。",
+    "answer": "I received a handout with examples and notes during the talk.",
+    "reference_urls": [],
+    "image": "previews/06.webp"
+  },
+  {
+    "id": "07",
+    "page": 7,
+    "title": "倡导、宣传与达成共识",
+    "kind": "contrast",
+    "targets": [
+      "exponent",
+      "propaganda",
+      "consensus"
+    ],
+    "labels": [
+      {
+        "word": "exponent",
+        "pos": "n.",
+        "zh": "倡导者；拥护者"
+      },
+      {
+        "word": "propaganda",
+        "pos": "n.",
+        "zh": "宣传；鼓吹"
+      },
+      {
+        "word": "consensus",
+        "pos": "n.",
+        "zh": "共识"
+      }
+    ],
+    "sources": [
+      {
+        "word": "exponent",
+        "physical_page": 121,
+        "printed_page": 110
+      },
+      {
+        "word": "propaganda",
+        "physical_page": 122,
+        "printed_page": 111
+      },
+      {
+        "word": "consensus",
+        "physical_page": 123,
+        "printed_page": 112
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 07\n词义辨析 | 娱乐运动\n倡导、宣传与达成共识\nexponent  n.  倡导者；拥护者\npropaganda  n.  宣传；鼓吹\nconsensus  n.  共识\n社区剧场方案\n共识方案\n放进句子里\nThe group reached a consensus after hearing different views.\n听取不同意见后，小组达成了共识。\n用法提醒\npropaganda 常带贬义；reach a consensus 表示达成共识。\n雅思应用\n写作 Task 2｜区分有偏向的宣传与公共协商\n轮到你了\n用 reach a consensus 描述一次小组讨论结果。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The group reached a consensus after hearing different views.",
+    "example_zh": "听取不同意见后，小组达成了共识。",
+    "examples": [
+      {
+        "en": "The group reached a consensus after hearing different views.",
+        "zh": "听取不同意见后，小组达成了共识。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an exponent of public funding",
+        "公共拨款的倡导者"
+      ],
+      [
+        "spread propaganda",
+        "散布宣传"
+      ],
+      [
+        "reach a consensus",
+        "达成共识"
+      ]
+    ],
+    "notes": "propaganda 常带贬义；reach a consensus 表示达成共识。",
+    "scene": "社区文化空间的公共听证，主图三处自然关联但各自独立。exponent 指向拿着社区剧场方案向邻居讲解并支持这项主张的人；propaganda 指向资料展板上只用巨大笑脸、上扬图案和单一视角来推销观点的一张宣传海报；consensus 指向末端讨论桌上持不同意见的人最终对一份折中方案一起点头，在折中方案纸上只写「共识方案」。不暗示倡导本身等同宣传，不使用真实政治符号，不用文字列词。",
+    "palette": "激烈单向海报用鲜红，倾听与协商用柔和松绿，桌面自然暖木。",
+    "ielts": "写作 Task 2｜区分有偏向的宣传与公共协商",
+    "practice": "用 reach a consensus 描述一次小组讨论结果。",
+    "answer": "We reached a consensus on the opening hours of the community centre.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/exponent"
+    ],
+    "image": "previews/07.webp"
+  },
+  {
+    "id": "08",
+    "page": 8,
+    "title": "发布消息，再扩大传播",
+    "kind": "contrast",
+    "targets": [
+      "publish",
+      "disseminate"
+    ],
+    "labels": [
+      {
+        "word": "publish",
+        "pos": "v.",
+        "zh": "发布；出版"
+      },
+      {
+        "word": "disseminate",
+        "pos": "v.",
+        "zh": "传播；散布"
+      }
+    ],
+    "sources": [
+      {
+        "word": "publish",
+        "physical_page": 122,
+        "printed_page": 111
+      },
+      {
+        "word": "disseminate",
+        "physical_page": 122,
+        "printed_page": 111
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 08\n词义辨析 | 娱乐运动\n发布消息，再扩大传播\npublish  v.  发布；出版\ndisseminate  v.  传播；散布\n社区活动中心\n草稿\n公开\n发布\n社区公告栏\n社区活动公告\n社区广播\n社区活动\n放进句子里\nThe library published its schedule and disseminated it through local groups.\n图书馆发布了日程，并通过本地社群传播。\n用法提醒\npublish 强调公开发布；disseminate 强调把信息传播给更多人。\n雅思应用\n写作 Task 2｜提出扩大公共信息覆盖面的办法\n轮到你了\n用 disseminate 提出一条传播公共活动信息的建议。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The library published its schedule and disseminated it through local groups.",
+    "example_zh": "图书馆发布了日程，并通过本地社群传播。",
+    "examples": [
+      {
+        "en": "The library published its schedule and disseminated it through local groups.",
+        "zh": "图书馆发布了日程，并通过本地社群传播。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "publish a schedule",
+        "发布日程"
+      ],
+      [
+        "publish an article",
+        "发表文章"
+      ],
+      [
+        "disseminate information",
+        "传播信息"
+      ]
+    ],
+    "notes": "publish 强调公开发布；disseminate 强调把信息传播给更多人。",
+    "scene": "秋日社区活动中心一个连续宣传工作空间。publish 指向左前方工作人员把活动公告从草稿切换为公开页面的电脑，屏幕只写「发布」和小文档图标，清楚显示从草稿到公开。disseminate 指向右侧窗外工作人员通过公园公告栏、社区广播话筒和手机发送给多位居民的消息，用几条淡青短箭头从同一公告源分向三个真实场景对象，体现广泛传播，不画成因果必然。全幅主图不画另列的英文词表。",
+    "palette": "公开按钮用暖金，信息向社区展开用蓝绿，白纸作为共同的公告媒介。",
+    "ielts": "写作 Task 2｜提出扩大公共信息覆盖面的办法",
+    "practice": "用 disseminate 提出一条传播公共活动信息的建议。",
+    "answer": "Community centres could disseminate event information through local radio.",
+    "reference_urls": [],
+    "image": "previews/08.webp"
+  },
+  {
+    "id": "09",
+    "page": 9,
+    "title": "公园里的消遣与逗乐",
+    "kind": "scene",
+    "targets": [
+      "pastime",
+      "entertain",
+      "amuse"
+    ],
+    "labels": [
+      {
+        "word": "pastime",
+        "pos": "n.",
+        "zh": "消遣活动"
+      },
+      {
+        "word": "entertain",
+        "pos": "v.",
+        "zh": "使开心；娱乐"
+      },
+      {
+        "word": "amuse",
+        "pos": "v.",
+        "zh": "逗乐；使开心"
+      }
+    ],
+    "sources": [
+      {
+        "word": "pastime",
+        "physical_page": 122,
+        "printed_page": 111
+      },
+      {
+        "word": "entertain",
+        "physical_page": 122,
+        "printed_page": 111
+      },
+      {
+        "word": "amuse",
+        "physical_page": 122,
+        "printed_page": 111
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 09\n场景词群 | 娱乐运动\n公园里的消遣与逗乐\npastime  n.  消遣活动\nentertain  v.  使开心；娱乐\namuse  v.  逗乐；使开心\n放进句子里\nPainting in the park is my favourite pastime.\n在公园画画是我最喜欢的消遣。\n用法提醒\npastime 是消遣活动；amuse 常用于让人发笑，entertain 的范围更广。\n雅思应用\n口语 Part 1｜说一种常做的休闲活动\n轮到你了\n用 pastime 说一句你的消遣，再说明它为何让你放松。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "Painting in the park is my favourite pastime.",
+    "example_zh": "在公园画画是我最喜欢的消遣。",
+    "examples": [
+      {
+        "en": "Painting in the park is my favourite pastime.",
+        "zh": "在公园画画是我最喜欢的消遣。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a favourite pastime",
+        "最喜欢的消遣"
+      ],
+      [
+        "entertain an audience",
+        "娱乐观众"
+      ],
+      [
+        "amuse the children",
+        "逗孩子开心"
+      ]
+    ],
+    "notes": "pastime 是消遣活动；amuse 常用于让人发笑，entertain 的范围更广。",
+    "scene": "同一个周末绿地活动，pastime 指常来写生的人及画架；entertain 指街头音乐人给坐在草地的游客演奏，amuse 指家长用夸张纸偶把孩子逗笑，三处动作有真实角色与受众。主画面宽广有草地、树荫、自然光。两个动词的含义可以重叠，不画硬性对立。每个中英标签精确落在所指处，不在画下复现。",
+    "palette": "草地清绿和天空浅蓝，纸偶亮橙与木色乐器突出两类娱乐动作。",
+    "ielts": "口语 Part 1｜说一种常做的休闲活动",
+    "practice": "用 pastime 说一句你的消遣，再说明它为何让你放松。",
+    "answer": "Sketching is my favourite pastime because it helps me slow down.",
+    "reference_urls": [],
+    "image": "previews/09.webp"
+  },
+  {
+    "id": "10",
+    "page": 10,
+    "title": "闲聊与传闻",
+    "kind": "contrast",
+    "targets": [
+      "gossip",
+      "rumour"
+    ],
+    "labels": [
+      {
+        "word": "gossip",
+        "pos": "n.",
+        "zh": "闲聊；流言蜚语"
+      },
+      {
+        "word": "rumour",
+        "pos": "n.",
+        "zh": "未经证实的传闻"
+      }
+    ],
+    "sources": [
+      {
+        "word": "gossip",
+        "physical_page": 122,
+        "printed_page": 111
+      },
+      {
+        "word": "rumour",
+        "physical_page": 122,
+        "printed_page": 111
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 10\n词义辨析 | 娱乐运动\n闲聊与传闻\ngossip  n.  闲聊；流言蜚语\nrumour  n.  未经证实的传闻\n剧场演出公告\n《仲夏之夜》\n演出时间：本周六 19:30\n状态：如期演出\n演出可能取消？\n？\n放进句子里\nA rumour about a possible cancellation spread quickly.\n演出可能取消的传闻很快传开了。\n用法提醒\ngossip 多聊别人的私事；rumour 是未经证实的一条消息。\n雅思应用\n阅读｜区分消息是否已证实\n轮到你了\n用 rumour 说一句你会怎样核实网上的传闻。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "A rumour about a possible cancellation spread quickly.",
+    "example_zh": "演出可能取消的传闻很快传开了。",
+    "examples": [
+      {
+        "en": "A rumour about a possible cancellation spread quickly.",
+        "zh": "演出可能取消的传闻很快传开了。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "celebrity gossip",
+        "名人八卦"
+      ],
+      [
+        "a rumour spreads",
+        "传闻传开"
+      ],
+      [
+        "an unconfirmed rumour",
+        "未经证实的传闻"
+      ]
+    ],
+    "notes": "gossip 多聊别人的私事；rumour 是未经证实的一条消息。",
+    "scene": "连贯的后台咖啡角，排练间歇几位同事在左桌轻声闲聊，gossip 指向闲聊互动；桌面另一侧，一位同事手机上有清楚的小气泡「演出可能取消？」和中性的问号，rumour 指向这条具体尚未证实的消息，附近的剧场告示板仍显示该场次，没有确认取消。不要将 rumour 写成已证实事实，也不要把 gossip 限定为必假。",
+    "palette": "咖啡暖奶棕用于私人闲谈，手机和公告板用冷青表示核对信息。",
+    "ielts": "阅读｜区分消息是否已证实",
+    "practice": "用 rumour 说一句你会怎样核实网上的传闻。",
+    "answer": "I would check the theatre's official website before sharing the rumour.",
+    "reference_urls": [],
+    "image": "previews/10.webp"
+  },
+  {
+    "id": "11",
+    "page": 11,
+    "title": "节庆、盛宴与活动日程",
+    "kind": "scene",
+    "targets": [
+      "festival",
+      "feast",
+      "programme"
+    ],
+    "labels": [
+      {
+        "word": "festival",
+        "pos": "n.",
+        "zh": "节日；艺术节"
+      },
+      {
+        "word": "feast",
+        "pos": "n.",
+        "zh": "盛宴"
+      },
+      {
+        "word": "programme",
+        "pos": "n.",
+        "zh": "节目；活动日程"
+      }
+    ],
+    "sources": [
+      {
+        "word": "festival",
+        "physical_page": 123,
+        "printed_page": 112
+      },
+      {
+        "word": "feast",
+        "physical_page": 123,
+        "printed_page": 112
+      },
+      {
+        "word": "programme",
+        "physical_page": 123,
+        "printed_page": 112
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 11\n场景词群 | 娱乐运动\n节庆、盛宴与活动日程\nfestival  n.  节日；艺术节\nfeast  n.  盛宴\nprogramme  n.  节目；活动日程\n音乐\n聚餐\n舞蹈\n放进句子里\nThe festival programme included music and a feast in the square.\n节庆日程包括音乐表演和广场上的一场盛宴。\n用法提醒\nprogramme 在此指活动日程；也可以指电视节目。\n雅思应用\n听力 Part 2｜听懂节庆日程和活动安排\n轮到你了\n用 programme 介绍你会给节庆安排的一项活动。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The festival programme included music and a feast in the square.",
+    "example_zh": "节庆日程包括音乐表演和广场上的一场盛宴。",
+    "examples": [
+      {
+        "en": "The festival programme included music and a feast in the square.",
+        "zh": "节庆日程包括音乐表演和广场上的一场盛宴。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a music festival",
+        "音乐节"
+      ],
+      [
+        "a festive feast",
+        "节日盛宴"
+      ],
+      [
+        "the festival programme",
+        "节庆活动日程"
+      ]
+    ],
+    "notes": "programme 在此指活动日程；也可以指电视节目。",
+    "scene": "传统灯笼和乐队构成社区秋季文化节的连续主景。festival 指向装饰后的整个广场，feast 指向摆满共享菜肴、正在聚餐的长桌，programme 指向访客拿到的折页活动日程，折页小字仅用三项简短中文「音乐」「聚餐」「舞蹈」。不把 feast 泛指为节庆本身；这里展示 programme 的活动日程义。",
+    "palette": "节灯暖金、宴桌石榴红、折页深青，按节庆、食物和计划区分。",
+    "ielts": "听力 Part 2｜听懂节庆日程和活动安排",
+    "practice": "用 programme 介绍你会给节庆安排的一项活动。",
+    "answer": "I would include a dance performance in the festival programme.",
+    "reference_urls": [],
+    "image": "previews/11.webp"
+  },
+  {
+    "id": "12",
+    "page": 12,
+    "title": "戏剧排练和登台",
+    "kind": "scene",
+    "targets": [
+      "rehearsal",
+      "perform",
+      "drama",
+      "role",
+      "scene"
+    ],
+    "labels": [
+      {
+        "word": "rehearsal",
+        "pos": "n.",
+        "zh": "排练"
+      },
+      {
+        "word": "perform",
+        "pos": "v.",
+        "zh": "表演"
+      },
+      {
+        "word": "drama",
+        "pos": "n.",
+        "zh": "戏剧"
+      },
+      {
+        "word": "role",
+        "pos": "n.",
+        "zh": "角色"
+      },
+      {
+        "word": "scene",
+        "pos": "n.",
+        "zh": "场景；一场戏"
+      }
+    ],
+    "sources": [
+      {
+        "word": "rehearsal",
+        "physical_page": 123,
+        "printed_page": 112
+      },
+      {
+        "word": "perform",
+        "physical_page": 123,
+        "printed_page": 112
+      },
+      {
+        "word": "drama",
+        "physical_page": 123,
+        "printed_page": 112
+      },
+      {
+        "word": "role",
+        "physical_page": 124,
+        "printed_page": 113
+      },
+      {
+        "word": "scene",
+        "physical_page": 124,
+        "printed_page": 113
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 12\n场景词群 | 娱乐运动\n戏剧排练和登台\nrehearsal  n.  排练\nperform  v.  表演\ndrama  n.  戏剧\nrole  n.  角色\nscene  n.  场景；一场戏\n第2场\n放进句子里\nDuring rehearsal, I practised a scene in which I played a lighthouse keeper.\n排练时，我练习了一场戏，在里面扮演灯塔看守人。\n用法提醒\nplay the role of 指扮演某个角色；a scene 是作品中的一个场景。\n雅思应用\n口语 Part 2｜描述一次表演经历\n轮到你了\n用 rehearsal 和 role 说说你排练时扮演什么人。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "During rehearsal, I practised a scene in which I played a lighthouse keeper.",
+    "example_zh": "排练时，我练习了一场戏，在里面扮演灯塔看守人。",
+    "examples": [
+      {
+        "en": "During rehearsal, I practised a scene in which I played a lighthouse keeper.",
+        "zh": "排练时，我练习了一场戏，在里面扮演灯塔看守人。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a dress rehearsal",
+        "带妆彩排"
+      ],
+      [
+        "perform on stage",
+        "登台表演"
+      ],
+      [
+        "play the role of",
+        "扮演……的角色"
+      ],
+      [
+        "a scene from a play",
+        "戏剧中的一个场景"
+      ]
+    ],
+    "notes": "play the role of 指扮演某个角色；a scene 是作品中的一个场景。",
+    "scene": "同一剧院主场景从左侧排练区延伸到右侧晚间有观众的演出舞台，过渡自然。rehearsal 指向没有观众的工作灯下走位彩排；perform 指向正式幕布下登台的演员；drama 指向完整舞台戏剧情节，role 指向扮演守灯人的演员胸前明显提灯服饰，scene 指向导演手里剧本上标出的一个戏剧情节段落，只写「第2场」。五个标签在图中各有端点，不造词表。",
+    "palette": "排练的工作灯浅黄、正式舞台绒幕酒红与夜蓝，区分阶段。",
+    "ielts": "口语 Part 2｜描述一次表演经历",
+    "practice": "用 rehearsal 和 role 说说你排练时扮演什么人。",
+    "answer": "At rehearsal, I played the role of a school principal.",
+    "reference_urls": [],
+    "image": "previews/12.webp"
+  },
+  {
+    "id": "13",
+    "page": 13,
+    "title": "模仿动作、声音和模拟情境",
+    "kind": "contrast",
+    "targets": [
+      "imitate",
+      "mimic",
+      "simulate"
+    ],
+    "labels": [
+      {
+        "word": "imitate",
+        "pos": "v.",
+        "zh": "模仿；效仿"
+      },
+      {
+        "word": "mimic",
+        "pos": "v.",
+        "zh": "模仿动作或声音"
+      },
+      {
+        "word": "simulate",
+        "pos": "v.",
+        "zh": "模拟"
+      }
+    ],
+    "sources": [
+      {
+        "word": "imitate",
+        "physical_page": 123,
+        "printed_page": 112
+      },
+      {
+        "word": "mimic",
+        "physical_page": 123,
+        "printed_page": 112
+      },
+      {
+        "word": "simulate",
+        "physical_page": 123,
+        "printed_page": 112
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 13\n词义辨析 | 娱乐运动\n模仿动作、声音和模拟情境\nimitate  v.  模仿；效仿\nmimic  v.  模仿动作或声音\nsimulate  v.  模拟\n戏剧学校\nDrama School\n灯光\n风机\n人工降雨\n放进句子里\nThe actors mimicked bird calls while the crew simulated a storm.\n演员们模仿鸟叫声，同时工作人员模拟了一场暴风雨。\n用法提醒\nimitate 和 mimic 都可表示模仿；simulate 常指模拟整个情境或过程。\n雅思应用\n阅读｜识别练习模仿和情境模拟的目的\n轮到你了\n用 simulate 描述一个能在室内模拟的情境。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The actors mimicked bird calls while the crew simulated a storm.",
+    "example_zh": "演员们模仿鸟叫声，同时工作人员模拟了一场暴风雨。",
+    "examples": [
+      {
+        "en": "The actors mimicked bird calls while the crew simulated a storm.",
+        "zh": "演员们模仿鸟叫声，同时工作人员模拟了一场暴风雨。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "imitate a movement",
+        "模仿动作"
+      ],
+      [
+        "mimic a sound",
+        "模仿声音"
+      ],
+      [
+        "simulate a storm",
+        "模拟风暴"
+      ]
+    ],
+    "notes": "imitate 和 mimic 都可表示模仿；simulate 常指模拟整个情境或过程。",
+    "scene": "戏剧学校的海港题材课堂。imitate 指向初学者照老师的手部姿势做动作；mimic 指向演员用嘴模仿海鸥叫声，配小小海鸥剪影与声线；simulate 指向控制灯、风机、人工降雨来模拟海上暴风雨的舞台区域。不是让学生真正遇险。一个连贯空间，标签直接落在对应动作或设备上。",
+    "palette": "蓝绿色模拟海面与冷白风暴灯，练习区暖木和橙色侧光。",
+    "ielts": "阅读｜识别练习模仿和情境模拟的目的",
+    "practice": "用 simulate 描述一个能在室内模拟的情境。",
+    "answer": "The training centre can simulate an emergency at sea.",
+    "reference_urls": [],
+    "image": "previews/13.webp"
+  },
+  {
+    "id": "14",
+    "page": 14,
+    "title": "马戏棚的魔术",
+    "kind": "scene",
+    "targets": [
+      "circus",
+      "magic"
+    ],
+    "labels": [
+      {
+        "word": "circus",
+        "pos": "n.",
+        "zh": "马戏团；马戏表演"
+      },
+      {
+        "word": "magic",
+        "pos": "n.",
+        "zh": "魔术；魔法"
+      }
+    ],
+    "sources": [
+      {
+        "word": "circus",
+        "physical_page": 123,
+        "printed_page": 112
+      },
+      {
+        "word": "magic",
+        "physical_page": 123,
+        "printed_page": 112
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 14\n场景词群 | 娱乐运动\n马戏棚的魔术\ncircus  n.  马戏团；马戏表演\nmagic  n.  魔术；魔法\n放进句子里\nThe circus ended with a short magic show.\n这场马戏表演以一段简短的魔术秀收尾。\n用法提醒\nmagic 在此指表演的魔术；a magic trick 是一个魔术把戏。\n雅思应用\n口语 Part 2｜描述一次令人惊喜的演出\n轮到你了\n用 magic trick 说说观众对一个魔术把戏的反应。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The circus ended with a short magic show.",
+    "example_zh": "这场马戏表演以一段简短的魔术秀收尾。",
+    "examples": [
+      {
+        "en": "The circus ended with a short magic show.",
+        "zh": "这场马戏表演以一段简短的魔术秀收尾。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "go to the circus",
+        "去看马戏"
+      ],
+      [
+        "a magic show",
+        "魔术表演"
+      ],
+      [
+        "a magic trick",
+        "一个魔术把戏"
+      ]
+    ],
+    "notes": "magic 在此指表演的魔术；a magic trick 是一个魔术把戏。",
+    "scene": "夜晚城郊现代无动物马戏棚，温暖戏剧灯从入口自然延伸到圆形表演场。circus 指向棚内有观众和杂技演员的整体马戏表演；magic 指向前景魔术师把藏在袖里的彩绸从空帽拉出的表演动作，不能让绳索缠在儿童身上，不出现英文海报，不画小装饰图。",
+    "palette": "棚外夜蓝，内场酒红，魔术动作周围用亮金和多色彩绸。",
+    "ielts": "口语 Part 2｜描述一次令人惊喜的演出",
+    "practice": "用 magic trick 说说观众对一个魔术把戏的反应。",
+    "answer": "The audience laughed and clapped after the magic trick.",
+    "reference_urls": [],
+    "image": "previews/14.webp"
+  },
+  {
+    "id": "15",
+    "page": 15,
+    "title": "音乐会、乐团与交响曲",
+    "kind": "scene",
+    "targets": [
+      "concert",
+      "orchestra",
+      "symphony"
+    ],
+    "labels": [
+      {
+        "word": "concert",
+        "pos": "n.",
+        "zh": "音乐会"
+      },
+      {
+        "word": "orchestra",
+        "pos": "n.",
+        "zh": "管弦乐队"
+      },
+      {
+        "word": "symphony",
+        "pos": "n.",
+        "zh": "交响曲"
+      }
+    ],
+    "sources": [
+      {
+        "word": "concert",
+        "physical_page": 123,
+        "printed_page": 112
+      },
+      {
+        "word": "orchestra",
+        "physical_page": 124,
+        "printed_page": 113
+      },
+      {
+        "word": "symphony",
+        "physical_page": 124,
+        "printed_page": 113
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 15\n场景词群 | 娱乐运动\n音乐会、乐团与交响曲\nconcert  n.  音乐会\norchestra  n.  管弦乐队\nsymphony  n.  交响曲\n交响曲\n放进句子里\nThe orchestra played a symphony at the evening concert.\n管弦乐团在晚间音乐会上演奏了一首交响曲。\n用法提醒\nconcert 是活动，orchestra 是演奏者组成的乐团，symphony 是作品。\n雅思应用\n听力 Part 2｜辨认演出形式、乐团和曲目\n轮到你了\n用 orchestra 和 concert 描述你想去听的一场演出。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The orchestra played a symphony at the evening concert.",
+    "example_zh": "管弦乐团在晚间音乐会上演奏了一首交响曲。",
+    "examples": [
+      {
+        "en": "The orchestra played a symphony at the evening concert.",
+        "zh": "管弦乐团在晚间音乐会上演奏了一首交响曲。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an evening concert",
+        "晚间音乐会"
+      ],
+      [
+        "a symphony orchestra",
+        "交响乐团"
+      ],
+      [
+        "play a symphony",
+        "演奏交响曲"
+      ]
+    ],
+    "notes": "concert 是活动，orchestra 是演奏者组成的乐团，symphony 是作品。",
+    "scene": "古典音乐会从观众席看向同一舞台。concert 指向坐满观众、灯光开启的完整音乐会场；orchestra 用短括线指向一同演奏的弦乐、木管、铜管乐手；symphony 指向指挥台上能辨认的一页总谱，上方只写「交响曲」，不要使用具体著名作品、真实版权谱面或在图上发明第四个定义。要明确交响曲是乐曲，管弦乐团是一群人。",
+    "palette": "舞台暗海军蓝、提琴深琥珀与谱面暖白，场地大面积低明度突出乐手。",
+    "ielts": "听力 Part 2｜辨认演出形式、乐团和曲目",
+    "practice": "用 orchestra 和 concert 描述你想去听的一场演出。",
+    "answer": "I would like to hear a local orchestra at an outdoor concert.",
+    "reference_urls": [],
+    "image": "previews/15.webp"
+  },
+  {
+    "id": "16",
+    "page": 16,
+    "title": "剧场里看舞、听歌、看悲喜",
+    "kind": "scene",
+    "targets": [
+      "ballet",
+      "opera",
+      "comedy",
+      "tragedy"
+    ],
+    "labels": [
+      {
+        "word": "ballet",
+        "pos": "n.",
+        "zh": "芭蕾舞；芭蕾舞剧"
+      },
+      {
+        "word": "opera",
+        "pos": "n.",
+        "zh": "歌剧"
+      },
+      {
+        "word": "comedy",
+        "pos": "n.",
+        "zh": "喜剧"
+      },
+      {
+        "word": "tragedy",
+        "pos": "n.",
+        "zh": "悲剧"
+      }
+    ],
+    "sources": [
+      {
+        "word": "ballet",
+        "physical_page": 124,
+        "printed_page": 113
+      },
+      {
+        "word": "opera",
+        "physical_page": 124,
+        "printed_page": 113
+      },
+      {
+        "word": "comedy",
+        "physical_page": 124,
+        "printed_page": 113
+      },
+      {
+        "word": "tragedy",
+        "physical_page": 124,
+        "printed_page": 113
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 16\n场景词群 | 娱乐运动\n剧场里看舞、听歌、看悲喜\nballet  n.  芭蕾舞；芭蕾舞剧\nopera  n.  歌剧\ncomedy  n.  喜剧\ntragedy  n.  悲剧\n放进句子里\nThe theatre is showing a comedy this week and an opera next week.\n这周剧院演喜剧，下周演歌剧。\n用法提醒\nballet、opera 强调表演形式；comedy、tragedy 也可指不同戏剧类型。\n雅思应用\n听力 Part 2｜从演出介绍中筛选节目\n轮到你了\n用 comedy 或 opera 解释你更想看哪种演出。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The theatre is showing a comedy this week and an opera next week.",
+    "example_zh": "这周剧院演喜剧，下周演歌剧。",
+    "examples": [
+      {
+        "en": "The theatre is showing a comedy this week and an opera next week.",
+        "zh": "这周剧院演喜剧，下周演歌剧。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a ballet dancer",
+        "芭蕾舞演员"
+      ],
+      [
+        "an opera singer",
+        "歌剧演唱者"
+      ],
+      [
+        "a stage comedy",
+        "舞台喜剧"
+      ],
+      [
+        "a Shakespearean tragedy",
+        "莎士比亚悲剧"
+      ]
+    ],
+    "notes": "ballet、opera 强调表演形式；comedy、tragedy 也可指不同戏剧类型。",
+    "scene": "同一剧场接待大厅有四张带明显人物动作的巨幅舞台海报，作为主插画主体融入建筑空间，不做词条表。ballet 指向在单脚足尖站立的舞者海报，opera 指向演唱且穿戏服的歌剧角色海报，comedy 指向正在逗笑台下观众的表演画面，tragedy 指向演员演绎人物失去亲人的悲伤情节画面。四海报内不要另写文字，每个标签只在对应海报旁，注意 opera 与音乐会不是同类活动。",
+    "palette": "芭蕾柔粉、歌剧深金、喜剧暖橙、悲剧夜蓝，厅内绒幕统一视觉。",
+    "ielts": "听力 Part 2｜从演出介绍中筛选节目",
+    "practice": "用 comedy 或 opera 解释你更想看哪种演出。",
+    "answer": "I would rather see a comedy because I enjoy stories that make me laugh.",
+    "reference_urls": [],
+    "image": "previews/16.webp"
+  },
+  {
+    "id": "17",
+    "page": 17,
+    "title": "影院里的片种和评级",
+    "kind": "scene",
+    "targets": [
+      "animation",
+      "film",
+      "movie",
+      "X-rated"
+    ],
+    "labels": [
+      {
+        "word": "animation",
+        "pos": "n.",
+        "zh": "动画；动画制作"
+      },
+      {
+        "word": "film",
+        "pos": "n.",
+        "zh": "影片；胶卷"
+      },
+      {
+        "word": "movie",
+        "pos": "n.",
+        "zh": "电影"
+      },
+      {
+        "word": "X-rated",
+        "pos": "adj.",
+        "zh": "X级的；仅限成人"
+      }
+    ],
+    "sources": [
+      {
+        "word": "animation",
+        "physical_page": 124,
+        "printed_page": 113
+      },
+      {
+        "word": "film",
+        "physical_page": 124,
+        "printed_page": 113
+      },
+      {
+        "word": "movie",
+        "physical_page": 124,
+        "printed_page": 113
+      },
+      {
+        "word": "X-rated",
+        "physical_page": 124,
+        "printed_page": 113
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 17\n场景词群 | 娱乐运动\n影院里的片种和评级\nanimation  n.  动画；动画制作\nfilm  n.  影片；胶卷\nmovie  n.  电影\nX-rated  adj.  X级的；仅限成人\n电影博物馆\n旧评级示意\nX级\n放进句子里\nThe museum screened a short animation made from hand-drawn images.\n博物馆放映了一部用手绘画面制作的动画短片。\n用法提醒\nfilm 和 movie 都可指电影；X-rated 是旧制或特定制度的成人标示。\n雅思应用\n阅读｜区分影片形式和观众限制\n轮到你了\n用 animation 描述你看过的一部短片。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The museum screened a short animation made from hand-drawn images.",
+    "example_zh": "博物馆放映了一部用手绘画面制作的动画短片。",
+    "examples": [
+      {
+        "en": "The museum screened a short animation made from hand-drawn images.",
+        "zh": "博物馆放映了一部用手绘画面制作的动画短片。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an animated film",
+        "一部动画影片"
+      ],
+      [
+        "watch a movie",
+        "看电影"
+      ],
+      [
+        "an X-rated film",
+        "一部X级影片"
+      ]
+    ],
+    "notes": "film 和 movie 都可指电影；X-rated 是旧制或特定制度的成人标示。",
+    "scene": "复古电影博物馆入口到放映厅的单一连贯画面。animation 指向一叠手绘逐格小船动画制作画，film 指向手中胶片带旁的历史片筒、显出影片和胶片的关系，movie 指向放映厅同一幅无文字银幕的电影画面，X-rated 指向展柜内带清楚历史标签「旧评级示意」的纯文字样卡，不显示任何成人内容，不加具体国家年份或暗示当前评级制度。紧凑双语标签分别落于画面，不排英文词表。",
+    "palette": "暗影院紫蓝、胶片琥珀、动画稿天蓝与旧评级展签低饱和红。",
+    "ielts": "阅读｜区分影片形式和观众限制",
+    "practice": "用 animation 描述你看过的一部短片。",
+    "answer": "I saw an animation about a boat trying to find its way home.",
+    "reference_urls": [
+      "https://www.oxfordlearnersdictionaries.com/us/definition/english/x-rated"
+    ],
+    "image": "previews/17.webp"
+  },
+  {
+    "id": "18",
+    "page": 18,
+    "title": "艺术家、工艺师与画家",
+    "kind": "scene",
+    "targets": [
+      "artist",
+      "craftsman",
+      "painter"
+    ],
+    "labels": [
+      {
+        "word": "artist",
+        "pos": "n.",
+        "zh": "艺术家"
+      },
+      {
+        "word": "craftsman",
+        "pos": "n.",
+        "zh": "工匠；工艺师"
+      },
+      {
+        "word": "painter",
+        "pos": "n.",
+        "zh": "画家；油漆匠"
+      }
+    ],
+    "sources": [
+      {
+        "word": "artist",
+        "physical_page": 124,
+        "printed_page": 113
+      },
+      {
+        "word": "craftsman",
+        "physical_page": 124,
+        "printed_page": 113
+      },
+      {
+        "word": "painter",
+        "physical_page": 124,
+        "printed_page": 113
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 18\n场景词群 | 娱乐运动\n艺术家、工艺师与画家\nartist  n.  艺术家\ncraftsman  n.  工匠；工艺师\npainter  n.  画家；油漆匠\n放进句子里\nThe painter and the craftsman shared a studio with a local artist.\n这位画家和工艺师与一位本地艺术家共用一间工作室。\n用法提醒\npainter 可以是 artist；craftsman 强调精湛的制作技艺。\n雅思应用\n口语 Part 2｜描述你看过的艺术或工艺作品\n轮到你了\n用 painter 或 craftsman 描述一件你喜欢的作品是谁做的。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The painter and the craftsman shared a studio with a local artist.",
+    "example_zh": "这位画家和工艺师与一位本地艺术家共用一间工作室。",
+    "examples": [
+      {
+        "en": "The painter and the craftsman shared a studio with a local artist.",
+        "zh": "这位画家和工艺师与一位本地艺术家共用一间工作室。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a local artist",
+        "本地艺术家"
+      ],
+      [
+        "a skilled craftsman",
+        "技术娴熟的工匠"
+      ],
+      [
+        "a landscape painter",
+        "风景画家"
+      ]
+    ],
+    "notes": "painter 可以是 artist；craftsman 强调精湛的制作技艺。",
+    "scene": "社区开放工作室连续主图：artist 指向在中央用回收金属组成悬挂雕塑的艺术家；craftsman 指向用榫卯工具细致做出可使用木盒的工艺师；painter 指向窗边用颜料画港景的画家。可区分活动而不暗示艺术与工艺互斥。三人物动作、材料、引线各自清楚，勿另加词表。",
+    "palette": "金属青灰、木工琥珀、画家调色盘明亮蓝绿，呼应不同材料。",
+    "ielts": "口语 Part 2｜描述你看过的艺术或工艺作品",
+    "practice": "用 painter 或 craftsman 描述一件你喜欢的作品是谁做的。",
+    "answer": "A local craftsman made the wooden box by hand.",
+    "reference_urls": [],
+    "image": "previews/18.webp"
+  },
+  {
+    "id": "19",
+    "page": 19,
+    "title": "聚光灯下的演出",
+    "kind": "scene",
+    "targets": [
+      "stage",
+      "musical",
+      "band",
+      "solo",
+      "improvise"
+    ],
+    "labels": [
+      {
+        "word": "stage",
+        "pos": "n.",
+        "zh": "舞台"
+      },
+      {
+        "word": "musical",
+        "pos": "adj.",
+        "zh": "音乐的"
+      },
+      {
+        "word": "band",
+        "pos": "n.",
+        "zh": "乐队"
+      },
+      {
+        "word": "solo",
+        "pos": "n.",
+        "zh": "独奏"
+      },
+      {
+        "word": "improvise",
+        "pos": "v.",
+        "zh": "即兴创作"
+      }
+    ],
+    "sources": [
+      {
+        "word": "stage",
+        "physical_page": 125,
+        "printed_page": 114
+      },
+      {
+        "word": "musical",
+        "physical_page": 126,
+        "printed_page": 115
+      },
+      {
+        "word": "band",
+        "physical_page": 126,
+        "printed_page": 115
+      },
+      {
+        "word": "solo",
+        "physical_page": 126,
+        "printed_page": 115
+      },
+      {
+        "word": "improvise",
+        "physical_page": 126,
+        "printed_page": 115
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 19\n场景词群 | 娱乐运动\n聚光灯下的演出\nstage n. 舞台\nmusical adj. 音乐的\nband n. 乐队\nsolo n. 独奏\nimprovise v. 即兴创作\n双语例句\nThe band paused while the violinist improvised a solo.\n小提琴手即兴独奏时，乐队暂停了伴奏。\n用法提醒\nimprovise 强调现场创作；solo 说明独自演奏。\n雅思应用\n口语 Part 2｜描述一场现场演出\n轮到你了\n用 solo 和 improvise 说一句你听到的表演。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The band paused while the violinist improvised a solo.",
+    "example_zh": "小提琴手即兴独奏时，乐队暂停了伴奏。",
+    "examples": [
+      {
+        "en": "The band paused while the violinist improvised a solo.",
+        "zh": "小提琴手即兴独奏时，乐队暂停了伴奏。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "on stage",
+        "在舞台上"
+      ],
+      [
+        "a musical performance",
+        "一场音乐表演"
+      ],
+      [
+        "a violin solo",
+        "一段小提琴独奏"
+      ]
+    ],
+    "notes": "improvise 强调现场创作；solo 说明独自演奏。",
+    "scene": "An intimate community theatre in one continuous full-width scene. A clearly raised wooden performance platform extends in front of a theatre curtain; stage leader lands on the actual wooden platform. A seated three-piece backing band watches a lone standing violinist under one spotlight while resting their instruments; band leader brackets the group, solo points to the single violinist. Musical points to the score and instruments supporting musical expression, not the show as a whole. Improvise points to the violinist looking away from a closed score toward a trail of newly imagined notes, a subtle watercolor thought motif. The story is visually coherent, with no text on score pages.",
+    "palette": "深蓝幕布与金色聚光突出独奏，紫红幕边和暖木舞台区分乐队与演出空间。",
+    "ielts": "口语 Part 2｜描述一场现场演出",
+    "practice": "用 solo 和 improvise 说一句你听到的表演。",
+    "answer": "I heard the guitarist improvise a solo.",
+    "reference_urls": [],
+    "image": "previews/19.webp"
+  },
+  {
+    "id": "20",
+    "page": 20,
+    "title": "走进美术馆",
+    "kind": "scene",
+    "targets": [
+      "gallery",
+      "exhibition",
+      "aesthetic"
+    ],
+    "labels": [
+      {
+        "word": "gallery",
+        "pos": "n.",
+        "zh": "美术馆；画廊"
+      },
+      {
+        "word": "exhibition",
+        "pos": "n.",
+        "zh": "展览"
+      },
+      {
+        "word": "aesthetic",
+        "pos": "adj.",
+        "zh": "审美的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "gallery",
+        "physical_page": 125,
+        "printed_page": 114
+      },
+      {
+        "word": "exhibition",
+        "physical_page": 125,
+        "printed_page": 114
+      },
+      {
+        "word": "aesthetic",
+        "physical_page": 125,
+        "printed_page": 114
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 20\n场景词群 | 娱乐运动\n走进美术馆\ngallery n. 美术馆；画廊\nexhibition n. 展览\naesthetic adj. 审美的\n双语例句\nThe gallery used soft lighting to enhance the exhibition’s aesthetic appeal.\n美术馆用柔和灯光增强了展览的审美吸引力。\n用法提醒\ngallery 是场所，exhibition 是展出的活动或内容。\n雅思应用\n口语 Part 2｜描述参观过的展览\n轮到你了\n用 gallery 和 exhibition 说说你想去哪里看什么。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The gallery used soft lighting to enhance the exhibition’s aesthetic appeal.",
+    "example_zh": "美术馆用柔和灯光增强了展览的审美吸引力。",
+    "examples": [
+      {
+        "en": "The gallery used soft lighting to enhance the exhibition’s aesthetic appeal.",
+        "zh": "美术馆用柔和灯光增强了展览的审美吸引力。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an art gallery",
+        "美术馆"
+      ],
+      [
+        "a photography exhibition",
+        "摄影展"
+      ],
+      [
+        "aesthetic appeal",
+        "审美吸引力"
+      ]
+    ],
+    "notes": "gallery 是场所，exhibition 是展出的活动或内容。",
+    "scene": "Open gallery interior, a spatial view through a grand doorway. A bracketed gallery label points to the physical room, distinct from exhibition whose leader points to one temporary coordinated installation of three landscape canvases and its understated display panel. Two visitors compare how blue lighting, wall arrangement and shape affect the look of a central canvas; aesthetic label lands at this visual composition, not at a person. No fake body text; wall display panels can contain abstract illustration marks only.",
+    "palette": "石灰墙与暖琥珀展灯表现展馆，海蓝画作和薄荷蓝墙面把视线引向审美安排。",
+    "ielts": "口语 Part 2｜描述参观过的展览",
+    "practice": "用 gallery 和 exhibition 说说你想去哪里看什么。",
+    "answer": "I’d like to see a photography exhibition at a local gallery.",
+    "reference_urls": [
+      "https://www.merriam-webster.com/dictionary/aesthetic"
+    ],
+    "image": "previews/20.webp"
+  },
+  {
+    "id": "21",
+    "page": 21,
+    "title": "策展人怎么选",
+    "kind": "contrast",
+    "targets": [
+      "collect",
+      "select",
+      "opt"
+    ],
+    "labels": [
+      {
+        "word": "collect",
+        "pos": "v.",
+        "zh": "收集；收藏"
+      },
+      {
+        "word": "select",
+        "pos": "v.",
+        "zh": "挑选"
+      },
+      {
+        "word": "opt",
+        "pos": "v.",
+        "zh": "选择"
+      }
+    ],
+    "sources": [
+      {
+        "word": "collect",
+        "physical_page": 125,
+        "printed_page": 114
+      },
+      {
+        "word": "select",
+        "physical_page": 125,
+        "printed_page": 114
+      },
+      {
+        "word": "opt",
+        "physical_page": 125,
+        "printed_page": 114
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 21\n词义辨析 | 娱乐运动\n策展人怎么选\ncollect v. 收集；收藏\nselect v. 挑选\nopt v. 选择\n双语例句\nWe collected old prints and selected three for the show.\n我们收集旧版画，并挑了三张参展。\n用法提醒\nselect 后可直接接对象；opt 常接 for 或 to do。\n雅思应用\n写作 Task 1｜概括收集与筛选的流程\n轮到你了\n用 opt for 说说你更想看哪一种展览。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "We collected old prints and selected three for the show.",
+    "example_zh": "我们收集旧版画，并挑了三张参展。",
+    "examples": [
+      {
+        "en": "We collected old prints and selected three for the show.",
+        "zh": "我们收集旧版画，并挑了三张参展。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "collect prints",
+        "收藏版画"
+      ],
+      [
+        "select three prints",
+        "挑选三张版画"
+      ],
+      [
+        "opt for a guided tour",
+        "选择参加导览"
+      ]
+    ],
+    "notes": "select 后可直接接对象；opt 常接 for 或 to do。",
+    "scene": "Single curator’s workroom: a large archive crate of many received prints at left, a curator lifting one selected print out of a spread on a wide table in the middle, and the same curator’s planning sketch at right where a check-mark chooses one wall layout over another. collect points to the assembled archive crate, select to the lifted physical print, opt to the checked layout option (not a person). Read left to right with gesture and depth, not three boxes. No tiny text.",
+    "palette": "档案箱的蜂蜜棕、照片的靛青、选择标记的朱红，让收集、筛选和决定各有清楚落点。",
+    "ielts": "写作 Task 1｜概括收集与筛选的流程",
+    "practice": "用 opt for 说说你更想看哪一种展览。",
+    "answer": "I’d opt for the photography exhibition.",
+    "reference_urls": [
+      "https://www.merriam-webster.com/dictionary/opt"
+    ],
+    "image": "previews/21.webp"
+  },
+  {
+    "id": "22",
+    "page": 22,
+    "title": "同一展厅，不同作品",
+    "kind": "scene",
+    "targets": [
+      "photograph",
+      "portrait",
+      "painting",
+      "sculpture",
+      "carve"
+    ],
+    "labels": [
+      {
+        "word": "photograph",
+        "pos": "n.",
+        "zh": "照片"
+      },
+      {
+        "word": "portrait",
+        "pos": "n.",
+        "zh": "肖像"
+      },
+      {
+        "word": "painting",
+        "pos": "n.",
+        "zh": "画作"
+      },
+      {
+        "word": "sculpture",
+        "pos": "n.",
+        "zh": "雕塑"
+      },
+      {
+        "word": "carve",
+        "pos": "v.",
+        "zh": "雕刻"
+      }
+    ],
+    "sources": [
+      {
+        "word": "photograph",
+        "physical_page": 125,
+        "printed_page": 114
+      },
+      {
+        "word": "portrait",
+        "physical_page": 125,
+        "printed_page": 114
+      },
+      {
+        "word": "painting",
+        "physical_page": 125,
+        "printed_page": 114
+      },
+      {
+        "word": "sculpture",
+        "physical_page": 125,
+        "printed_page": 114
+      },
+      {
+        "word": "carve",
+        "physical_page": 126,
+        "printed_page": 115
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 22\n场景词群 | 娱乐运动\n同一展厅，不同作品\nphotograph n. 照片\nportrait n. 肖像\npainting n. 画作\nsculpture n. 雕塑\ncarve v. 雕刻\n双语例句\nThe artist carved a wooden sculpture for the exhibition.\n艺术家为展览雕刻了一件木雕。\n用法提醒\nportrait 按题材命名，肖像也可以是一张照片。\n雅思应用\n口语 Part 2｜描述一件喜欢的艺术品\n轮到你了\n用 portrait 描述一张你见过的人物作品。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The artist carved a wooden sculpture for the exhibition.",
+    "example_zh": "艺术家为展览雕刻了一件木雕。",
+    "examples": [
+      {
+        "en": "The artist carved a wooden sculpture for the exhibition.",
+        "zh": "艺术家为展览雕刻了一件木雕。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "take a photograph",
+        "拍照"
+      ],
+      [
+        "a portrait of a musician",
+        "音乐家的肖像"
+      ],
+      [
+        "carve a figure out of wood",
+        "把木头雕成人物造型"
+      ]
+    ],
+    "notes": "portrait 按题材命名，肖像也可以是一张照片。",
+    "scene": "An art museum combines a finished display with a small open demonstration table. Clearly distinguish one framed black-and-white camera photograph of a bridge, one framed painted human head-and-shoulders portrait, one large visibly brush-painted still-life canvas, one freestanding round stone sculpture on a plinth, and a demonstrator carving a wooden block with a chisel and wood shavings. Five separate cream bilingual labels point exactly to those five referents; carve ends at chisel touching wood, not at the finished sculpture. No additional signage text.",
+    "palette": "黑白照片、群青油彩与暖色木屑提供媒介对比，浅色石雕保持体积感。",
+    "ielts": "口语 Part 2｜描述一件喜欢的艺术品",
+    "practice": "用 portrait 描述一张你见过的人物作品。",
+    "answer": "I saw a portrait of a young musician at the museum.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/portrait"
+    ],
+    "image": "previews/22.webp"
+  },
+  {
+    "id": "23",
+    "page": 23,
+    "title": "画下来，还是说出来？",
+    "kind": "contrast",
+    "targets": [
+      "draw",
+      "sketch",
+      "depict",
+      "describe"
+    ],
+    "labels": [
+      {
+        "word": "draw",
+        "pos": "v.",
+        "zh": "画"
+      },
+      {
+        "word": "sketch",
+        "pos": "v.",
+        "zh": "画速写"
+      },
+      {
+        "word": "depict",
+        "pos": "v.",
+        "zh": "描绘"
+      },
+      {
+        "word": "describe",
+        "pos": "v.",
+        "zh": "描述"
+      }
+    ],
+    "sources": [
+      {
+        "word": "draw",
+        "physical_page": 125,
+        "printed_page": 114
+      },
+      {
+        "word": "sketch",
+        "physical_page": 125,
+        "printed_page": 114
+      },
+      {
+        "word": "depict",
+        "physical_page": 125,
+        "printed_page": 114
+      },
+      {
+        "word": "describe",
+        "physical_page": 125,
+        "printed_page": 114
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 23\n词义辨析 | 娱乐运动\n画下来，还是说出来？\ndraw v. 画\nsketch v. 画速写\ndepict v. 描绘\ndescribe v. 描述\nA stone bridge crosses the river.\n双语例句\nThe mural depicts boats crossing a quiet river.\n壁画描绘了船只穿过一条平静的河流。\n用法提醒\nsketch 强调快速画轮廓；describe 常用语言表达。\n雅思应用\n口语 Part 2｜用细节描述一幅画\n轮到你了\n用 depict 说一句图中壁画表现了什么。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The mural depicts boats crossing a quiet river.",
+    "example_zh": "壁画描绘了船只穿过一条平静的河流。",
+    "examples": [
+      {
+        "en": "The mural depicts boats crossing a quiet river.",
+        "zh": "壁画描绘了船只穿过一条平静的河流。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "draw a line",
+        "画一条线"
+      ],
+      [
+        "sketch a bridge",
+        "速写一座桥"
+      ],
+      [
+        "describe a scene",
+        "描述一个场景"
+      ]
+    ],
+    "notes": "sketch 强调快速画轮廓；describe 常用语言表达。",
+    "scene": "Riverfront urban-sketching class on steps. Draw points to a student carefully adding an individual pencil line, sketch to a second student’s rapidly drawn rough bridge outlines, depict to a finished mural painted on a riverside retaining wall showing boats under the same bridge. Describe points to a guide’s speech bubble showing the exact sentence ‘A stone bridge crosses the river.’ Include no other signs. All four leaders terminate within their exact action or drawing, short enough to be unmistakable. Same stone bridge in the background as in the mural.",
+    "palette": "石桥的暖灰、铅笔黑与河水青绿区分构图步骤，暖褐色话框强调语言描述。",
+    "ielts": "口语 Part 2｜用细节描述一幅画",
+    "practice": "用 depict 说一句图中壁画表现了什么。",
+    "answer": "The mural depicts boats passing beneath a stone bridge.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/depict"
+    ],
+    "image": "previews/23.webp"
+  },
+  {
+    "id": "24",
+    "page": 24,
+    "title": "音乐节的五种声音",
+    "kind": "scene",
+    "targets": [
+      "classical",
+      "jazz",
+      "rock",
+      "hip-hop",
+      "pop"
+    ],
+    "labels": [
+      {
+        "word": "classical",
+        "pos": "adj.",
+        "zh": "古典的"
+      },
+      {
+        "word": "jazz",
+        "pos": "n.",
+        "zh": "爵士乐"
+      },
+      {
+        "word": "rock",
+        "pos": "n.",
+        "zh": "摇滚乐"
+      },
+      {
+        "word": "hip-hop",
+        "pos": "n.",
+        "zh": "嘻哈音乐"
+      },
+      {
+        "word": "pop",
+        "pos": "n.",
+        "zh": "流行音乐"
+      }
+    ],
+    "sources": [
+      {
+        "word": "classical",
+        "physical_page": 126,
+        "printed_page": 115
+      },
+      {
+        "word": "jazz",
+        "physical_page": 126,
+        "printed_page": 115
+      },
+      {
+        "word": "rock",
+        "physical_page": 126,
+        "printed_page": 115
+      },
+      {
+        "word": "hip-hop",
+        "physical_page": 126,
+        "printed_page": 115
+      },
+      {
+        "word": "pop",
+        "physical_page": 126,
+        "printed_page": 115
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 24\n场景词群 | 娱乐运动\n音乐节的五种声音\nclassical adj. 古典的\njazz n. 爵士乐\nrock n. 摇滚乐\nhip-hop n. 嘻哈音乐\npop n. 流行音乐\n双语例句\nThe festival featured classical music, jazz and hip-hop.\n音乐节上有古典音乐、爵士乐和嘻哈音乐。\n用法提醒\nclassical 常和 music 连用；音乐类型可以交融。\n雅思应用\n口语 Part 1｜谈喜欢的音乐类型\n轮到你了\n选两种音乐，用英文说说你什么时候听。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The festival featured classical music, jazz and hip-hop.",
+    "example_zh": "音乐节上有古典音乐、爵士乐和嘻哈音乐。",
+    "examples": [
+      {
+        "en": "The festival featured classical music, jazz and hip-hop.",
+        "zh": "音乐节上有古典音乐、爵士乐和嘻哈音乐。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "classical music",
+        "古典音乐"
+      ],
+      [
+        "a rock band",
+        "摇滚乐队"
+      ],
+      [
+        "pop music",
+        "流行音乐"
+      ]
+    ],
+    "notes": "classical 常和 music 连用；音乐类型可以交融。",
+    "scene": "A richly illustrated town music festival programme displayed as a single long curved stage panorama with five clearly separated pools of light, spread like a concert postcard. Each area is an illustrative example, not a definition: a classical string quartet with scores; jazz saxophone and upright bass in an intimate combo; rock electric guitarist in strong coloured light; hip-hop rapper and DJ turntables with microphone; pop vocalist leading a bright radio-style hook with backing dancers. Five large callout leaders terminate in their respective scene. Avoid costume stereotypes, off-topic signage and any copyrighted stage likenesses.",
+    "palette": "古典区以香槟金，爵士区以靛蓝，摇滚区以洋红，嘻哈区以橙紫，流行区以明亮薄荷青分隔。",
+    "ielts": "口语 Part 1｜谈喜欢的音乐类型",
+    "practice": "选两种音乐，用英文说说你什么时候听。",
+    "answer": "I listen to jazz while cooking and pop on my way to work.",
+    "reference_urls": [],
+    "image": "previews/24.webp"
+  },
+  {
+    "id": "25",
+    "page": 25,
+    "title": "一首歌的三条线",
+    "kind": "contrast",
+    "targets": [
+      "lyric",
+      "melody",
+      "rhythm"
+    ],
+    "labels": [
+      {
+        "word": "lyric",
+        "pos": "n.",
+        "zh": "歌词的一行"
+      },
+      {
+        "word": "melody",
+        "pos": "n.",
+        "zh": "旋律"
+      },
+      {
+        "word": "rhythm",
+        "pos": "n.",
+        "zh": "节奏"
+      }
+    ],
+    "sources": [
+      {
+        "word": "lyric",
+        "physical_page": 126,
+        "printed_page": 115
+      },
+      {
+        "word": "melody",
+        "physical_page": 126,
+        "printed_page": 115
+      },
+      {
+        "word": "rhythm",
+        "physical_page": 126,
+        "printed_page": 115
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 25\n词义辨析 | 娱乐运动\n一首歌的三条线\nlyric n. 歌词的一行\nmelody n. 旋律\nrhythm n. 节奏\nWe’ll meet by the river.\n双语例句\nI remember the melody, but I can’t recall the lyrics.\n我记得旋律，却想不起歌词。\n用法提醒\n整首歌的歌词通常说 lyrics；melody 是曲调，rhythm 是节奏。\n雅思应用\n口语 Part 2｜解释一首歌为何让你难忘。\n轮到你了\n用 melody 或 rhythm 说出你喜欢一首歌的原因。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "I remember the melody, but I can’t recall the lyrics.",
+    "example_zh": "我记得旋律，却想不起歌词。",
+    "examples": [
+      {
+        "en": "I remember the melody, but I can’t recall the lyrics.",
+        "zh": "我记得旋律，却想不起歌词。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "song lyrics",
+        "歌曲歌词"
+      ],
+      [
+        "a catchy melody",
+        "朗朗上口的旋律"
+      ],
+      [
+        "a steady rhythm",
+        "稳定的节奏"
+      ]
+    ],
+    "notes": "整首歌的歌词通常说 lyrics；melody 是曲调，rhythm 是节奏。",
+    "scene": "Three bandmates rehearse one original song around a shared music stand; the illustration is a continuous rehearsal scene rather than a grid. Lyric label points exactly to the original written sung line ‘We’ll meet by the river.’ on a paper strip. Melody points to a gently ascending and descending pitch path near a singer; do not draw complex notation. Rhythm points to spaced beat pulses directly above the hands of a drummer and depicts repeated timing, not pitch. Voice, pitch and beat cues are legible and spatially distinct. No tiny sheet-music words.",
+    "palette": "歌词纸以奶油色，旋律线以蓝紫起伏，节拍点用珊瑚橙，分别表现文字、音高和时间。",
+    "ielts": "口语 Part 2｜解释一首歌为何让你难忘",
+    "practice": "用 melody 或 rhythm 说出你喜欢一首歌的原因。",
+    "answer": "I like this song because its rhythm makes me want to dance.",
+    "reference_urls": [],
+    "image": "previews/25.webp"
+  },
+  {
+    "id": "26",
+    "page": 26,
+    "title": "录音室的调音与试听",
+    "kind": "scene",
+    "targets": [
+      "tone",
+      "tune",
+      "disc"
+    ],
+    "labels": [
+      {
+        "word": "tone",
+        "pos": "n.",
+        "zh": "音色"
+      },
+      {
+        "word": "tune",
+        "pos": "v.",
+        "zh": "给乐器调音"
+      },
+      {
+        "word": "disc",
+        "pos": "n.",
+        "zh": "光盘"
+      }
+    ],
+    "sources": [
+      {
+        "word": "tone",
+        "physical_page": 127,
+        "printed_page": 116
+      },
+      {
+        "word": "tune",
+        "physical_page": 127,
+        "printed_page": 116
+      },
+      {
+        "word": "disc",
+        "physical_page": 127,
+        "printed_page": 116
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 26\n场景词群 | 娱乐运动\n录音室的调音与试听\ntone n. 音色\ntune v. 给乐器调音\ndisc n. 光盘\n双语例句\nShe tuned the guitar before recording its warm tone.\n她先给吉他调音，再把温暖的音色录下来。\n用法提醒\ntune a guitar 是调音；a tune 作名词时可以指曲调。\n雅思应用\n口语 Part 2｜描述一件乐器的声音\n轮到你了\n用 tune a guitar 说一句录音前的准备。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "She tuned the guitar before recording its warm tone.",
+    "example_zh": "她先给吉他调音，再把温暖的音色录下来。",
+    "examples": [
+      {
+        "en": "She tuned the guitar before recording its warm tone.",
+        "zh": "她先给吉他调音，再把温暖的音色录下来。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a warm tone",
+        "温暖的音色"
+      ],
+      [
+        "tune a guitar",
+        "给吉他调音"
+      ],
+      [
+        "a compact disc",
+        "光盘"
+      ]
+    ],
+    "notes": "tune a guitar 是调音；a tune 作名词时可以指曲调。",
+    "scene": "Recording studio: a close-up guitarist rotates one tuning peg, a separate producer listens closely with headphones at the speaker, and a compact disc rests in an open plastic case on the console. Tune leader touches the rotating tuning peg. Tone leads to the speaker and the listening producer’s ear, with a very subtle resonant watercolor wave conveying the warm guitar sound. Disc leader ends at the flat reflective disc itself. The circular disc is the size of a normal compact disc. No brand or type on knobs.",
+    "palette": "琥珀木吉他、墨绿录音台、偏冷的银色盘面，让调音动作、听感和介质容易分开。",
+    "ielts": "口语 Part 2｜描述一件乐器的声音",
+    "practice": "用 tune a guitar 说一句录音前的准备。",
+    "answer": "I tuned the guitar before recording the song.",
+    "reference_urls": [],
+    "image": "previews/26.webp"
+  },
+  {
+    "id": "27",
+    "page": 27,
+    "title": "排练室里的四件乐器",
+    "kind": "scene",
+    "targets": [
+      "piano",
+      "violin",
+      "cello",
+      "guitar"
+    ],
+    "labels": [
+      {
+        "word": "piano",
+        "pos": "n.",
+        "zh": "钢琴"
+      },
+      {
+        "word": "violin",
+        "pos": "n.",
+        "zh": "小提琴"
+      },
+      {
+        "word": "cello",
+        "pos": "n.",
+        "zh": "大提琴"
+      },
+      {
+        "word": "guitar",
+        "pos": "n.",
+        "zh": "吉他"
+      }
+    ],
+    "sources": [
+      {
+        "word": "piano",
+        "physical_page": 127,
+        "printed_page": 116
+      },
+      {
+        "word": "violin",
+        "physical_page": 127,
+        "printed_page": 116
+      },
+      {
+        "word": "cello",
+        "physical_page": 127,
+        "printed_page": 116
+      },
+      {
+        "word": "guitar",
+        "physical_page": 127,
+        "printed_page": 116
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 27\n场景词群 | 娱乐运动\n排练室里的四件乐器\npiano n. 钢琴\nviolin n. 小提琴\ncello n. 大提琴\nguitar n. 吉他\n双语例句\nThe cello played a lower part than the violin.\n大提琴演奏的声部比小提琴的声部低。\n用法提醒\n描述演奏时可以说 play the piano 或 play the violin。\n雅思应用\n口语 Part 1｜谈你演奏或想学的乐器\n轮到你了\n任选两件乐器，用英文说说你更想学哪件。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The cello played a lower part than the violin.",
+    "example_zh": "大提琴演奏的声部比小提琴的声部低。",
+    "examples": [
+      {
+        "en": "The cello played a lower part than the violin.",
+        "zh": "大提琴演奏的声部比小提琴的声部低。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "play the piano",
+        "弹钢琴"
+      ],
+      [
+        "a violin lesson",
+        "一节小提琴课"
+      ],
+      [
+        "an acoustic guitar",
+        "一把原声吉他"
+      ]
+    ],
+    "notes": "描述演奏时可以说 play the piano 或 play the violin。",
+    "scene": "One lively acoustic rehearsal in a sunny community music room, with four correctly scaled instruments clearly visible: a black upright piano played seated at keys, a violin held under the standing player’s chin with its bow against the strings, a cello standing between its seated player’s knees and braced on an endpin, and an acoustic guitar held horizontally across a fourth player’s lap while strumming. Each cream label leader points to that instrument, with cello visibly larger than violin. No additional instruments or text.",
+    "palette": "黑白钢琴键、松香色弦乐器和暖木吉他以不同剪影突出；浅绿窗光保持画面通透。",
+    "ielts": "口语 Part 1｜谈你演奏或想学的乐器",
+    "practice": "任选两件乐器，用英文说说你更想学哪件。",
+    "answer": "I’d rather learn the cello than the violin.",
+    "reference_urls": [],
+    "image": "previews/27.webp"
+  },
+  {
+    "id": "28",
+    "page": 28,
+    "title": "街角合奏：吹奏和敲击",
+    "kind": "scene",
+    "targets": [
+      "harmonica",
+      "trumpet",
+      "drum",
+      "flute"
+    ],
+    "labels": [
+      {
+        "word": "harmonica",
+        "pos": "n.",
+        "zh": "口琴"
+      },
+      {
+        "word": "trumpet",
+        "pos": "n.",
+        "zh": "小号"
+      },
+      {
+        "word": "drum",
+        "pos": "n.",
+        "zh": "鼓"
+      },
+      {
+        "word": "flute",
+        "pos": "n.",
+        "zh": "长笛"
+      }
+    ],
+    "sources": [
+      {
+        "word": "harmonica",
+        "physical_page": 127,
+        "printed_page": 116
+      },
+      {
+        "word": "trumpet",
+        "physical_page": 127,
+        "printed_page": 116
+      },
+      {
+        "word": "drum",
+        "physical_page": 127,
+        "printed_page": 116
+      },
+      {
+        "word": "flute",
+        "physical_page": 127,
+        "printed_page": 116
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 28\n场景词群 | 娱乐运动\n街角合奏：吹奏和敲击\nharmonica n. 口琴\ntrumpet n. 小号\ndrum n. 鼓\nflute n. 长笛\n双语例句\nA flute and a drum could be heard from across the square.\n隔着整个广场也能听见长笛和鼓声。\n用法提醒\nflute 和 trumpet 都用气息吹奏；drum 通常通过敲击发声。\n雅思应用\n听力 Part 1｜辨认音乐活动报名的乐器\n轮到你了\n说出图中小号和口琴的英文，再任选一个造句。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "A flute and a drum could be heard from across the square.",
+    "example_zh": "隔着整个广场也能听见长笛和鼓声。",
+    "examples": [
+      {
+        "en": "A flute and a drum could be heard from across the square.",
+        "zh": "隔着整个广场也能听见长笛和鼓声。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "play the harmonica",
+        "吹口琴"
+      ],
+      [
+        "a trumpet player",
+        "小号手"
+      ],
+      [
+        "beat a drum",
+        "敲鼓"
+      ]
+    ],
+    "notes": "flute 和 trumpet 都用气息吹奏；drum 通常通过敲击发声。",
+    "scene": "One outdoor music demonstration, with four distinct performers and exact object pointers. One player cups a very small rectangular harmonica at their lips, with its shiny cover visible. One plays a brass trumpet with a bell facing away and three finger valves. One strikes a round drum with two sticks. One plays a slender silver Western concert flute horizontally sideways under their lips, with small keys. Full painted scene with a public square and soft dappled tree shadows. Avoid microphones near the harmonica.",
+    "palette": "黄铜小号、银色长笛和棕色鼓皮区分材质，街角树荫的青绿让手部轮廓清楚。",
+    "ielts": "听力 Part 1｜辨认音乐活动报名的乐器",
+    "practice": "说出图中小号和口琴的英文，再任选一个造句。",
+    "answer": "Trumpet; harmonica. I heard someone playing the harmonica in the square.",
+    "reference_urls": [],
+    "image": "previews/28.webp"
+  },
+  {
+    "id": "29",
+    "page": 29,
+    "title": "从社区比赛到奥运舞台",
+    "kind": "contrast",
+    "targets": [
+      "competition",
+      "tournament",
+      "Olympic"
+    ],
+    "labels": [
+      {
+        "word": "competition",
+        "pos": "n.",
+        "zh": "比赛；竞争"
+      },
+      {
+        "word": "tournament",
+        "pos": "n.",
+        "zh": "锦标赛"
+      },
+      {
+        "word": "Olympic",
+        "pos": "adj.",
+        "zh": "奥运会的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "competition",
+        "physical_page": 127,
+        "printed_page": 116
+      },
+      {
+        "word": "tournament",
+        "physical_page": 127,
+        "printed_page": 116
+      },
+      {
+        "word": "Olympic",
+        "physical_page": 127,
+        "printed_page": 116
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 29\n词义辨析 | 娱乐运动\n从社区比赛到奥运舞台\ncompetition n. 比赛；竞争\ntournament n. 锦标赛\nOlympic adj. 奥运会的\n双语例句\nThe club’s tournament included several matches.\n俱乐部的锦标赛安排了多场比赛。\n用法提醒\ncompetition 泛指比赛或竞争；tournament 通常包含多场比赛。\n雅思应用\n听力 Part 2｜区分赛事和各场比赛的安排\n轮到你了\n用 tournament 描述一个你想参加的赛事。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The club’s tournament included several matches.",
+    "example_zh": "俱乐部的锦标赛安排了多场比赛。",
+    "examples": [
+      {
+        "en": "The club’s tournament included several matches.",
+        "zh": "俱乐部的锦标赛安排了多场比赛。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a sports competition",
+        "体育比赛"
+      ],
+      [
+        "enter a tournament",
+        "报名参加锦标赛"
+      ],
+      [
+        "an Olympic athlete",
+        "奥运选手"
+      ]
+    ],
+    "notes": "competition 泛指比赛或竞争；tournament 通常包含多场比赛。",
+    "scene": "A large sports club setting: one foreground local table-tennis match, a visible organising board showing a clearly drawn simple progression of four unlabeled team dots to two then one, and a smaller aspirational sports photo inset above the trophy shelf showing a generic international podium and torch symbol with no official emblems. Competition label points to the match, tournament to the linked bracket spanning several matches, Olympic to the podium photo. Three distinct spots. Do not depict Olympic status of the community match or invent real winners.",
+    "palette": "社区球台用松绿，赛程板用深蓝，奥运舞台的梦想画面用金色。",
+    "ielts": "听力 Part 2｜区分赛事和各场比赛的安排",
+    "practice": "用 tournament 描述一个你想参加的赛事。",
+    "answer": "I’d like to enter a local tennis tournament.",
+    "reference_urls": [
+      "https://www.merriam-webster.com/dictionary/tournament",
+      "https://dictionary.cambridge.org/dictionary/english/competition"
+    ],
+    "image": "previews/29.webp"
+  },
+  {
+    "id": "30",
+    "page": 30,
+    "title": "活动背后的三种支持",
+    "kind": "contrast",
+    "targets": [
+      "sponsor",
+      "patron",
+      "volunteer"
+    ],
+    "labels": [
+      {
+        "word": "sponsor",
+        "pos": "n.",
+        "zh": "赞助方"
+      },
+      {
+        "word": "patron",
+        "pos": "n.",
+        "zh": "资助人"
+      },
+      {
+        "word": "volunteer",
+        "pos": "n.",
+        "zh": "志愿者"
+      }
+    ],
+    "sources": [
+      {
+        "word": "sponsor",
+        "physical_page": 127,
+        "printed_page": 116
+      },
+      {
+        "word": "patron",
+        "physical_page": 127,
+        "printed_page": 116
+      },
+      {
+        "word": "volunteer",
+        "physical_page": 128,
+        "printed_page": 117
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 30\n词义辨析 | 娱乐运动\n活动背后的三种支持\nsponsor n. 赞助方\npatron n. 资助人\nvolunteer n. 志愿者\n双语例句\nA local sponsor paid for equipment, while volunteers helped on the day.\n一家本地赞助方支付了设备费用，志愿者则在活动当天帮忙。\n用法提醒\nsponsor 常用于活动赞助；patron 可指资助艺术的人。\n雅思应用\n写作 Task 2｜说明社区活动如何获得支持\n轮到你了\n用 volunteer 写一句你能为活动做的事。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "A local sponsor paid for equipment, while volunteers helped on the day.",
+    "example_zh": "一家本地赞助方支付了设备费用，志愿者则在活动当天帮忙。",
+    "examples": [
+      {
+        "en": "A local sponsor paid for equipment, while volunteers helped on the day.",
+        "zh": "一家本地赞助方支付了设备费用，志愿者则在活动当天帮忙。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a local sponsor",
+        "当地赞助方"
+      ],
+      [
+        "a patron of the arts",
+        "艺术赞助人"
+      ],
+      [
+        "a festival volunteer",
+        "活动志愿者"
+      ]
+    ],
+    "notes": "sponsor 常用于活动赞助；patron 可指资助艺术的人。",
+    "scene": "Behind the scenes at a neighborhood arts-and-sports festival, where a local business representative unloads a crate of funded event supplies near a shop van, a separate individual patron offers an arts workshop grant to an artist at the table, and a volunteer in a bright vest hands a visitor a programme at the information desk. Sponsor points to the business representative and supplies, patron to the individual handing over grant support, volunteer to the person handing out the programme. Make actions distinguishable without relying on signs or costumes alone. No extra text.",
+    "palette": "仓箱蓝、资助桌金棕、志愿马甲橙，区分资源、长期支持与现场服务。",
+    "ielts": "写作 Task 2｜说明社区活动如何获得支持",
+    "practice": "用 volunteer 写一句你能为活动做的事。",
+    "answer": "As a volunteer, I could welcome visitors at the entrance.",
+    "reference_urls": [
+      "https://www.merriam-webster.com/dictionary/patron"
+    ],
+    "image": "previews/30.webp"
+  },
+  {
+    "id": "31",
+    "page": 31,
+    "title": "体育场里谁在做什么？",
+    "kind": "scene",
+    "targets": [
+      "athlete",
+      "champion",
+      "spectator",
+      "stadium"
+    ],
+    "labels": [
+      {
+        "word": "athlete",
+        "pos": "n.",
+        "zh": "运动员"
+      },
+      {
+        "word": "champion",
+        "pos": "n.",
+        "zh": "冠军"
+      },
+      {
+        "word": "spectator",
+        "pos": "n.",
+        "zh": "现场观众"
+      },
+      {
+        "word": "stadium",
+        "pos": "n.",
+        "zh": "体育场"
+      }
+    ],
+    "sources": [
+      {
+        "word": "athlete",
+        "physical_page": 128,
+        "printed_page": 117
+      },
+      {
+        "word": "champion",
+        "physical_page": 128,
+        "printed_page": 117
+      },
+      {
+        "word": "spectator",
+        "physical_page": 128,
+        "printed_page": 117
+      },
+      {
+        "word": "stadium",
+        "physical_page": 128,
+        "printed_page": 117
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 31\n场景词群 | 娱乐运动\n体育场里谁在做什么？\nathlete n. 运动员\nchampion n. 冠军\nspectator n. 现场观众\nstadium n. 体育场\n双语例句\nSpectators cheered as the champion lifted the trophy.\n冠军举起奖杯时，现场观众欢呼起来。\n用法提醒\nathlete 是参赛者；spectator 现场观看，不参加比赛。\n雅思应用\n口语 Part 2｜描述现场看过的一次比赛\n轮到你了\n用 stadium 和 spectator 描述赛场的一幕。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "Spectators cheered as the champion lifted the trophy.",
+    "example_zh": "冠军举起奖杯时，现场观众欢呼起来。",
+    "examples": [
+      {
+        "en": "Spectators cheered as the champion lifted the trophy.",
+        "zh": "冠军举起奖杯时，现场观众欢呼起来。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a professional athlete",
+        "职业运动员"
+      ],
+      [
+        "the defending champion",
+        "卫冕冠军"
+      ],
+      [
+        "a crowded stadium",
+        "坐满观众的体育场"
+      ]
+    ],
+    "notes": "athlete 是参赛者；spectator 现场观看，不参加比赛。",
+    "scene": "Wide close human-height view inside an athletics stadium after a race, all one continuous sweeping scene. One athlete in a running kit cools down near the track. The champion on an obvious top podium step holds a gold trophy. A spectator in the stands claps from behind the railing. Stadium callout ends at a broad oval grandstand and the surrounding venue structure, not the track runner. Short cream callouts with precise tips. No logos, names, record numbers or legible crowd signs.",
+    "palette": "跑道陶红、内场草绿、看台海蓝，冠军奖杯用金色作为结果提示。",
+    "ielts": "口语 Part 2｜描述现场看过的一次比赛",
+    "practice": "用 stadium 和 spectator 描述赛场的一幕。",
+    "answer": "At the stadium, spectators cheered as the runners crossed the finish line.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/spectator"
+    ],
+    "image": "previews/31.webp"
+  },
+  {
+    "id": "32",
+    "page": 32,
+    "title": "社区健身房开放日",
+    "kind": "scene",
+    "targets": [
+      "gym",
+      "famous",
+      "well-known",
+      "energetic",
+      "vigorous"
+    ],
+    "labels": [
+      {
+        "word": "gym",
+        "pos": "n.",
+        "zh": "健身房"
+      },
+      {
+        "word": "famous",
+        "pos": "adj.",
+        "zh": "著名的"
+      },
+      {
+        "word": "well-known",
+        "pos": "adj.",
+        "zh": "广为人知的"
+      },
+      {
+        "word": "energetic",
+        "pos": "adj.",
+        "zh": "充满活力的"
+      },
+      {
+        "word": "vigorous",
+        "pos": "adj.",
+        "zh": "强劲有力的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "gym",
+        "physical_page": 128,
+        "printed_page": 117
+      },
+      {
+        "word": "famous",
+        "physical_page": 128,
+        "printed_page": 117
+      },
+      {
+        "word": "well-known",
+        "physical_page": 128,
+        "printed_page": 117
+      },
+      {
+        "word": "energetic",
+        "physical_page": 128,
+        "printed_page": 117
+      },
+      {
+        "word": "vigorous",
+        "physical_page": 128,
+        "printed_page": 117
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 32\n场景词群 | 娱乐运动\n社区健身房开放日\ngym n. 健身房\nfamous adj. 著名的\nwell-known adj. 广为人知的\nenergetic adj. 充满活力的\nvigorous adj. 强劲有力的\n双语例句\nAn energetic coach led a vigorous workout at the gym.\n一位充满活力的教练在健身房带领大家做了一场高强度训练。\n用法提醒\nfamous 和 well-known 都可指出名；vigorous exercise 强调强度。\n雅思应用\n口语 Part 1｜描述健身习惯\n轮到你了\n用 energetic 或 vigorous 描述你喜欢的运动课。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "An energetic coach led a vigorous workout at the gym.",
+    "example_zh": "一位充满活力的教练在健身房带领大家做了一场高强度训练。",
+    "examples": [
+      {
+        "en": "An energetic coach led a vigorous workout at the gym.",
+        "zh": "一位充满活力的教练在健身房带领大家做了一场高强度训练。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a famous athlete",
+        "一位著名运动员"
+      ],
+      [
+        "a well-known coach",
+        "一位知名教练"
+      ],
+      [
+        "vigorous exercise",
+        "高强度运动"
+      ]
+    ],
+    "notes": "famous 和 well-known 都可指出名；vigorous exercise 强调强度。",
+    "scene": "Inside a sunlit community gym on open day. A nationally recognised guest coach greets people in front of a generic press camera, famous label points to that person. A different locally well-known trainer is greeted by neighbours who know them, well-known label points to that trainer. One energetic instructor smiles and raises their arms while leading a warm-up, energetic label points to their lively posture. Separate foreground participant performs vigorous exercise on an exercise bike with strong visible effort; vigorous points to active pedalling. Gym label points to the overall fitness room with exercise machines. It is a context contrast, do not imply famous and well-known are strict levels. No text other than given labels.",
+    "palette": "健身房阳光金、软垫松绿，动作用珊瑚红与汗水细节突出。",
+    "ielts": "口语 Part 1｜描述健身习惯",
+    "practice": "用 energetic 或 vigorous 描述你喜欢的运动课。",
+    "answer": "I like classes with an energetic coach.",
+    "reference_urls": [],
+    "image": "previews/32.webp"
+  },
+  {
+    "id": "33",
+    "page": 33,
+    "title": "训练课上的动作和感受",
+    "kind": "scene",
+    "targets": [
+      "training",
+      "exercise",
+      "stretch",
+      "strain"
+    ],
+    "labels": [
+      {
+        "word": "training",
+        "pos": "n.",
+        "zh": "训练"
+      },
+      {
+        "word": "exercise",
+        "pos": "n.",
+        "zh": "锻炼；练习"
+      },
+      {
+        "word": "stretch",
+        "pos": "v.",
+        "zh": "伸展"
+      },
+      {
+        "word": "strain",
+        "pos": "v.",
+        "zh": "拉伤；使过度用力"
+      }
+    ],
+    "sources": [
+      {
+        "word": "training",
+        "physical_page": 129,
+        "printed_page": 118
+      },
+      {
+        "word": "exercise",
+        "physical_page": 129,
+        "printed_page": 118
+      },
+      {
+        "word": "stretch",
+        "physical_page": 129,
+        "printed_page": 118
+      },
+      {
+        "word": "strain",
+        "physical_page": 129,
+        "printed_page": 118
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 33\n场景词群 | 娱乐运动\n训练课上的动作和感受\ntraining  n.  训练\nexercise  n.  锻炼；练习\nstretch  v.  伸展\nstrain  v.  拉伤；使过度用力\n放进句子里\nA runner strained a muscle during training.\n一位跑步者在训练中拉伤了肌肉。\n用法提醒\nstretch 是伸展；strain a muscle 指拉伤肌肉。\n雅思应用\n口语 Part 2｜描述一次运动训练\n轮到你了\n用 training 和 exercise 描述你的一次运动安排。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "A runner strained a muscle during training.",
+    "example_zh": "一位跑步者在训练中拉伤了肌肉。",
+    "examples": [
+      {
+        "en": "A runner strained a muscle during training.",
+        "zh": "一位跑步者在训练中拉伤了肌肉。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "athletics training",
+        "田径训练"
+      ],
+      [
+        "a warm-up exercise",
+        "热身练习"
+      ],
+      [
+        "strain a muscle",
+        "拉伤肌肉"
+      ]
+    ],
+    "notes": "stretch 是伸展；strain a muscle 指拉伤肌肉。",
+    "scene": "Community athletics studio. Training points to coach planning drills; exercise to a participant doing a controlled squat; stretch to a different athlete gently extending leg; strain to separate seated runner holding back of thigh after a sprint. Do not suggest stretching caused the injury. No writing on clothes or notes.",
+    "palette": "木地板暖棕、训练服钴蓝，小珊瑚标记提示拉伤部位。",
+    "ielts": "口语 Part 2｜描述一次运动训练",
+    "practice": "用 training 和 exercise 描述你的一次运动安排。",
+    "answer": "During training, I did a short warm-up exercise before practising my sprint starts.",
+    "reference_urls": [],
+    "image": "previews/33.webp"
+  },
+  {
+    "id": "34",
+    "page": 34,
+    "title": "活动中心的室内与户外",
+    "kind": "contrast",
+    "targets": [
+      "indoor",
+      "outdoor",
+      "yoga",
+      "sprawl"
+    ],
+    "labels": [
+      {
+        "word": "indoor",
+        "pos": "adj.",
+        "zh": "室内的"
+      },
+      {
+        "word": "outdoor",
+        "pos": "adj.",
+        "zh": "户外的"
+      },
+      {
+        "word": "yoga",
+        "pos": "n.",
+        "zh": "瑜伽"
+      },
+      {
+        "word": "sprawl",
+        "pos": "v.",
+        "zh": "舒展四肢躺着"
+      }
+    ],
+    "sources": [
+      {
+        "word": "indoor",
+        "physical_page": 129,
+        "printed_page": 118
+      },
+      {
+        "word": "outdoor",
+        "physical_page": 129,
+        "printed_page": 118
+      },
+      {
+        "word": "yoga",
+        "physical_page": 129,
+        "printed_page": 118
+      },
+      {
+        "word": "sprawl",
+        "physical_page": 129,
+        "printed_page": 118
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 34\n词义辨析 | 娱乐运动\n活动中心的室内与户外\nindoor  adj.  室内的\noutdoor  adj.  户外的\nyoga  n.  瑜伽\nsprawl  v.  舒展四肢躺着\n放进句子里\nWe did yoga indoors and relaxed on the lawn afterwards.\n我们在室内练瑜伽，之后到草坪上休息。\n用法提醒\nindoor 和 outdoor 修饰名词；indoors 和 outdoors 可以作副词。\n雅思应用\n口语 Part 1｜说说室内和户外爱好\n轮到你了\n分别用 indoor 和 outdoor 各说一种你喜欢的活动。\n第9章 娱乐运动 · 原创例句与练习 · 非真题\nLeisure Centre",
+    "example_en": "We did yoga indoors and relaxed on the lawn afterwards.",
+    "example_zh": "我们在室内练瑜伽，之后到草坪上休息。",
+    "examples": [
+      {
+        "en": "We did yoga indoors and relaxed on the lawn afterwards.",
+        "zh": "我们在室内练瑜伽，之后到草坪上休息。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "indoor activities",
+        "室内活动"
+      ],
+      [
+        "outdoor sports",
+        "户外运动"
+      ],
+      [
+        "do yoga",
+        "练瑜伽"
+      ],
+      [
+        "sprawl on the grass",
+        "舒展四肢躺在草地上"
+      ]
+    ],
+    "notes": "indoor 和 outdoor 修饰名词；indoors 和 outdoors 可以作副词。",
+    "scene": "One bright leisure centre with open glass doors separating an interior under a roof and outdoor courtyard. Yoga points to instructor in tree pose on a mat. Sprawl points to distinct person lying loosely with limbs spread on outdoor garden blanket. Indoor points to the roofed studio and outdoor to open-air courtyard.",
+    "palette": "室内枫木、藤黄，户外草绿和晴空蓝。",
+    "ielts": "口语 Part 1｜说说室内和户外爱好",
+    "practice": "分别用 indoor 和 outdoor 各说一种你喜欢的活动。",
+    "answer": "I like indoor yoga and outdoor cycling.",
+    "reference_urls": [],
+    "image": "previews/34.webp"
+  },
+  {
+    "id": "35",
+    "page": 35,
+    "title": "舞台上的示意与移动",
+    "kind": "contrast",
+    "targets": [
+      "motion",
+      "mobile",
+      "movement"
+    ],
+    "labels": [
+      {
+        "word": "motion",
+        "pos": "v.",
+        "zh": "打手势示意"
+      },
+      {
+        "word": "mobile",
+        "pos": "adj.",
+        "zh": "可移动的"
+      },
+      {
+        "word": "movement",
+        "pos": "n.",
+        "zh": "动作；移动"
+      }
+    ],
+    "sources": [
+      {
+        "word": "motion",
+        "physical_page": 129,
+        "printed_page": 118
+      },
+      {
+        "word": "mobile",
+        "physical_page": 129,
+        "printed_page": 118
+      },
+      {
+        "word": "movement",
+        "physical_page": 129,
+        "printed_page": 118
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 35\n词义辨析 | 娱乐运动\n舞台上的示意与移动\nmotion  v.  打手势示意\nmobile  adj.  可移动的\nmovement  n.  动作；移动\n放进句子里\nThe stage manager motioned for the dancers to cross the stage.\n舞台监督打手势示意舞者穿过舞台。\n用法提醒\nmotion for someone to do something 表示打手势示意某人做某事。\n雅思应用\n听力 Part 2｜听懂舞台活动指示\n轮到你了\n用 motion 描述你怎样示意朋友走过来。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The stage manager motioned for the dancers to cross the stage.",
+    "example_zh": "舞台监督打手势示意舞者穿过舞台。",
+    "examples": [
+      {
+        "en": "The stage manager motioned for the dancers to cross the stage.",
+        "zh": "舞台监督打手势示意舞者穿过舞台。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "motion for someone to come closer",
+        "示意某人靠近"
+      ],
+      [
+        "a mobile stage",
+        "可移动舞台"
+      ],
+      [
+        "a sudden movement",
+        "突然的动作"
+      ]
+    ],
+    "notes": "motion for someone to do something 表示打手势示意某人做某事。",
+    "scene": "Connected stage rehearsal seen from the wing. Manager gestures with open palm and motion leader ends at their hand. Two performers push wheeled backdrop; mobile points to visible casters. A dancer crossing the floor follows a short dotted path; movement points to that path. No extraneous markings.",
+    "palette": "幕后墨紫和琥珀聚光，青蓝道具和浅色轨迹区别装置与动作。",
+    "ielts": "听力 Part 2｜听懂舞台活动指示",
+    "practice": "用 motion 描述你怎样示意朋友走过来。",
+    "answer": "I motioned for my friend to come over.",
+    "reference_urls": [],
+    "image": "previews/35.webp"
+  },
+  {
+    "id": "36",
+    "page": 36,
+    "title": "足球场上的一脚射门",
+    "kind": "scene",
+    "targets": [
+      "soccer",
+      "goal",
+      "kick",
+      "pitch"
+    ],
+    "labels": [
+      {
+        "word": "soccer",
+        "pos": "n.",
+        "zh": "足球运动"
+      },
+      {
+        "word": "goal",
+        "pos": "n.",
+        "zh": "球门；进球"
+      },
+      {
+        "word": "kick",
+        "pos": "v.",
+        "zh": "踢"
+      },
+      {
+        "word": "pitch",
+        "pos": "n.",
+        "zh": "运动场地"
+      }
+    ],
+    "sources": [
+      {
+        "word": "soccer",
+        "physical_page": 130,
+        "printed_page": 119
+      },
+      {
+        "word": "goal",
+        "physical_page": 130,
+        "printed_page": 119
+      },
+      {
+        "word": "kick",
+        "physical_page": 130,
+        "printed_page": 119
+      },
+      {
+        "word": "pitch",
+        "physical_page": 130,
+        "printed_page": 119
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 36\n场景词群 | 娱乐运动\n足球场上的一脚射门\nsoccer  n.  足球运动\ngoal  n.  球门；进球\nkick  v.  踢\npitch  n.  运动场地\n放进句子里\nShe kicked the ball towards the goal from the edge of the pitch.\n她在场地边缘把球踢向球门。\n用法提醒\nsoccer 在英式英语里常叫 football；goal 也可指进球。\n雅思应用\n口语 Part 2｜讲述看过的一场比赛\n轮到你了\n用 kick 或 goal 描述比赛中的一个瞬间。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "She kicked the ball towards the goal from the edge of the pitch.",
+    "example_zh": "她在场地边缘把球踢向球门。",
+    "examples": [
+      {
+        "en": "She kicked the ball towards the goal from the edge of the pitch.",
+        "zh": "她在场地边缘把球踢向球门。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a soccer match",
+        "一场足球比赛"
+      ],
+      [
+        "score a goal",
+        "进一球"
+      ],
+      [
+        "a football pitch",
+        "足球场"
+      ]
+    ],
+    "notes": "soccer 在英式英语里常叫 football；goal 也可指进球。",
+    "scene": "Wide continuous football match with red and blue teams. Soccer leader goes to group play. Kick leader ends at boot contacting the single soccer ball. Goal points to goal frame and net. Pitch points to lined grass, not seating. No scoreboard or other writing.",
+    "palette": "草绿和粉笔白表现球场，砖红与宝蓝区分球队。",
+    "ielts": "口语 Part 2｜讲述看过的一场比赛",
+    "practice": "用 kick 或 goal 描述比赛中的一个瞬间。",
+    "answer": "In the last minute, she kicked the ball into the goal.",
+    "reference_urls": [],
+    "image": "previews/36.webp"
+  },
+  {
+    "id": "37",
+    "page": 37,
+    "title": "从慢跑热身到马拉松",
+    "kind": "scene",
+    "targets": [
+      "marathon",
+      "race",
+      "pace",
+      "jog"
+    ],
+    "labels": [
+      {
+        "word": "marathon",
+        "pos": "n.",
+        "zh": "马拉松"
+      },
+      {
+        "word": "race",
+        "pos": "n.",
+        "zh": "竞速比赛"
+      },
+      {
+        "word": "pace",
+        "pos": "n.",
+        "zh": "速度；配速"
+      },
+      {
+        "word": "jog",
+        "pos": "v.",
+        "zh": "慢跑"
+      }
+    ],
+    "sources": [
+      {
+        "word": "marathon",
+        "physical_page": 132,
+        "printed_page": 121
+      },
+      {
+        "word": "race",
+        "physical_page": 132,
+        "printed_page": 121
+      },
+      {
+        "word": "pace",
+        "physical_page": 132,
+        "printed_page": 121
+      },
+      {
+        "word": "jog",
+        "physical_page": 132,
+        "printed_page": 121
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 37\n场景词群 | 娱乐运动\n从慢跑热身到马拉松\nmarathon  n.  马拉松\nrace  n.  竞速比赛\npace  n.  速度；配速\njog  v.  慢跑\n放进句子里\nShe kept a steady pace throughout the marathon.\n她在整场马拉松中保持稳定的配速。\n用法提醒\nkeep a steady pace 表示保持稳定的速度。\n雅思应用\n口语 Part 2｜描述参加或观看的长跑活动\n轮到你了\n用 jog 或 pace 说说你会怎样开始一次跑步。\n第9章 娱乐运动 · 原创例句与练习 · 非真题\nMARATHON\n5:30 / km",
+    "example_en": "She kept a steady pace throughout the marathon.",
+    "example_zh": "她在整场马拉松中保持稳定的配速。",
+    "examples": [
+      {
+        "en": "She kept a steady pace throughout the marathon.",
+        "zh": "她在整场马拉松中保持稳定的配速。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "run a marathon",
+        "跑马拉松"
+      ],
+      [
+        "keep a steady pace",
+        "保持稳定配速"
+      ],
+      [
+        "jog along the river",
+        "沿河慢跑"
+      ]
+    ],
+    "notes": "keep a steady pace 表示保持稳定的速度。",
+    "scene": "City riverside race day at sunrise. Jog label goes to one person doing a gentle jog on separate warm-up path. Race goes to competitors together on marked road. Marathon goes to banner reading only “MARATHON”. Pace goes to a wristwatch displaying exactly “5:30 / km” and no other numbers.",
+    "palette": "清晨河蓝、道路灰和路标亮橙区分热身步道与比赛路线。",
+    "ielts": "口语 Part 2｜描述参加或观看的长跑活动",
+    "practice": "用 jog 或 pace 说说你会怎样开始一次跑步。",
+    "answer": "I usually jog for a few minutes before settling into a steady pace.",
+    "reference_urls": [],
+    "image": "previews/37.webp"
+  },
+  {
+    "id": "38",
+    "page": 38,
+    "title": "活动室里的两种桌上游戏",
+    "kind": "scene",
+    "targets": [
+      "chess",
+      "billiards"
+    ],
+    "labels": [
+      {
+        "word": "chess",
+        "pos": "n.",
+        "zh": "国际象棋"
+      },
+      {
+        "word": "billiards",
+        "pos": "n.",
+        "zh": "台球"
+      }
+    ],
+    "sources": [
+      {
+        "word": "chess",
+        "physical_page": 129,
+        "printed_page": 118
+      },
+      {
+        "word": "billiards",
+        "physical_page": 129,
+        "printed_page": 118
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 38\n场景词群 | 娱乐运动\n活动室里的两种桌上游戏\nchess  n.  国际象棋\nbilliards  n.  台球\n放进句子里\nOn rainy days, we play chess or billiards at the club.\n下雨时，我们会在俱乐部下国际象棋或打台球。\n用法提醒\n两种活动都可用 play，通常说 play chess 和 play billiards。\n雅思应用\n听力 Part 1｜辨认活动中心的项目\n轮到你了\n用 play 说说你更想学哪一种桌上游戏。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "On rainy days, we play chess or billiards at the club.",
+    "example_zh": "下雨时，我们会在俱乐部下国际象棋或打台球。",
+    "examples": [
+      {
+        "en": "On rainy days, we play chess or billiards at the club.",
+        "zh": "下雨时，我们会在俱乐部下国际象棋或打台球。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "play chess",
+        "下国际象棋"
+      ],
+      [
+        "play billiards",
+        "打台球"
+      ]
+    ],
+    "notes": "两种活动都可用 play，通常说 play chess 和 play billiards。",
+    "scene": "A quiet recreation room seen slightly from above. On the left two people face a clearly checkered chessboard with recognizable king and knight pieces. On the right another person uses a long cue on a green cloth billiards table with a few balls. Two bilingual callouts have short leaders pointing to the board and table respectively. Cozy old reading-room texture, no extra decorative lettering.",
+    "palette": "棋盘棕白、台呢深绿，两组木色桌面由暖光连成一个空间。",
+    "ielts": "听力 Part 1｜辨认活动中心的项目",
+    "practice": "用 play 说说你更想学哪一种桌上游戏。",
+    "answer": "I would like to learn to play chess with my grandfather.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/billiards"
+    ],
+    "image": "previews/38.webp"
+  },
+  {
+    "id": "39",
+    "page": 39,
+    "title": "三种隔网运动",
+    "kind": "scene",
+    "targets": [
+      "tennis",
+      "racket",
+      "volleyball",
+      "badminton"
+    ],
+    "labels": [
+      {
+        "word": "tennis",
+        "pos": "n.",
+        "zh": "网球"
+      },
+      {
+        "word": "racket",
+        "pos": "n.",
+        "zh": "球拍"
+      },
+      {
+        "word": "volleyball",
+        "pos": "n.",
+        "zh": "排球"
+      },
+      {
+        "word": "badminton",
+        "pos": "n.",
+        "zh": "羽毛球"
+      }
+    ],
+    "sources": [
+      {
+        "word": "tennis",
+        "physical_page": 130,
+        "printed_page": 119
+      },
+      {
+        "word": "racket",
+        "physical_page": 130,
+        "printed_page": 119
+      },
+      {
+        "word": "volleyball",
+        "physical_page": 130,
+        "printed_page": 119
+      },
+      {
+        "word": "badminton",
+        "physical_page": 129,
+        "printed_page": 118
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 39\n场景词群 | 娱乐运动\n三种隔网运动\ntennis  n.  网球\nracket  n.  球拍\nvolleyball  n.  排球\nbadminton  n.  羽毛球\n放进句子里\nWe booked a badminton court and borrowed two rackets.\n我们订了一个羽毛球场，并借了两把球拍。\n用法提醒\n网球和羽毛球用 racket，排球通常用手或手臂击球。\n雅思应用\n听力 Part 1｜识别可预约的球场和器材\n轮到你了\n用 racket 询问俱乐部能否借两把羽毛球拍。\n第9章 娱乐运动 · 原创例句与练习 · 非真题\nSports Centre Open Day",
+    "example_en": "We booked a badminton court and borrowed two rackets.",
+    "example_zh": "我们订了一个羽毛球场，并借了两把球拍。",
+    "examples": [
+      {
+        "en": "We booked a badminton court and borrowed two rackets.",
+        "zh": "我们订了一个羽毛球场，并借了两把球拍。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a tennis racket",
+        "网球拍"
+      ],
+      [
+        "play volleyball",
+        "打排球"
+      ],
+      [
+        "a badminton court",
+        "羽毛球场"
+      ]
+    ],
+    "notes": "网球和羽毛球用 racket，排球通常用手或手臂击球。",
+    "scene": "A sports centre open day with three visibly separate adjacent courts, not one shared net. Foreground tennis players with a yellow ball and low net, tennis points to that court and racket points precisely to strung oval tennis racket. Middle badminton court shows recognizable feather shuttlecock, high net and thin rackets. Background volleyball player hits a large panelled ball with bare hands at a high net. Use distinct zones and legible callouts, avoid cross-leaders.",
+    "palette": "蓝色网球场、浅枫木羽球区、珊瑚色排球区让器材和动作更容易定位。",
+    "ielts": "听力 Part 1｜识别可预约的球场和器材",
+    "practice": "用 racket 询问俱乐部能否借两把羽毛球拍。",
+    "answer": "Can we borrow two badminton rackets?",
+    "reference_urls": [],
+    "image": "previews/39.webp"
+  },
+  {
+    "id": "40",
+    "page": 40,
+    "title": "球具展上看懂不同球杆",
+    "kind": "scene",
+    "targets": [
+      "hockey",
+      "cricket",
+      "golf",
+      "bat"
+    ],
+    "labels": [
+      {
+        "word": "hockey",
+        "pos": "n.",
+        "zh": "曲棍球"
+      },
+      {
+        "word": "cricket",
+        "pos": "n.",
+        "zh": "板球"
+      },
+      {
+        "word": "golf",
+        "pos": "n.",
+        "zh": "高尔夫球"
+      },
+      {
+        "word": "bat",
+        "pos": "n.",
+        "zh": "球棒；球板"
+      }
+    ],
+    "sources": [
+      {
+        "word": "hockey",
+        "physical_page": 130,
+        "printed_page": 119
+      },
+      {
+        "word": "cricket",
+        "physical_page": 130,
+        "printed_page": 119
+      },
+      {
+        "word": "golf",
+        "physical_page": 129,
+        "printed_page": 118
+      },
+      {
+        "word": "bat",
+        "physical_page": 130,
+        "printed_page": 119
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 40\n场景词群 | 娱乐运动\n球具展上看懂不同球杆\nhockey  n.  曲棍球\ncricket  n.  板球\ngolf  n.  高尔夫球\nbat  n.  球棒；球板\n放进句子里\nThe coach showed me how to hold a cricket bat.\n教练向我示范了如何握板球球板。\n用法提醒\ncricket bat 是板球球板，高尔夫球杆是 golf club。\n雅思应用\n口语 Part 1｜谈你看过或想学的球类运动\n轮到你了\n用 cricket bat 描述一次你看到的器材演示。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The coach showed me how to hold a cricket bat.",
+    "example_zh": "教练向我示范了如何握板球球板。",
+    "examples": [
+      {
+        "en": "The coach showed me how to hold a cricket bat.",
+        "zh": "教练向我示范了如何握板球球板。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a cricket bat",
+        "板球球板"
+      ],
+      [
+        "a golf club",
+        "高尔夫球杆"
+      ],
+      [
+        "field hockey",
+        "草地曲棍球"
+      ]
+    ],
+    "notes": "cricket bat 是板球球板，高尔夫球杆是 golf club。",
+    "scene": "An inviting museum display built as three clear, rich miniature game scenes. Hockey vignette shows outdoor field hockey, with hooked stick low to grass and small ball. Cricket vignette depicts a player holding a flat-faced cricket bat in front of three stumps. Bat leader points precisely at flat blade. Golf vignette shows golfer putting with club on manicured green and flag. Place labels within each section. No shared gear, helmets and backgrounds sensible.",
+    "palette": "曲棍球区深草绿、板球区砂土黄、高尔夫果岭浅绿，以器材轮廓和底色区分。",
+    "ielts": "口语 Part 1｜谈你看过或想学的球类运动",
+    "practice": "用 cricket bat 描述一次你看到的器材演示。",
+    "answer": "At the sports exhibition, a coach showed us a cricket bat.",
+    "reference_urls": [],
+    "image": "previews/40.webp"
+  },
+  {
+    "id": "41",
+    "page": 41,
+    "title": "运动嘉年华的四种手部动作",
+    "kind": "contrast",
+    "targets": [
+      "knock",
+      "flip",
+      "throw",
+      "toss"
+    ],
+    "labels": [
+      {
+        "word": "knock",
+        "pos": "v.",
+        "zh": "撞；击"
+      },
+      {
+        "word": "flip",
+        "pos": "v.",
+        "zh": "抛翻"
+      },
+      {
+        "word": "throw",
+        "pos": "v.",
+        "zh": "投掷"
+      },
+      {
+        "word": "toss",
+        "pos": "v.",
+        "zh": "轻抛"
+      }
+    ],
+    "sources": [
+      {
+        "word": "knock",
+        "physical_page": 130,
+        "printed_page": 119
+      },
+      {
+        "word": "flip",
+        "physical_page": 130,
+        "printed_page": 119
+      },
+      {
+        "word": "throw",
+        "physical_page": 130,
+        "printed_page": 119
+      },
+      {
+        "word": "toss",
+        "physical_page": 130,
+        "printed_page": 119
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 41\n词义辨析 | 娱乐运动\n运动嘉年华的四种手部动作\nknock  v.  撞；击\nflip  v.  抛翻\nthrow  v.  投掷\ntoss  v.  轻抛\n放进句子里\nI tossed a beanbag into the bucket.\n我把一个豆袋轻轻抛进桶里。\n用法提醒\nthrow 泛指投掷，toss 可强调轻抛，flip 可表示抛硬币。\n雅思应用\n口语 Part 2｜解释集市游戏的玩法\n轮到你了\n用 toss 描述把豆袋抛进桶的动作。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "I tossed a beanbag into the bucket.",
+    "example_zh": "我把一个豆袋轻轻抛进桶里。",
+    "examples": [
+      {
+        "en": "I tossed a beanbag into the bucket.",
+        "zh": "我把一个豆袋轻轻抛进桶里。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "knock over a pin",
+        "撞倒一个球瓶"
+      ],
+      [
+        "flip a coin",
+        "抛硬币"
+      ],
+      [
+        "toss a beanbag",
+        "轻抛豆袋"
+      ]
+    ],
+    "notes": "throw 泛指投掷，toss 可强调轻抛，flip 可表示抛硬币。",
+    "scene": "Outdoor community carnival with four connected but separate action stations and non-overlapping bilingual labels. Knock points at a ball just making contact with a tilting pin. Flip points to a coin rotating above a thumb; show both sides through two positions along short curved path. Throw points to a player sending a ball overarm at a distant target, toss to a child gently sending a beanbag underhand toward a nearby bucket. Use natural safe spacing. No extra words in scene.",
+    "palette": "红白摊位配晴天湖蓝，动作轨迹以短而不同的赭色弧线区分。",
+    "ielts": "口语 Part 2｜解释集市游戏的玩法",
+    "practice": "用 toss 描述把豆袋抛进桶的动作。",
+    "answer": "Toss the beanbag gently into the bucket.",
+    "reference_urls": [],
+    "image": "previews/41.webp"
+  },
+  {
+    "id": "42",
+    "page": 42,
+    "title": "平稳滑行、打滑与翻滚",
+    "kind": "contrast",
+    "targets": [
+      "slide",
+      "slip",
+      "glide",
+      "tumble"
+    ],
+    "labels": [
+      {
+        "word": "slide",
+        "pos": "v.",
+        "zh": "滑动"
+      },
+      {
+        "word": "slip",
+        "pos": "v.",
+        "zh": "打滑；失足"
+      },
+      {
+        "word": "glide",
+        "pos": "v.",
+        "zh": "平稳滑行"
+      },
+      {
+        "word": "tumble",
+        "pos": "v.",
+        "zh": "摔倒；翻滚"
+      }
+    ],
+    "sources": [
+      {
+        "word": "slide",
+        "physical_page": 130,
+        "printed_page": 119
+      },
+      {
+        "word": "slip",
+        "physical_page": 130,
+        "printed_page": 119
+      },
+      {
+        "word": "glide",
+        "physical_page": 131,
+        "printed_page": 120
+      },
+      {
+        "word": "tumble",
+        "physical_page": 131,
+        "printed_page": 120
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 42\n词义辨析 | 娱乐运动\n平稳滑行、打滑与翻滚\nslide  v.  滑动\nslip  v.  打滑；失足\nglide  v.  平稳滑行\ntumble  v.  摔倒；翻滚\n放进句子里\nThe skater glided across the rink before slowing down.\n滑冰者平稳地滑过冰场，随后放慢速度。\n用法提醒\nglide 强调平稳顺滑，slip 常表示脚下意外打滑。\n雅思应用\n阅读｜辨认叙事中的移动方式\n轮到你了\n用 glide 和 slip 分别描述平稳滑行和意外打滑。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The skater glided across the rink before slowing down.",
+    "example_zh": "滑冰者平稳地滑过冰场，随后放慢速度。",
+    "examples": [
+      {
+        "en": "The skater glided across the rink before slowing down.",
+        "zh": "滑冰者平稳地滑过冰场，随后放慢速度。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "glide across the ice",
+        "平稳地滑过冰面"
+      ],
+      [
+        "slip on wet ground",
+        "在湿地上滑倒"
+      ]
+    ],
+    "notes": "glide 强调平稳顺滑，slip 常表示脚下意外打滑。",
+    "scene": "Winter movement festival, a three-quarter view of an indoor rink and its padded dry-side demo zone. Slide points to a curling stone travelling flat along ice. Glide points to a balanced figure skater smoothly traversing ice. Slip points to a beginner whose blade unexpectedly moves sideways, supported by a nearby instructor. Tumble points to a participant rolling onto a thick dry-side training mat, clearly not on ice. Restrained action trails and separate labels.",
+    "palette": "滑冰区冰蓝，软垫练习区蜜桃橙，区分连续滑行与失衡动作。",
+    "ielts": "阅读｜辨认叙事中的移动方式",
+    "practice": "用 glide 和 slip 分别描述平稳滑行和意外打滑。",
+    "answer": "She glided across the ice, but her friend slipped near the rail.",
+    "reference_urls": [],
+    "image": "previews/42.webp"
+  },
+  {
+    "id": "43",
+    "page": 43,
+    "title": "冬日公园的三条运动路线",
+    "kind": "scene",
+    "targets": [
+      "ski",
+      "skate",
+      "cycling"
+    ],
+    "labels": [
+      {
+        "word": "ski",
+        "pos": "v.",
+        "zh": "滑雪"
+      },
+      {
+        "word": "skate",
+        "pos": "v.",
+        "zh": "滑冰"
+      },
+      {
+        "word": "cycling",
+        "pos": "n.",
+        "zh": "骑行"
+      }
+    ],
+    "sources": [
+      {
+        "word": "ski",
+        "physical_page": 131,
+        "printed_page": 120
+      },
+      {
+        "word": "skate",
+        "physical_page": 131,
+        "printed_page": 120
+      },
+      {
+        "word": "cycling",
+        "physical_page": 131,
+        "printed_page": 120
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 43\n场景词群 | 娱乐运动\n冬日公园的三条运动路线\nski  v.  滑雪\nskate  v.  滑冰\ncycling  n.  骑行\n放进句子里\nWe skated in the morning and went cycling in the afternoon.\n我们上午滑冰，下午去骑车了。\n用法提醒\nski 和 skate 可直接作动词，cycling 常搭配 go。\n雅思应用\n口语 Part 1｜介绍自己喜欢的户外活动\n轮到你了\n用 ski、skate 或 cycling 描述你想尝试的一项活动。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "We skated in the morning and went cycling in the afternoon.",
+    "example_zh": "我们上午滑冰，下午去骑车了。",
+    "examples": [
+      {
+        "en": "We skated in the morning and went cycling in the afternoon.",
+        "zh": "我们上午滑冰，下午去骑车了。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "go cycling",
+        "去骑车"
+      ],
+      [
+        "skate on an outdoor rink",
+        "在室外冰场滑冰"
+      ]
+    ],
+    "notes": "ski 和 skate 可直接作动词，cycling 常搭配 go。",
+    "scene": "A winter resort landscape with three clearly separated activity routes. Ski arrow to a person descending a gentle snowy slope with two skis and poles. Skate arrow to a separate fenced open-air skating rink, pointing to a skater with visible single-blade boots. Cycling arrow to a helmeted cyclist on a ploughed, clear cycling path outside both areas. No cross arrows or hazardous mixing.",
+    "palette": "坡地雪白、冰场浅青、清理后的自行车道灰赭，三处户外空间以颜色分清。",
+    "ielts": "口语 Part 1｜介绍自己喜欢的户外活动",
+    "practice": "用 ski、skate 或 cycling 描述你想尝试的一项活动。",
+    "answer": "I would like to learn to ski on a gentle slope.",
+    "reference_urls": [],
+    "image": "previews/43.webp"
+  },
+  {
+    "id": "44",
+    "page": 44,
+    "title": "入水与随水漂移",
+    "kind": "contrast",
+    "targets": [
+      "dive",
+      "drift",
+      "plunge"
+    ],
+    "labels": [
+      {
+        "word": "dive",
+        "pos": "v.",
+        "zh": "跳水"
+      },
+      {
+        "word": "drift",
+        "pos": "v.",
+        "zh": "漂移"
+      },
+      {
+        "word": "plunge",
+        "pos": "v.",
+        "zh": "突然落入"
+      }
+    ],
+    "sources": [
+      {
+        "word": "dive",
+        "physical_page": 131,
+        "printed_page": 120
+      },
+      {
+        "word": "drift",
+        "physical_page": 131,
+        "printed_page": 120
+      },
+      {
+        "word": "plunge",
+        "physical_page": 131,
+        "printed_page": 120
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 44\n词义辨析 | 娱乐运动\n入水与随水漂移\ndive  v.  跳水\ndrift  v.  漂移\nplunge  v.  突然落入\n放进句子里\nThe empty ring drifted slowly across the lake.\n空泳圈在湖面上慢慢漂移。\n用法提醒\ndive 可指有意跳水，plunge 强调突然或用力进入，drift 是随水流移动。\n雅思应用\n阅读｜分辨叙事中的动作快慢\n轮到你了\n用 drift 和 plunge 分别描述泳圈和落水的球。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The empty ring drifted slowly across the lake.",
+    "example_zh": "空泳圈在湖面上慢慢漂移。",
+    "examples": [
+      {
+        "en": "The empty ring drifted slowly across the lake.",
+        "zh": "空泳圈在湖面上慢慢漂移。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "dive into the pool",
+        "跳入游泳池"
+      ],
+      [
+        "drift away",
+        "漂走"
+      ],
+      [
+        "plunge into the water",
+        "突然落入水中"
+      ]
+    ],
+    "notes": "dive 可指有意跳水，plunge 强调突然或用力进入，drift 是随水流移动。",
+    "scene": "A lakeside recreation centre, divided by perspective, not boxes. At a clearly designated, supervised diving area a diver enters head-first in good form; dive label points to athlete. Farther off an empty loose inflatable ring drifts slowly rightward on gentle current; drift points to ring, with long soft water ripples. At the foreground dock an unattended beach ball falls abruptly from edge into water with splash; plunge points to descending ball and splash. No accidental person falls, no diving into unknown shallow water.",
+    "palette": "湖水蓝绿、漂浮圈浅黄、水花白，线条与水花大小突出漂移和突然入水。",
+    "ielts": "阅读｜分辨叙事中的动作快慢",
+    "practice": "用 drift 和 plunge 分别描述泳圈和落水的球。",
+    "answer": "The ring drifted away, and the beach ball plunged into the water.",
+    "reference_urls": [],
+    "image": "previews/44.webp"
+  },
+  {
+    "id": "45",
+    "page": 45,
+    "title": "操场上怎样跳",
+    "kind": "contrast",
+    "targets": [
+      "jump",
+      "leap",
+      "spring",
+      "hop",
+      "bounce"
+    ],
+    "labels": [
+      {
+        "word": "jump",
+        "pos": "v.",
+        "zh": "跳"
+      },
+      {
+        "word": "leap",
+        "pos": "v.",
+        "zh": "腾跃"
+      },
+      {
+        "word": "spring",
+        "pos": "v.",
+        "zh": "猛然跃起"
+      },
+      {
+        "word": "hop",
+        "pos": "v.",
+        "zh": "单脚跳"
+      },
+      {
+        "word": "bounce",
+        "pos": "v.",
+        "zh": "反弹"
+      }
+    ],
+    "sources": [
+      {
+        "word": "jump",
+        "physical_page": 131,
+        "printed_page": 120
+      },
+      {
+        "word": "leap",
+        "physical_page": 131,
+        "printed_page": 120
+      },
+      {
+        "word": "spring",
+        "physical_page": 131,
+        "printed_page": 120
+      },
+      {
+        "word": "hop",
+        "physical_page": 131,
+        "printed_page": 120
+      },
+      {
+        "word": "bounce",
+        "physical_page": 131,
+        "printed_page": 120
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 45\n词义辨析 | 娱乐运动\n操场上怎样跳\njump  v.  跳\nleap  v.  腾跃\nspring  v.  猛然跃起\nhop  v.  单脚跳\nbounce  v.  反弹\n放进句子里\nThe children hopped on one foot while the ball bounced nearby.\n孩子们单脚跳，球在旁边弹了起来。\n用法提醒\njump 用法广，leap 常是大幅跃起，hop 可指单脚跳。\n雅思应用\n口语 Part 2｜描述你小时候玩过的游戏\n轮到你了\n用 hop 说一句跳房子的规则，再用 bounce 描述球。\n第9章 娱乐运动 · 原创例句与练习 · 非真题\n跳房子格：1、3、4、5",
+    "example_en": "The children hopped on one foot while the ball bounced nearby.",
+    "example_zh": "孩子们单脚跳，球在旁边弹了起来。",
+    "examples": [
+      {
+        "en": "The children hopped on one foot while the ball bounced nearby.",
+        "zh": "孩子们单脚跳，球在旁边弹了起来。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "hop on one foot",
+        "单脚跳"
+      ],
+      [
+        "leap over a barrier",
+        "跃过障碍物"
+      ],
+      [
+        "the ball bounces",
+        "球反弹"
+      ]
+    ],
+    "notes": "jump 用法广，leap 常是大幅跃起，hop 可指单脚跳。",
+    "scene": "A bright, cushioned playground skill session with five different stations in one continuous outdoor illustration. Jump points to two-foot straight-up jump. Leap points to a long forward airborne stride over a low soft marker. Spring points to a person springing from a deep crouch with short vertical motion line. Hop points to raised other foot on a hopscotch grid. Bounce points to ball rebounding from the ground, distinct from person jumping. Show exact natural pose at each station, ample room for five labels.",
+    "palette": "地面橡胶砖赭橙、操场蓝绿与黄色路标对应五种方向明显的动作。",
+    "ielts": "口语 Part 2｜描述你小时候玩过的游戏",
+    "practice": "用 hop 说一句跳房子的规则，再用 bounce 描述球。",
+    "answer": "Hop on one foot. If the ball bounces into the grid, pause the game.",
+    "reference_urls": [],
+    "image": "previews/45.webp"
+  },
+  {
+    "id": "46",
+    "page": 46,
+    "title": "林间露营与野餐",
+    "kind": "scene",
+    "targets": [
+      "tent",
+      "camp",
+      "picnic"
+    ],
+    "labels": [
+      {
+        "word": "tent",
+        "pos": "n.",
+        "zh": "帐篷"
+      },
+      {
+        "word": "camp",
+        "pos": "n.",
+        "zh": "营地"
+      },
+      {
+        "word": "picnic",
+        "pos": "n.",
+        "zh": "野餐"
+      }
+    ],
+    "sources": [
+      {
+        "word": "tent",
+        "physical_page": 131,
+        "printed_page": 120
+      },
+      {
+        "word": "camp",
+        "physical_page": 131,
+        "printed_page": 120
+      },
+      {
+        "word": "picnic",
+        "physical_page": 131,
+        "printed_page": 120
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 46\n场景词群 | 娱乐运动\n林间露营与野餐\ntent  n.  帐篷\ncamp  n.  营地\npicnic  n.  野餐\n放进句子里\nWe had a picnic near the camp after putting up our tent.\n我们搭好帐篷后，在营地附近野餐。\n用法提醒\nput up a tent 是搭帐篷，have a picnic 指进行野餐活动。\n雅思应用\n口语 Part 2｜描述一次露营经历\n轮到你了\n用 tent 和 picnic 说说露营时你做了哪两件事。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "We had a picnic near the camp after putting up our tent.",
+    "example_zh": "我们搭好帐篷后，在营地附近野餐。",
+    "examples": [
+      {
+        "en": "We had a picnic near the camp after putting up our tent.",
+        "zh": "我们搭好帐篷后，在营地附近野餐。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "put up a tent",
+        "搭帐篷"
+      ],
+      [
+        "set up camp",
+        "扎营"
+      ],
+      [
+        "have a picnic",
+        "野餐"
+      ]
+    ],
+    "notes": "put up a tent 是搭帐篷，have a picnic 指进行野餐活动。",
+    "scene": "At a wooded lakeside campsite with three tents, a lantern and a family spreading food on a blanket. Tent arrow directly to one orange canvas shelter. Camp leader ends on a bracket around whole clearing with all tents. Picnic leader ends on the people sharing lunch on the blanket, not the trees. Natural foliage, safe non-fire scene, subtle sunlight.",
+    "palette": "森林苔绿、帐篷日落橙与湖畔浅蓝，突出营地与野餐地点。",
+    "ielts": "口语 Part 2｜描述一次露营经历",
+    "practice": "用 tent 和 picnic 说说露营时你做了哪两件事。",
+    "answer": "We put up our tent in the morning and had a picnic by the lake.",
+    "reference_urls": [],
+    "image": "previews/46.webp"
+  },
+  {
+    "id": "47",
+    "page": 47,
+    "title": "山林远足寻找线索",
+    "kind": "scene",
+    "targets": [
+      "hunt",
+      "excursion",
+      "hike",
+      "climb"
+    ],
+    "labels": [
+      {
+        "word": "hunt",
+        "pos": "v.",
+        "zh": "搜寻"
+      },
+      {
+        "word": "excursion",
+        "pos": "n.",
+        "zh": "短途出游"
+      },
+      {
+        "word": "hike",
+        "pos": "v.",
+        "zh": "徒步"
+      },
+      {
+        "word": "climb",
+        "pos": "v.",
+        "zh": "攀爬"
+      }
+    ],
+    "sources": [
+      {
+        "word": "hunt",
+        "physical_page": 132,
+        "printed_page": 121
+      },
+      {
+        "word": "excursion",
+        "physical_page": 132,
+        "printed_page": 121
+      },
+      {
+        "word": "hike",
+        "physical_page": 132,
+        "printed_page": 121
+      },
+      {
+        "word": "climb",
+        "physical_page": 132,
+        "printed_page": 121
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 47\n场景词群 | 娱乐运动\n山林远足寻找线索\nhunt  v.  搜寻\nexcursion  n.  短途出游\nhike  v.  徒步\nclimb  v.  攀爬\n放进句子里\nOn our excursion, we hiked through the forest and hunted for clues.\n短途出游时，我们徒步穿过森林寻找线索。\n用法提醒\nhunt for 可以是寻找物品或线索，也可用于 hunt for a job。\n雅思应用\n听力 Part 2｜理解短途活动行程\n轮到你了\n用 hike 和 hunt for 描述学校郊游中的两项活动。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "On our excursion, we hiked through the forest and hunted for clues.",
+    "example_zh": "短途出游时，我们徒步穿过森林寻找线索。",
+    "examples": [
+      {
+        "en": "On our excursion, we hiked through the forest and hunted for clues.",
+        "zh": "短途出游时，我们徒步穿过森林寻找线索。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "go on an excursion",
+        "去短途旅行"
+      ],
+      [
+        "hunt for clues",
+        "寻找线索"
+      ],
+      [
+        "hike through a forest",
+        "徒步穿过森林"
+      ]
+    ],
+    "notes": "hunt for 可以是寻找物品或线索，也可用于 hunt for a job。",
+    "scene": "A school day excursion follows a wooded trail near a visitor centre. Excursion callout refers to a whole organized short outing of bus, group and guide, not just a bus. Hunt points to two students searching for a scavenger-hunt paper clue under a trail marker, no animals or weapons. Hike points to a group walking with backpacks on the gradual trail. Climb points to one hiker using both hands safely to ascend a very low dry rock step, with path support and no risky cliff. One unified landscape.",
+    "palette": "林地绿、岩面灰褐、校车暖黄，由入口向林间步道渐深。",
+    "ielts": "听力 Part 2｜理解短途活动行程",
+    "practice": "用 hike 和 hunt for 描述学校郊游中的两项活动。",
+    "answer": "We hiked along a forest trail and hunted for clues near the lake.",
+    "reference_urls": [],
+    "image": "previews/47.webp"
+  },
+  {
+    "id": "48",
+    "page": 48,
+    "title": "城市步道里的步子",
+    "kind": "scene",
+    "targets": [
+      "pedestrian",
+      "step",
+      "stride",
+      "lag"
+    ],
+    "labels": [
+      {
+        "word": "pedestrian",
+        "pos": "n.",
+        "zh": "行人"
+      },
+      {
+        "word": "step",
+        "pos": "n.",
+        "zh": "一步"
+      },
+      {
+        "word": "stride",
+        "pos": "v.",
+        "zh": "大步走"
+      },
+      {
+        "word": "lag",
+        "pos": "v.",
+        "zh": "落后"
+      }
+    ],
+    "sources": [
+      {
+        "word": "pedestrian",
+        "physical_page": 132,
+        "printed_page": 121
+      },
+      {
+        "word": "step",
+        "physical_page": 132,
+        "printed_page": 121
+      },
+      {
+        "word": "stride",
+        "physical_page": 132,
+        "printed_page": 121
+      },
+      {
+        "word": "lag",
+        "physical_page": 132,
+        "printed_page": 121
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 48\n场景词群 | 娱乐运动\n城市步道里的步子\npedestrian  n.  行人\nstep  n.  一步\nstride  v.  大步走\nlag  v.  落后\n放进句子里\nI lagged behind while my friends strode along the path.\n朋友们沿着步道大步走，我落在了后面。\n用法提醒\nstride 的过去式是 strode，lag behind 指落在后面。\n雅思应用\n口语 Part 2｜描述一次和朋友散步的经历。\n轮到你了\n用 stride 和 lag behind 描述步速不同的两个人。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "I lagged behind while my friends strode along the path.",
+    "example_zh": "朋友们沿着步道大步走，我落在了后面。",
+    "examples": [
+      {
+        "en": "I lagged behind while my friends strode along the path.",
+        "zh": "朋友们沿着步道大步走，我落在了后面。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "take a step",
+        "迈一步"
+      ],
+      [
+        "stride ahead",
+        "大步走在前面"
+      ],
+      [
+        "lag behind",
+        "落在后面"
+      ]
+    ],
+    "notes": "stride 的过去式是 strode，lag behind 指落在后面。",
+    "scene": "A pedestrian park promenade alongside a river. Pedestrian points to a person crossing at a clearly pedestrian-only path. Step points to one small pair of adjacent footprints in pale dust, showing one step. Stride points to a tall adult walking briskly with a long gap between feet; lag points to a friend walking more slowly several paces behind a group, safe and unhurried. Convey distance with one unobtrusive dashed bracket.",
+    "palette": "河岸青绿、步道暖灰，步幅示意用小块对比色留白。",
+    "ielts": "口语 Part 2｜描述一次和朋友散步的经历",
+    "practice": "用 stride 和 lag behind 描述步速不同的两个人。",
+    "answer": "My brother strode ahead while I lagged behind.",
+    "reference_urls": [],
+    "image": "previews/48.webp"
+  },
+  {
+    "id": "49",
+    "page": 49,
+    "title": "海港假期的一天",
+    "kind": "scene",
+    "targets": [
+      "wander",
+      "linger",
+      "trip",
+      "vacation",
+      "cruise"
+    ],
+    "labels": [
+      {
+        "word": "wander",
+        "pos": "v.",
+        "zh": "漫步；闲逛"
+      },
+      {
+        "word": "linger",
+        "pos": "v.",
+        "zh": "逗留"
+      },
+      {
+        "word": "trip",
+        "pos": "n.",
+        "zh": "一次出行"
+      },
+      {
+        "word": "vacation",
+        "pos": "n.",
+        "zh": "假期"
+      },
+      {
+        "word": "cruise",
+        "pos": "v.",
+        "zh": "乘船游览"
+      }
+    ],
+    "sources": [
+      {
+        "word": "wander",
+        "physical_page": 132,
+        "printed_page": 121
+      },
+      {
+        "word": "linger",
+        "physical_page": 132,
+        "printed_page": 121
+      },
+      {
+        "word": "trip",
+        "physical_page": 132,
+        "printed_page": 121
+      },
+      {
+        "word": "vacation",
+        "physical_page": 132,
+        "printed_page": 121
+      },
+      {
+        "word": "cruise",
+        "physical_page": 132,
+        "printed_page": 121
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 49\n场景词群 | 娱乐运动\n海港假期的一天\nwander  v.  漫步；闲逛\nlinger  v.  逗留\ntrip  n.  一次出行\nvacation  n.  假期\ncruise  v.  乘船游览\n放进句子里\nWe wandered around the harbour and lingered until sunset.\n我们在港口周围闲逛，一直逗留到日落。\n用法提醒\ntrip 指一次出行，vacation 指休假的一段时间，英式英语常说 holiday。\n雅思应用\n口语 Part 2｜描述一次喜欢的假期出行\n轮到你了\n用 wander 和 linger 说说你会怎样度过海边的一天。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "We wandered around the harbour and lingered until sunset.",
+    "example_zh": "我们在港口周围闲逛，一直逗留到日落。",
+    "examples": [
+      {
+        "en": "We wandered around the harbour and lingered until sunset.",
+        "zh": "我们在港口周围闲逛，一直逗留到日落。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a day trip",
+        "一日游"
+      ],
+      [
+        "on vacation",
+        "在度假"
+      ],
+      [
+        "cruise around the bay",
+        "乘船游览海湾"
+      ]
+    ],
+    "notes": "trip 指一次出行，vacation 指休假的一段时间，英式英语常说 holiday。",
+    "scene": "A coastal vacation in a fishing harbour. Cruise points to people on a small sightseeing boat making a smooth wake; wander points to two walkers browsing without haste along the quay; linger points to one person still sitting to watch the sunset. On the foreground visitor table, trip points to an illustrated one-day route map with two marked stops, vacation points to a broader multi-day holiday calendar. Use clear distinct leads, no invented times or garbled text.",
+    "palette": "海湾青蓝配日落橘，岸边暖光强调闲逛与停留，水上保留清晰船迹。",
+    "ielts": "口语 Part 2｜描述一次喜欢的假期出行",
+    "practice": "用 wander 和 linger 说说你会怎样度过海边的一天。",
+    "answer": "I would wander along the shore and linger at a café to watch the sunset.",
+    "reference_urls": [],
+    "image": "previews/49.webp"
+  },
+  {
+    "id": "50",
+    "page": 50,
+    "title": "从布置舞台到鞠躬谢幕",
+    "kind": "contrast",
+    "targets": [
+      "pull",
+      "drag",
+      "bend",
+      "bow"
+    ],
+    "labels": [
+      {
+        "word": "pull",
+        "pos": "v.",
+        "zh": "拉"
+      },
+      {
+        "word": "drag",
+        "pos": "v.",
+        "zh": "拖拽"
+      },
+      {
+        "word": "bend",
+        "pos": "v.",
+        "zh": "弯曲；弯身"
+      },
+      {
+        "word": "bow",
+        "pos": "v.",
+        "zh": "鞠躬"
+      }
+    ],
+    "sources": [
+      {
+        "word": "pull",
+        "physical_page": 133,
+        "printed_page": 122
+      },
+      {
+        "word": "drag",
+        "physical_page": 133,
+        "printed_page": 122
+      },
+      {
+        "word": "bend",
+        "physical_page": 133,
+        "printed_page": 122
+      },
+      {
+        "word": "bow",
+        "physical_page": 133,
+        "printed_page": 122
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 50\n词义辨析 | 娱乐运动\n从布置舞台到鞠躬谢幕\npull  v.  拉\ndrag  v.  拖拽\nbend  v.  弯曲；弯身\nbow  v.  鞠躬\n放进句子里\nThe actor bowed after the final scene.\n最后一幕结束后，演员鞠躬谢幕。\n用法提醒\nbow 作鞠躬时读 /baʊ/，表示致意；bend 只说明身体弯曲。\n雅思应用\n口语 Part 2｜复述一场看过的演出\n轮到你了\n用 bow 描述演员谢幕，再用 drag 说说工作人员做了什么。\n第9章 娱乐运动 · 原创例句与练习 · 非真题",
+    "example_en": "The actor bowed after the final scene.",
+    "example_zh": "最后一幕结束后，演员鞠躬谢幕。",
+    "examples": [
+      {
+        "en": "The actor bowed after the final scene.",
+        "zh": "最后一幕结束后，演员鞠躬谢幕。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "pull a rope",
+        "拉绳子"
+      ],
+      [
+        "drag a box",
+        "拖箱子"
+      ],
+      [
+        "bow to the audience",
+        "向观众鞠躬"
+      ]
+    ],
+    "notes": "bow 作鞠躬时读 /baʊ/，表示致意；bend 只说明身体弯曲。",
+    "scene": "Watercolor theatre stage with two coherent zones under warm lights. Left stagehand pulls a thick curtain cord towards herself; another drags a wooden prop crate visibly scraping along the floor. At centre one stagehand bends at waist to pick up a light costume hat, head facing object. At front right a costumed actor deliberately bows forward to applauding audience, with body orientation opposite the bend example. Label leaders end at cord, crate, bent torso, and bowing actor precisely. Stagehand not pulling a person.",
+    "palette": "深紫帷幕、木地板赭黄与暖金舞台灯，谢幕区用一束聚光与布景区分。",
+    "ielts": "口语 Part 2｜复述一场看过的演出",
+    "practice": "用 bow 描述演员谢幕，再用 drag 说说工作人员做了什么。",
+    "answer": "The actors bowed, and the stage crew dragged the heavy props away.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/bow"
+    ],
+    "image": "previews/50.webp"
+  }
+]

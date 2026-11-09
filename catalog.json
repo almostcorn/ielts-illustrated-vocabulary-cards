@@ -2,7 +2,7 @@
   "title": "IELTS 插画词汇手记",
   "updated": "2026-11-09",
   "repository": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards",
-  "release_tag": "v2026.11.09-ch08",
+  "release_tag": "v2026.11.09-ch09",
   "chapters": [
     {
       "chapter": 1,
@@ -4083,9 +4083,547 @@
           "preview": "previews/23.webp"
         }
       ]
+    },
+    {
+      "chapter": 9,
+      "title": "娱乐运动",
+      "status": "chapter_complete",
+      "cards": 50,
+      "headwords": 176,
+      "path": "chapters/ch09",
+      "pdf": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09-ch09/ch09-learning-cards.pdf",
+      "download": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09-ch09/ch09-study-pack.zip",
+      "index": [
+        {
+          "number": 1,
+          "title": "体育新闻怎样出炉",
+          "words": [
+            "medium",
+            "press",
+            "journalist",
+            "editor"
+          ],
+          "preview": "previews/01.webp"
+        },
+        {
+          "number": 2,
+          "title": "预料与等待",
+          "words": [
+            "foresee",
+            "anticipate",
+            "expect",
+            "await"
+          ],
+          "preview": "previews/02.webp"
+        },
+        {
+          "number": 3,
+          "title": "recreation",
+          "words": [
+            "recreation"
+          ],
+          "preview": "previews/03.webp"
+        },
+        {
+          "number": 4,
+          "title": "旧报社的三种工作",
+          "words": [
+            "correspondent",
+            "typist",
+            "messenger"
+          ],
+          "preview": "previews/04.webp"
+        },
+        {
+          "number": 5,
+          "title": "介绍、解说与评论",
+          "words": [
+            "critic",
+            "commentator",
+            "announcer"
+          ],
+          "preview": "previews/05.webp"
+        },
+        {
+          "number": 6,
+          "title": "讲座讲义与活动传单",
+          "words": [
+            "handout",
+            "leaflet"
+          ],
+          "preview": "previews/06.webp"
+        },
+        {
+          "number": 7,
+          "title": "倡导、宣传与达成共识",
+          "words": [
+            "exponent",
+            "propaganda",
+            "consensus"
+          ],
+          "preview": "previews/07.webp"
+        },
+        {
+          "number": 8,
+          "title": "发布消息，再扩大传播",
+          "words": [
+            "publish",
+            "disseminate"
+          ],
+          "preview": "previews/08.webp"
+        },
+        {
+          "number": 9,
+          "title": "公园里的消遣与逗乐",
+          "words": [
+            "pastime",
+            "entertain",
+            "amuse"
+          ],
+          "preview": "previews/09.webp"
+        },
+        {
+          "number": 10,
+          "title": "闲聊与传闻",
+          "words": [
+            "gossip",
+            "rumour"
+          ],
+          "preview": "previews/10.webp"
+        },
+        {
+          "number": 11,
+          "title": "节庆、盛宴与活动日程",
+          "words": [
+            "festival",
+            "feast",
+            "programme"
+          ],
+          "preview": "previews/11.webp"
+        },
+        {
+          "number": 12,
+          "title": "戏剧排练和登台",
+          "words": [
+            "rehearsal",
+            "perform",
+            "drama",
+            "role",
+            "scene"
+          ],
+          "preview": "previews/12.webp"
+        },
+        {
+          "number": 13,
+          "title": "模仿动作、声音和模拟情境",
+          "words": [
+            "imitate",
+            "mimic",
+            "simulate"
+          ],
+          "preview": "previews/13.webp"
+        },
+        {
+          "number": 14,
+          "title": "马戏棚的魔术",
+          "words": [
+            "circus",
+            "magic"
+          ],
+          "preview": "previews/14.webp"
+        },
+        {
+          "number": 15,
+          "title": "音乐会、乐团与交响曲",
+          "words": [
+            "concert",
+            "orchestra",
+            "symphony"
+          ],
+          "preview": "previews/15.webp"
+        },
+        {
+          "number": 16,
+          "title": "剧场里看舞、听歌、看悲喜",
+          "words": [
+            "ballet",
+            "opera",
+            "comedy",
+            "tragedy"
+          ],
+          "preview": "previews/16.webp"
+        },
+        {
+          "number": 17,
+          "title": "影院里的片种和评级",
+          "words": [
+            "animation",
+            "film",
+            "movie",
+            "X-rated"
+          ],
+          "preview": "previews/17.webp"
+        },
+        {
+          "number": 18,
+          "title": "艺术家、工艺师与画家",
+          "words": [
+            "artist",
+            "craftsman",
+            "painter"
+          ],
+          "preview": "previews/18.webp"
+        },
+        {
+          "number": 19,
+          "title": "聚光灯下的演出",
+          "words": [
+            "stage",
+            "musical",
+            "band",
+            "solo",
+            "improvise"
+          ],
+          "preview": "previews/19.webp"
+        },
+        {
+          "number": 20,
+          "title": "走进美术馆",
+          "words": [
+            "gallery",
+            "exhibition",
+            "aesthetic"
+          ],
+          "preview": "previews/20.webp"
+        },
+        {
+          "number": 21,
+          "title": "策展人怎么选",
+          "words": [
+            "collect",
+            "select",
+            "opt"
+          ],
+          "preview": "previews/21.webp"
+        },
+        {
+          "number": 22,
+          "title": "同一展厅，不同作品",
+          "words": [
+            "photograph",
+            "portrait",
+            "painting",
+            "sculpture",
+            "carve"
+          ],
+          "preview": "previews/22.webp"
+        },
+        {
+          "number": 23,
+          "title": "画下来，还是说出来？",
+          "words": [
+            "draw",
+            "sketch",
+            "depict",
+            "describe"
+          ],
+          "preview": "previews/23.webp"
+        },
+        {
+          "number": 24,
+          "title": "音乐节的五种声音",
+          "words": [
+            "classical",
+            "jazz",
+            "rock",
+            "hip-hop",
+            "pop"
+          ],
+          "preview": "previews/24.webp"
+        },
+        {
+          "number": 25,
+          "title": "一首歌的三条线",
+          "words": [
+            "lyric",
+            "melody",
+            "rhythm"
+          ],
+          "preview": "previews/25.webp"
+        },
+        {
+          "number": 26,
+          "title": "录音室的调音与试听",
+          "words": [
+            "tone",
+            "tune",
+            "disc"
+          ],
+          "preview": "previews/26.webp"
+        },
+        {
+          "number": 27,
+          "title": "排练室里的四件乐器",
+          "words": [
+            "piano",
+            "violin",
+            "cello",
+            "guitar"
+          ],
+          "preview": "previews/27.webp"
+        },
+        {
+          "number": 28,
+          "title": "街角合奏：吹奏和敲击",
+          "words": [
+            "harmonica",
+            "trumpet",
+            "drum",
+            "flute"
+          ],
+          "preview": "previews/28.webp"
+        },
+        {
+          "number": 29,
+          "title": "从社区比赛到奥运舞台",
+          "words": [
+            "competition",
+            "tournament",
+            "Olympic"
+          ],
+          "preview": "previews/29.webp"
+        },
+        {
+          "number": 30,
+          "title": "活动背后的三种支持",
+          "words": [
+            "sponsor",
+            "patron",
+            "volunteer"
+          ],
+          "preview": "previews/30.webp"
+        },
+        {
+          "number": 31,
+          "title": "体育场里谁在做什么？",
+          "words": [
+            "athlete",
+            "champion",
+            "spectator",
+            "stadium"
+          ],
+          "preview": "previews/31.webp"
+        },
+        {
+          "number": 32,
+          "title": "社区健身房开放日",
+          "words": [
+            "gym",
+            "famous",
+            "well-known",
+            "energetic",
+            "vigorous"
+          ],
+          "preview": "previews/32.webp"
+        },
+        {
+          "number": 33,
+          "title": "训练课上的动作和感受",
+          "words": [
+            "training",
+            "exercise",
+            "stretch",
+            "strain"
+          ],
+          "preview": "previews/33.webp"
+        },
+        {
+          "number": 34,
+          "title": "活动中心的室内与户外",
+          "words": [
+            "indoor",
+            "outdoor",
+            "yoga",
+            "sprawl"
+          ],
+          "preview": "previews/34.webp"
+        },
+        {
+          "number": 35,
+          "title": "舞台上的示意与移动",
+          "words": [
+            "motion",
+            "mobile",
+            "movement"
+          ],
+          "preview": "previews/35.webp"
+        },
+        {
+          "number": 36,
+          "title": "足球场上的一脚射门",
+          "words": [
+            "soccer",
+            "goal",
+            "kick",
+            "pitch"
+          ],
+          "preview": "previews/36.webp"
+        },
+        {
+          "number": 37,
+          "title": "从慢跑热身到马拉松",
+          "words": [
+            "marathon",
+            "race",
+            "pace",
+            "jog"
+          ],
+          "preview": "previews/37.webp"
+        },
+        {
+          "number": 38,
+          "title": "活动室里的两种桌上游戏",
+          "words": [
+            "chess",
+            "billiards"
+          ],
+          "preview": "previews/38.webp"
+        },
+        {
+          "number": 39,
+          "title": "三种隔网运动",
+          "words": [
+            "tennis",
+            "racket",
+            "volleyball",
+            "badminton"
+          ],
+          "preview": "previews/39.webp"
+        },
+        {
+          "number": 40,
+          "title": "球具展上看懂不同球杆",
+          "words": [
+            "hockey",
+            "cricket",
+            "golf",
+            "bat"
+          ],
+          "preview": "previews/40.webp"
+        },
+        {
+          "number": 41,
+          "title": "运动嘉年华的四种手部动作",
+          "words": [
+            "knock",
+            "flip",
+            "throw",
+            "toss"
+          ],
+          "preview": "previews/41.webp"
+        },
+        {
+          "number": 42,
+          "title": "平稳滑行、打滑与翻滚",
+          "words": [
+            "slide",
+            "slip",
+            "glide",
+            "tumble"
+          ],
+          "preview": "previews/42.webp"
+        },
+        {
+          "number": 43,
+          "title": "冬日公园的三条运动路线",
+          "words": [
+            "ski",
+            "skate",
+            "cycling"
+          ],
+          "preview": "previews/43.webp"
+        },
+        {
+          "number": 44,
+          "title": "入水与随水漂移",
+          "words": [
+            "dive",
+            "drift",
+            "plunge"
+          ],
+          "preview": "previews/44.webp"
+        },
+        {
+          "number": 45,
+          "title": "操场上怎样跳",
+          "words": [
+            "jump",
+            "leap",
+            "spring",
+            "hop",
+            "bounce"
+          ],
+          "preview": "previews/45.webp"
+        },
+        {
+          "number": 46,
+          "title": "林间露营与野餐",
+          "words": [
+            "tent",
+            "camp",
+            "picnic"
+          ],
+          "preview": "previews/46.webp"
+        },
+        {
+          "number": 47,
+          "title": "山林远足寻找线索",
+          "words": [
+            "hunt",
+            "excursion",
+            "hike",
+            "climb"
+          ],
+          "preview": "previews/47.webp"
+        },
+        {
+          "number": 48,
+          "title": "城市步道里的步子",
+          "words": [
+            "pedestrian",
+            "step",
+            "stride",
+            "lag"
+          ],
+          "preview": "previews/48.webp"
+        },
+        {
+          "number": 49,
+          "title": "海港假期的一天",
+          "words": [
+            "wander",
+            "linger",
+            "trip",
+            "vacation",
+            "cruise"
+          ],
+          "preview": "previews/49.webp"
+        },
+        {
+          "number": 50,
+          "title": "从布置舞台到鞠躬谢幕",
+          "words": [
+            "pull",
+            "drag",
+            "bend",
+            "bow"
+          ],
+          "preview": "previews/50.webp"
+        }
+      ]
     }
   ],
-  "total_cards": 365,
-  "chapter_coverage_items": 1285,
-  "counting_note": "1,285 为各章词头覆盖项相加，跨章不去重。第 1–8 章均已完成。"
+  "total_cards": 415,
+  "chapter_coverage_items": 1461,
+  "counting_note": "1,461 为各章词头覆盖项相加，跨章不去重。第 1–9 章均已完成。"
 }
