@@ -2,7 +2,7 @@
   "title": "IELTS 插画词汇手记",
   "updated": "2026-11-09",
   "repository": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards",
-  "release_tag": "v2026.11.09",
+  "release_tag": "v2026.11.09-ch08",
   "chapters": [
     {
       "chapter": 1,
@@ -3842,9 +3842,250 @@
           "preview": "previews/31.webp"
         }
       ]
+    },
+    {
+      "chapter": 8,
+      "title": "语言演化",
+      "status": "chapter_complete",
+      "cards": 23,
+      "headwords": 68,
+      "path": "chapters/ch08",
+      "pdf": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09-ch08/ch08-learning-cards.pdf",
+      "download": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09-ch08/ch08-study-pack.zip",
+      "index": [
+        {
+          "number": 1,
+          "title": "同一种语言，不同说法",
+          "words": [
+            "language",
+            "linguistics",
+            "dialect",
+            "accent"
+          ],
+          "preview": "previews/01.webp"
+        },
+        {
+          "number": 2,
+          "title": "不用开口，也能传达意思",
+          "words": [
+            "symbol",
+            "sign",
+            "gesture"
+          ],
+          "preview": "previews/02.webp"
+        },
+        {
+          "number": 3,
+          "title": "博物馆里的记录方式",
+          "words": [
+            "pictograph",
+            "logogram",
+            "wedge",
+            "knot"
+          ],
+          "preview": "previews/03.webp"
+        },
+        {
+          "number": 4,
+          "title": "字母相同，笔迹不同",
+          "words": [
+            "handwriting",
+            "alphabet"
+          ],
+          "preview": "previews/04.webp"
+        },
+        {
+          "number": 5,
+          "title": "从发音到语调",
+          "words": [
+            "phonetics",
+            "pronounce",
+            "intonation",
+            "inflection"
+          ],
+          "preview": "previews/05.webp"
+        },
+        {
+          "number": 6,
+          "title": "一拍里有几个声音？",
+          "words": [
+            "syllable",
+            "phoneme",
+            "vowel",
+            "consonant"
+          ],
+          "preview": "previews/06.webp"
+        },
+        {
+          "number": 7,
+          "title": "口试开始之前",
+          "words": [
+            "utterance",
+            "oral",
+            "verbal"
+          ],
+          "preview": "previews/07.webp"
+        },
+        {
+          "number": 8,
+          "title": "从查词到会用",
+          "words": [
+            "vocabulary",
+            "dictionary"
+          ],
+          "preview": "previews/08.webp"
+        },
+        {
+          "number": 9,
+          "title": "idiom",
+          "words": [
+            "idiom"
+          ],
+          "preview": "previews/09.webp"
+        },
+        {
+          "number": 10,
+          "title": "语法、句法与语义",
+          "words": [
+            "grammar",
+            "syntax",
+            "semantic"
+          ],
+          "preview": "previews/10.webp"
+        },
+        {
+          "number": 11,
+          "title": "短语、从句与说法",
+          "words": [
+            "phrase",
+            "clause",
+            "expression"
+          ],
+          "preview": "previews/11.webp"
+        },
+        {
+          "number": 12,
+          "title": "借阅台的单复数与代词",
+          "words": [
+            "noun",
+            "singular",
+            "plural",
+            "pronoun"
+          ],
+          "preview": "previews/12.webp"
+        },
+        {
+          "number": 13,
+          "title": "滑冰课的词性与时态",
+          "words": [
+            "verb",
+            "tense",
+            "adjective",
+            "adverb"
+          ],
+          "preview": "previews/13.webp"
+        },
+        {
+          "number": 14,
+          "title": "雨中的方位与原因",
+          "words": [
+            "preposition",
+            "conjunction"
+          ],
+          "preview": "previews/14.webp"
+        },
+        {
+          "number": 15,
+          "title": "编辑桌上的词块和缩写",
+          "words": [
+            "root",
+            "prefix",
+            "suffix",
+            "abbreviation"
+          ],
+          "preview": "previews/15.webp"
+        },
+        {
+          "number": 16,
+          "title": "南瓜展里的近义与反义",
+          "words": [
+            "synonym",
+            "antonym"
+          ],
+          "preview": "previews/16.webp"
+        },
+        {
+          "number": 17,
+          "title": "从词条到新版词汇表",
+          "words": [
+            "consistent",
+            "compile",
+            "version"
+          ],
+          "preview": "previews/17.webp"
+        },
+        {
+          "number": 18,
+          "title": "步骤难懂，还是结构复杂？",
+          "words": [
+            "complicated",
+            "complex"
+          ],
+          "preview": "previews/18.webp"
+        },
+        {
+          "number": 19,
+          "title": "翻译、改述与口译",
+          "words": [
+            "translate",
+            "paraphrase",
+            "interpret"
+          ],
+          "preview": "previews/19.webp"
+        },
+        {
+          "number": 20,
+          "title": "从档案解读到故事讲述",
+          "words": [
+            "decipher",
+            "illuminate",
+            "narrate"
+          ],
+          "preview": "previews/20.webp"
+        },
+        {
+          "number": 21,
+          "title": "社区改造会上的沟通",
+          "words": [
+            "communicate",
+            "brainstorm",
+            "discussion"
+          ],
+          "preview": "previews/21.webp"
+        },
+        {
+          "number": 22,
+          "title": "从辩论到协商",
+          "words": [
+            "debate",
+            "contention",
+            "negotiate"
+          ],
+          "preview": "previews/22.webp"
+        },
+        {
+          "number": 23,
+          "title": "现场解说与演说口才",
+          "words": [
+            "commentary",
+            "eloquence"
+          ],
+          "preview": "previews/23.webp"
+        }
+      ]
     }
   ],
-  "total_cards": 342,
-  "chapter_coverage_items": 1217,
-  "counting_note": "1,217 为各章词头覆盖项相加，跨章不去重。第 1–7 章均已完成。"
+  "total_cards": 365,
+  "chapter_coverage_items": 1285,
+  "counting_note": "1,285 为各章词头覆盖项相加，跨章不去重。第 1–8 章均已完成。"
 }

@@ -2,7 +2,7 @@
 
 用画面理解词义，用例句走进语境，再用练习把词汇说出来。
 
-**342 张插画学习卡 · 7 个完整章节 · 持续更新**
+**365 张插画学习卡 · 8 个完整章节 · 持续更新**
 
 [按章节开始学习](#章节目录) · [下载 PDF 和高清原图](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases) · [查看制作原则](DESIGN.md)
 
@@ -29,12 +29,13 @@
 | 05 | 学校教育 | 85 | 402 | [打开章节](chapters/ch05/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch05-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch05-study-pack.zip) |
 | 06 | 科技发明 | 36 | 122 | [打开章节](chapters/ch06/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch06-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch06-study-pack.zip) |
 | 07 | 文化历史 | 31 | 79 | [打开章节](chapters/ch07/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch07-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch07-study-pack.zip) |
+| 08 | 语言演化 | 23 | 68 | [打开章节](chapters/ch08/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09-ch08/ch08-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09-ch08/ch08-study-pack.zip) |
 
-全书共 22 章。第 1–7 章已完成，第 8–22 章共 15 章待制作。章内词头合计 1,217 项，跨章出现的同一个词分别计入各章。
+全书共 22 章。第 1–8 章已完成，第 9–22 章共 14 章待制作。章内词头合计 1,285 项，跨章出现的同一个词分别计入各章。
 
 ## 文件说明
 
-- `chapters/`：342张在线预览，以及学习文稿、练习、独立答案、词头覆盖表和可编辑内容。
+- `chapters/`：365张在线预览，以及学习文稿、练习、独立答案、词头覆盖表和可编辑内容。
 - `catalog.json`：章节与卡片索引，便于检索或继续制作。
 - [Releases](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases)：每章合订PDF与含高清PNG的完整学习包；预览图做了网页压缩，高清原图保持发布版本。
 
