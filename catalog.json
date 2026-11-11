@@ -1,8 +1,8 @@
 {
   "title": "IELTS 插画词汇手记",
-  "updated": "2026-11-09",
+  "updated": "2026-11-11",
   "repository": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards",
-  "release_tag": "v2026.11.09-ch09",
+  "release_tag": "v2026.11.11-ch10",
   "chapters": [
     {
       "chapter": 1,
@@ -4621,9 +4621,474 @@
           "preview": "previews/50.webp"
         }
       ]
+    },
+    {
+      "chapter": 10,
+      "title": "物品材料",
+      "status": "chapter_complete",
+      "cards": 43,
+      "headwords": 152,
+      "path": "chapters/ch10",
+      "pdf": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.11-ch10/ch10-learning-cards.pdf",
+      "download": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.11-ch10/ch10-study-pack.zip",
+      "index": [
+        {
+          "number": 1,
+          "title": "周末市集里的一件物品",
+          "words": [
+            "stuff",
+            "item",
+            "merchandise",
+            "souvenir"
+          ],
+          "preview": "previews/01.webp"
+        },
+        {
+          "number": 2,
+          "title": "物品的三种去向",
+          "words": [
+            "reuse",
+            "recycle",
+            "landfill"
+          ],
+          "preview": "previews/02.webp"
+        },
+        {
+          "number": 3,
+          "title": "artefact",
+          "words": [
+            "artefact"
+          ],
+          "preview": "previews/03.webp"
+        },
+        {
+          "number": 4,
+          "title": "从原料到成品",
+          "words": [
+            "material",
+            "raw",
+            "crude"
+          ],
+          "preview": "previews/04.webp"
+        },
+        {
+          "number": 5,
+          "title": "垃圾桶内外怎么说",
+          "words": [
+            "garbage",
+            "rubbish",
+            "trash",
+            "litter"
+          ],
+          "preview": "previews/05.webp"
+        },
+        {
+          "number": 6,
+          "title": "维修站里的废料和旧物",
+          "words": [
+            "waste",
+            "junk"
+          ],
+          "preview": "previews/06.webp"
+        },
+        {
+          "number": 7,
+          "title": "出门前的装备清单",
+          "words": [
+            "necessity",
+            "outfit",
+            "kit",
+            "utensil"
+          ],
+          "preview": "previews/07.webp"
+        },
+        {
+          "number": 8,
+          "title": "从浴缸到排污管网",
+          "words": [
+            "tub",
+            "tap",
+            "plug",
+            "pipe",
+            "sewerage"
+          ],
+          "preview": "previews/08.webp"
+        },
+        {
+          "number": 9,
+          "title": "洗衣和洗漱用品",
+          "words": [
+            "detergent",
+            "lotion",
+            "shampoo",
+            "soap",
+            "tube"
+          ],
+          "preview": "previews/09.webp"
+        },
+        {
+          "number": 10,
+          "title": "社区教室清洁分工",
+          "words": [
+            "mop",
+            "broom",
+            "sweep",
+            "sponge"
+          ],
+          "preview": "previews/10.webp"
+        },
+        {
+          "number": 11,
+          "title": "床铺上有哪些用品",
+          "words": [
+            "mattress",
+            "pillow",
+            "blanket",
+            "quilt",
+            "sheet"
+          ],
+          "preview": "previews/11.webp"
+        },
+        {
+          "number": 12,
+          "title": "从门口到沙发的软装",
+          "words": [
+            "carpet",
+            "rug",
+            "mat",
+            "cushion",
+            "pad"
+          ],
+          "preview": "previews/12.webp"
+        },
+        {
+          "number": 13,
+          "title": "洗手台前的晨间整理",
+          "words": [
+            "towel",
+            "razor",
+            "shave"
+          ],
+          "preview": "previews/13.webp"
+        },
+        {
+          "number": 14,
+          "title": "把作品和资料带去面试",
+          "words": [
+            "staple",
+            "portfolio"
+          ],
+          "preview": "previews/14.webp"
+        },
+        {
+          "number": 15,
+          "title": "家中维修盒的两种零件",
+          "words": [
+            "nail",
+            "fuse"
+          ],
+          "preview": "previews/15.webp"
+        },
+        {
+          "number": 16,
+          "title": "工作台上的缆、绳和一股线",
+          "words": [
+            "cable",
+            "cord",
+            "strand"
+          ],
+          "preview": "previews/16.webp"
+        },
+        {
+          "number": 17,
+          "title": "火柴、蜡烛和融化的蜡",
+          "words": [
+            "match",
+            "candle",
+            "wax"
+          ],
+          "preview": "previews/17.webp"
+        },
+        {
+          "number": 18,
+          "title": "旅行书店里的纸本",
+          "words": [
+            "paperback",
+            "pamphlet",
+            "cover"
+          ],
+          "preview": "previews/18.webp"
+        },
+        {
+          "number": 19,
+          "title": "手作课的文具和耗材",
+          "words": [
+            "tissue",
+            "stationery",
+            "glue",
+            "ink",
+            "rubber"
+          ],
+          "preview": "previews/19.webp"
+        },
+        {
+          "number": 20,
+          "title": "农场体验日的剪切与边缘",
+          "words": [
+            "scissors",
+            "shear",
+            "edge",
+            "rim"
+          ],
+          "preview": "previews/20.webp"
+        },
+        {
+          "number": 21,
+          "title": "办公室的原件与复印件",
+          "words": [
+            "Xerox",
+            "duplicate",
+            "memorandum"
+          ],
+          "preview": "previews/21.webp"
+        },
+        {
+          "number": 22,
+          "title": "选灯时考虑哪些因素",
+          "words": [
+            "element",
+            "factor",
+            "section"
+          ],
+          "preview": "previews/22.webp"
+        },
+        {
+          "number": 23,
+          "title": "市场里的识别标记",
+          "words": [
+            "tag",
+            "label",
+            "badge"
+          ],
+          "preview": "previews/23.webp"
+        },
+        {
+          "number": 24,
+          "title": "门上三处可以操作的五金",
+          "words": [
+            "bolt",
+            "knob",
+            "handle"
+          ],
+          "preview": "previews/24.webp"
+        },
+        {
+          "number": 25,
+          "title": "窗前的光线和遮挡",
+          "words": [
+            "shutter",
+            "curtain",
+            "pane",
+            "opacity"
+          ],
+          "preview": "previews/25.webp"
+        },
+        {
+          "number": 26,
+          "title": "储物间的罐和桶",
+          "words": [
+            "jar",
+            "barrel",
+            "bucket",
+            "pail"
+          ],
+          "preview": "previews/26.webp"
+        },
+        {
+          "number": 27,
+          "title": "山间旅店的随身设备",
+          "words": [
+            "phone",
+            "bell",
+            "camera",
+            "portable"
+          ],
+          "preview": "previews/27.webp"
+        },
+        {
+          "number": 28,
+          "title": "露天演出的四种灯光",
+          "words": [
+            "spotlight",
+            "lantern",
+            "bulb",
+            "flashlight"
+          ],
+          "preview": "previews/28.webp"
+        },
+        {
+          "number": 29,
+          "title": "屋里几件常用家电",
+          "words": [
+            "refrigerator",
+            "fridge",
+            "vacuum",
+            "fan",
+            "switch"
+          ],
+          "preview": "previews/29.webp"
+        },
+        {
+          "number": 30,
+          "title": "社区运动场的三处细节",
+          "words": [
+            "hurdle",
+            "fence",
+            "pedal"
+          ],
+          "preview": "previews/30.webp"
+        },
+        {
+          "number": 31,
+          "title": "图书馆里找和存放物品",
+          "words": [
+            "shelf",
+            "ladder",
+            "lift",
+            "stool",
+            "drawer"
+          ],
+          "preview": "previews/31.webp"
+        },
+        {
+          "number": 32,
+          "title": "一场雨，两种雨具",
+          "words": [
+            "umbrella",
+            "raincoat"
+          ],
+          "preview": "previews/32.webp"
+        },
+        {
+          "number": 33,
+          "title": "烘焙教室里的面粉与罐头",
+          "words": [
+            "dredge",
+            "can",
+            "mill"
+          ],
+          "preview": "previews/33.webp"
+        },
+        {
+          "number": 34,
+          "title": "铁匠工坊里的金属成形",
+          "words": [
+            "forge",
+            "metal",
+            "iron"
+          ],
+          "preview": "previews/34.webp"
+        },
+        {
+          "number": 35,
+          "title": "材料展台上的铅与黄铜",
+          "words": [
+            "alloy",
+            "lead",
+            "brass"
+          ],
+          "preview": "previews/35.webp"
+        },
+        {
+          "number": 36,
+          "title": "老建筑修复的材料",
+          "words": [
+            "cement",
+            "pitch",
+            "lime",
+            "plaster"
+          ],
+          "preview": "previews/36.webp"
+        },
+        {
+          "number": 37,
+          "title": "衣料与配件的五种材料",
+          "words": [
+            "leather",
+            "plastic",
+            "linen",
+            "cotton",
+            "nylon"
+          ],
+          "preview": "previews/37.webp"
+        },
+        {
+          "number": 38,
+          "title": "从纤维到布面",
+          "words": [
+            "fibre",
+            "fabric",
+            "knit",
+            "weave",
+            "canvas"
+          ],
+          "preview": "previews/38.webp"
+        },
+        {
+          "number": 39,
+          "title": "木工台上的原料和成品",
+          "words": [
+            "lumber",
+            "wooden"
+          ],
+          "preview": "previews/39.webp"
+        },
+        {
+          "number": 40,
+          "title": "从矿井到设备维护",
+          "words": [
+            "mine",
+            "pit",
+            "fuel",
+            "lubricate"
+          ],
+          "preview": "previews/40.webp"
+        },
+        {
+          "number": 41,
+          "title": "博物馆里的三种材料",
+          "words": [
+            "bronze",
+            "diamond",
+            "crystal"
+          ],
+          "preview": "previews/41.webp"
+        },
+        {
+          "number": 42,
+          "title": "仿造、仿真与品质较差",
+          "words": [
+            "inferior",
+            "counterfeit",
+            "fake"
+          ],
+          "preview": "previews/42.webp"
+        },
+        {
+          "number": 43,
+          "title": "礼品铺的大小、耐用度和库存",
+          "words": [
+            "fragile",
+            "miniature",
+            "available",
+            "durable"
+          ],
+          "preview": "previews/43.webp"
+        }
+      ]
     }
   ],
-  "total_cards": 415,
-  "chapter_coverage_items": 1461,
-  "counting_note": "1,461 为各章词头覆盖项相加，跨章不去重。第 1–9 章均已完成。"
+  "total_cards": 458,
+  "chapter_coverage_items": 1613,
+  "counting_note": "1,613 为各章词头覆盖项相加，跨章不去重。第 1–10 章均已完成。"
 }
