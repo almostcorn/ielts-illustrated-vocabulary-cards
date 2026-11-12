@@ -1,0 +1,2769 @@
+[
+  {
+    "id": "01",
+    "page": 1,
+    "title": "街头穿搭中的时尚与趋势",
+    "kind": "scene",
+    "targets": [
+      "fashion",
+      "style",
+      "trend"
+    ],
+    "labels": [
+      {
+        "word": "fashion",
+        "pos": "n.",
+        "zh": "时尚"
+      },
+      {
+        "word": "style",
+        "pos": "n.",
+        "zh": "风格；样式"
+      },
+      {
+        "word": "trend",
+        "pos": "n.",
+        "zh": "趋势"
+      }
+    ],
+    "sources": [
+      {
+        "word": "fashion",
+        "physical_page": 147,
+        "printed_page": 136
+      },
+      {
+        "word": "style",
+        "physical_page": 147,
+        "printed_page": 136
+      },
+      {
+        "word": "trend",
+        "physical_page": 147,
+        "printed_page": 136
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 01\n场景词群 | 时尚潮流\n街头穿搭中的时尚与趋势\nfashion  n.  时尚\nstyle  n.  风格；样式\ntrend  n.  趋势\n放进句子里\nWide-leg trousers are a trend, but I prefer a simpler style.\n阔腿裤是一个流行趋势，但我更喜欢简洁的风格。\n用法提醒\nfashion 说时尚风向，style 说穿搭方式，trend 强调变化趋势。\n雅思应用\n口语 Part 3｜讨论人们为什么追随潮流\n轮到你了\n用 style 和 trend 说明你会不会追随流行。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "Wide-leg trousers are a trend, but I prefer a simpler style.",
+    "example_zh": "阔腿裤是一个流行趋势，但我更喜欢简洁的风格。",
+    "examples": [
+      {
+        "en": "Wide-leg trousers are a trend, but I prefer a simpler style.",
+        "zh": "阔腿裤是一个流行趋势，但我更喜欢简洁的风格。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the latest fashion",
+        "最新时尚"
+      ],
+      [
+        "personal style",
+        "个人风格"
+      ],
+      [
+        "a growing trend",
+        "日益明显的趋势"
+      ]
+    ],
+    "notes": "fashion 说时尚风向，style 说穿搭方式，trend 强调变化趋势。",
+    "scene": "One continuous pedestrian street in a warm autumn shopping district. fashion bracket points to the clothing window as an example of the prevailing fashion, with several contemporary outfits. style leader points to the distinctive layering and green scarf of the woman in foreground, as her personal way of dressing. trend leader points to a subtle grouping of three people wearing the same kind of loose straight-leg trousers, indicating a style spreading. Use leader endpoints that distinguish the display, individual and repeated detail. No real brands.",
+    "palette": "秋街暖橙、深蓝牛仔、鼠尾草绿围巾，让个人风格与街头共性在颜色上有清晰对照。",
+    "ielts": "口语 Part 3｜讨论人们为什么追随潮流",
+    "practice": "用 style 和 trend 说明你会不会追随流行。",
+    "answer": "I sometimes follow a trend, but I choose clothes that suit my own style.",
+    "reference_urls": [],
+    "image": "previews/01.webp"
+  },
+  {
+    "id": "02",
+    "page": 2,
+    "title": "首饰、宝石与玉石",
+    "kind": "contrast",
+    "targets": [
+      "jewellery",
+      "jewel",
+      "gem",
+      "jade"
+    ],
+    "labels": [
+      {
+        "word": "jewellery",
+        "pos": "n.",
+        "zh": "首饰（总称）"
+      },
+      {
+        "word": "jewel",
+        "pos": "n.",
+        "zh": "宝石"
+      },
+      {
+        "word": "gem",
+        "pos": "n.",
+        "zh": "宝石；珍品"
+      },
+      {
+        "word": "jade",
+        "pos": "n.",
+        "zh": "玉石"
+      }
+    ],
+    "sources": [
+      {
+        "word": "jewellery",
+        "physical_page": 147,
+        "printed_page": 136
+      },
+      {
+        "word": "jewel",
+        "physical_page": 147,
+        "printed_page": 136
+      },
+      {
+        "word": "gem",
+        "physical_page": 148,
+        "printed_page": 137
+      },
+      {
+        "word": "jade",
+        "physical_page": 148,
+        "printed_page": 137
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 02\n词义辨析 | 时尚潮流\n首饰、宝石与玉石\njewellery  n.  首饰（总称）\njewel  n.  宝石\ngem  n.  宝石；珍品\njade  n.  玉石\n放进句子里\nShe chose a piece of jewellery made of jade.\n她选了一件玉石做的首饰。\n用法提醒\njewellery 不可数。jewel 和 gem 都可指宝石。\n雅思应用\n口语 Part 2｜描述一件有纪念意义的首饰\n轮到你了\n用 a piece of jewellery 描述一件首饰及其材质。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "She chose a piece of jewellery made of jade.",
+    "example_zh": "她选了一件玉石做的首饰。",
+    "examples": [
+      {
+        "en": "She chose a piece of jewellery made of jade.",
+        "zh": "她选了一件玉石做的首饰。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a piece of jewellery",
+        "一件首饰"
+      ],
+      [
+        "a sparkling jewel",
+        "一颗闪亮的宝石"
+      ],
+      [
+        "a precious gem",
+        "一颗珍贵的宝石"
+      ],
+      [
+        "a jade bangle",
+        "玉手镯"
+      ]
+    ],
+    "notes": "jewellery 不可数。jewel 和 gem 都可指宝石。",
+    "scene": "One continuous artisan jewellery studio at an exhibition. jewellery bracket embraces a set of finished necklace, ring and earrings on a navy velvet tray; jewel leader points specifically to the red faceted stone mounted in a ring; gem leader points to a separate faceted sapphire loose on a gem cushion; jade leader points to the polished green jade stone material in a round jade bangle near an uncut jade sample. Usage explicitly says jewel and gem overlap: the examples are not rigid categories. No text in the scene besides the four labels, no real brands.",
+    "palette": "藏青绒布、金属暖光和玉石青绿，凸显成品、镶嵌宝石和材质。",
+    "ielts": "口语 Part 2｜描述一件有纪念意义的首饰",
+    "practice": "用 a piece of jewellery 描述一件首饰及其材质。",
+    "answer": "My grandmother gave me a piece of jewellery with a small jade pendant.",
+    "reference_urls": [],
+    "image": "previews/02.webp"
+  },
+  {
+    "id": "03",
+    "page": 3,
+    "title": "vogue",
+    "kind": "word",
+    "targets": [
+      "vogue"
+    ],
+    "labels": [
+      {
+        "word": "vogue",
+        "pos": "n.",
+        "zh": "流行；风尚"
+      }
+    ],
+    "sources": [
+      {
+        "word": "vogue",
+        "physical_page": 147,
+        "printed_page": 136
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 03\n单词精讲 | 时尚潮流\nvogue\n/vəʊɡ/  n.\n流行；风尚\n某种穿搭或事物在一段时期内流行。\n常用搭配\nin vogue · come into vogue · back in vogue\n放进句子里\nKnitted vests are back in vogue.\n针织背心又流行起来了。\n用法提醒\n常用搭配是 in vogue，也可以说 come into vogue。\n雅思应用\n口语 Part 3｜谈一种重新流行的穿搭\n轮到你了\n用 back in vogue 说一种你观察到的复古趋势。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "Knitted vests are back in vogue.",
+    "example_zh": "针织背心又流行起来了。",
+    "examples": [
+      {
+        "en": "Knitted vests are back in vogue.",
+        "zh": "针织背心又流行起来了。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "in vogue",
+        "流行的"
+      ],
+      [
+        "come into vogue",
+        "开始流行"
+      ],
+      [
+        "back in vogue",
+        "再次流行"
+      ]
+    ],
+    "notes": "常用搭配是 in vogue，也可以说 come into vogue。",
+    "scene": "Single-word showcase akin to the atmosphere reference. Large vogue, IPA, noun and Chinese on top left. On the right and wrapping below is a broad illustrated city scene showing several different adult shoppers in a vintage shop trying the same style of knitted vest on a round rack, and a person wearing the vest layered over a white shirt outside. The repeated garment across people helps show it is currently in vogue. No magazine, masthead, logos, captions, arrows, signs or supplemental vocabulary in the artwork.",
+    "palette": "复古杏色和酒红针织衫配冷蓝橱窗玻璃，凸显同一种穿搭在不同人身上流行。",
+    "ielts": "口语 Part 3｜谈一种重新流行的穿搭",
+    "practice": "用 back in vogue 说一种你观察到的复古趋势。",
+    "answer": "Wide-leg jeans are back in vogue in my city.",
+    "reference_urls": [],
+    "image": "previews/03.webp"
+  },
+  {
+    "id": "04",
+    "page": 4,
+    "title": "怎样看出一种穿搭流行",
+    "kind": "contrast",
+    "targets": [
+      "tendency",
+      "current",
+      "popularity",
+      "prevail"
+    ],
+    "labels": [
+      {
+        "word": "tendency",
+        "pos": "n.",
+        "zh": "倾向"
+      },
+      {
+        "word": "current",
+        "pos": "adj.",
+        "zh": "当前的"
+      },
+      {
+        "word": "popularity",
+        "pos": "n.",
+        "zh": "受欢迎程度"
+      },
+      {
+        "word": "prevail",
+        "pos": "v.",
+        "zh": "盛行；占主导"
+      }
+    ],
+    "sources": [
+      {
+        "word": "tendency",
+        "physical_page": 147,
+        "printed_page": 136
+      },
+      {
+        "word": "current",
+        "physical_page": 147,
+        "printed_page": 136
+      },
+      {
+        "word": "popularity",
+        "physical_page": 147,
+        "printed_page": 136
+      },
+      {
+        "word": "prevail",
+        "physical_page": 147,
+        "printed_page": 136
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 04\n词义辨析 | 时尚潮流\n怎样看出一种穿搭流行\ntendency  n.  倾向\ncurrent  adj.  当前的\npopularity  n.  受欢迎程度\nprevail  v.  盛行；占主导\n放进句子里\nLoose cuts tend to prevail in this collection.\n宽松剪裁在这个系列中往往占主导。\n用法提醒\ntendency 强调倾向，popularity 指受欢迎程度。\n雅思应用\n写作 Task 1｜描述受欢迎程度的变化\n轮到你了\n用 popularity 描述一种穿搭越来越受欢迎。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "Loose cuts tend to prevail in this collection.",
+    "example_zh": "宽松剪裁在这个系列中往往占主导。",
+    "examples": [
+      {
+        "en": "Loose cuts tend to prevail in this collection.",
+        "zh": "宽松剪裁在这个系列中往往占主导。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a tendency to choose dark colours",
+        "偏爱选深色的倾向"
+      ],
+      [
+        "the current collection",
+        "当前系列"
+      ],
+      [
+        "grow in popularity",
+        "越来越受欢迎"
+      ],
+      [
+        "a style prevails",
+        "某种风格盛行"
+      ]
+    ],
+    "notes": "tendency 强调倾向，popularity 指受欢迎程度。",
+    "scene": "A fashion exhibition that illustrates patterns over time. Current points to a mannequin in the clearly active front display next to a faded archived sketch. Tendency points to a designer's three small drawings consistently using earth tones. Popularity points to a queue of shoppers each choosing the same mustard scarf at a nearby stall. Prevail points to the plain loose cuts that dominate an adjacent display of four outfits, one distinct fitted outfit among them. Keep the visual evidence tied to each of the four labels. No written numbers, arbitrary sample data, logos or extra labels.",
+    "palette": "暖芥黄衬受欢迎的围巾，柔棕呈现个人选择，深蓝区分当前陈列与旧设计稿。",
+    "ielts": "写作 Task 1｜描述受欢迎程度的变化",
+    "practice": "用 popularity 描述一种穿搭越来越受欢迎。",
+    "answer": "The popularity of oversized jackets has grown in recent years.",
+    "reference_urls": [],
+    "image": "previews/04.webp"
+  },
+  {
+    "id": "05",
+    "page": 5,
+    "title": "秀场模特与人们崇拜的偶像",
+    "kind": "contrast",
+    "targets": [
+      "model",
+      "icon",
+      "idol"
+    ],
+    "labels": [
+      {
+        "word": "model",
+        "pos": "n.",
+        "zh": "模特"
+      },
+      {
+        "word": "icon",
+        "pos": "n.",
+        "zh": "标志性人物"
+      },
+      {
+        "word": "idol",
+        "pos": "n.",
+        "zh": "崇拜的偶像"
+      }
+    ],
+    "sources": [
+      {
+        "word": "model",
+        "physical_page": 147,
+        "printed_page": 136
+      },
+      {
+        "word": "icon",
+        "physical_page": 147,
+        "printed_page": 136
+      },
+      {
+        "word": "idol",
+        "physical_page": 147,
+        "printed_page": 136
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 05\n词义辨析 | 时尚潮流\n秀场模特与人们崇拜的偶像\nmodel  n.  模特\nicon  n.  标志性人物\nidol  n.  崇拜的偶像\n放进句子里\nThe designer became a fashion icon after changing the way people dressed.\n这位设计师改变了人们的穿衣方式，成为时尚界的标志性人物。\n用法提醒\nicon 强调代表性，idol 强调崇拜。同一个人可以兼有两种身份。\n雅思应用\n口语 Part 2｜描述一位影响你穿衣的人\n轮到你了\n用 icon 或 idol 描述你熟悉的一位人物，并说明理由。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "The designer became a fashion icon after changing the way people dressed.",
+    "example_zh": "这位设计师改变了人们的穿衣方式，成为时尚界的标志性人物。",
+    "examples": [
+      {
+        "en": "The designer became a fashion icon after changing the way people dressed.",
+        "zh": "这位设计师改变了人们的穿衣方式，成为时尚界的标志性人物。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a fashion model",
+        "时装模特"
+      ],
+      [
+        "a fashion icon",
+        "时尚界的标志性人物"
+      ],
+      [
+        "a childhood idol",
+        "儿时偶像"
+      ]
+    ],
+    "notes": "icon 强调代表性，idol 强调崇拜。同一个人可以兼有两种身份。",
+    "scene": "A continuous local fashion exhibition and live event. Model label points to an adult professional showing a clearly visible outfit on a low runway. Icon points to an enlarged illustrated portrait of an invented influential designer displayed at the venue, visually linked to an influential jacket design and its subsequent reinterpretations on two dress forms. Idol points to the invented designer in person signing a blank booklet for an admiring adult fan; the portrait and person clearly correspond. Avoid real public figures, glamour stereotypes, signatures and all incidental lettering.",
+    "palette": "舞台墨蓝与珊瑚暖光，琥珀展柜连接设计师肖像与影响，粉绿人群保留亲切感。",
+    "ielts": "口语 Part 2｜描述一位影响你穿衣的人",
+    "practice": "用 icon 或 idol 描述你熟悉的一位人物，并说明理由。",
+    "answer": "I consider her a fashion icon because her practical designs changed everyday clothing.",
+    "reference_urls": [],
+    "image": "previews/05.webp"
+  },
+  {
+    "id": "06",
+    "page": 6,
+    "title": "精品店里的一次购物",
+    "kind": "contrast",
+    "targets": [
+      "luxury",
+      "extravagant"
+    ],
+    "labels": [
+      {
+        "word": "luxury",
+        "pos": "n.",
+        "zh": "奢侈品"
+      },
+      {
+        "word": "extravagant",
+        "pos": "adj.",
+        "zh": "花费过多的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "luxury",
+        "physical_page": 147,
+        "printed_page": 136
+      },
+      {
+        "word": "extravagant",
+        "physical_page": 147,
+        "printed_page": 136
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 06\n词义辨析 | 时尚潮流\n精品店里的一次购物\nluxury  n.  奢侈品\nextravagant  adj.  花费过多的\n放进句子里\nBuying three designer coats at once seemed extravagant.\n一次买三件名牌大衣，似乎有些奢侈。\n用法提醒\nluxury 指奢侈品。extravagant 可评价花费过多。\n雅思应用\n写作 Task 2 · 讨论消费习惯\n轮到你了\n用 extravagant 评价一次购物，再说明理由。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "Buying three designer coats at once seemed extravagant.",
+    "example_zh": "一次买三件名牌大衣，似乎有些奢侈。",
+    "examples": [
+      {
+        "en": "Buying three designer coats at once seemed extravagant.",
+        "zh": "一次买三件名牌大衣，似乎有些奢侈。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a luxury item",
+        "一件奢侈品"
+      ],
+      [
+        "extravagant spending",
+        "过度消费"
+      ]
+    ],
+    "notes": "luxury 指奢侈品。extravagant 可评价花费过多。",
+    "scene": "一间黄昏精品店，从单件精制羊绒大衣到顾客一次买下三件。左侧完整画出一件光线柔和、质地考究的羊绒大衣，luxury 标线精确指向这一件衣服。右侧的顾客在柜台前正为三件折叠的大衣一起付款，三件大衣分别装入半开的盒子，extravagant 标线精确指向成堆的三件衣服和结账动作。让两条标线的终点落在不同区域。",
+    "palette": "木地板与羊绒的蜂蜜琥珀、浅驼与深栗色，以少量酒红突出堆叠的购物盒，暖灯与蓝灰暮色形成内外层次。",
+    "ielts": "写作 Task 2 · 讨论消费习惯",
+    "practice": "用 extravagant 评价一次购物，再说明理由。",
+    "answer": "Buying three designer coats at once seems extravagant because I only need one warm coat.",
+    "reference_urls": [],
+    "image": "previews/06.webp"
+  },
+  {
+    "id": "07",
+    "page": 7,
+    "title": "一件节日外套怎么装饰",
+    "kind": "scene",
+    "targets": [
+      "adorn",
+      "ornament",
+      "embellish",
+      "embroider"
+    ],
+    "labels": [
+      {
+        "word": "adorn",
+        "pos": "v.",
+        "zh": "装饰"
+      },
+      {
+        "word": "ornament",
+        "pos": "n.",
+        "zh": "饰物"
+      },
+      {
+        "word": "embellish",
+        "pos": "v.",
+        "zh": "加饰美化"
+      },
+      {
+        "word": "embroider",
+        "pos": "v.",
+        "zh": "刺绣"
+      }
+    ],
+    "sources": [
+      {
+        "word": "adorn",
+        "physical_page": 148,
+        "printed_page": 137
+      },
+      {
+        "word": "ornament",
+        "physical_page": 148,
+        "printed_page": 137
+      },
+      {
+        "word": "embellish",
+        "physical_page": 148,
+        "printed_page": 137
+      },
+      {
+        "word": "embroider",
+        "physical_page": 148,
+        "printed_page": 137
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 07\n场景词群 | 时尚潮流\n一件节日外套怎么装饰\nadorn  v.  装饰\nornament  n.  饰物\nembellish  v.  加饰美化\nembroider  v.  刺绣\n放进句子里\nShe embroidered flowers on the cuffs and embellished the collar with beads.\n她在袖口绣上花朵，又用珠子装饰衣领。\n用法提醒\nembroider 强调针线。embellish 强调加细节美化。\n雅思应用\n口语 Part 2 · 描述一件有纪念意义的衣物\n轮到你了\n遮住标签，说出哪一步在用针线绣花。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "She embroidered flowers on the cuffs and embellished the collar with beads.",
+    "example_zh": "她在袖口绣上花朵，又用珠子装饰衣领。",
+    "examples": [
+      {
+        "en": "She embroidered flowers on the cuffs and embellished the collar with beads.",
+        "zh": "她在袖口绣上花朵，又用珠子装饰衣领。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "adorn a jacket with a brooch",
+        "用胸针装饰外套"
+      ],
+      [
+        "an ornament for a jacket",
+        "外套上的饰物"
+      ],
+      [
+        "embellish a collar with beads",
+        "用珠子装饰衣领"
+      ],
+      [
+        "embroider flowers on cuffs",
+        "在袖口绣花"
+      ]
+    ],
+    "notes": "embroider 强调针线。embellish 强调加细节美化。",
+    "scene": "节日裁缝工作室，一件长外套是中心。左上领口有人亲手别上一枚花形胸针，adorn 指向固定胸针的动作。右上工作台的首饰小碟上有一枚尚未使用的金色饰物，ornament 指向这一件物品。右下工作台有人用珠子装饰可拆衣领，embellish 指向新增的一排小珠。左下有人拿刺绣绷，正把花纹绣在袖口，embroider 指向绷内的针线和已绣花纹。把操作区分开，四条细短引线的终点明确。",
+    "palette": "节日衣料石榴红、工作台胡桃木棕、绣线青绿和衣领金色，工作室奶白自然光。",
+    "ielts": "口语 Part 2 · 描述一件有纪念意义的衣物",
+    "practice": "遮住标签，说出哪一步在用针线绣花。",
+    "answer": "The tailor is embroidering flowers on the cuffs.",
+    "reference_urls": [],
+    "image": "previews/07.webp"
+  },
+  {
+    "id": "08",
+    "page": 8,
+    "title": "发廊里的剪发与染发",
+    "kind": "scene",
+    "targets": [
+      "hairdressing",
+      "pigment",
+      "dye"
+    ],
+    "labels": [
+      {
+        "word": "hairdressing",
+        "pos": "n.",
+        "zh": "美发"
+      },
+      {
+        "word": "pigment",
+        "pos": "n.",
+        "zh": "色素"
+      },
+      {
+        "word": "dye",
+        "pos": "n.",
+        "zh": "染料"
+      }
+    ],
+    "sources": [
+      {
+        "word": "hairdressing",
+        "physical_page": 148,
+        "printed_page": 137
+      },
+      {
+        "word": "pigment",
+        "physical_page": 148,
+        "printed_page": 137
+      },
+      {
+        "word": "dye",
+        "physical_page": 148,
+        "printed_page": 137
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 08\n场景词群 | 时尚潮流\n发廊里的剪发与染发\nhairdressing  n.  美发\npigment  n.  色素\ndye  n.  染料\n放进句子里\nThe stylist used a temporary dye to colour a sample of hair.\n发型师用临时染发剂在一束头发上试色。\n用法提醒\npigment 是赋予颜色的物质。dye 用来给材料染色。\n雅思应用\n口语 Part 1 · 谈谈平时如何打理头发\n轮到你了\n说出发型师做了什么，用上 dye。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "The stylist used a temporary dye to colour a sample of hair.",
+    "example_zh": "发型师用临时染发剂在一束头发上试色。",
+    "examples": [
+      {
+        "en": "The stylist used a temporary dye to colour a sample of hair.",
+        "zh": "发型师用临时染发剂在一束头发上试色。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a hairdressing salon",
+        "一家美发店"
+      ],
+      [
+        "a natural pigment",
+        "一种天然色素"
+      ],
+      [
+        "temporary hair dye",
+        "临时染发剂"
+      ]
+    ],
+    "notes": "pigment 是赋予颜色的物质。dye 用来给材料染色。",
+    "scene": "日光明亮的独立发廊。左上发型师拿梳子和剪刀为坐着的成年人修剪头发，hairdressing 指向剪发操作。右上窗前的柜台有一个带盖透明小罐，装有矿物质颜色般的紫红色粉末，pigment 指向罐中的粉末。下方柜台另有一瓶专门染发用的染料和一排已染色的毛发样束，dye 指向装着染料的瓶子。三处互不重叠。不要画从小罐向染发瓶倒粉的动作。",
+    "palette": "通透天蓝与窗边日光，配少量莓紫颜料、栗红和栗棕发束，奶油色墙面留给标签。",
+    "ielts": "口语 Part 1 · 谈谈平时如何打理头发",
+    "practice": "说出发型师做了什么，用上 dye。",
+    "answer": "The stylist used a dye to colour the hair sample.",
+    "reference_urls": [],
+    "image": "previews/08.webp"
+  },
+  {
+    "id": "09",
+    "page": 9,
+    "title": "假面舞会的装扮",
+    "kind": "scene",
+    "targets": [
+      "masquerade",
+      "veil",
+      "costume"
+    ],
+    "labels": [
+      {
+        "word": "masquerade",
+        "pos": "n.",
+        "zh": "假面舞会"
+      },
+      {
+        "word": "veil",
+        "pos": "n.",
+        "zh": "面纱"
+      },
+      {
+        "word": "costume",
+        "pos": "n.",
+        "zh": "化装服"
+      }
+    ],
+    "sources": [
+      {
+        "word": "masquerade",
+        "physical_page": 148,
+        "printed_page": 137
+      },
+      {
+        "word": "veil",
+        "physical_page": 148,
+        "printed_page": 137
+      },
+      {
+        "word": "costume",
+        "physical_page": 148,
+        "printed_page": 137
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 09\n场景词群 | 时尚潮流\n假面舞会的装扮\nmasquerade  n.  假面舞会\nveil  n.  面纱\ncostume  n.  化装服\n放进句子里\nShe wore a velvet costume to the masquerade.\n她穿着一套天鹅绒化装服去参加假面舞会。\n用法提醒\nwear a veil 表示戴面纱。\n雅思应用\n口语 Part 2 · 描述一次特别的聚会\n轮到你了\n用 costume 说说你会穿什么去参加舞会。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "She wore a velvet costume to the masquerade.",
+    "example_zh": "她穿着一套天鹅绒化装服去参加假面舞会。",
+    "examples": [
+      {
+        "en": "She wore a velvet costume to the masquerade.",
+        "zh": "她穿着一套天鹅绒化装服去参加假面舞会。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a masquerade ball",
+        "假面舞会"
+      ],
+      [
+        "wear a veil",
+        "戴面纱"
+      ],
+      [
+        "a velvet costume",
+        "天鹅绒化装服"
+      ]
+    ],
+    "notes": "wear a veil 表示戴面纱。",
+    "scene": "剧院里正在举办假面舞会，成年宾客戴各式小面具在灯光下成对起舞。masquerade 引线指向中景的整组戴面具的舞者，表现这场活动。前景右侧一位成年客人戴轻薄半透明面纱遮住下半张脸，veil 引线指到面纱布料。前景左侧单独一位戴简洁眼罩的客人穿天鹅绒戏剧式外套配披风，costume 引线指向其整套化装服的肩披。三条线各有独立终点。",
+    "palette": "暗紫帷幕、午夜蓝天鹅绒、柔金烛光以及淡银的透明面纱，保持标签周围纸白。",
+    "ielts": "口语 Part 2 · 描述一次特别的聚会",
+    "practice": "用 costume 说说你会穿什么去参加舞会。",
+    "answer": "I would wear a velvet costume with a long cape.",
+    "reference_urls": [],
+    "image": "previews/09.webp"
+  },
+  {
+    "id": "10",
+    "page": 10,
+    "title": "展柜前为什么停下脚步",
+    "kind": "contrast",
+    "targets": [
+      "fascinate",
+      "decent",
+      "exquisite"
+    ],
+    "labels": [
+      {
+        "word": "fascinate",
+        "pos": "v.",
+        "zh": "深深吸引"
+      },
+      {
+        "word": "decent",
+        "pos": "adj.",
+        "zh": "还不错的"
+      },
+      {
+        "word": "exquisite",
+        "pos": "adj.",
+        "zh": "精致的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "fascinate",
+        "physical_page": 148,
+        "printed_page": 137
+      },
+      {
+        "word": "decent",
+        "physical_page": 148,
+        "printed_page": 137
+      },
+      {
+        "word": "exquisite",
+        "physical_page": 148,
+        "printed_page": 137
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 10\n词义辨析 | 时尚潮流\n展柜前为什么停下脚步\nfascinate  v.  深深吸引\ndecent  adj.  还不错的\nexquisite  adj.  精致的\n放进句子里\nThe tiny stitches on the bag fascinated me.\n手袋上细密的针脚深深吸引了我。\n用法提醒\n事物 + fascinate + 人。decent 表示达到不错的水准。\n雅思应用\n口语 Part 2 · 描述一件吸引你的展品\n轮到你了\n用 fascinate 描述一个吸引你的细节。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "The tiny stitches on the bag fascinated me.",
+    "example_zh": "手袋上细密的针脚深深吸引了我。",
+    "examples": [
+      {
+        "en": "The tiny stitches on the bag fascinated me.",
+        "zh": "手袋上细密的针脚深深吸引了我。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "fascinate visitors",
+        "深深吸引游客"
+      ],
+      [
+        "a decent bag",
+        "一个还不错的包"
+      ],
+      [
+        "exquisite craftsmanship",
+        "精湛的工艺"
+      ]
+    ],
+    "notes": "事物 + fascinate + 人。decent 表示达到不错的水准。",
+    "scene": "服饰工艺博物馆的两件包，一个孩子与成年亲友来看展。左侧孩子被珠绣手袋上的细小蝴蝶图案吸引，正倾身睁大眼睛看，fascinate 标线顺着孩子的视线指到蝴蝶图案，表现图案吸引观看者。中上可放大展示同一手袋匀整细密的珠绣区域，exquisite 线只指向花边工艺。右侧另有简单但做工牢靠的帆布袋，decent 标线只指这一实用袋。让主画连贯为同一个展柜，三标签不互相压住。",
+    "palette": "展厅深青与哑光玻璃蓝，暖白聚光照清珠光和针脚，朴素帆布为浅灰亚麻色。",
+    "ielts": "口语 Part 2 · 描述一件吸引你的展品",
+    "practice": "用 fascinate 描述一个吸引你的细节。",
+    "answer": "The butterfly pattern on the bag fascinated me.",
+    "reference_urls": [],
+    "image": "previews/10.webp"
+  },
+  {
+    "id": "11",
+    "page": 11,
+    "title": "上台前的最后一遍走位",
+    "kind": "scene",
+    "targets": [
+      "grace",
+      "elegance",
+      "perfect",
+      "appearance"
+    ],
+    "labels": [
+      {
+        "word": "grace",
+        "pos": "n.",
+        "zh": "优雅姿态"
+      },
+      {
+        "word": "elegance",
+        "pos": "n.",
+        "zh": "典雅"
+      },
+      {
+        "word": "perfect",
+        "pos": "adj.",
+        "zh": "完美的"
+      },
+      {
+        "word": "appearance",
+        "pos": "n.",
+        "zh": "外表"
+      }
+    ],
+    "sources": [
+      {
+        "word": "grace",
+        "physical_page": 149,
+        "printed_page": 138
+      },
+      {
+        "word": "elegance",
+        "physical_page": 149,
+        "printed_page": 138
+      },
+      {
+        "word": "perfect",
+        "physical_page": 149,
+        "printed_page": 138
+      },
+      {
+        "word": "appearance",
+        "physical_page": 149,
+        "printed_page": 138
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 11\n场景词群 | 时尚潮流\n上台前的最后一遍走位\ngrace  n.  优雅姿态\nelegance  n.  典雅\nperfect  adj.  完美的\nappearance  n.  外表\n放进句子里\nThe dancer moved with grace, and her outfit had a simple elegance.\n舞者动作优雅，穿着也透出一种简洁的典雅。\n用法提醒\nwith grace 形容动作。a perfect fit 指完全合脚。\n雅思应用\n口语 Part 2 · 描述一场看过的表演\n轮到你了\n用 with grace 描述舞者的一个动作。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "The dancer moved with grace, and her outfit had a simple elegance.",
+    "example_zh": "舞者动作优雅，穿着也透出一种简洁的典雅。",
+    "examples": [
+      {
+        "en": "The dancer moved with grace, and her outfit had a simple elegance.",
+        "zh": "舞者动作优雅，穿着也透出一种简洁的典雅。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "move with grace",
+        "动作优雅"
+      ],
+      [
+        "simple elegance",
+        "简洁的典雅"
+      ],
+      [
+        "a perfect fit",
+        "完全合身"
+      ],
+      [
+        "overall appearance",
+        "整体外表"
+      ]
+    ],
+    "notes": "with grace 形容动作。a perfect fit 指完全合脚。",
+    "scene": "舞剧后台一刻。左侧舞者正在做伸臂转身的走位，grace 引线指向手臂和身体的流畅动作。中间衣架上挂有剪裁利落、线条简洁的演出服，elegance 指到衣服精细而简约的剪裁。下方特写已经试穿的一双舞鞋，perfect 指向脚跟和鞋边严丝合缝处，用可见的完美贴合表达含义。右侧一位演出者在全身镜前看整体外表，appearance 指向镜中从头到脚的倒影。四处互有留白，后台环境在视觉上连续。",
+    "palette": "舞台深墨蓝、木质地板和暖金化妆灯，浅灰紫演出服、淡粉舞鞋，镜中倒影用低饱和银青。",
+    "ielts": "口语 Part 2 · 描述一场看过的表演",
+    "practice": "用 with grace 描述舞者的一个动作。",
+    "answer": "She turned and raised her arms with grace.",
+    "reference_urls": [],
+    "image": "previews/11.webp"
+  },
+  {
+    "id": "12",
+    "page": 12,
+    "title": "出门前的梳妆台",
+    "kind": "contrast",
+    "targets": [
+      "cosmetics",
+      "make-up"
+    ],
+    "labels": [
+      {
+        "word": "cosmetics",
+        "pos": "n.",
+        "zh": "化妆品"
+      },
+      {
+        "word": "make-up",
+        "pos": "n.",
+        "zh": "彩妆；妆容"
+      }
+    ],
+    "sources": [
+      {
+        "word": "cosmetics",
+        "physical_page": 149,
+        "printed_page": 138
+      },
+      {
+        "word": "make-up",
+        "physical_page": 149,
+        "printed_page": 138
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 12\n词义辨析 | 时尚潮流\n出门前的梳妆台\ncosmetics  n.  化妆品\nmake-up  n.  彩妆；妆容\n放进句子里\nShe wore very little make-up to the interview.\n她去面试时只化了淡妆。\n用法提醒\ncosmetics 可包括护肤用品。make-up 也可指化好的妆。\n雅思应用\n口语 Part 1 · 谈谈日常仪容和习惯\n轮到你了\n用 wear make-up 说说你会在什么场合化妆。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "She wore very little make-up to the interview.",
+    "example_zh": "她去面试时只化了淡妆。",
+    "examples": [
+      {
+        "en": "She wore very little make-up to the interview.",
+        "zh": "她去面试时只化了淡妆。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a range of cosmetics",
+        "一系列化妆品"
+      ],
+      [
+        "apply make-up",
+        "化妆"
+      ],
+      [
+        "wear very little make-up",
+        "只化很淡的妆"
+      ]
+    ],
+    "notes": "cosmetics 可包括护肤用品。make-up 也可指化好的妆。",
+    "scene": "晨光中的家庭梳妆台。左侧一只浅托盘摆着几种无品牌的护肤乳、面霜和一支口红。cosmetics 的终点在这一组产品，细括线可以覆盖托盘上的整组护肤和彩妆用品。右侧通过镜子看见准备出门的成年人有浅淡唇色，手握口红。make-up 终点落在镜中这抹淡色唇妆。让两条引线分别指向物品组和妆容，并用柔光引导视线。",
+    "palette": "日出桃色、暖木与淡玫瑰色，玻璃器皿与镜面用柔和青蓝，化妆品为克制的珊瑚色。",
+    "ielts": "口语 Part 1 · 谈谈日常仪容和习惯",
+    "practice": "用 wear make-up 说说你会在什么场合化妆。",
+    "answer": "I sometimes wear make-up to a formal dinner.",
+    "reference_urls": [],
+    "image": "previews/12.webp"
+  },
+  {
+    "id": "13",
+    "page": 13,
+    "title": "布景店里的五种审美",
+    "kind": "contrast",
+    "targets": [
+      "handsome",
+      "charming",
+      "pretty",
+      "beautiful",
+      "ugly"
+    ],
+    "labels": [
+      {
+        "word": "handsome",
+        "pos": "adj.",
+        "zh": "气派好看的"
+      },
+      {
+        "word": "charming",
+        "pos": "adj.",
+        "zh": "讨人喜欢的"
+      },
+      {
+        "word": "pretty",
+        "pos": "adj.",
+        "zh": "俏丽的"
+      },
+      {
+        "word": "beautiful",
+        "pos": "adj.",
+        "zh": "美丽的"
+      },
+      {
+        "word": "ugly",
+        "pos": "adj.",
+        "zh": "难看的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "handsome",
+        "physical_page": 149,
+        "printed_page": 138
+      },
+      {
+        "word": "charming",
+        "physical_page": 149,
+        "printed_page": 138
+      },
+      {
+        "word": "pretty",
+        "physical_page": 149,
+        "printed_page": 138
+      },
+      {
+        "word": "beautiful",
+        "physical_page": 149,
+        "printed_page": 138
+      },
+      {
+        "word": "ugly",
+        "physical_page": 149,
+        "printed_page": 138
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 13\n词义辨析 | 时尚潮流\n布景店里的五种审美\nhandsome  adj.  气派好看的\ncharming  adj.  讨人喜欢的\npretty  adj.  俏丽的\nbeautiful  adj.  美丽的\nugly  adj.  难看的\n放进句子里\nI found the vase ugly, but my friend loved its colours.\n我觉得那个花瓶很难看，但朋友很喜欢它的颜色。\n用法提醒\nhandsome 也能夸物件。审美评价会因人而异。\n雅思应用\n口语 Part 2 · 描述一件有意思的物品\n轮到你了\n挑一件布景物品，用图里的形容词说出理由。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "I found the vase ugly, but my friend loved its colours.",
+    "example_zh": "我觉得那个花瓶很难看，但朋友很喜欢它的颜色。",
+    "examples": [
+      {
+        "en": "I found the vase ugly, but my friend loved its colours.",
+        "zh": "我觉得那个花瓶很难看，但朋友很喜欢它的颜色。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a handsome wooden cabinet",
+        "一个气派的木橱柜"
+      ],
+      [
+        "a charming shopfront",
+        "一间讨人喜欢的店面"
+      ],
+      [
+        "a pretty parasol",
+        "一把俏丽的阳伞"
+      ],
+      [
+        "a beautiful backdrop",
+        "一幅美丽的背景画"
+      ],
+      [
+        "an ugly vase",
+        "一个难看的花瓶"
+      ]
+    ],
+    "notes": "handsome 也能夸物件。审美评价会因人而异。",
+    "scene": "一间剧院布景店的展示区域，同一个空间内明确画五件各有吸引力的东西。左侧是庄重漂亮的胡桃木橱柜，handsome 指向橱柜。后景一座手工做的旧店门脸微缩景有花窗，charming 指微缩景。左下浅粉色小花伞，pretty 指花伞。上方是一块颜色深邃的湖山大画布，beautiful 指画布。右侧一只花瓶带有非常醒目的撞色条纹，两名访客对它有不同感受，ugly 指花瓶，绝对不指人物。五个标签分布在五处，全部标线直达对应物件。",
+    "palette": "橱柜胡桃棕与布景琥珀光，微缩门脸苔绿、花伞浅粉，湖山绢画靛青和金，花瓶用明亮偏橘的撞色。",
+    "ielts": "口语 Part 2 · 描述一件有意思的物品",
+    "practice": "挑一件布景物品，用图里的形容词说出理由。",
+    "answer": "I find the little shopfront charming because of its colourful windows.",
+    "reference_urls": [],
+    "image": "previews/13.webp"
+  },
+  {
+    "id": "14",
+    "page": 14,
+    "title": "开学前的衣物领取日",
+    "kind": "scene",
+    "targets": [
+      "dress",
+      "clothe",
+      "uniform"
+    ],
+    "labels": [
+      {
+        "word": "dress",
+        "pos": "n.",
+        "zh": "连衣裙"
+      },
+      {
+        "word": "clothe",
+        "pos": "v.",
+        "zh": "为……提供衣物"
+      },
+      {
+        "word": "uniform",
+        "pos": "n.",
+        "zh": "制服；校服"
+      }
+    ],
+    "sources": [
+      {
+        "word": "dress",
+        "physical_page": 149,
+        "printed_page": 138
+      },
+      {
+        "word": "clothe",
+        "physical_page": 149,
+        "printed_page": 138
+      },
+      {
+        "word": "uniform",
+        "physical_page": 149,
+        "printed_page": 138
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 14\n场景词群 | 时尚潮流\n开学前的衣物领取日\ndress  n.  连衣裙\nclothe  v.  为……提供衣物\nuniform  n.  制服；校服\n放进句子里\nThe charity helps clothe children before the new school term.\n慈善机构在新学期开学前为孩子们提供衣物。\n用法提醒\ndress 可指连衣裙。clothe 是动词，指给人提供衣物。\n雅思应用\n口语 Part 3 · 讨论学校是否应要求穿校服\n轮到你了\n用 school uniform 说出穿校服的一个好处。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "The charity helps clothe children before the new school term.",
+    "example_zh": "慈善机构在新学期开学前为孩子们提供衣物。",
+    "examples": [
+      {
+        "en": "The charity helps clothe children before the new school term.",
+        "zh": "慈善机构在新学期开学前为孩子们提供衣物。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a cotton dress",
+        "一条棉质连衣裙"
+      ],
+      [
+        "feed and clothe children",
+        "为儿童提供食物和衣物"
+      ],
+      [
+        "wear a school uniform",
+        "穿校服"
+      ]
+    ],
+    "notes": "dress 可指连衣裙。clothe 是动词，指给人提供衣物。",
+    "scene": "社区学校的开学前衣物领取日。左侧衣架上单独挂一条可辨认的淡黄色连衣裙，dress 指向衣裙。中央志愿者正在把叠好的衣物交给家长与孩子，clothe 指向交接衣物的手和动作。右侧两位学生穿同款深蓝外套、衬衫及同色下装，uniform 指向两位学生同款校服的胸口和衣领。三条引线在不同位置落点。",
+    "palette": "校园深蓝配米白衬衫，社区教室木色、窗边日光和衣裙的暖黄，衣物箱用低饱和青绿。",
+    "ielts": "口语 Part 3 · 讨论学校是否应要求穿校服",
+    "practice": "用 school uniform 说出穿校服的一个好处。",
+    "answer": "A school uniform can save students time when they get ready in the morning.",
+    "reference_urls": [],
+    "image": "previews/14.webp"
+  },
+  {
+    "id": "15",
+    "page": 15,
+    "title": "衣服洗好后放哪儿",
+    "kind": "scene",
+    "targets": [
+      "garment",
+      "laundry",
+      "wardrobe"
+    ],
+    "labels": [
+      {
+        "word": "garment",
+        "pos": "n.",
+        "zh": "一件衣服"
+      },
+      {
+        "word": "laundry",
+        "pos": "n.",
+        "zh": "待洗或洗好的衣物"
+      },
+      {
+        "word": "wardrobe",
+        "pos": "n.",
+        "zh": "衣柜"
+      }
+    ],
+    "sources": [
+      {
+        "word": "garment",
+        "physical_page": 150,
+        "printed_page": 139
+      },
+      {
+        "word": "laundry",
+        "physical_page": 150,
+        "printed_page": 139
+      },
+      {
+        "word": "wardrobe",
+        "physical_page": 150,
+        "printed_page": 139
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 15\n场景词群 | 时尚潮流\n衣服洗好后放哪儿\nwardrobe  n.  衣柜\ngarment  n.  一件衣服\nlaundry  n.  待洗或洗好的衣物\n放进句子里\nShe put the clean garments back in the wardrobe.\n她把洗干净的衣服放回了衣柜。\n用法提醒\ngarment 可数。laundry 指衣物时通常不可数。\n雅思应用\n听力 Part 1 · 听懂住处的洗衣安排\n轮到你了\n用 wardrobe 说说你把干净的衣服放在哪儿。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "She put the clean garments back in the wardrobe.",
+    "example_zh": "她把洗干净的衣服放回了衣柜。",
+    "examples": [
+      {
+        "en": "She put the clean garments back in the wardrobe.",
+        "zh": "她把洗干净的衣服放回了衣柜。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a cotton garment",
+        "一件棉质衣服"
+      ],
+      [
+        "do the laundry",
+        "洗衣服"
+      ],
+      [
+        "put clothes in the wardrobe",
+        "把衣服放进衣柜"
+      ]
+    ],
+    "notes": "garment 可数。laundry 指衣物时通常不可数。",
+    "scene": "同一间临窗的洗衣收纳间。一人手里拎着单独一件晾干的浅黄衬衣，garment 细引线只触及衬衣的衣身。左下洗衣篮盛满衣物，laundry 细引线触到篮中成堆的衣服。右侧橡木衣柜敞开一扇门，能看清柜体、挂衣杆、挂好的衣服，wardrobe 细引线只指柜框。三个词签放在三个开放位置。",
+    "palette": "晨光米白、浅橡木、干净的水蓝、米黄色衣物，篮里的深靛蓝与主体衬衣区分。画面有新洗衣服的透亮感。",
+    "ielts": "听力 Part 1 · 听懂住处的洗衣安排",
+    "practice": "用 wardrobe 说说你把干净的衣服放在哪儿。",
+    "answer": "I put my clean clothes in the wardrobe by the window.",
+    "reference_urls": [],
+    "image": "previews/15.webp"
+  },
+  {
+    "id": "16",
+    "page": 16,
+    "title": "剧场后台的五件服装",
+    "kind": "scene",
+    "targets": [
+      "overall",
+      "robe",
+      "gown",
+      "wrap",
+      "cloak"
+    ],
+    "labels": [
+      {
+        "word": "overall",
+        "pos": "n.",
+        "zh": "工作罩衣"
+      },
+      {
+        "word": "robe",
+        "pos": "n.",
+        "zh": "晨衣；袍子"
+      },
+      {
+        "word": "gown",
+        "pos": "n.",
+        "zh": "礼服"
+      },
+      {
+        "word": "wrap",
+        "pos": "n.",
+        "zh": "披肩"
+      },
+      {
+        "word": "cloak",
+        "pos": "n.",
+        "zh": "斗篷"
+      }
+    ],
+    "sources": [
+      {
+        "word": "overall",
+        "physical_page": 150,
+        "printed_page": 139
+      },
+      {
+        "word": "robe",
+        "physical_page": 150,
+        "printed_page": 139
+      },
+      {
+        "word": "gown",
+        "physical_page": 150,
+        "printed_page": 139
+      },
+      {
+        "word": "wrap",
+        "physical_page": 151,
+        "printed_page": 140
+      },
+      {
+        "word": "cloak",
+        "physical_page": 151,
+        "printed_page": 140
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 16\n场景词群 | 时尚潮流\n剧场后台的五件服装\nrobe  n.  晨衣；袍子\ncloak  n.  斗篷\nwrap  n.  披肩\ngown  n.  礼服\noverall  n.  工作罩衣\n放进句子里\nShe wore a wrap over her evening gown.\n她在晚礼服外搭了一条披肩。\n用法提醒\noverall 可指工作罩衣。连体工作服常用 overalls。\n雅思应用\n口语 Part 2 · 描述你在特别场合穿的衣服\n轮到你了\n用 wrap 或 gown 描述后台的一件服装。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "She wore a wrap over her evening gown.",
+    "example_zh": "她在晚礼服外搭了一条披肩。",
+    "examples": [
+      {
+        "en": "She wore a wrap over her evening gown.",
+        "zh": "她在晚礼服外搭了一条披肩。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "wear a protective overall",
+        "穿防护罩衣"
+      ],
+      [
+        "a silk robe",
+        "一件丝质晨袍"
+      ],
+      [
+        "an evening gown",
+        "一件晚礼服"
+      ],
+      [
+        "a wool wrap",
+        "一条羊毛披肩"
+      ],
+      [
+        "a long cloak",
+        "一件长斗篷"
+      ]
+    ],
+    "notes": "overall 可指工作罩衣。连体工作服常用 overalls。",
+    "scene": "剧场后台服装间。左侧工作人员穿一件罩在日常衣服外的浅帆布长工作罩衫，overall 指向罩衫。后景挂一件有系带的柔软晨袍，robe 指向晨袍。中央假人穿独立的红色曳地晚礼服，gown 指礼服裙身。坐在右前方的演员肩头搭着短银灰色披肩，wrap 指她的披肩。右侧另挂一件墨蓝无袖长斗篷，cloak 指斗篷的宽大长衣摆。各标签分开放，5个引线端点落在相应衣料。",
+    "palette": "舞台帷幕的深梅紫和墨蓝，琥珀化妆灯与银灰织物，中心晚礼服为酒红，工作罩衣保持明亮低饱和。",
+    "ielts": "口语 Part 2 · 描述你在特别场合穿的衣服",
+    "practice": "用 wrap 或 gown 描述后台的一件服装。",
+    "answer": "The actress wore a silver wrap over her evening gown.",
+    "reference_urls": [],
+    "image": "previews/16.webp"
+  },
+  {
+    "id": "17",
+    "page": 17,
+    "title": "冷天怎么叠穿",
+    "kind": "scene",
+    "targets": [
+      "overcoat",
+      "sweater",
+      "jacket",
+      "vest"
+    ],
+    "labels": [
+      {
+        "word": "overcoat",
+        "pos": "n.",
+        "zh": "长大衣"
+      },
+      {
+        "word": "sweater",
+        "pos": "n.",
+        "zh": "毛衣"
+      },
+      {
+        "word": "jacket",
+        "pos": "n.",
+        "zh": "短外套"
+      },
+      {
+        "word": "vest",
+        "pos": "n.",
+        "zh": "西装背心（美式）"
+      }
+    ],
+    "sources": [
+      {
+        "word": "overcoat",
+        "physical_page": 150,
+        "printed_page": 139
+      },
+      {
+        "word": "sweater",
+        "physical_page": 150,
+        "printed_page": 139
+      },
+      {
+        "word": "jacket",
+        "physical_page": 150,
+        "printed_page": 139
+      },
+      {
+        "word": "vest",
+        "physical_page": 151,
+        "printed_page": 140
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 17\n场景词群 | 时尚潮流\n冷天怎么叠穿\nsweater  n.  毛衣\njacket  n.  短外套\nvest  n.  西装背心（美式）\novercoat  n.  长大衣\n放进句子里\nI wore a thick sweater under my overcoat.\n我在长大衣里穿了一件厚毛衣。\n用法提醒\n图中 vest 用美式义。英式英语常用 waistcoat。\n雅思应用\n口语 Part 1 · 聊聊冷天穿什么\n轮到你了\n用 wear ... under ... 说说你怎样叠穿保暖。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "I wore a thick sweater under my overcoat.",
+    "example_zh": "我在长大衣里穿了一件厚毛衣。",
+    "examples": [
+      {
+        "en": "I wore a thick sweater under my overcoat.",
+        "zh": "我在长大衣里穿了一件厚毛衣。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a wool overcoat",
+        "羊毛长大衣"
+      ],
+      [
+        "a thick sweater",
+        "一件厚毛衣"
+      ],
+      [
+        "a denim jacket",
+        "一件牛仔外套"
+      ],
+      [
+        "a suit vest",
+        "西装背心"
+      ]
+    ],
+    "notes": "图中 vest 用美式义。英式英语常用 waistcoat。",
+    "scene": "冬日服装店的开放街边陈列。四个明确物件在连贯的街景店面里：左方路人穿长至膝盖的驼色 overcoat，标签指长衣摆；窗内一件粗针织圆领 sweater 挂在前景，指到针织胸前；店门中一件短款深蓝 jacket 上身至腰部，标签指拉链短外套；右方人体衣架上穿一件有 V 领、五粒纽扣且无袖的绿色美式 vest，标签只指该西装背心。不要复画同一个人在图的几处，四个落点清楚。",
+    "palette": "户外冷灰蓝与一点雪白，店内暖琥珀灯，搭配驼色长大衣、莓红毛衣和暗苔绿背心，形成内外温差。",
+    "ielts": "口语 Part 1 · 聊聊冷天穿什么",
+    "practice": "用 wear … under … 说说你怎样叠穿保暖。",
+    "answer": "I wear a thick sweater under my jacket when it gets cold.",
+    "reference_urls": [],
+    "image": "previews/17.webp"
+  },
+  {
+    "id": "18",
+    "page": 18,
+    "title": "试衣间里选下装",
+    "kind": "scene",
+    "targets": [
+      "skirt",
+      "jeans",
+      "trousers"
+    ],
+    "labels": [
+      {
+        "word": "skirt",
+        "pos": "n.",
+        "zh": "半身裙"
+      },
+      {
+        "word": "jeans",
+        "pos": "n.",
+        "zh": "牛仔裤"
+      },
+      {
+        "word": "trousers",
+        "pos": "n.",
+        "zh": "长裤"
+      }
+    ],
+    "sources": [
+      {
+        "word": "skirt",
+        "physical_page": 150,
+        "printed_page": 139
+      },
+      {
+        "word": "jeans",
+        "physical_page": 150,
+        "printed_page": 139
+      },
+      {
+        "word": "trousers",
+        "physical_page": 150,
+        "printed_page": 139
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 18\n场景词群 | 时尚潮流\n试衣间里选下装\njeans  n.  牛仔裤\nskirt  n.  半身裙\ntrousers  n.  长裤\n放进句子里\nI bought a pair of trousers for the interview.\n我为面试买了一条长裤。\n用法提醒\njeans 和 trousers 常用复数。一条用 a pair of。\n雅思应用\n口语 Part 1 · 聊聊日常穿衣选择\n轮到你了\n用 a pair of jeans 说说你什么时候穿牛仔裤。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "I bought a pair of trousers for the interview.",
+    "example_zh": "我为面试买了一条长裤。",
+    "examples": [
+      {
+        "en": "I bought a pair of trousers for the interview.",
+        "zh": "我为面试买了一条长裤。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a pleated skirt",
+        "一条百褶半身裙"
+      ],
+      [
+        "a pair of jeans",
+        "一条牛仔裤"
+      ],
+      [
+        "a pair of trousers",
+        "一条长裤"
+      ]
+    ],
+    "notes": "jeans 和 trousers 常用复数。一条用 a pair of。",
+    "scene": "同一间旧衣店的试穿角。一位成人对着镜子举起一条有清楚裙摆的赭红色及膝半身裙，skirt 引线触裙摆。中景衣架上挂展开的蓝色牛仔裤，有明线、经典牛仔口袋和靛蓝质地，jeans 指到牛仔裤。右方展示人体穿一条深灰色有压线的西装长裤，trousers 引线触长裤裤管。相邻衣物不要遮挡，三个标签在自然留白里。",
+    "palette": "二手店柔暖木地板，夹一抹黏土红裙，牛仔靛蓝与石墨灰裤线，背景保持灰白。",
+    "ielts": "口语 Part 1 · 聊聊日常穿衣选择",
+    "practice": "用 a pair of jeans 说说你什么时候穿牛仔裤。",
+    "answer": "I usually wear a pair of jeans when I go out at weekends.",
+    "reference_urls": [],
+    "image": "previews/18.webp"
+  },
+  {
+    "id": "19",
+    "page": 19,
+    "title": "外套上的四个细节",
+    "kind": "scene",
+    "targets": [
+      "clasp",
+      "button",
+      "collar",
+      "sleeve"
+    ],
+    "labels": [
+      {
+        "word": "clasp",
+        "pos": "n.",
+        "zh": "搭扣"
+      },
+      {
+        "word": "button",
+        "pos": "n.",
+        "zh": "纽扣"
+      },
+      {
+        "word": "collar",
+        "pos": "n.",
+        "zh": "衣领"
+      },
+      {
+        "word": "sleeve",
+        "pos": "n.",
+        "zh": "袖子"
+      }
+    ],
+    "sources": [
+      {
+        "word": "clasp",
+        "physical_page": 150,
+        "printed_page": 139
+      },
+      {
+        "word": "button",
+        "physical_page": 150,
+        "printed_page": 139
+      },
+      {
+        "word": "collar",
+        "physical_page": 151,
+        "printed_page": 140
+      },
+      {
+        "word": "sleeve",
+        "physical_page": 151,
+        "printed_page": 140
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 19\n场景词群 | 时尚潮流\n外套上的四个细节\ncollar  n.  衣领\nclasp  n.  搭扣\nsleeve  n.  袖子\nbutton  n.  纽扣\n放进句子里\nThe tailor replaced the button on my sleeve.\n裁缝换掉了我袖子上的纽扣。\n用法提醒\nclasp 是搭扣。button 常与扣眼配合。\n雅思应用\n听力 Part 1 · 听懂改衣店的维修要求\n轮到你了\n用 sleeve 和 button 说明外套哪里要修。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "The tailor replaced the button on my sleeve.",
+    "example_zh": "裁缝换掉了我袖子上的纽扣。",
+    "examples": [
+      {
+        "en": "The tailor replaced the button on my sleeve.",
+        "zh": "裁缝换掉了我袖子上的纽扣。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a brass clasp",
+        "黄铜搭扣"
+      ],
+      [
+        "a missing button",
+        "一颗掉了的纽扣"
+      ],
+      [
+        "a wide collar",
+        "宽衣领"
+      ],
+      [
+        "a long sleeve",
+        "一只长袖"
+      ]
+    ],
+    "notes": "clasp 是搭扣。button 常与扣眼配合。",
+    "scene": "裁缝工作室的两件衣物特写。左边一件暗红色无袖披风由清晰的两片黄铜搭扣相互扣住，clasp 引线触黄铜搭扣。右边是一件青绿外套，领口有完整翻领，单侧袖子从肩到袖口能看清，侧袖口有一颗带小孔的圆纽扣。collar 引线指翻领，sleeve 指小臂处大段袖料，button 指圆纽扣本身。各点横向错开，线短且不交叉。",
+    "palette": "哑光青绿衣料、暗石榴红披风、黄铜金搭扣、暖木桌，以自然日光照亮纽扣与缝线。",
+    "ielts": "听力 Part 1 · 听懂改衣店的维修要求",
+    "practice": "用 sleeve 和 button 说明外套哪里要修。",
+    "answer": "The button on the left sleeve needs replacing.",
+    "reference_urls": [],
+    "image": "previews/19.webp"
+  },
+  {
+    "id": "20",
+    "page": 20,
+    "title": "冬天出门带什么",
+    "kind": "scene",
+    "targets": [
+      "glove",
+      "scarf",
+      "handkerchief"
+    ],
+    "labels": [
+      {
+        "word": "glove",
+        "pos": "n.",
+        "zh": "手套"
+      },
+      {
+        "word": "scarf",
+        "pos": "n.",
+        "zh": "围巾"
+      },
+      {
+        "word": "handkerchief",
+        "pos": "n.",
+        "zh": "手帕"
+      }
+    ],
+    "sources": [
+      {
+        "word": "glove",
+        "physical_page": 150,
+        "printed_page": 139
+      },
+      {
+        "word": "scarf",
+        "physical_page": 150,
+        "printed_page": 139
+      },
+      {
+        "word": "handkerchief",
+        "physical_page": 150,
+        "printed_page": 139
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 20\n场景词群 | 时尚潮流\n冬天出门带什么\nglove  n.  手套\nhandkerchief  n.  手帕\nscarf  n.  围巾\n放进句子里\nI pulled a handkerchief from my pocket.\n我从口袋里掏出一块手帕。\n用法提醒\nglove 可数。一双手套用 a pair of gloves。\n雅思应用\n口语 Part 1 · 描述冷天出门的习惯\n轮到你了\n用 scarf 和 gloves 说说你冷天会穿戴什么。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "I pulled a handkerchief from my pocket.",
+    "example_zh": "我从口袋里掏出一块手帕。",
+    "examples": [
+      {
+        "en": "I pulled a handkerchief from my pocket.",
+        "zh": "我从口袋里掏出一块手帕。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a pair of gloves",
+        "一双手套"
+      ],
+      [
+        "a wool scarf",
+        "一条羊毛围巾"
+      ],
+      [
+        "a cotton handkerchief",
+        "一块棉手帕"
+      ]
+    ],
+    "notes": "glove 可数。一双手套用 a pair of gloves。",
+    "scene": "冷天街边公交站，一位等车的人围着长条橙红针织围巾。一只手戴深蓝色五指手套，另一只没戴手套的手正从外套口袋拉出干净白色棉手帕。glove 指手套指背；scarf 指胸前垂下的围巾，不指领口；handkerchief 精确指展开的有锁边白棉布小方巾。温暖的呼吸薄雾和柔和天光保持画面连贯，标签与人体周围留白适配。",
+    "palette": "雪后街道的冰蓝、石墙灰与日出浅橙，围巾用针织橙红，手套用深蓝，棉手帕白而有清晰边缘。",
+    "ielts": "口语 Part 1 · 描述冷天出门的习惯",
+    "practice": "用 scarf 和 gloves 说说你冷天会穿戴什么。",
+    "answer": "I usually wear a scarf and gloves on cold mornings.",
+    "reference_urls": [],
+    "image": "previews/20.webp"
+  },
+  {
+    "id": "21",
+    "page": 21,
+    "title": "帽子怎么遮阳",
+    "kind": "scene",
+    "targets": [
+      "hat",
+      "cap",
+      "brim"
+    ],
+    "labels": [
+      {
+        "word": "hat",
+        "pos": "n.",
+        "zh": "帽子"
+      },
+      {
+        "word": "cap",
+        "pos": "n.",
+        "zh": "便帽"
+      },
+      {
+        "word": "brim",
+        "pos": "n.",
+        "zh": "帽檐"
+      }
+    ],
+    "sources": [
+      {
+        "word": "hat",
+        "physical_page": 150,
+        "printed_page": 139
+      },
+      {
+        "word": "cap",
+        "physical_page": 150,
+        "printed_page": 139
+      },
+      {
+        "word": "brim",
+        "physical_page": 150,
+        "printed_page": 139
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 21\n场景词群 | 时尚潮流\n帽子怎么遮阳\nhat  n.  帽子\ncap  n.  便帽\nbrim  n.  帽檐\n放进句子里\nThe wide brim kept the sun out of my eyes.\n宽帽檐挡住了照向我眼睛的阳光。\n用法提醒\nhat 泛指帽子。图中的 cap 是棒球帽。\n雅思应用\n口语 Part 2 · 描述一件旅行时带的物品\n轮到你了\n用 wide brim 说说这顶草帽的用处。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "The wide brim kept the sun out of my eyes.",
+    "example_zh": "宽帽檐挡住了照向我眼睛的阳光。",
+    "examples": [
+      {
+        "en": "The wide brim kept the sun out of my eyes.",
+        "zh": "宽帽檐挡住了照向我眼睛的阳光。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a straw hat",
+        "一顶草帽"
+      ],
+      [
+        "a baseball cap",
+        "一顶棒球帽"
+      ],
+      [
+        "a wide brim",
+        "宽帽檐"
+      ]
+    ],
+    "notes": "hat 泛指帽子。图中的 cap 是棒球帽。",
+    "scene": "夏日露天帽铺，左边挂完整的浅金色宽檐草帽，hat 线指草帽圆顶位置，另一个 brim 标签从下方用极短细线清楚指到同一草帽向外伸出的圆形帽檐外沿，两个落点相隔足够远。右边陈列一顶独立的深蓝棒球帽，带前帽舌，cap 线触棒球帽的帽身。太阳照在草帽和麻织物上，帽檐投下的阴影表现遮阳。",
+    "palette": "麦秸金、浅沙色、海军蓝，午后的日光带一点淡柠檬色，衬以摊位自然的浅青蓝阴影。",
+    "ielts": "口语 Part 2 · 描述一件旅行时带的物品",
+    "practice": "用 wide brim 说说这顶草帽的用处。",
+    "answer": "The hat has a wide brim that shades my face.",
+    "reference_urls": [],
+    "image": "previews/21.webp"
+  },
+  {
+    "id": "22",
+    "page": 22,
+    "title": "市集结账用哪个钱包",
+    "kind": "contrast",
+    "targets": [
+      "purse",
+      "wallet"
+    ],
+    "labels": [
+      {
+        "word": "purse",
+        "pos": "n.",
+        "zh": "零钱包（英式）"
+      },
+      {
+        "word": "wallet",
+        "pos": "n.",
+        "zh": "皮夹；钱包"
+      }
+    ],
+    "sources": [
+      {
+        "word": "purse",
+        "physical_page": 151,
+        "printed_page": 140
+      },
+      {
+        "word": "wallet",
+        "physical_page": 151,
+        "printed_page": 140
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 22\n词义辨析 | 时尚潮流\n市集结账用哪个钱包\npurse  n.  零钱包（英式）\nwallet  n.  皮夹；钱包\n放进句子里\nHe took a card out of his wallet.\n他从钱包里拿出一张卡。\n用法提醒\npurse 在英式英语可指零钱包，美式常指手提包。\n雅思应用\n听力 Part 1 · 听懂失物登记描述\n轮到你了\n用 wallet 描述丢失物品的颜色和材质。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "He took a card out of his wallet.",
+    "example_zh": "他从钱包里拿出一张卡。",
+    "examples": [
+      {
+        "en": "He took a card out of his wallet.",
+        "zh": "他从钱包里拿出一张卡。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a coin purse",
+        "一个零钱包"
+      ],
+      [
+        "a leather wallet",
+        "一个皮质钱包"
+      ],
+      [
+        "take a card out of a wallet",
+        "从钱包里拿出一张卡"
+      ]
+    ],
+    "notes": "purse 在英式英语可指零钱包，美式常指手提包。",
+    "scene": "同一个周末市集的木质结账台。左边顾客手托一个很小的鹅黄色金属扣零钱包，能看见里面几枚硬币，purse 线接到这只小零钱包本身。右边另一位顾客用深棕对折皮夹，清晰看见隔层、纸钞和一张要抽出的卡，wallet 线接到皮夹边。两个物件是大特写且分开，下层配无字的收银台和纸袋，人物的自然动作连接场景。",
+    "palette": "市集暖杏色、黄铜零钱包扣、皮夹深栗棕和柜台橄榄灰，硬币边缘用一点银色。",
+    "ielts": "听力 Part 1 · 听懂失物登记描述",
+    "practice": "用 wallet 描述丢失物品的颜色和材质。",
+    "answer": "I lost a small brown leather wallet.",
+    "reference_urls": [],
+    "image": "previews/22.webp"
+  },
+  {
+    "id": "23",
+    "page": 23,
+    "title": "玄关里换袜穿鞋",
+    "kind": "scene",
+    "targets": [
+      "sock",
+      "stocking",
+      "slipper",
+      "boot",
+      "lace"
+    ],
+    "labels": [
+      {
+        "word": "sock",
+        "pos": "n.",
+        "zh": "短袜"
+      },
+      {
+        "word": "stocking",
+        "pos": "n.",
+        "zh": "长筒袜"
+      },
+      {
+        "word": "slipper",
+        "pos": "n.",
+        "zh": "拖鞋"
+      },
+      {
+        "word": "boot",
+        "pos": "n.",
+        "zh": "靴子"
+      },
+      {
+        "word": "lace",
+        "pos": "n.",
+        "zh": "鞋带"
+      }
+    ],
+    "sources": [
+      {
+        "word": "sock",
+        "physical_page": 151,
+        "printed_page": 140
+      },
+      {
+        "word": "stocking",
+        "physical_page": 151,
+        "printed_page": 140
+      },
+      {
+        "word": "slipper",
+        "physical_page": 151,
+        "printed_page": 140
+      },
+      {
+        "word": "boot",
+        "physical_page": 151,
+        "printed_page": 140
+      },
+      {
+        "word": "lace",
+        "physical_page": 151,
+        "printed_page": 140
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 23\n场景词群 | 时尚潮流\n玄关里换袜穿鞋\nstocking  n.  长筒袜\nsock  n.  短袜\nlace  n.  鞋带\nslipper  n.  拖鞋\nboot  n.  靴子\n放进句子里\nShe tied the laces on her boots.\n她系好了靴子的鞋带。\n用法提醒\nlace 在这里指鞋带，也可指花边。\n雅思应用\n口语 Part 1 · 聊聊日常穿鞋习惯\n轮到你了\n用 tie my laces 说说你出门前做了什么。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "She tied the laces on her boots.",
+    "example_zh": "她系好了靴子的鞋带。",
+    "examples": [
+      {
+        "en": "She tied the laces on her boots.",
+        "zh": "她系好了靴子的鞋带。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a pair of socks",
+        "一双短袜"
+      ],
+      [
+        "a pair of stockings",
+        "一双长筒袜"
+      ],
+      [
+        "soft slippers",
+        "柔软的拖鞋"
+      ],
+      [
+        "ankle boots",
+        "踝靴"
+      ],
+      [
+        "tie the laces",
+        "系鞋带"
+      ]
+    ],
+    "notes": "lace 在这里指鞋带，也可指花边。",
+    "scene": "晨光玄关，低视角看见鞋架和穿鞋动作。矮架左侧一只短袜，sock 指向短袜口。高一点的边缘单独悬挂一只深灰长筒袜，明显比短袜长得多，stocking 指其中部。左下地垫上是一只绒面后跟敞开的室内拖鞋，slipper 指拖鞋鞋面。右侧坐着的人正系一双棕色系带踝靴，boot 引线指靴筒或厚鞋底，lace 引线精确落在手中明显打结的浅色鞋带。标签和落点互不遮挡。",
+    "palette": "深胡桃木、可可棕靴、羊毛拖鞋暖白与蓝灰长袜，玄关门缝的淡金晨光照亮打结动作。",
+    "ielts": "口语 Part 1 · 聊聊日常穿鞋习惯",
+    "practice": "用 tie my laces 说说你出门前做了什么。",
+    "answer": "I sat by the door to tie my laces before leaving.",
+    "reference_urls": [],
+    "image": "previews/23.webp"
+  },
+  {
+    "id": "24",
+    "page": 24,
+    "title": "裁缝怎样缝好下摆",
+    "kind": "scene",
+    "targets": [
+      "tailor",
+      "sew",
+      "stitch",
+      "needle"
+    ],
+    "labels": [
+      {
+        "word": "tailor",
+        "pos": "n.",
+        "zh": "裁缝"
+      },
+      {
+        "word": "sew",
+        "pos": "v.",
+        "zh": "缝制"
+      },
+      {
+        "word": "stitch",
+        "pos": "n.",
+        "zh": "针脚"
+      },
+      {
+        "word": "needle",
+        "pos": "n.",
+        "zh": "缝衣针"
+      }
+    ],
+    "sources": [
+      {
+        "word": "tailor",
+        "physical_page": 151,
+        "printed_page": 140
+      },
+      {
+        "word": "sew",
+        "physical_page": 151,
+        "printed_page": 140
+      },
+      {
+        "word": "stitch",
+        "physical_page": 151,
+        "printed_page": 140
+      },
+      {
+        "word": "needle",
+        "physical_page": 151,
+        "printed_page": 140
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 24\n场景词群 | 时尚潮流\n裁缝怎样缝好下摆\ntailor  n.  裁缝\nsew  v.  缝制\nneedle  n.  缝衣针\nstitch  n.  针脚\n放进句子里\nThe tailor used a needle to sew the hem.\n裁缝用针缝好了下摆。\n用法提醒\nsew 强调缝制动作。stitch 作名词可指一个针脚。\n雅思应用\n口语 Part 2 · 描述学过的一项手工技能\n轮到你了\n用 sew 说明裁缝在做什么。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "The tailor used a needle to sew the hem.",
+    "example_zh": "裁缝用针缝好了下摆。",
+    "examples": [
+      {
+        "en": "The tailor used a needle to sew the hem.",
+        "zh": "裁缝用针缝好了下摆。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a local tailor",
+        "本地裁缝"
+      ],
+      [
+        "sew a hem",
+        "缝下摆"
+      ],
+      [
+        "tiny stitches",
+        "细小的针脚"
+      ],
+      [
+        "thread a needle",
+        "给针穿线"
+      ]
+    ],
+    "notes": "sew 强调缝制动作。stitch 作名词可指一个针脚。",
+    "scene": "一位裁缝坐在窗边手工缝卷好的裤脚下摆，重点描绘工艺细节。tailor 引线触及裁缝围裙上半部。sew 线触裁缝两只手完成穿线的动作。布边一处明确画出一排对比色针脚，在最前面单独放大一个已经缝好的针脚，stitch 引线落在这个线圈上。右侧软垫放一枚备用银色缝衣针，画清针尖和针眼，needle 引线单独触到这枚针。画面连贯，4个图内标签离织物目标很近。",
+    "palette": "阴天窗光蓝灰、浅栗裁缝工作台、深靛裤料及橙棕对比缝线，缝衣针为偏冷银色。",
+    "ielts": "口语 Part 2 · 描述学过的一项手工技能",
+    "practice": "用 sew 说明裁缝在做什么。",
+    "answer": "The tailor is sewing the hem of a pair of trousers.",
+    "reference_urls": [],
+    "image": "previews/24.webp"
+  },
+  {
+    "id": "25",
+    "page": 25,
+    "title": "给旧牛仔裤打补丁",
+    "kind": "scene",
+    "targets": [
+      "pin",
+      "thread",
+      "patch",
+      "rag"
+    ],
+    "labels": [
+      {
+        "word": "pin",
+        "pos": "n.",
+        "zh": "大头针"
+      },
+      {
+        "word": "thread",
+        "pos": "n.",
+        "zh": "缝纫线"
+      },
+      {
+        "word": "patch",
+        "pos": "n.",
+        "zh": "补丁"
+      },
+      {
+        "word": "rag",
+        "pos": "n.",
+        "zh": "旧抹布"
+      }
+    ],
+    "sources": [
+      {
+        "word": "pin",
+        "physical_page": 152,
+        "printed_page": 141
+      },
+      {
+        "word": "thread",
+        "physical_page": 152,
+        "printed_page": 141
+      },
+      {
+        "word": "patch",
+        "physical_page": 152,
+        "printed_page": 141
+      },
+      {
+        "word": "rag",
+        "physical_page": 152,
+        "printed_page": 141
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 25\n场景词群 | 时尚潮流\n给旧牛仔裤打补丁\npin  n.  大头针\nthread  n.  缝纫线\nrag  n.  旧抹布\npatch  n.  补丁\n放进句子里\nI used a pin to hold the patch in place.\n我用一枚大头针把补丁固定在原位。\n用法提醒\npatch 可以补破洞。rag 常指清洁用的旧布。\n雅思应用\n口语 Part 2 · 描述你修好的一件东西\n轮到你了\n用 patch 说说你会怎么修补破洞。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "I used a pin to hold the patch in place.",
+    "example_zh": "我用一枚大头针把补丁固定在原位。",
+    "examples": [
+      {
+        "en": "I used a pin to hold the patch in place.",
+        "zh": "我用一枚大头针把补丁固定在原位。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a straight pin",
+        "一枚大头针"
+      ],
+      [
+        "a spool of thread",
+        "一轴线"
+      ],
+      [
+        "sew on a patch",
+        "缝上补丁"
+      ],
+      [
+        "a cleaning rag",
+        "一块清洁抹布"
+      ]
+    ],
+    "notes": "patch 可以补破洞。rag 常指清洁用的旧布。",
+    "scene": "家中修补衣物的平视工作台，中央摊开磨破的旧牛仔裤，腿部铺着一块有明显边缘、正在准备缝上的棉布补丁，patch 引线触到补丁中央。一枚独立醒目的黄珠头大头针穿过补丁的一角把它固定，pin 引线精确接黄圆珠针头。左边有一枚橙色线轴，thread 线接到自线轴松下的细线。右边桌角放一块明显毛边皱皱的旧灰绿抹布，旁边清洁水杯，rag 引线接到旧抹布。四个位置均留白，画出针头大小对比。",
+    "palette": "磨旧的牛仔蓝、暖赤陶色缝线、旧灰绿抹布与浅木工作台，金黄色针头点亮动作。",
+    "ielts": "口语 Part 2 · 描述你修好的一件东西",
+    "practice": "用 patch 说说你会怎么修补破洞。",
+    "answer": "I would sew a patch over the hole in my jeans.",
+    "reference_urls": [],
+    "image": "previews/25.webp"
+  },
+  {
+    "id": "26",
+    "page": 26,
+    "title": "走进纺织工坊",
+    "kind": "scene",
+    "targets": [
+      "spin",
+      "textile",
+      "velvet",
+      "wool"
+    ],
+    "labels": [
+      {
+        "word": "spin",
+        "pos": "v.",
+        "zh": "纺线"
+      },
+      {
+        "word": "textile",
+        "pos": "n.",
+        "zh": "纺织品"
+      },
+      {
+        "word": "velvet",
+        "pos": "n.",
+        "zh": "天鹅绒"
+      },
+      {
+        "word": "wool",
+        "pos": "n.",
+        "zh": "羊毛"
+      }
+    ],
+    "sources": [
+      {
+        "word": "spin",
+        "physical_page": 151,
+        "printed_page": 140
+      },
+      {
+        "word": "textile",
+        "physical_page": 152,
+        "printed_page": 141
+      },
+      {
+        "word": "velvet",
+        "physical_page": 152,
+        "printed_page": 141
+      },
+      {
+        "word": "wool",
+        "physical_page": 152,
+        "printed_page": 141
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 26\n场景词群 | 时尚潮流\n走进纺织工坊\ntextile  n.  纺织品\nspin  v.  纺线\nwool  n.  羊毛\nvelvet  n.  天鹅绒\n放进句子里\nThe maker spins wool into yarn.\n工匠把羊毛纺成纱。\n用法提醒\nwool 指纤维。velvet 指有短绒表面的织物。\n雅思应用\n阅读 · 识别传统工艺中的材料与步骤\n轮到你了\n用 spin wool into yarn 描述图中的一道工序。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "The maker spins wool into yarn.",
+    "example_zh": "工匠把羊毛纺成纱。",
+    "examples": [
+      {
+        "en": "The maker spins wool into yarn.",
+        "zh": "工匠把羊毛纺成纱。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "spin wool into yarn",
+        "把羊毛纺成纱"
+      ],
+      [
+        "woven textiles",
+        "机织纺织品"
+      ],
+      [
+        "a velvet cushion",
+        "一个天鹅绒靠垫"
+      ],
+      [
+        "raw wool",
+        "未经加工的羊毛"
+      ]
+    ],
+    "notes": "wool 指纤维。velvet 指有短绒表面的织物。",
+    "scene": "同一间临窗纺织工坊内的两处工位。左侧工匠坐在木纺车前双手牵引羊毛纤维成为一条细纱，spin 指牵引的动作，wool 单独指纺车旁篮子里尚未纺的蓬松浅色羊毛。右侧布料架展示不同织物叠在一起，textile 的线指到同一块打开的织纹布幅；另在前景右面清楚垂放一块短绒发亮的蓝紫天鹅绒，velvet 指向绒面。在两处工位留出视觉间距，天鹅绒和左侧纺毛过程不画任何连接线。",
+    "palette": "羊毛原色、蜜木纺车、透窗亚麻白光，深蓝紫绒布一处重点光泽，布架有低饱和锈红。",
+    "ielts": "阅读 · 识别传统工艺中的材料与步骤",
+    "practice": "用 spin wool into yarn 描述图中的一道工序。",
+    "answer": "The craftsperson uses a spinning wheel to spin wool into yarn.",
+    "reference_urls": [],
+    "image": "previews/26.webp"
+  },
+  {
+    "id": "27",
+    "page": 27,
+    "title": "首饰台上串一颗珠子",
+    "kind": "scene",
+    "targets": [
+      "string",
+      "chain",
+      "bracelet",
+      "necklace",
+      "bead"
+    ],
+    "labels": [
+      {
+        "word": "string",
+        "pos": "n.",
+        "zh": "细绳"
+      },
+      {
+        "word": "chain",
+        "pos": "n.",
+        "zh": "链条"
+      },
+      {
+        "word": "bracelet",
+        "pos": "n.",
+        "zh": "手链"
+      },
+      {
+        "word": "necklace",
+        "pos": "n.",
+        "zh": "项链"
+      },
+      {
+        "word": "bead",
+        "pos": "n.",
+        "zh": "珠子"
+      }
+    ],
+    "sources": [
+      {
+        "word": "string",
+        "physical_page": 152,
+        "printed_page": 141
+      },
+      {
+        "word": "chain",
+        "physical_page": 152,
+        "printed_page": 141
+      },
+      {
+        "word": "bracelet",
+        "physical_page": 152,
+        "printed_page": 141
+      },
+      {
+        "word": "necklace",
+        "physical_page": 152,
+        "printed_page": 141
+      },
+      {
+        "word": "bead",
+        "physical_page": 152,
+        "printed_page": 141
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 27\n场景词群 | 时尚潮流\n首饰台上串一颗珠子\nbracelet  n.  手链\nnecklace  n.  项链\nbead  n.  珠子\nstring  n.  细绳\nchain  n.  链条\n放进句子里\nShe threaded a bead onto the string.\n她把一颗珠子穿到细绳上。\n用法提醒\nstring 可指细绳。chain 由一个个链环相连。\n雅思应用\n口语 Part 2 · 描述你收到或做过的首饰\n轮到你了\n用 bead 或 bracelet 说说你想做什么首饰。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "She threaded a bead onto the string.",
+    "example_zh": "她把一颗珠子穿到细绳上。",
+    "examples": [
+      {
+        "en": "She threaded a bead onto the string.",
+        "zh": "她把一颗珠子穿到细绳上。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a piece of string",
+        "一段细绳"
+      ],
+      [
+        "a silver chain",
+        "一条银链"
+      ],
+      [
+        "a beaded bracelet",
+        "一条串珠手链"
+      ],
+      [
+        "wear a necklace",
+        "戴项链"
+      ],
+      [
+        "a glass bead",
+        "一颗玻璃珠"
+      ]
+    ],
+    "notes": "string 可指细绳。chain 由一个个链环相连。",
+    "scene": "木质首饰工作台上的制作与陈列。左下方一个人把带两三颗半成品珠子的可见棉绳捏在手里，string 精确落在两颗珠之间露出的细绳；bead 精确落在旁边小托盘上一颗大而单独的蓝绿珠子，珠孔可见。右侧有一条单独摊开的银质链条，chain 指到清楚相扣的金属链环，不指项链。后景有一只独立手腕模型佩戴成品手链和一座有肩有颈的首饰展示台佩戴项链，bracelet 与 necklace 分别直指这两件。五条引线尽可能短且不交叉。",
+    "palette": "暖樱桃木和亚麻布，珠子用鲜明低面积孔雀蓝绿，链条冷银，首饰陈列衬色偏淡雾紫。",
+    "ielts": "口语 Part 2 · 描述你收到或做过的首饰",
+    "practice": "用 bead 或 bracelet 说说你想做什么首饰。",
+    "answer": "I would make a bracelet with blue beads.",
+    "reference_urls": [],
+    "image": "previews/27.webp"
+  },
+  {
+    "id": "28",
+    "page": 28,
+    "title": "包带、条纹与腰带",
+    "kind": "scene",
+    "targets": [
+      "strap",
+      "stripe",
+      "ribbon",
+      "belt"
+    ],
+    "labels": [
+      {
+        "word": "strap",
+        "pos": "n.",
+        "zh": "带子"
+      },
+      {
+        "word": "stripe",
+        "pos": "n.",
+        "zh": "条纹"
+      },
+      {
+        "word": "ribbon",
+        "pos": "n.",
+        "zh": "丝带"
+      },
+      {
+        "word": "belt",
+        "pos": "n.",
+        "zh": "腰带"
+      }
+    ],
+    "sources": [
+      {
+        "word": "strap",
+        "physical_page": 152,
+        "printed_page": 141
+      },
+      {
+        "word": "stripe",
+        "physical_page": 152,
+        "printed_page": 141
+      },
+      {
+        "word": "ribbon",
+        "physical_page": 152,
+        "printed_page": 141
+      },
+      {
+        "word": "belt",
+        "physical_page": 152,
+        "printed_page": 141
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 28\n场景词群 | 时尚潮流\n包带、条纹与腰带\nstripe  n.  条纹\nbelt  n.  腰带\nstrap  n.  带子\nribbon  n.  丝带\n放进句子里\nI shortened the strap on my bag.\n我把包的背带调短了。\n用法提醒\nstrap 是用来系或背的带子。stripe 是条纹。\n雅思应用\n口语 Part 2 · 描述一个常用的包\n轮到你了\n用 strap 和 comfortable 描述你的包。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "I shortened the strap on my bag.",
+    "example_zh": "我把包的背带调短了。",
+    "examples": [
+      {
+        "en": "I shortened the strap on my bag.",
+        "zh": "我把包的背带调短了。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a shoulder strap",
+        "肩带"
+      ],
+      [
+        "a blue stripe",
+        "一道蓝色条纹"
+      ],
+      [
+        "a silk ribbon",
+        "一条丝带"
+      ],
+      [
+        "a leather belt",
+        "一条皮腰带"
+      ]
+    ],
+    "notes": "strap 是用来系或背的带子。stripe 是条纹。",
+    "scene": "设计集市的配件摊位，四个完整实物都在同一个场景里。左方顾客用手调整斜挎包粗棉背带，strap 精确指可调的背带。摊位中景衣架挂一件奶油色布外套，有清晰的墨青条纹，stripe 精确指其中一条。前景桌上小礼盒用浅橙丝带打结，ribbon 精确指丝带。右方另有半身假人腰上系皮腰带，belt 精确指腰部的皮带扣。四条线避免交叉。",
+    "palette": "摊位帆布暖白与天然棉色，墨青条纹，栗棕皮腰带，小礼盒系橙红丝带，亮而有层次。",
+    "ielts": "口语 Part 2 · 描述一个常用的包",
+    "practice": "用 strap 和 comfortable 描述你的包。",
+    "answer": "My bag has a wide strap that makes it comfortable to carry.",
+    "reference_urls": [],
+    "image": "previews/28.webp"
+  },
+  {
+    "id": "29",
+    "page": 29,
+    "title": "旧衣试穿与修整",
+    "kind": "contrast",
+    "targets": [
+      "shabby",
+      "tight"
+    ],
+    "labels": [
+      {
+        "word": "shabby",
+        "pos": "adj.",
+        "zh": "破旧的"
+      },
+      {
+        "word": "tight",
+        "pos": "adj.",
+        "zh": "太紧的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "shabby",
+        "physical_page": 153,
+        "printed_page": 142
+      },
+      {
+        "word": "tight",
+        "physical_page": 153,
+        "printed_page": 142
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 29\n词义辨析 | 时尚潮流\n旧衣试穿与修整\nshabby  adj.  破旧的\ntight  adj.  太紧的\n放进句子里\nThe old jacket looks shabby, and the new one feels too tight.\n旧夹克看起来破旧，新夹克穿起来又太紧。\n用法提醒\nshabby 描述外观破旧。tight 描述衣物偏紧。\n雅思应用\n口语 Part 2 · 描述一件你想修补的衣服\n轮到你了\n选一个图中词，说说你想修补哪件衣服。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "The old jacket looks shabby, and the new one feels too tight.",
+    "example_zh": "旧夹克看起来破旧，新夹克穿起来又太紧。",
+    "examples": [
+      {
+        "en": "The old jacket looks shabby, and the new one feels too tight.",
+        "zh": "旧夹克看起来破旧，新夹克穿起来又太紧。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a shabby jacket",
+        "一件破旧的夹克"
+      ],
+      [
+        "feel too tight",
+        "穿起来太紧"
+      ]
+    ],
+    "notes": "shabby 描述外观破旧。tight 描述衣物偏紧。",
+    "scene": "一家采光柔和的旧衣修整店，左右两处特写由同一实木裁缝台连起来。左侧衣架挂一件旧赭棕夹克，肩肘有褪色磨痕，袖口脱线和毛边明显。shabby 的短引线只落到挂着的旧夹克磨坏的袖口。右侧成年顾客试穿另一件崭新的深蓝夹克，神情自然，伸出手掌，裁缝在检查偏窄的袖口，袖口布料绷出拉褶。tight 的短引线落到右边绷紧的袖口和布料，不触碰皮肤。图能一眼看懂外观破旧与衣服偏紧是两种问题。",
+    "palette": "旧夹克用磨损赭棕与灰土色，新夹克用有分量的靛蓝。保留木台的琥珀色与明亮的纸白。",
+    "ielts": "口语 Part 2 · 描述一件你想修补的衣服",
+    "practice": "选一个图中词，说说你想修补哪件衣服。",
+    "answer": "My old jacket looks shabby, so I would like to repair the cuffs.",
+    "reference_urls": [],
+    "image": "previews/29.webp"
+  },
+  {
+    "id": "30",
+    "page": 30,
+    "title": "橱窗里的暖色搭配",
+    "kind": "scene",
+    "targets": [
+      "colour",
+      "white",
+      "yellow",
+      "brown"
+    ],
+    "labels": [
+      {
+        "word": "colour",
+        "pos": "n.",
+        "zh": "颜色"
+      },
+      {
+        "word": "white",
+        "pos": "adj.",
+        "zh": "白色的"
+      },
+      {
+        "word": "yellow",
+        "pos": "adj.",
+        "zh": "黄色的"
+      },
+      {
+        "word": "brown",
+        "pos": "adj.",
+        "zh": "棕色的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "colour",
+        "physical_page": 153,
+        "printed_page": 142
+      },
+      {
+        "word": "white",
+        "physical_page": 153,
+        "printed_page": 142
+      },
+      {
+        "word": "yellow",
+        "physical_page": 153,
+        "printed_page": 142
+      },
+      {
+        "word": "brown",
+        "physical_page": 153,
+        "printed_page": 142
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 30\n场景词群 | 时尚潮流\n橱窗里的暖色搭配\ncolour  n.  颜色\nwhite  adj.  白色的\nyellow  adj.  黄色的\nbrown  adj.  棕色的\n放进句子里\nA yellow scarf adds colour to a white shirt.\n一条黄色围巾给白衬衫添了一抹色彩。\n用法提醒\ncolour 是英式拼写，美式写作 color。\n雅思应用\n口语 Part 1 · 谈谈平时喜欢穿什么颜色\n轮到你了\n用 brown 和另一种颜色，说一句穿搭。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "A yellow scarf adds colour to a white shirt.",
+    "example_zh": "一条黄色围巾给白衬衫添了一抹色彩。",
+    "examples": [
+      {
+        "en": "A yellow scarf adds colour to a white shirt.",
+        "zh": "一条黄色围巾给白衬衫添了一抹色彩。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "add colour to an outfit",
+        "给一身搭配添点色彩"
+      ],
+      [
+        "a white shirt",
+        "一件白衬衫"
+      ],
+      [
+        "a yellow scarf",
+        "一条黄色围巾"
+      ],
+      [
+        "a brown bag",
+        "一个棕色包"
+      ]
+    ],
+    "notes": "colour 是英式拼写，美式写作 color。",
+    "scene": "秋日服装橱窗从街边望入，同一套搭配中的白衬衫、亮黄围巾与深棕皮包各有清晰轮廓。上方窗边有单独悬挂的一组白、黄、棕布质小色卡，可用括号短线把 colour 标签连到整组小色卡。左中 white 的短线只到象牙白背景前纯白有褶的衬衫前襟。右中 yellow 的短线只到秋日向日葵黄围巾的流苏。右下 brown 的短线只到深栗棕皮包正面，明显比浅棕鞋色深。各标签错开，留出物品和画面呼吸空间。",
+    "palette": "白衬衫、向日葵黄围巾、栗棕皮包为三种主题色。暖玻璃反光、低饱和米灰的橱窗背景和深棕字互相衬托。",
+    "ielts": "口语 Part 1 · 谈谈平时喜欢穿什么颜色",
+    "practice": "用 brown 和另一种颜色，说一句穿搭。",
+    "answer": "I often wear a white shirt and carry a brown bag.",
+    "reference_urls": [],
+    "image": "previews/30.webp"
+  },
+  {
+    "id": "31",
+    "page": 31,
+    "title": "试衣镜前的四色搭配",
+    "kind": "scene",
+    "targets": [
+      "grey",
+      "pink",
+      "purple",
+      "tan"
+    ],
+    "labels": [
+      {
+        "word": "grey",
+        "pos": "adj.",
+        "zh": "灰色的"
+      },
+      {
+        "word": "pink",
+        "pos": "adj.",
+        "zh": "粉色的"
+      },
+      {
+        "word": "purple",
+        "pos": "adj.",
+        "zh": "紫色的"
+      },
+      {
+        "word": "tan",
+        "pos": "adj.",
+        "zh": "浅棕色的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "grey",
+        "physical_page": 153,
+        "printed_page": 142
+      },
+      {
+        "word": "pink",
+        "physical_page": 153,
+        "printed_page": 142
+      },
+      {
+        "word": "purple",
+        "physical_page": 153,
+        "printed_page": 142
+      },
+      {
+        "word": "tan",
+        "physical_page": 153,
+        "printed_page": 142
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 31\n场景词群 | 时尚潮流\n试衣镜前的四色搭配\ngrey  adj.  灰色的\npink  adj.  粉色的\npurple  adj.  紫色的\ntan  adj.  浅棕色的\n放进句子里\nI paired a grey coat with tan boots.\n我把灰色外套和浅棕色靴子搭在了一起。\n用法提醒\ngrey 也可拼作 gray。tan 指浅棕色。\n雅思应用\n口语 Part 2 · 描述一套你喜欢的搭配\n轮到你了\n挑两种图中的颜色，描述一套你想试的搭配。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "I paired a grey coat with tan boots.",
+    "example_zh": "我把灰色外套和浅棕色靴子搭在了一起。",
+    "examples": [
+      {
+        "en": "I paired a grey coat with tan boots.",
+        "zh": "我把灰色外套和浅棕色靴子搭在了一起。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a grey coat",
+        "一件灰色外套"
+      ],
+      [
+        "a pink scarf",
+        "一条粉色围巾"
+      ],
+      [
+        "a purple skirt",
+        "一条紫色半身裙"
+      ],
+      [
+        "tan boots",
+        "浅棕色靴子"
+      ]
+    ],
+    "notes": "grey 也可拼作 gray。tan 指浅棕色。",
+    "scene": "自然光下的试衣镜前，一位穿衣整齐的成年顾客在试搭，镜面保持简洁。画出一套清楚的服装组合：冷灰长外套在左侧矮衣架上，grey 的短引线落在灰布衣领；顾客把玫瑰粉围巾搭在手臂上，pink 的引线落到浅粉流苏；顾客穿着明显偏紫的紫罗兰色半身裙，purple 的引线到裙边；下方一双穿着的浅驼棕短靴，tan 的引线落到短靴中部，棕色浅而不偏黄。标签集中在不同方位，让色相分离、无交叉引线。",
+    "palette": "冷石灰、玫瑰粉、紫罗兰和浅驼棕，贴合图中四个单品。试衣镜和店面背景以奶白和偏冷银灰留白。",
+    "ielts": "口语 Part 2 · 描述一套你喜欢的搭配",
+    "practice": "挑两种图中的颜色，描述一套你想试的搭配。",
+    "answer": "I would wear a grey coat with a purple skirt.",
+    "reference_urls": [],
+    "image": "previews/31.webp"
+  },
+  {
+    "id": "32",
+    "page": 32,
+    "title": "褪色、污渍与墨点",
+    "kind": "contrast",
+    "targets": [
+      "fade",
+      "stain",
+      "blot"
+    ],
+    "labels": [
+      {
+        "word": "fade",
+        "pos": "v.",
+        "zh": "褪色"
+      },
+      {
+        "word": "stain",
+        "pos": "n.",
+        "zh": "污渍"
+      },
+      {
+        "word": "blot",
+        "pos": "n.",
+        "zh": "墨渍"
+      }
+    ],
+    "sources": [
+      {
+        "word": "fade",
+        "physical_page": 153,
+        "printed_page": 142
+      },
+      {
+        "word": "stain",
+        "physical_page": 153,
+        "printed_page": 142
+      },
+      {
+        "word": "blot",
+        "physical_page": 153,
+        "printed_page": 142
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 32\n词义辨析 | 时尚潮流\n褪色、污渍与墨点\nfade  v.  褪色\nstain  n.  污渍\nblot  n.  墨渍\n放进句子里\nThe fabric faded, but the coffee stain was still visible.\n布料褪了色，咖啡污渍却仍然看得见。\n用法提醒\nfade 是颜色变淡。blot 在图中指纸上的墨点。\n雅思应用\n听力 Part 2 · 听懂衣物护理说明\n轮到你了\n用 fade 或 stain 描述一件需要护理的衣服。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "The fabric faded, but the coffee stain was still visible.",
+    "example_zh": "布料褪了色，咖啡污渍却仍然看得见。",
+    "examples": [
+      {
+        "en": "The fabric faded, but the coffee stain was still visible.",
+        "zh": "布料褪了色，咖啡污渍却仍然看得见。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "colours fade",
+        "颜色褪去"
+      ],
+      [
+        "remove a stain",
+        "去除污渍"
+      ],
+      [
+        "an ink blot",
+        "一个墨点"
+      ]
+    ],
+    "notes": "fade 是颜色变淡。blot 在图中指纸上的墨点。",
+    "scene": "衣物护理工作室的一张木质工作台，彩色水彩与织物纹理清晰。左上是同一块洗过的靛蓝牛仔布，受保护的折边深蓝、露出的表面明显褪成浅蓝。fade 的引线落在变浅的区域，可见深浅对照。中央奶白织物旁有一只倒下的小咖啡杯，stain 的引线精确落在织物纤维上的棕色咖啡污渍。右下有空白的纸质订单小卡和无字墨瓶，blot 的引线落在纸上明确的墨黑色点渍。三个落点分开，棕色是咖啡，墨点用近黑紫，背景不要任何字。",
+    "palette": "深靛蓝至褪色的淡牛仔蓝、咖啡棕、墨黑紫和暖奶油纸白，颜色帮助区分三类视觉线索。",
+    "ielts": "听力 Part 2 · 听懂衣物护理说明",
+    "practice": "用 fade 或 stain 描述一件需要护理的衣服。",
+    "answer": "My blue shirt has faded after many washes.",
+    "reference_urls": [],
+    "image": "previews/32.webp"
+  },
+  {
+    "id": "33",
+    "page": 33,
+    "title": "裁缝铺的轮廓与微调",
+    "kind": "scene",
+    "targets": [
+      "figure",
+      "slender",
+      "slight"
+    ],
+    "labels": [
+      {
+        "word": "figure",
+        "pos": "n.",
+        "zh": "人的轮廓"
+      },
+      {
+        "word": "slender",
+        "pos": "adj.",
+        "zh": "细长的"
+      },
+      {
+        "word": "slight",
+        "pos": "adj.",
+        "zh": "轻微的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "figure",
+        "physical_page": 153,
+        "printed_page": 142
+      },
+      {
+        "word": "slender",
+        "physical_page": 154,
+        "printed_page": 143
+      },
+      {
+        "word": "slight",
+        "physical_page": 154,
+        "printed_page": 143
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 33\n场景词群 | 时尚潮流\n裁缝铺的轮廓与微调\nfigure  n.  人的轮廓\nslender  adj.  细长的\nslight  adj.  轻微的\n放进句子里\nThe tailor made a slight adjustment to the hem.\n裁缝稍微调整了下摆。\n用法提醒\nslight 表示程度轻微，常搭配 adjustment。\n雅思应用\n口语 Part 2 · 描述一件改过的衣服\n轮到你了\n用 a slight adjustment 说说你改了衣服哪儿。\n第11章 时尚潮流 · 原创例句与练习 · 非真题",
+    "example_en": "The tailor made a slight adjustment to the hem.",
+    "example_zh": "裁缝稍微调整了下摆。",
+    "examples": [
+      {
+        "en": "The tailor made a slight adjustment to the hem.",
+        "zh": "裁缝稍微调整了下摆。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the outline of a figure",
+        "一个人的轮廓"
+      ],
+      [
+        "a slender needle",
+        "一根细长的针"
+      ],
+      [
+        "a slight adjustment",
+        "小幅调整"
+      ]
+    ],
+    "notes": "slight 表示程度轻微，常搭配 adjustment。",
+    "scene": "日光透进安静的裁缝铺，一位穿着完整、站姿自然的成年顾客在全身镜前试一件浅青外套，裁缝蹲在旁边整理外套下摆。左上 figure 的标线指向镜子里从肩到脚、由柔光勾出的整个人物轮廓，不突出或评价身材。前景木台上展开了工具，slender 标线只指向一根摆在深蓝布垫上、细直且明显拉长的银色缝衣针，可以用局部放大圆呈现。右下 slight 引线落在下摆的局部放大圆，圆内两条相邻且相距很小的水平线表示调整前后的缝线，以短小括线表现轻微的差距。两幅局部与同一工作空间衔接，三个标注不交叉。",
+    "palette": "浅青外套和烟青镜面表现轮廓，暖木台承接深蓝针垫与银色缝衣针，少量珊瑚色粉笔标出下摆的微小改动。",
+    "ielts": "口语 Part 2 · 描述一件改过的衣服",
+    "practice": "用 a slight adjustment 说说你改了衣服哪儿。",
+    "answer": "I made a slight adjustment to the sleeves of my jacket.",
+    "reference_urls": [],
+    "image": "previews/33.webp"
+  }
+]

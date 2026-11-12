@@ -1,8 +1,8 @@
 {
   "title": "IELTS 插画词汇手记",
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "repository": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards",
-  "release_tag": "v2026.11.11-ch10",
+  "release_tag": "v2026.11.12-ch11",
   "chapters": [
     {
       "chapter": 1,
@@ -5086,9 +5086,365 @@
           "preview": "previews/43.webp"
         }
       ]
+    },
+    {
+      "chapter": 11,
+      "title": "时尚潮流",
+      "status": "chapter_complete",
+      "cards": 33,
+      "headwords": 113,
+      "path": "chapters/ch11",
+      "pdf": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch11/ch11-learning-cards.pdf",
+      "download": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch11/ch11-study-pack.zip",
+      "index": [
+        {
+          "number": 1,
+          "title": "街头穿搭中的时尚与趋势",
+          "words": [
+            "fashion",
+            "style",
+            "trend"
+          ],
+          "preview": "previews/01.webp"
+        },
+        {
+          "number": 2,
+          "title": "首饰、宝石与玉石",
+          "words": [
+            "jewellery",
+            "jewel",
+            "gem",
+            "jade"
+          ],
+          "preview": "previews/02.webp"
+        },
+        {
+          "number": 3,
+          "title": "vogue",
+          "words": [
+            "vogue"
+          ],
+          "preview": "previews/03.webp"
+        },
+        {
+          "number": 4,
+          "title": "怎样看出一种穿搭流行",
+          "words": [
+            "tendency",
+            "current",
+            "popularity",
+            "prevail"
+          ],
+          "preview": "previews/04.webp"
+        },
+        {
+          "number": 5,
+          "title": "秀场模特与人们崇拜的偶像",
+          "words": [
+            "model",
+            "icon",
+            "idol"
+          ],
+          "preview": "previews/05.webp"
+        },
+        {
+          "number": 6,
+          "title": "精品店里的一次购物",
+          "words": [
+            "luxury",
+            "extravagant"
+          ],
+          "preview": "previews/06.webp"
+        },
+        {
+          "number": 7,
+          "title": "一件节日外套怎么装饰",
+          "words": [
+            "adorn",
+            "ornament",
+            "embellish",
+            "embroider"
+          ],
+          "preview": "previews/07.webp"
+        },
+        {
+          "number": 8,
+          "title": "发廊里的剪发与染发",
+          "words": [
+            "hairdressing",
+            "pigment",
+            "dye"
+          ],
+          "preview": "previews/08.webp"
+        },
+        {
+          "number": 9,
+          "title": "假面舞会的装扮",
+          "words": [
+            "masquerade",
+            "veil",
+            "costume"
+          ],
+          "preview": "previews/09.webp"
+        },
+        {
+          "number": 10,
+          "title": "展柜前为什么停下脚步",
+          "words": [
+            "fascinate",
+            "decent",
+            "exquisite"
+          ],
+          "preview": "previews/10.webp"
+        },
+        {
+          "number": 11,
+          "title": "上台前的最后一遍走位",
+          "words": [
+            "grace",
+            "elegance",
+            "perfect",
+            "appearance"
+          ],
+          "preview": "previews/11.webp"
+        },
+        {
+          "number": 12,
+          "title": "出门前的梳妆台",
+          "words": [
+            "cosmetics",
+            "make-up"
+          ],
+          "preview": "previews/12.webp"
+        },
+        {
+          "number": 13,
+          "title": "布景店里的五种审美",
+          "words": [
+            "handsome",
+            "charming",
+            "pretty",
+            "beautiful",
+            "ugly"
+          ],
+          "preview": "previews/13.webp"
+        },
+        {
+          "number": 14,
+          "title": "开学前的衣物领取日",
+          "words": [
+            "dress",
+            "clothe",
+            "uniform"
+          ],
+          "preview": "previews/14.webp"
+        },
+        {
+          "number": 15,
+          "title": "衣服洗好后放哪儿",
+          "words": [
+            "garment",
+            "laundry",
+            "wardrobe"
+          ],
+          "preview": "previews/15.webp"
+        },
+        {
+          "number": 16,
+          "title": "剧场后台的五件服装",
+          "words": [
+            "overall",
+            "robe",
+            "gown",
+            "wrap",
+            "cloak"
+          ],
+          "preview": "previews/16.webp"
+        },
+        {
+          "number": 17,
+          "title": "冷天怎么叠穿",
+          "words": [
+            "overcoat",
+            "sweater",
+            "jacket",
+            "vest"
+          ],
+          "preview": "previews/17.webp"
+        },
+        {
+          "number": 18,
+          "title": "试衣间里选下装",
+          "words": [
+            "skirt",
+            "jeans",
+            "trousers"
+          ],
+          "preview": "previews/18.webp"
+        },
+        {
+          "number": 19,
+          "title": "外套上的四个细节",
+          "words": [
+            "clasp",
+            "button",
+            "collar",
+            "sleeve"
+          ],
+          "preview": "previews/19.webp"
+        },
+        {
+          "number": 20,
+          "title": "冬天出门带什么",
+          "words": [
+            "glove",
+            "scarf",
+            "handkerchief"
+          ],
+          "preview": "previews/20.webp"
+        },
+        {
+          "number": 21,
+          "title": "帽子怎么遮阳",
+          "words": [
+            "hat",
+            "cap",
+            "brim"
+          ],
+          "preview": "previews/21.webp"
+        },
+        {
+          "number": 22,
+          "title": "市集结账用哪个钱包",
+          "words": [
+            "purse",
+            "wallet"
+          ],
+          "preview": "previews/22.webp"
+        },
+        {
+          "number": 23,
+          "title": "玄关里换袜穿鞋",
+          "words": [
+            "sock",
+            "stocking",
+            "slipper",
+            "boot",
+            "lace"
+          ],
+          "preview": "previews/23.webp"
+        },
+        {
+          "number": 24,
+          "title": "裁缝怎样缝好下摆",
+          "words": [
+            "tailor",
+            "sew",
+            "stitch",
+            "needle"
+          ],
+          "preview": "previews/24.webp"
+        },
+        {
+          "number": 25,
+          "title": "给旧牛仔裤打补丁",
+          "words": [
+            "pin",
+            "thread",
+            "patch",
+            "rag"
+          ],
+          "preview": "previews/25.webp"
+        },
+        {
+          "number": 26,
+          "title": "走进纺织工坊",
+          "words": [
+            "spin",
+            "textile",
+            "velvet",
+            "wool"
+          ],
+          "preview": "previews/26.webp"
+        },
+        {
+          "number": 27,
+          "title": "首饰台上串一颗珠子",
+          "words": [
+            "string",
+            "chain",
+            "bracelet",
+            "necklace",
+            "bead"
+          ],
+          "preview": "previews/27.webp"
+        },
+        {
+          "number": 28,
+          "title": "包带、条纹与腰带",
+          "words": [
+            "strap",
+            "stripe",
+            "ribbon",
+            "belt"
+          ],
+          "preview": "previews/28.webp"
+        },
+        {
+          "number": 29,
+          "title": "旧衣试穿与修整",
+          "words": [
+            "shabby",
+            "tight"
+          ],
+          "preview": "previews/29.webp"
+        },
+        {
+          "number": 30,
+          "title": "橱窗里的暖色搭配",
+          "words": [
+            "colour",
+            "white",
+            "yellow",
+            "brown"
+          ],
+          "preview": "previews/30.webp"
+        },
+        {
+          "number": 31,
+          "title": "试衣镜前的四色搭配",
+          "words": [
+            "grey",
+            "pink",
+            "purple",
+            "tan"
+          ],
+          "preview": "previews/31.webp"
+        },
+        {
+          "number": 32,
+          "title": "褪色、污渍与墨点",
+          "words": [
+            "fade",
+            "stain",
+            "blot"
+          ],
+          "preview": "previews/32.webp"
+        },
+        {
+          "number": 33,
+          "title": "裁缝铺的轮廓与微调",
+          "words": [
+            "figure",
+            "slender",
+            "slight"
+          ],
+          "preview": "previews/33.webp"
+        }
+      ]
     }
   ],
-  "total_cards": 458,
-  "chapter_coverage_items": 1613,
-  "counting_note": "1,613 为各章词头覆盖项相加，跨章不去重。第 1–10 章均已完成。"
+  "total_cards": 491,
+  "chapter_coverage_items": 1726,
+  "counting_note": "1,726 为各章词头覆盖项相加，跨章不去重。第 1–11 章均已完成。"
 }
