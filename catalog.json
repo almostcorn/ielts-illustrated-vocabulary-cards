@@ -2,7 +2,7 @@
   "title": "IELTS 插画词汇手记",
   "updated": "2026-11-12",
   "repository": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards",
-  "release_tag": "v2026.11.12-ch12",
+  "release_tag": "v2026.11.12-ch13",
   "chapters": [
     {
       "chapter": 1,
@@ -5998,9 +5998,442 @@
           "preview": "previews/53.webp"
         }
       ]
+    },
+    {
+      "chapter": 13,
+      "title": "建筑场所",
+      "status": "chapter_complete",
+      "cards": 41,
+      "headwords": 134,
+      "path": "chapters/ch13",
+      "pdf": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch13/ch13-learning-cards.pdf",
+      "download": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch13/ch13-study-pack.zip",
+      "index": [
+        {
+          "number": 1,
+          "title": "沿河步行，找对地点",
+          "words": [
+            "site",
+            "venue",
+            "landmark",
+            "situated"
+          ],
+          "preview": "previews/01.webp"
+        },
+        {
+          "number": 2,
+          "title": "architecture",
+          "words": [
+            "architecture"
+          ],
+          "preview": "previews/02.webp"
+        },
+        {
+          "number": 3,
+          "title": "工地上正在建什么",
+          "words": [
+            "erection",
+            "structure",
+            "construct",
+            "obstruct"
+          ],
+          "preview": "previews/03.webp"
+        },
+        {
+          "number": 4,
+          "title": "一座社区中心怎样落成",
+          "words": [
+            "establish",
+            "found",
+            "build"
+          ],
+          "preview": "previews/04.webp"
+        },
+        {
+          "number": 5,
+          "title": "桥面下的结构与材料",
+          "words": [
+            "concrete",
+            "steel",
+            "stability"
+          ],
+          "preview": "previews/05.webp"
+        },
+        {
+          "number": 6,
+          "title": "地点与居住地怎么说",
+          "words": [
+            "locate",
+            "reside",
+            "inhabit"
+          ],
+          "preview": "previews/06.webp"
+        },
+        {
+          "number": 7,
+          "title": "从搬迁到安家",
+          "words": [
+            "migrate",
+            "settle",
+            "dwelling"
+          ],
+          "preview": "previews/07.webp"
+        },
+        {
+          "number": 8,
+          "title": "城市里三类醒目的建筑",
+          "words": [
+            "skyscraper",
+            "villa",
+            "mansion"
+          ],
+          "preview": "previews/08.webp"
+        },
+        {
+          "number": 9,
+          "title": "长期住还是短住",
+          "words": [
+            "apartment",
+            "flat",
+            "hostel"
+          ],
+          "preview": "previews/09.webp"
+        },
+        {
+          "number": 10,
+          "title": "山间三种小屋",
+          "words": [
+            "lodge",
+            "hut",
+            "cabin"
+          ],
+          "preview": "previews/10.webp"
+        },
+        {
+          "number": 11,
+          "title": "乡间小屋的四处空间",
+          "words": [
+            "cottage",
+            "porch",
+            "shed",
+            "cellar"
+          ],
+          "preview": "previews/11.webp"
+        },
+        {
+          "number": 12,
+          "title": "雨天去托儿所",
+          "words": [
+            "nursery",
+            "cradle",
+            "shelter"
+          ],
+          "preview": "previews/12.webp"
+        },
+        {
+          "number": 13,
+          "title": "俯看棋盘式街区",
+          "words": [
+            "block",
+            "grid"
+          ],
+          "preview": "previews/13.webp"
+        },
+        {
+          "number": 14,
+          "title": "从接待处走到座位",
+          "words": [
+            "reception",
+            "corridor",
+            "aisle"
+          ],
+          "preview": "previews/14.webp"
+        },
+        {
+          "number": 15,
+          "title": "一级台阶与整座楼梯",
+          "words": [
+            "stair",
+            "staircase",
+            "handrail"
+          ],
+          "preview": "previews/15.webp"
+        },
+        {
+          "number": 16,
+          "title": "去楼上怎么走",
+          "words": [
+            "storey",
+            "elevator",
+            "escalator"
+          ],
+          "preview": "previews/16.webp"
+        },
+        {
+          "number": 17,
+          "title": "柱子如何托住横梁",
+          "words": [
+            "pillar",
+            "column",
+            "beam"
+          ],
+          "preview": "previews/17.webp"
+        },
+        {
+          "number": 18,
+          "title": "拱门、拱顶与天花板",
+          "words": [
+            "arch",
+            "vault",
+            "ceiling"
+          ],
+          "preview": "previews/18.webp"
+        },
+        {
+          "number": 19,
+          "title": "屋檐与屋顶剖面",
+          "words": [
+            "eaves",
+            "chimney",
+            "layer"
+          ],
+          "preview": "previews/19.webp"
+        },
+        {
+          "number": 20,
+          "title": "在酒店大厅办理入住",
+          "words": [
+            "lobby",
+            "bench",
+            "reserve"
+          ],
+          "preview": "previews/20.webp"
+        },
+        {
+          "number": 21,
+          "title": "两种客厅与两种取暖设施",
+          "words": [
+            "parlour",
+            "living room",
+            "fireplace",
+            "radiator"
+          ],
+          "preview": "previews/21.webp"
+        },
+        {
+          "number": 22,
+          "title": "厨房里的储物柜",
+          "words": [
+            "kitchen",
+            "cabinet"
+          ],
+          "preview": "previews/22.webp"
+        },
+        {
+          "number": 23,
+          "title": "阳台和露台有什么区别",
+          "words": [
+            "balcony",
+            "terrace"
+          ],
+          "preview": "previews/23.webp"
+        },
+        {
+          "number": 24,
+          "title": "盥洗室里的三件设施",
+          "words": [
+            "lavatory",
+            "toilet",
+            "bath",
+            "basin"
+          ],
+          "preview": "previews/24.webp"
+        },
+        {
+          "number": 25,
+          "title": "购物中心里的不同店铺",
+          "words": [
+            "mall",
+            "store",
+            "supermarket",
+            "booth"
+          ],
+          "preview": "previews/25.webp"
+        },
+        {
+          "number": 26,
+          "title": "综合建筑群里的场所",
+          "words": [
+            "complex",
+            "casino",
+            "studio"
+          ],
+          "preview": "previews/26.webp"
+        },
+        {
+          "number": 27,
+          "title": "从市中心到城市外围",
+          "words": [
+            "downtown",
+            "urban",
+            "peripheral",
+            "vicinity"
+          ],
+          "preview": "previews/27.webp"
+        },
+        {
+          "number": 28,
+          "title": "宽敞、空处与密封",
+          "words": [
+            "room",
+            "void",
+            "spacious",
+            "airtight"
+          ],
+          "preview": "previews/28.webp"
+        },
+        {
+          "number": 29,
+          "title": "古堡前的广场和开阔草地",
+          "words": [
+            "castle",
+            "plaza",
+            "expanse"
+          ],
+          "preview": "previews/29.webp"
+        },
+        {
+          "number": 30,
+          "title": "木匠和石匠在修什么",
+          "words": [
+            "carpenter",
+            "mason",
+            "tile",
+            "brickwork"
+          ],
+          "preview": "previews/30.webp"
+        },
+        {
+          "number": 31,
+          "title": "工地上的钩、杆和脚手架",
+          "words": [
+            "hook",
+            "lever",
+            "pole",
+            "scaffold"
+          ],
+          "preview": "previews/31.webp"
+        },
+        {
+          "number": 32,
+          "title": "桥梁施工暂缓期间",
+          "words": [
+            "suspension",
+            "infrastructure",
+            "apparatus"
+          ],
+          "preview": "previews/32.webp"
+        },
+        {
+          "number": 33,
+          "title": "河谷里的两项工程",
+          "words": [
+            "viaduct",
+            "span",
+            "dam",
+            "crane"
+          ],
+          "preview": "previews/33.webp"
+        },
+        {
+          "number": 34,
+          "title": "社区维修间",
+          "words": [
+            "malfunction",
+            "maintain",
+            "fix",
+            "mend"
+          ],
+          "preview": "previews/34.webp"
+        },
+        {
+          "number": 35,
+          "title": "木工台上的调整",
+          "words": [
+            "modify",
+            "trim",
+            "saw"
+          ],
+          "preview": "previews/35.webp"
+        },
+        {
+          "number": 36,
+          "title": "门框工位上的工具",
+          "words": [
+            "weld",
+            "screw",
+            "drill",
+            "plumb"
+          ],
+          "preview": "previews/36.webp"
+        },
+        {
+          "number": 37,
+          "title": "布置新公寓",
+          "words": [
+            "assemble",
+            "install",
+            "furnish"
+          ],
+          "preview": "previews/37.webp"
+        },
+        {
+          "number": 38,
+          "title": "图书馆的平面布局",
+          "words": [
+            "design",
+            "layout",
+            "placement"
+          ],
+          "preview": "previews/38.webp"
+        },
+        {
+          "number": 39,
+          "title": "从展馆入口到出口",
+          "words": [
+            "entrance",
+            "entry",
+            "enter",
+            "exit"
+          ],
+          "preview": "previews/39.webp"
+        },
+        {
+          "number": 40,
+          "title": "建筑外面与向外",
+          "words": [
+            "outside",
+            "outward",
+            "exterior",
+            "external"
+          ],
+          "preview": "previews/40.webp"
+        },
+        {
+          "number": 41,
+          "title": "走进建筑内部",
+          "words": [
+            "inner",
+            "interior",
+            "inward",
+            "internal"
+          ],
+          "preview": "previews/41.webp"
+        }
+      ]
     }
   ],
-  "total_cards": 544,
-  "chapter_coverage_items": 1899,
-  "counting_note": "1,899 为各章词头覆盖项相加，跨章不去重。第 1–12 章均已完成。"
+  "total_cards": 585,
+  "chapter_coverage_items": 2033,
+  "counting_note": "2,033 为各章词头覆盖项相加，跨章不去重。第 1–13 章均已完成。"
 }

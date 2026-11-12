@@ -1,0 +1,3366 @@
+[
+  {
+    "id": "01",
+    "page": 1,
+    "title": "沿河步行，找对地点",
+    "kind": "scene",
+    "targets": [
+      "site",
+      "venue",
+      "landmark",
+      "situated"
+    ],
+    "labels": [
+      {
+        "word": "site",
+        "pos": "n.",
+        "zh": "地点；工地"
+      },
+      {
+        "word": "venue",
+        "pos": "n.",
+        "zh": "活动场所"
+      },
+      {
+        "word": "landmark",
+        "pos": "n.",
+        "zh": "地标"
+      },
+      {
+        "word": "situated",
+        "pos": "adj.",
+        "zh": "位于……的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "site",
+        "physical_page": 171,
+        "printed_page": 160
+      },
+      {
+        "word": "venue",
+        "physical_page": 171,
+        "printed_page": 160
+      },
+      {
+        "word": "landmark",
+        "physical_page": 171,
+        "printed_page": 160
+      },
+      {
+        "word": "situated",
+        "physical_page": 171,
+        "printed_page": 160
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 01\n场景词群 | 建筑场所\n沿河步行，找对地点\nsite  n.  地点；工地\nvenue  n.  活动场所\nlandmark  n.  地标\nsituated  adj.  位于……的\n放进句子里\nThe concert venue is situated beside the river.\n音乐会的场地位于河边。\n用法提醒\nvenue 指举办活动的场所。\n雅思应用\n口语 Part 2 | 描述一个办过活动的地方\n轮到你了\n用 be situated 和 landmark 给朋友指路。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The concert venue is situated beside the river.",
+    "example_zh": "音乐会的场地位于河边。",
+    "examples": [
+      {
+        "en": "The concert venue is situated beside the river.",
+        "zh": "音乐会的场地位于河边。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a construction site",
+        "建筑工地"
+      ],
+      [
+        "a concert venue",
+        "音乐会场地"
+      ],
+      [
+        "a local landmark",
+        "当地地标"
+      ],
+      [
+        "be situated beside the river",
+        "位于河边"
+      ]
+    ],
+    "notes": "venue 指举办活动的场所。",
+    "scene": "Single continuous riverside city panorama, rich depth. SITE arrow points to fenced site with foundations and clearly visible crane on far left, not crane alone. VENUE arrow to an inviting stone community concert hall where visitors are entering past a small poster with a musical icon and no text. LANDMARK arrow to an iconic tall clock tower and clock face on the far bank, far from venue. SITUATED label with exact Chinese points to a small riverside library visibly situated immediately beside the river promenade, with a thin line connecting library's base to adjacent riverbank. The site and venue and clock tower have unique exact leader endpoints; no other labels.",
+    "palette": "河水青蓝、工地赭色、浅石音乐厅与砖红钟楼。",
+    "ielts": "口语 Part 2 | 描述一个办过活动的地方",
+    "practice": "用 be situated 和 landmark 给朋友指路。",
+    "answer": "The venue is situated beside the river, just past the clock tower, a familiar local landmark.",
+    "reference_urls": [],
+    "image": "previews/01.webp"
+  },
+  {
+    "id": "02",
+    "page": 2,
+    "title": "architecture",
+    "kind": "word",
+    "targets": [
+      "architecture"
+    ],
+    "labels": [
+      {
+        "word": "architecture",
+        "pos": "n.",
+        "zh": "建筑风格；建筑学"
+      }
+    ],
+    "sources": [
+      {
+        "word": "architecture",
+        "physical_page": 171,
+        "printed_page": 160
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 02\n单词精讲 | 建筑场所\narchitecture\n/'ɑ:.kɪ.tek.tʃə/   n.\n建筑风格；建筑学\n建筑的设计方式，也指研究建筑设计的学科。\n放进句子里\nThe library is known for its timber architecture.\n这座图书馆以木构建筑风格闻名。\n常用搭配\nmodern architecture\ntraditional architecture\nstudy architecture\n用法提醒\narchitecture 也可指建筑设计这门学科。\n雅思应用\n口语 Part 2 | 描述一座有特色的建筑\n轮到你了\n用 modern architecture 说说你喜欢的建筑。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The library is known for its timber architecture.",
+    "example_zh": "这座图书馆以木构建筑风格闻名。",
+    "examples": [
+      {
+        "en": "The library is known for its timber architecture.",
+        "zh": "这座图书馆以木构建筑风格闻名。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "modern architecture",
+        "现代建筑风格"
+      ],
+      [
+        "traditional architecture",
+        "传统建筑风格"
+      ],
+      [
+        "study architecture",
+        "学习建筑学"
+      ]
+    ],
+    "notes": "architecture 也可指建筑设计这门学科。",
+    "scene": "Very large English headword, legible IPA, noun and Chinese definition top left. Main upper scene across the right and flowing below shows a contemporary public library with a distinctive exposed timber arch and skylight, seen from a welcoming plaza and drawn with precisely rendered geometry. In foreground architect's drafting table with a small unlettered design sketch showing the same timber arches, clearly depicts architectural design. No in-art labels, no lettered signs. Compose thoughtfully rather than copying reference palette.",
+    "palette": "浅橡木、铅笔石墨灰、天窗冷蓝和少量暖砖红。",
+    "ielts": "口语 Part 2 | 描述一座有特色的建筑",
+    "practice": "用 modern architecture 说说你喜欢的建筑。",
+    "answer": "I like the library's modern architecture, especially the timber arches and large skylight.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/pronunciation/english/architecture"
+    ],
+    "ipa": "/ˈɑː.kɪ.tek.tʃə/",
+    "definition": "建筑的设计方式，也指研究建筑设计的学科。",
+    "image": "previews/02.webp"
+  },
+  {
+    "id": "03",
+    "page": 3,
+    "title": "工地上正在建什么",
+    "kind": "contrast",
+    "targets": [
+      "erection",
+      "structure",
+      "construct",
+      "obstruct"
+    ],
+    "labels": [
+      {
+        "word": "erection",
+        "pos": "n.",
+        "zh": "架设；建造"
+      },
+      {
+        "word": "structure",
+        "pos": "n.",
+        "zh": "结构"
+      },
+      {
+        "word": "construct",
+        "pos": "v.",
+        "zh": "建造"
+      },
+      {
+        "word": "obstruct",
+        "pos": "v.",
+        "zh": "阻塞；妨碍"
+      }
+    ],
+    "sources": [
+      {
+        "word": "erection",
+        "physical_page": 171,
+        "printed_page": 160
+      },
+      {
+        "word": "structure",
+        "physical_page": 171,
+        "printed_page": 160
+      },
+      {
+        "word": "construct",
+        "physical_page": 171,
+        "printed_page": 160
+      },
+      {
+        "word": "obstruct",
+        "physical_page": 171,
+        "printed_page": 160
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 03\n词义辨析 | 建筑场所\n工地上正在建什么\nerection  n.  架设；建造\nstructure  n.  结构\nconstruct  v.  建造\nobstruct  v.  阻塞；妨碍\n放进句子里\nA fallen branch obstructed the path.\n一根掉落的树枝堵住了小路。\n用法提醒\n架设钢架可说 the erection of a steel frame。\n雅思应用\n写作 Task 1 | 说明地图上的施工变化\n轮到你了\n用 construct 说说你家附近新建的设施。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "A fallen branch obstructed the path.",
+    "example_zh": "一根掉落的树枝堵住了小路。",
+    "examples": [
+      {
+        "en": "A fallen branch obstructed the path.",
+        "zh": "一根掉落的树枝堵住了小路。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "construct a bridge",
+        "修建一座桥"
+      ],
+      [
+        "steel structure",
+        "钢结构"
+      ],
+      [
+        "obstruct the path",
+        "堵住小路"
+      ]
+    ],
+    "notes": "架设钢架可说 the erection of a steel frame。",
+    "scene": "A continuous building-site panorama seen from outside a safe fence. ERECTION leader points to a yellow crane hoisting one vertical structural section into position in the middle ground, with crew distant. STRUCTURE leader to a finished steel frame distinctly separate from that action. CONSTRUCT leader to bricklayers building a low wall in a separate foreground. OBSTRUCT leader points to a fallen branch blocking the width of a small pedestrian path outside the site. All four bilingual POS labels in-scene once, no label elsewhere.",
+    "palette": "工地赭土、起重机琥珀黄和结构冷灰，树枝绿色突出阻路。",
+    "ielts": "写作 Task 1 | 说明地图上的施工变化",
+    "practice": "用 construct 说说你家附近新建的设施。",
+    "answer": "The council plans to construct a footbridge over the canal.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/learner-english/erection"
+    ],
+    "image": "previews/03.webp"
+  },
+  {
+    "id": "04",
+    "page": 4,
+    "title": "一座社区中心怎样落成",
+    "kind": "contrast",
+    "targets": [
+      "establish",
+      "found",
+      "build"
+    ],
+    "labels": [
+      {
+        "word": "establish",
+        "pos": "v.",
+        "zh": "设立；建立"
+      },
+      {
+        "word": "found",
+        "pos": "v.",
+        "zh": "创办"
+      },
+      {
+        "word": "build",
+        "pos": "v.",
+        "zh": "建造"
+      }
+    ],
+    "sources": [
+      {
+        "word": "establish",
+        "physical_page": 171,
+        "printed_page": 160
+      },
+      {
+        "word": "found",
+        "physical_page": 171,
+        "printed_page": 160
+      },
+      {
+        "word": "build",
+        "physical_page": 171,
+        "printed_page": 160
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 04\n词义辨析 | 建筑场所\n一座社区中心怎样落成\nestablish  v.  设立；建立\nfound  v.  创办\nbuild  v.  建造\n放进句子里\nLocal artists founded a community arts group.\n本地艺术家创办了一个社区艺术团体。\n用法提醒\n创办机构可用 found，过去式是 founded。\n雅思应用\n口语 Part 2 | 介绍一个社区组织\n轮到你了\n用 establish 或 found 介绍一个组织的起源。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "Local artists founded a community arts group.",
+    "example_zh": "本地艺术家创办了一个社区艺术团体。",
+    "examples": [
+      {
+        "en": "Local artists founded a community arts group.",
+        "zh": "本地艺术家创办了一个社区艺术团体。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "establish a service",
+        "设立一项服务"
+      ],
+      [
+        "found an organisation",
+        "创办一个组织"
+      ],
+      [
+        "build a centre",
+        "建造一座中心"
+      ]
+    ],
+    "notes": "创办机构可用 found，过去式是 founded。",
+    "scene": "A warm neighborhood plaza with a three-stage narrative shown through joined spaces. ESTABLISH callout points to the community leaders opening a new public help desk, arranging a notice board with only a simple information icon. FOUND callout points to two founders holding up the first blank charter of an arts group at the entrance. BUILD callout points to tradespeople constructing a brick extension in a distinct fenced site. No invented contrast of exclusive meanings, no text on signage. Exact bilingual labels appear once each in scene.",
+    "palette": "砖红施工区、暖木创办场景、深青公共服务台。",
+    "ielts": "口语 Part 2 | 介绍一个社区组织",
+    "practice": "用 establish 或 found 介绍一个组织的起源。",
+    "answer": "Local volunteers founded the group to offer free art classes.",
+    "reference_urls": [],
+    "image": "previews/04.webp"
+  },
+  {
+    "id": "05",
+    "page": 5,
+    "title": "桥面下的结构与材料",
+    "kind": "scene",
+    "targets": [
+      "concrete",
+      "steel",
+      "stability"
+    ],
+    "labels": [
+      {
+        "word": "concrete",
+        "pos": "n.",
+        "zh": "混凝土"
+      },
+      {
+        "word": "steel",
+        "pos": "n.",
+        "zh": "钢"
+      },
+      {
+        "word": "stability",
+        "pos": "n.",
+        "zh": "稳定性"
+      }
+    ],
+    "sources": [
+      {
+        "word": "concrete",
+        "physical_page": 171,
+        "printed_page": 160
+      },
+      {
+        "word": "steel",
+        "physical_page": 171,
+        "printed_page": 160
+      },
+      {
+        "word": "stability",
+        "physical_page": 171,
+        "printed_page": 160
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 05\n场景词群 | 建筑场所\n桥面下的结构与材料\nconcrete  n.  混凝土\nsteel  n.  钢\nstability  n.  稳定性\n放进句子里\nThe bridge has steel beams and concrete piers.\n这座桥有钢梁和混凝土桥墩。\n用法提醒\nstability 指保持稳固的状态。\n雅思应用\n阅读 | 识别桥梁材料与功能的描述\n轮到你了\n用 steel 和 concrete 介绍一座桥。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The bridge has steel beams and concrete piers.",
+    "example_zh": "这座桥有钢梁和混凝土桥墩。",
+    "examples": [
+      {
+        "en": "The bridge has steel beams and concrete piers.",
+        "zh": "这座桥有钢梁和混凝土桥墩。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "steel beams",
+        "钢梁"
+      ],
+      [
+        "reinforced concrete",
+        "钢筋混凝土"
+      ],
+      [
+        "structural stability",
+        "结构稳定性"
+      ]
+    ],
+    "notes": "stability 指保持稳固的状态。",
+    "scene": "Detailed but approachable bridge scene from a riverbank with a small partial foreground cutaway as part of the art. CONCRETE arrow on grainy light grey concrete pier face above water. STEEL arrow on clearly separate dark blue steel girder under the deck, not road surface. STABILITY bracket spans two supports and the level horizontal bridge deck, with very simple alignment visual, no numeric specs. Educational visual example, no labels for other details. Use large in-scene text, no duplicate lists.",
+    "palette": "河蓝与深蓝钢梁、浅灰桥墩，石岸暖赭。",
+    "ielts": "阅读 | 识别桥梁材料与功能的描述",
+    "practice": "用 steel 和 concrete 介绍一座桥。",
+    "answer": "The footbridge has a steel deck resting on concrete supports.",
+    "reference_urls": [],
+    "image": "previews/05.webp"
+  },
+  {
+    "id": "06",
+    "page": 6,
+    "title": "地点与居住地怎么说",
+    "kind": "contrast",
+    "targets": [
+      "locate",
+      "reside",
+      "inhabit"
+    ],
+    "labels": [
+      {
+        "word": "locate",
+        "pos": "v.",
+        "zh": "把……设在"
+      },
+      {
+        "word": "reside",
+        "pos": "v.",
+        "zh": "居住"
+      },
+      {
+        "word": "inhabit",
+        "pos": "v.",
+        "zh": "栖居于"
+      }
+    ],
+    "sources": [
+      {
+        "word": "locate",
+        "physical_page": 172,
+        "printed_page": 161
+      },
+      {
+        "word": "reside",
+        "physical_page": 172,
+        "printed_page": 161
+      },
+      {
+        "word": "inhabit",
+        "physical_page": 172,
+        "printed_page": 161
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 06\n词义辨析 | 建筑场所\n地点与居住地怎么说\nlocate  v.  把……设在\nreside  v.  居住\ninhabit  v.  栖居于\n放进句子里\nSeveral kinds of birds inhabit the wetlands.\n几种鸟类栖居在这片湿地。\n用法提醒\nreside in 后接地点，inhabit 可直接接地点。\n雅思应用\n口语 Part 1 | 介绍你住在哪里\n轮到你了\n用 be located 介绍你家附近的一个地点。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "Several kinds of birds inhabit the wetlands.",
+    "example_zh": "几种鸟类栖居在这片湿地。",
+    "examples": [
+      {
+        "en": "Several kinds of birds inhabit the wetlands.",
+        "zh": "几种鸟类栖居在这片湿地。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "be located near the river",
+        "坐落在河边"
+      ],
+      [
+        "reside in the city",
+        "居住在城里"
+      ],
+      [
+        "inhabit the wetlands",
+        "栖居在湿地"
+      ]
+    ],
+    "notes": "reside in 后接地点，inhabit 可直接接地点。",
+    "scene": "Single river town landscape from a gentle bird's-eye view. LOCATE leader to a clearly tiny new museum under construction beside a marked river bend, exact referent near a simple location pin with no text. RESIDE leader to a resident watering plants outside their home across the square. INHABIT leader to actual ducks among the reeds and water (the habitat). Three labels each once. Bottom teaching row includes grammar difference. No extra letters.",
+    "palette": "河岸芦苇绿、博物馆土砖色和住家暖黄，色块区分三处。",
+    "ielts": "口语 Part 1 | 介绍你住在哪里",
+    "practice": "用 be located 介绍你家附近的一个地点。",
+    "answer": "The library is located near the river.",
+    "reference_urls": [],
+    "image": "previews/06.webp"
+  },
+  {
+    "id": "07",
+    "page": 7,
+    "title": "从搬迁到安家",
+    "kind": "scene",
+    "targets": [
+      "migrate",
+      "settle",
+      "dwelling"
+    ],
+    "labels": [
+      {
+        "word": "migrate",
+        "pos": "v.",
+        "zh": "迁居"
+      },
+      {
+        "word": "settle",
+        "pos": "v.",
+        "zh": "定居"
+      },
+      {
+        "word": "dwelling",
+        "pos": "n.",
+        "zh": "住所"
+      }
+    ],
+    "sources": [
+      {
+        "word": "migrate",
+        "physical_page": 172,
+        "printed_page": 161
+      },
+      {
+        "word": "settle",
+        "physical_page": 172,
+        "printed_page": 161
+      },
+      {
+        "word": "dwelling",
+        "physical_page": 172,
+        "printed_page": 161
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 07\n场景词群 | 建筑场所\n从搬迁到安家\nmigrate  v.  迁居\nsettle  v.  定居\ndwelling  n.  住所\n放进句子里\nAfter moving north, they settled in a small town.\n搬到北方后，他们在一个小镇定居。\n用法提醒\nmigrate 强调迁移，settle 强调安定下来。\n雅思应用\n写作 Task 2 | 讨论人口迁移与安居\n轮到你了\n用 migrate 和 settle 写一句搬家经历。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "After moving north, they settled in a small town.",
+    "example_zh": "搬到北方后，他们在一个小镇定居。",
+    "examples": [
+      {
+        "en": "After moving north, they settled in a small town.",
+        "zh": "搬到北方后，他们在一个小镇定居。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "migrate to a city",
+        "迁居城市"
+      ],
+      [
+        "settle in a small town",
+        "在小镇定居"
+      ],
+      [
+        "a family dwelling",
+        "一处家庭住所"
+      ]
+    ],
+    "notes": "migrate 强调迁移，settle 强调安定下来。",
+    "scene": "One illustrated travel route across a two-town river landscape. Dashed line with directional arrow goes left small town to right larger town, with a van and moving boxes along it; MIGRATE tag points to route, not single vehicle. SETTLE tag points to family planting a shrub and unpacking belongings into a lived-in porch at destination. DWELLING tag points to actual house shape. Clear temporal cues and color contrast. No written place names or more labels.",
+    "palette": "起点淡赭、迁居路线深青、安家处暖灯色。",
+    "ielts": "写作 Task 2 | 讨论人口迁移与安居",
+    "practice": "用 migrate 和 settle 写一句搬家经历。",
+    "answer": "Many families migrated to the city and settled near their workplaces.",
+    "reference_urls": [],
+    "image": "previews/07.webp"
+  },
+  {
+    "id": "08",
+    "page": 8,
+    "title": "城市里三类醒目的建筑",
+    "kind": "scene",
+    "targets": [
+      "skyscraper",
+      "villa",
+      "mansion"
+    ],
+    "labels": [
+      {
+        "word": "skyscraper",
+        "pos": "n.",
+        "zh": "摩天大楼"
+      },
+      {
+        "word": "villa",
+        "pos": "n.",
+        "zh": "别墅"
+      },
+      {
+        "word": "mansion",
+        "pos": "n.",
+        "zh": "豪宅"
+      }
+    ],
+    "sources": [
+      {
+        "word": "skyscraper",
+        "physical_page": 172,
+        "printed_page": 161
+      },
+      {
+        "word": "villa",
+        "physical_page": 172,
+        "printed_page": 161
+      },
+      {
+        "word": "mansion",
+        "physical_page": 172,
+        "printed_page": 161
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 08\n场景词群 | 建筑场所\n城市里三类醒目的建筑\nskyscraper  n.  摩天大楼\nvilla  n.  别墅\nmansion  n.  豪宅\n放进句子里\nA glass skyscraper dominates the skyline.\n一座玻璃摩天大楼在天际线上格外醒目。\n用法提醒\nmansion 强调住宅宏大，villa 常指独立别墅。\n雅思应用\n口语 Part 2 | 描述一座印象深刻的建筑\n轮到你了\n用 skyscraper 描述一处你见过的城市天际线。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "A glass skyscraper dominates the skyline.",
+    "example_zh": "一座玻璃摩天大楼在天际线上格外醒目。",
+    "examples": [
+      {
+        "en": "A glass skyscraper dominates the skyline.",
+        "zh": "一座玻璃摩天大楼在天际线上格外醒目。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a glass skyscraper",
+        "玻璃摩天大楼"
+      ],
+      [
+        "a holiday villa",
+        "度假别墅"
+      ],
+      [
+        "a historic mansion",
+        "历史悠久的豪宅"
+      ]
+    ],
+    "notes": "mansion 强调住宅宏大，villa 常指独立别墅。",
+    "scene": "One city-to-hillside panorama with clear scale and uses. SKYSCRAPER arrow to a very tall, narrow office tower dominating the far urban skyline. VILLA arrow to a comfortable detached two-storey holiday house with a terrace in a sunny hill setting at lower left. MANSION arrow to a separate expansive historic residence with multiple wings, broad entry, stone balustrade and formal garden at lower right, more than twice width of villa. Accurate labels once only; avoid logos and do not imply fixed architectural criteria or hard categories.",
+    "palette": "摩天大楼冷玻璃蓝、山坡别墅浅杏、豪宅暖石与浓绿花园。",
+    "ielts": "口语 Part 2 | 描述一座印象深刻的建筑",
+    "practice": "用 skyscraper 描述一处你见过的城市天际线。",
+    "answer": "A tall glass skyscraper stands out above the old houses.",
+    "reference_urls": [],
+    "image": "previews/08.webp"
+  },
+  {
+    "id": "09",
+    "page": 9,
+    "title": "长期住还是短住",
+    "kind": "contrast",
+    "targets": [
+      "apartment",
+      "flat",
+      "hostel"
+    ],
+    "labels": [
+      {
+        "word": "apartment",
+        "pos": "n.",
+        "zh": "公寓"
+      },
+      {
+        "word": "flat",
+        "pos": "n.",
+        "zh": "公寓，英式常用"
+      },
+      {
+        "word": "hostel",
+        "pos": "n.",
+        "zh": "青年旅舍等廉价住宿"
+      }
+    ],
+    "sources": [
+      {
+        "word": "apartment",
+        "physical_page": 172,
+        "printed_page": 161
+      },
+      {
+        "word": "flat",
+        "physical_page": 172,
+        "printed_page": 161
+      },
+      {
+        "word": "hostel",
+        "physical_page": 172,
+        "printed_page": 161
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 09\n词义辨析 | 建筑场所\n长期住还是短住\napartment  n.  公寓\nflat  n.  公寓，英式常用\nhostel  n.  青年旅舍等廉价住宿\n放进句子里\nShe rented a flat near her office.\n她在办公室附近租了一套公寓。\n用法提醒\nflat 常用于英式英语，apartment 在美式英语中常见。\n雅思应用\n口语 Part 1 | 聊聊你住的地方\n轮到你了\n用 flat 或 apartment 描述你理想的住处。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "She rented a flat near her office.",
+    "example_zh": "她在办公室附近租了一套公寓。",
+    "examples": [
+      {
+        "en": "She rented a flat near her office.",
+        "zh": "她在办公室附近租了一套公寓。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "rent a flat",
+        "租一套公寓"
+      ],
+      [
+        "a studio apartment",
+        "单间公寓"
+      ],
+      [
+        "a youth hostel",
+        "青年旅舍"
+      ]
+    ],
+    "notes": "flat 常用于英式英语，apartment 在美式英语中常见。",
+    "scene": "Two spaces in a clearly drawn street cutaway. APARTMENT and FLAT each have a thin separate line terminating on two sides of the same precise apartment unit boundary, with clear living area and a kitchenette, so learners see the terms can refer to the same type of home. HOSTEL line ends at the nearby shared dorm room with two bunk beds and a backpacking guest checking in beside them. No other readable signs. Large simple labels, no repeated word bank below.",
+    "palette": "住家柔杏与绿植，旅舍布草浅蓝与木床暖黄。",
+    "ielts": "口语 Part 1 | 聊聊你住的地方",
+    "practice": "用 flat 或 apartment 描述你理想的住处。",
+    "answer": "I'd like a small flat with a balcony and plenty of natural light.",
+    "reference_urls": [],
+    "image": "previews/09.webp"
+  },
+  {
+    "id": "10",
+    "page": 10,
+    "title": "山间三种小屋",
+    "kind": "contrast",
+    "targets": [
+      "lodge",
+      "hut",
+      "cabin"
+    ],
+    "labels": [
+      {
+        "word": "lodge",
+        "pos": "n.",
+        "zh": "旅舍；度假屋"
+      },
+      {
+        "word": "hut",
+        "pos": "n.",
+        "zh": "简易小屋"
+      },
+      {
+        "word": "cabin",
+        "pos": "n.",
+        "zh": "小木屋"
+      }
+    ],
+    "sources": [
+      {
+        "word": "lodge",
+        "physical_page": 172,
+        "printed_page": 161
+      },
+      {
+        "word": "hut",
+        "physical_page": 172,
+        "printed_page": 161
+      },
+      {
+        "word": "cabin",
+        "physical_page": 172,
+        "printed_page": 161
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 10\n词义辨析 | 建筑场所\n山间三种小屋\nlodge  n.  旅舍；度假屋\nhut  n.  简易小屋\ncabin  n.  小木屋\n放进句子里\nWe stayed in a log cabin by the lake.\n我们住在湖边的一间小木屋里。\n用法提醒\nhut 多指简易小屋，log cabin 强调原木搭建。\n雅思应用\n口语 Part 2 | 描述一次旅行住过的地方\n轮到你了\n用 lodge 或 cabin 描述一次住宿。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "We stayed in a log cabin by the lake.",
+    "example_zh": "我们住在湖边的一间小木屋里。",
+    "examples": [
+      {
+        "en": "We stayed in a log cabin by the lake.",
+        "zh": "我们住在湖边的一间小木屋里。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a mountain lodge",
+        "山间旅舍"
+      ],
+      [
+        "a wooden hut",
+        "木制简易小屋"
+      ],
+      [
+        "a log cabin",
+        "原木小屋"
+      ]
+    ],
+    "notes": "hut 多指简易小屋，log cabin 强调原木搭建。",
+    "scene": "One large illustrated forest valley with three sharply distinguishable small building examples. A timber mountain lodge with a covered porch and a couple of travelers with bags at the open door, making guest accommodation clear. A tiny unadorned single-room mountain hut of planks and corrugated roof with tools outside. A distinct small log cabin with stacked horizontal round logs, warm window and single chimney. Short clean leaders point to each exact building. No external signs or decorative extra text.",
+    "palette": "松林深绿、木屋琥珀和山间冷蓝远景。",
+    "ielts": "口语 Part 2 | 描述一次旅行住过的地方",
+    "practice": "用 lodge 或 cabin 描述一次住宿。",
+    "answer": "We stayed at a mountain lodge with a view of the valley.",
+    "reference_urls": [],
+    "image": "previews/10.webp"
+  },
+  {
+    "id": "11",
+    "page": 11,
+    "title": "乡间小屋的四处空间",
+    "kind": "scene",
+    "targets": [
+      "cottage",
+      "porch",
+      "shed",
+      "cellar"
+    ],
+    "labels": [
+      {
+        "word": "cottage",
+        "pos": "n.",
+        "zh": "乡间小屋"
+      },
+      {
+        "word": "porch",
+        "pos": "n.",
+        "zh": "门廊"
+      },
+      {
+        "word": "shed",
+        "pos": "n.",
+        "zh": "棚屋"
+      },
+      {
+        "word": "cellar",
+        "pos": "n.",
+        "zh": "地窖"
+      }
+    ],
+    "sources": [
+      {
+        "word": "cottage",
+        "physical_page": 173,
+        "printed_page": 162
+      },
+      {
+        "word": "porch",
+        "physical_page": 173,
+        "printed_page": 162
+      },
+      {
+        "word": "shed",
+        "physical_page": 173,
+        "printed_page": 162
+      },
+      {
+        "word": "cellar",
+        "physical_page": 173,
+        "printed_page": 162
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 11\n场景词群 | 建筑场所\n乡间小屋的四处空间\ncottage  n.  乡间小屋\nporch  n.  门廊\nshed  n.  棚屋\ncellar  n.  地窖\n放进句子里\nThe cottage has a small porch and a cellar.\n这座乡间小屋有一个小门廊和一个地窖。\n用法提醒\nporch 在门外。cellar 在地面以下。\n雅思应用\n口语 Part 2 · 描述住过的地方\n轮到你了\n用 porch 和 shed 介绍一座小屋。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The cottage has a small porch and a cellar.",
+    "example_zh": "这座乡间小屋有一个小门廊和一个地窖。",
+    "examples": [
+      {
+        "en": "The cottage has a small porch and a cellar.",
+        "zh": "这座乡间小屋有一个小门廊和一个地窖。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a stone cottage",
+        "一座石砌小屋"
+      ],
+      [
+        "a covered porch",
+        "有顶的门廊"
+      ],
+      [
+        "a garden shed",
+        "花园棚屋"
+      ],
+      [
+        "a wine cellar",
+        "酒窖"
+      ]
+    ],
+    "notes": "porch 在门外。cellar 在地面以下。",
+    "scene": "乡间花园的建筑剖面插画。中间主角是完整可辨的石砌两层乡间小屋，cottage 引线指向主屋的二楼石墙。前门外有独立的小木顶棚及石台阶，porch 引线直达门外可遮雨的门廊地板。右后方一座明显独立的矮小工具棚，开门可见园艺工具和自行车，shed 引线直达它的木墙。草地及主屋地板以下做一个清晰挖切，让 cellar 引线指向地下存放菜筐和储物罐的石室。四条引线不交叉，旁边不要额外可读门牌。",
+    "palette": "浅灰石墙、橄榄绿花园、暖木棚屋；地下剖面的褐土和室内琥珀光帮助读出地窖在地表以下。",
+    "ielts": "口语 Part 2 · 描述住过的地方",
+    "practice": "用 porch 和 shed 介绍一座小屋。",
+    "answer": "The cottage has a covered porch and a shed for bikes.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/porch"
+    ],
+    "image": "previews/11.webp"
+  },
+  {
+    "id": "12",
+    "page": 12,
+    "title": "雨天去托儿所",
+    "kind": "scene",
+    "targets": [
+      "nursery",
+      "cradle",
+      "shelter"
+    ],
+    "labels": [
+      {
+        "word": "nursery",
+        "pos": "n.",
+        "zh": "托儿所"
+      },
+      {
+        "word": "cradle",
+        "pos": "n.",
+        "zh": "摇篮"
+      },
+      {
+        "word": "shelter",
+        "pos": "n.",
+        "zh": "遮蔽处"
+      }
+    ],
+    "sources": [
+      {
+        "word": "nursery",
+        "physical_page": 173,
+        "printed_page": 162
+      },
+      {
+        "word": "cradle",
+        "physical_page": 173,
+        "printed_page": 162
+      },
+      {
+        "word": "shelter",
+        "physical_page": 173,
+        "printed_page": 162
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 12\n场景词群 | 建筑场所\n雨天去托儿所\nnursery  n.  托儿所\ncradle  n.  摇篮\nshelter  n.  遮蔽处\n放进句子里\nParents waited under a shelter outside the nursery.\n家长在托儿所外的雨棚下等候。\n用法提醒\ncradle 指摇篮。shelter 也可指避雨处。\n雅思应用\n口语 Part 2 · 描述一处社区设施\n轮到你了\n用 shelter 说说你在哪里避过雨。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "Parents waited under a shelter outside the nursery.",
+    "example_zh": "家长在托儿所外的雨棚下等候。",
+    "examples": [
+      {
+        "en": "Parents waited under a shelter outside the nursery.",
+        "zh": "家长在托儿所外的雨棚下等候。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a local nursery",
+        "社区托儿所"
+      ],
+      [
+        "a wooden cradle",
+        "木制摇篮"
+      ],
+      [
+        "take shelter from the rain",
+        "找地方避雨"
+      ]
+    ],
+    "notes": "cradle 指摇篮。shelter 也可指避雨处。",
+    "scene": "秋雨中的社区托儿所，从门外看向橙暖室内和临街院子。nursery 引线指向托儿所整座低层建筑入口外墙，大片窗户可见积木、儿童书架和照看人员。cradle 引线指向临窗安静区域内一张小型弧形底座空木摇篮，旁边玩具架。室外左边独立雨棚内有两个成年人避雨，滴水和被打湿的庭院形成对照，shelter 引线明确指向雨棚的覆盖空间。三处空间一眼可分。门、书架和墙上不留可读标牌。",
+    "palette": "窗外雨青、石板灰，室内金橙暖光突出托儿所和摇篮，浅绿雨棚与门厅分离。",
+    "ielts": "口语 Part 2 · 描述一处社区设施",
+    "practice": "用 shelter 说说你在哪里避过雨。",
+    "answer": "We took shelter from the rain in a bus shelter.",
+    "reference_urls": [],
+    "image": "previews/12.webp"
+  },
+  {
+    "id": "13",
+    "page": 13,
+    "title": "俯看棋盘式街区",
+    "kind": "scene",
+    "targets": [
+      "block",
+      "grid"
+    ],
+    "labels": [
+      {
+        "word": "block",
+        "pos": "n.",
+        "zh": "街区"
+      },
+      {
+        "word": "grid",
+        "pos": "n.",
+        "zh": "网格"
+      }
+    ],
+    "sources": [
+      {
+        "word": "block",
+        "physical_page": 173,
+        "printed_page": 162
+      },
+      {
+        "word": "grid",
+        "physical_page": 173,
+        "printed_page": 162
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 13\n场景词群 | 建筑场所\n俯看棋盘式街区\nblock  n.  街区\ngrid  n.  网格\n放进句子里\nThe streets form a grid of rectangular blocks.\n这些街道呈网格状，划分出一个个矩形街区。\n用法提醒\ntwo blocks 可表示两个街区的距离。\n雅思应用\n听力 Part 2 · 识别地图上的路线\n轮到你了\n用 block 给出一句去图书馆的指路。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The streets form a grid of rectangular blocks.",
+    "example_zh": "这些街道呈网格状，划分出一个个矩形街区。",
+    "examples": [
+      {
+        "en": "The streets form a grid of rectangular blocks.",
+        "zh": "这些街道呈网格状，划分出一个个矩形街区。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a city block",
+        "一个街区"
+      ],
+      [
+        "two blocks away",
+        "相隔两个街区"
+      ],
+      [
+        "a street grid",
+        "街道网格"
+      ]
+    ],
+    "notes": "two blocks 可表示两个街区的距离。",
+    "scene": "一张占满上方画幅的斜俯瞰城市鸟瞰水彩地图，笔直街道相互垂直，组成清楚的矩形街道网格。网格中央靠近读者的一个完整街区内含一簇砖屋和树木，四边均被道路围住，用淡赭色半透明底色清晰突出这个区域；block 的短引线端点落在该区域内部。其余街区保持较淡，grid 的引线指向远处一组相互垂直的完整道路交叉区域，并用淡蓝描出数条东西向和南北向道路，形成连续的网格；不要让 grid 指向单独房子。不画文字、路名或额外指示符。保留纸上地图的空间与透视感。",
+    "palette": "砖红标一个街区，钴蓝突出多条相互垂直的道路，树和公园柔绿帮助认出城市地图。",
+    "ielts": "听力 Part 2 · 识别地图上的路线",
+    "practice": "用 block 给出一句去图书馆的指路。",
+    "answer": "Walk two blocks and turn left at the library.",
+    "reference_urls": [],
+    "image": "previews/13.webp"
+  },
+  {
+    "id": "14",
+    "page": 14,
+    "title": "从接待处走到座位",
+    "kind": "contrast",
+    "targets": [
+      "reception",
+      "corridor",
+      "aisle"
+    ],
+    "labels": [
+      {
+        "word": "reception",
+        "pos": "n.",
+        "zh": "接待处"
+      },
+      {
+        "word": "corridor",
+        "pos": "n.",
+        "zh": "走廊"
+      },
+      {
+        "word": "aisle",
+        "pos": "n.",
+        "zh": "座位间的过道"
+      }
+    ],
+    "sources": [
+      {
+        "word": "reception",
+        "physical_page": 174,
+        "printed_page": 163
+      },
+      {
+        "word": "corridor",
+        "physical_page": 173,
+        "printed_page": 162
+      },
+      {
+        "word": "aisle",
+        "physical_page": 173,
+        "printed_page": 162
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 14\n词义辨析 | 建筑场所\n从接待处走到座位\nreception  n.  接待处\ncorridor  n.  走廊\naisle  n.  座位间的过道\n放进句子里\nAsk at reception, then walk down the corridor.\n先到接待处询问，再沿走廊往前走。\n用法提醒\naisle 可指成排座位之间的过道。\n雅思应用\n听力 Part 2 · 从接待处找到剧场\n轮到你了\n用 aisle 和 corridor 各描述一处。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "Ask at reception, then walk down the corridor.",
+    "example_zh": "先到接待处询问，再沿走廊往前走。",
+    "examples": [
+      {
+        "en": "Ask at reception, then walk down the corridor.",
+        "zh": "先到接待处询问，再沿走廊往前走。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "ask at reception",
+        "在接待处问询"
+      ],
+      [
+        "walk down the corridor",
+        "沿走廊往前走"
+      ],
+      [
+        "an aisle seat",
+        "靠过道的座位"
+      ]
+    ],
+    "notes": "aisle 可指成排座位之间的过道。",
+    "scene": "单幅连贯的社区剧院斜角建筑剖透图，从左前方入口到右后方观众区。左前方柜台内有接待员给观众指路，reception 引线直指接待台。中心灰青色封闭走廊两侧有墙和门，走廊尽头通向开着的剧场门，corridor 引线落到走廊地面中心。右后是红色软座构成的两片整齐座位区，正中有一条分开座位的浅金过道，aisle 引线准确指向过道中央的地毯空位，不能指向座位扶手。柜台和门上无可读字。",
+    "palette": "接待区用暖木、连接走廊用灰青，酒红座椅衬出中间的浅金过道。",
+    "ielts": "听力 Part 2 · 从接待处找到剧场",
+    "practice": "用 aisle 和 corridor 各描述一处。",
+    "answer": "The corridor leads to the theatre. An aisle separates the two blocks of seats.",
+    "reference_urls": [],
+    "image": "previews/14.webp"
+  },
+  {
+    "id": "15",
+    "page": 15,
+    "title": "一级台阶与整座楼梯",
+    "kind": "contrast",
+    "targets": [
+      "stair",
+      "staircase",
+      "handrail"
+    ],
+    "labels": [
+      {
+        "word": "stair",
+        "pos": "n.",
+        "zh": "一级台阶"
+      },
+      {
+        "word": "staircase",
+        "pos": "n.",
+        "zh": "整座楼梯"
+      },
+      {
+        "word": "handrail",
+        "pos": "n.",
+        "zh": "扶手"
+      }
+    ],
+    "sources": [
+      {
+        "word": "stair",
+        "physical_page": 173,
+        "printed_page": 162
+      },
+      {
+        "word": "staircase",
+        "physical_page": 173,
+        "printed_page": 162
+      },
+      {
+        "word": "handrail",
+        "physical_page": 174,
+        "printed_page": 163
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 15\n词义辨析 | 建筑场所\n一级台阶与整座楼梯\nstair  n.  一级台阶\nstaircase  n.  整座楼梯\nhandrail  n.  扶手\n放进句子里\nShe held the handrail as she went up the stairs.\n她上楼时扶着扶手。\n用法提醒\nstair 可指一级。stairs 常指整段楼梯。\n雅思应用\n听力 Part 2 · 听懂楼内动线\n轮到你了\n用 staircase 说说你会怎样去楼上。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "She held the handrail as she went up the stairs.",
+    "example_zh": "她上楼时扶着扶手。",
+    "examples": [
+      {
+        "en": "She held the handrail as she went up the stairs.",
+        "zh": "她上楼时扶着扶手。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the bottom stair",
+        "最低一级台阶"
+      ],
+      [
+        "a wide staircase",
+        "宽楼梯"
+      ],
+      [
+        "hold the handrail",
+        "握住扶手"
+      ]
+    ],
+    "notes": "stair 可指一级。stairs 常指整段楼梯。",
+    "scene": "展现明亮博物馆楼梯的斜角单幅水彩，正中一座有七到九级清晰浅石踏面的固定楼梯从地面通往上层平台。一位参观者上楼时轻握深木扶手。stair 标签端点只指向近侧其中一级可辨踏面，踏面淡金高亮。staircase 标签连接到沿整座楼梯侧边的长括线，从底级延伸到最高级及平台边，不和踏面引线重合。handrail 的端点落在扶手横向木质表面，明确是手能握住的顶轨，不指栏杆竖杆。三条线不交叉，墙上没有展品标号。",
+    "palette": "浅色石阶与暖金单阶、栗木扶手分开，背景留柔蓝灰阴影。",
+    "ielts": "听力 Part 2 · 听懂楼内动线",
+    "practice": "用 staircase 说说你会怎样去楼上。",
+    "answer": "Take the staircase to the next floor.",
+    "reference_urls": [],
+    "image": "previews/15.webp"
+  },
+  {
+    "id": "16",
+    "page": 16,
+    "title": "去楼上怎么走",
+    "kind": "scene",
+    "targets": [
+      "storey",
+      "elevator",
+      "escalator"
+    ],
+    "labels": [
+      {
+        "word": "storey",
+        "pos": "n.",
+        "zh": "楼层"
+      },
+      {
+        "word": "elevator",
+        "pos": "n.",
+        "zh": "电梯（美）"
+      },
+      {
+        "word": "escalator",
+        "pos": "n.",
+        "zh": "自动扶梯"
+      }
+    ],
+    "sources": [
+      {
+        "word": "storey",
+        "physical_page": 173,
+        "printed_page": 162
+      },
+      {
+        "word": "elevator",
+        "physical_page": 173,
+        "printed_page": 162
+      },
+      {
+        "word": "escalator",
+        "physical_page": 174,
+        "printed_page": 163
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 16\n场景词群 | 建筑场所\n去楼上怎么走\nstorey  n.  楼层\nelevator  n.  电梯（美）\nescalator  n.  自动扶梯\n放进句子里\nWe took the elevator to the upper floor.\n我们坐电梯去了楼上。\n用法提醒\nelevator 在英式英语中常说 lift。\n雅思应用\n口语 Part 2 · 描述一座公共建筑\n轮到你了\n用 two-storey 和 escalator 介绍这座图书馆。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "We took the elevator to the upper floor.",
+    "example_zh": "我们坐电梯去了楼上。",
+    "examples": [
+      {
+        "en": "We took the elevator to the upper floor.",
+        "zh": "我们坐电梯去了楼上。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a two-storey building",
+        "一栋两层楼的建筑"
+      ],
+      [
+        "take the elevator",
+        "乘电梯"
+      ],
+      [
+        "take the escalator",
+        "乘自动扶梯"
+      ]
+    ],
+    "notes": "elevator 在英式英语中常说 lift。",
+    "scene": "一座现代图书馆中庭的连续场景。上下一共两层，楼板分隔明显。storey 用侧边短括线恰好标出一个完整楼层的高度，下端是这一层的地板，上端是上一块天花板。地面右侧银灰色电梯双开门微开，elevator 引线端点指门和轿厢，不指自动扶梯。左侧靠近中庭有一段长斜坡上的自动扶梯，能见到连续机械踏步和黑色橡胶扶带，escalator 引线端点指其踏步带。成年人为比例参考，栏边安全，墙面无字、无编号。",
+    "palette": "蓝玻璃和银灰电梯形成清凉空间，扶梯橡胶深色和层间蜜色木梁说明分隔。",
+    "ielts": "口语 Part 2 · 描述一座公共建筑",
+    "practice": "用 two-storey 和 escalator 介绍这座图书馆。",
+    "answer": "The two-storey library has an escalator near the entrance.",
+    "reference_urls": [],
+    "image": "previews/16.webp"
+  },
+  {
+    "id": "17",
+    "page": 17,
+    "title": "柱子如何托住横梁",
+    "kind": "contrast",
+    "targets": [
+      "pillar",
+      "column",
+      "beam"
+    ],
+    "labels": [
+      {
+        "word": "pillar",
+        "pos": "n.",
+        "zh": "支柱"
+      },
+      {
+        "word": "column",
+        "pos": "n.",
+        "zh": "柱"
+      },
+      {
+        "word": "beam",
+        "pos": "n.",
+        "zh": "梁"
+      }
+    ],
+    "sources": [
+      {
+        "word": "pillar",
+        "physical_page": 174,
+        "printed_page": 163
+      },
+      {
+        "word": "column",
+        "physical_page": 174,
+        "printed_page": 163
+      },
+      {
+        "word": "beam",
+        "physical_page": 174,
+        "printed_page": 163
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 17\n词义辨析 | 建筑场所\n柱子如何托住横梁\npillar  n.  支柱\ncolumn  n.  柱\nbeam  n.  梁\n放进句子里\nTwo pillars support the wooden beam.\n两根柱子支撑着这根木梁。\n用法提醒\npillar 和 column 都可指柱。beam 也可指光束。\n雅思应用\n口语 Part 2 · 描述建筑的结构\n轮到你了\n用 support 和 beam 描述图中结构。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "Two pillars support the wooden beam.",
+    "example_zh": "两根柱子支撑着这根木梁。",
+    "examples": [
+      {
+        "en": "Two pillars support the wooden beam.",
+        "zh": "两根柱子支撑着这根木梁。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a stone pillar",
+        "一根石柱"
+      ],
+      [
+        "marble columns",
+        "大理石柱"
+      ],
+      [
+        "a wooden beam",
+        "一根木梁"
+      ],
+      [
+        "a beam of light",
+        "一束光"
+      ]
+    ],
+    "notes": "pillar 和 column 都可指柱。beam 也可指光束。",
+    "scene": "一个建筑博物馆的连贯内景。左半是正面敞开的木屋结构展，清晰可辨的方形竖直石支柱支承屋架，pillar 引线指向石支柱的竖直柱身；beam 引线指向两根立柱之间真正水平跨过门洞的厚木横梁，不指门框或房顶板。右半是相邻古典门廊展，一根圆形带浅槽的大理石立柱独立可辨，column 引线指柱身中段。展区间用宽敞石地面相连。方形和圆形只是例子，不用任何文字表示二者只能是某种形状，不加荷载箭头。",
+    "palette": "石柱为暖灰、横梁为蜂蜜木色、大理石柱为冷白，让水平和竖直的关系一眼可见。",
+    "ielts": "口语 Part 2 · 描述建筑的结构",
+    "practice": "用 support 和 beam 描述图中结构。",
+    "answer": "The stone pillars support a heavy wooden beam.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/pillar",
+      "https://dictionary.cambridge.org/dictionary/english/column"
+    ],
+    "image": "previews/17.webp"
+  },
+  {
+    "id": "18",
+    "page": 18,
+    "title": "拱门、拱顶与天花板",
+    "kind": "contrast",
+    "targets": [
+      "arch",
+      "vault",
+      "ceiling"
+    ],
+    "labels": [
+      {
+        "word": "arch",
+        "pos": "n.",
+        "zh": "拱门"
+      },
+      {
+        "word": "vault",
+        "pos": "n.",
+        "zh": "拱顶"
+      },
+      {
+        "word": "ceiling",
+        "pos": "n.",
+        "zh": "天花板"
+      }
+    ],
+    "sources": [
+      {
+        "word": "arch",
+        "physical_page": 174,
+        "printed_page": 163
+      },
+      {
+        "word": "vault",
+        "physical_page": 174,
+        "printed_page": 163
+      },
+      {
+        "word": "ceiling",
+        "physical_page": 174,
+        "printed_page": 163
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 18\n词义辨析 | 建筑场所\n拱门、拱顶与天花板\narch  n.  拱门\nvault  n.  拱顶\nceiling  n.  天花板\n放进句子里\nA brick arch leads into a hall with a vaulted ceiling.\n一道砖拱门通向带拱顶的大厅。\n用法提醒\narch 指单个拱。vault 可指覆盖空间的拱顶。\n雅思应用\n口语 Part 2 · 描述参观过的古建筑\n轮到你了\n用 arch 和 ceiling 描述这个大厅。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "A brick arch leads into a hall with a vaulted ceiling.",
+    "example_zh": "一道砖拱门通向带拱顶的大厅。",
+    "examples": [
+      {
+        "en": "A brick arch leads into a hall with a vaulted ceiling.",
+        "zh": "一道砖拱门通向带拱顶的大厅。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a brick arch",
+        "一道砖拱门"
+      ],
+      [
+        "a barrel vault",
+        "筒形拱顶"
+      ],
+      [
+        "a vaulted ceiling",
+        "拱形天花板"
+      ]
+    ],
+    "notes": "arch 指单个拱。vault 可指覆盖空间的拱顶。",
+    "scene": "一座历史建筑展馆的连贯剖透画。前景左边是厚石墙中单个清晰的半圆砖石门洞框，arch 的引线端点落在门洞拱形砖边上。门洞后方是带连续半圆弯顶的纵深回廊，呈现筒形拱顶的立体表面，vault 的引线落在回廊中段头顶那片弧面，不与 arch 重合。右边经一扇打开的直角门可见相邻房间，其中是完全平直、浅奶白色的内侧天花板，ceiling 的引线向上指平面中央。三处端点用清楚短线，不能指外屋顶或墙面。无额外文字。",
+    "palette": "拱门赤陶砖、纵深拱顶深金和侧室奶白顶面帮助区分前缘、拱顶表面与平顶。",
+    "ielts": "口语 Part 2 · 描述参观过的古建筑",
+    "practice": "用 arch 和 ceiling 描述这个大厅。",
+    "answer": "I walked through the arch and looked up at the curved ceiling.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/vault"
+    ],
+    "image": "previews/18.webp"
+  },
+  {
+    "id": "19",
+    "page": 19,
+    "title": "屋檐与屋顶剖面",
+    "kind": "scene",
+    "targets": [
+      "eaves",
+      "chimney",
+      "layer"
+    ],
+    "labels": [
+      {
+        "word": "eaves",
+        "pos": "n.",
+        "zh": "屋檐"
+      },
+      {
+        "word": "chimney",
+        "pos": "n.",
+        "zh": "烟囱"
+      },
+      {
+        "word": "layer",
+        "pos": "n.",
+        "zh": "一层"
+      }
+    ],
+    "sources": [
+      {
+        "word": "eaves",
+        "physical_page": 174,
+        "printed_page": 163
+      },
+      {
+        "word": "chimney",
+        "physical_page": 174,
+        "printed_page": 163
+      },
+      {
+        "word": "layer",
+        "physical_page": 173,
+        "printed_page": 162
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 19\n场景词群 | 建筑场所\n屋檐与屋顶剖面\neaves  n.  屋檐\nchimney  n.  烟囱\nlayer  n.  一层\n放进句子里\nA layer of insulation sits beneath the roof tiles.\n屋瓦下有一层保温材料。\n用法提醒\neaves 常以复数形式出现。\n雅思应用\n口语 Part 2 · 描述一座房子的外观\n轮到你了\n用 eaves 或 chimney 描述屋顶的一处。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "A layer of insulation sits beneath the roof tiles.",
+    "example_zh": "屋瓦下有一层保温材料。",
+    "examples": [
+      {
+        "en": "A layer of insulation sits beneath the roof tiles.",
+        "zh": "屋瓦下有一层保温材料。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "under the eaves",
+        "在屋檐下"
+      ],
+      [
+        "a brick chimney",
+        "砖烟囱"
+      ],
+      [
+        "a layer of insulation",
+        "一层保温材料"
+      ]
+    ],
+    "notes": "eaves 常以复数形式出现。",
+    "scene": "一栋住家的斜俯视外景，重点放在完整坡屋顶、右侧从瓦面伸出的砖烟囱和左侧伸过外墙的屋檐。chimney 引线直接触到烟囱砖身；eaves 引线准确指到低处从外墙伸出的屋面边沿，不指屋脊或排水槽。在屋顶中央用干净的小比例建筑剖切露出瓦片之下的一层明显浅黄色保温材料，layer 引线指向该连续的一层，不画复杂构造图。场景是词义示意，不需要施工标注，建筑和后院保持同一视角。",
+    "palette": "瓦片石蓝、砖烟囱赭红、切面保温层浅金，与冷灰天空清楚分离。",
+    "ielts": "口语 Part 2 · 描述一座房子的外观",
+    "practice": "用 eaves 或 chimney 描述屋顶的一处。",
+    "answer": "A brick chimney rises above the roof.",
+    "reference_urls": [],
+    "image": "previews/19.webp"
+  },
+  {
+    "id": "20",
+    "page": 20,
+    "title": "在酒店大厅办理入住",
+    "kind": "scene",
+    "targets": [
+      "lobby",
+      "bench",
+      "reserve"
+    ],
+    "labels": [
+      {
+        "word": "lobby",
+        "pos": "n.",
+        "zh": "大厅"
+      },
+      {
+        "word": "bench",
+        "pos": "n.",
+        "zh": "长凳"
+      },
+      {
+        "word": "reserve",
+        "pos": "v.",
+        "zh": "预订"
+      }
+    ],
+    "sources": [
+      {
+        "word": "lobby",
+        "physical_page": 175,
+        "printed_page": 164
+      },
+      {
+        "word": "bench",
+        "physical_page": 175,
+        "printed_page": 164
+      },
+      {
+        "word": "reserve",
+        "physical_page": 175,
+        "printed_page": 164
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 20\n场景词群 | 建筑场所\n在酒店大厅办理入住\nreserve  v.  预订\nbench  n.  长凳\nlobby  n.  大厅\n放进句子里\nI reserved a room near the hotel lobby.\n我预订了一间靠近酒店大厅的客房。\n用法提醒\nreserve a room 也可以说 book a room。\n雅思应用\n听力 Part 1 · 听懂酒店预订信息\n轮到你了\n用 reserve 说你要预订哪种客房。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "I reserved a room near the hotel lobby.",
+    "example_zh": "我预订了一间靠近酒店大厅的客房。",
+    "examples": [
+      {
+        "en": "I reserved a room near the hotel lobby.",
+        "zh": "我预订了一间靠近酒店大厅的客房。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "in the lobby",
+        "在大厅里"
+      ],
+      [
+        "a wooden bench",
+        "一条木长凳"
+      ],
+      [
+        "reserve a room",
+        "预订客房"
+      ]
+    ],
+    "notes": "reserve a room 也可以说 book a room。",
+    "scene": "带玻璃门和挑高窗的酒店入口。lobby 线指向前门通向接待台的宽阔大厅空间。bench 线指向一条靠窗的长木凳，细节清楚。reserve 线指向接待员正在登记未来入住的动作，接待员在台上翻开小小的图标日历与客人核对日期，另一手指着一个标记日期，客人手边有钥匙未取，不画可读数字或酒店标牌。",
+    "palette": "通透蓝绿窗光与琥珀灯光连接大厅，长凳用木赭色，登记台用深墨蓝。",
+    "ielts": "听力 Part 1 · 听懂酒店预订信息",
+    "practice": "用 reserve 说你要预订哪种客房。",
+    "answer": "I would like to reserve a double room for two nights.",
+    "reference_urls": [],
+    "image": "previews/20.webp"
+  },
+  {
+    "id": "21",
+    "page": 21,
+    "title": "两种客厅与两种取暖设施",
+    "kind": "contrast",
+    "targets": [
+      "parlour",
+      "living room",
+      "fireplace",
+      "radiator"
+    ],
+    "labels": [
+      {
+        "word": "parlour",
+        "pos": "n.",
+        "zh": "旧式会客室"
+      },
+      {
+        "word": "living room",
+        "pos": "n.",
+        "zh": "起居室"
+      },
+      {
+        "word": "fireplace",
+        "pos": "n.",
+        "zh": "壁炉"
+      },
+      {
+        "word": "radiator",
+        "pos": "n.",
+        "zh": "暖气片"
+      }
+    ],
+    "sources": [
+      {
+        "word": "parlour",
+        "physical_page": 175,
+        "printed_page": 164
+      },
+      {
+        "word": "living room",
+        "physical_page": 175,
+        "printed_page": 164
+      },
+      {
+        "word": "fireplace",
+        "physical_page": 175,
+        "printed_page": 164
+      },
+      {
+        "word": "radiator",
+        "physical_page": 175,
+        "printed_page": 164
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 21\n词义辨析 | 建筑场所\n两种客厅与两种取暖设施\nliving room  n.  起居室\nfireplace  n.  壁炉\nparlour  n.  旧式会客室\nradiator  n.  暖气片\n放进句子里\nWe sat by the fireplace in the old parlour.\n我们坐在旧式会客室的壁炉旁。\n用法提醒\nparlour 常见于旧式住宅语境。\n雅思应用\n口语 Part 2 · 描述一间印象深刻的客厅。\n轮到你了\n用 living room 和一种取暖设施描述你家。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "We sat by the fireplace in the old parlour.",
+    "example_zh": "我们坐在旧式会客室的壁炉旁。",
+    "examples": [
+      {
+        "en": "We sat by the fireplace in the old parlour.",
+        "zh": "我们坐在旧式会客室的壁炉旁。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a front parlour",
+        "前部会客室"
+      ],
+      [
+        "in the living room",
+        "在起居室里"
+      ],
+      [
+        "by the fireplace",
+        "在壁炉旁"
+      ],
+      [
+        "a wall-mounted radiator",
+        "壁挂暖气片"
+      ]
+    ],
+    "notes": "parlour 常见于旧式住宅语境。",
+    "scene": "同一栋改造老宅的两个相连空间。左边是带窗帘、老式客椅与茶桌的会客室，parlour 线指整组会客家具，fireplace 线单独指壁内燃着小火的砖砌炉膛。右边门框后是日常起居室，有阅读者坐在现代沙发上，living room 线指这片日常空间，radiator 线只落在其窗下白色带竖管的暖气片。用门框自然衔接，两室各自辨认。",
+    "palette": "老式会客室用暗红、壁炉橙与胡桃木，日常起居室用蓝绿与奶白，突出暖气片轮廓。",
+    "ielts": "口语 Part 2 · 描述一间印象深刻的客厅",
+    "practice": "用 living room 和一种取暖设施描述你家。",
+    "answer": "There is a radiator under the window in my living room.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/parlour"
+    ],
+    "image": "previews/21.webp"
+  },
+  {
+    "id": "22",
+    "page": 22,
+    "title": "厨房里的储物柜",
+    "kind": "scene",
+    "targets": [
+      "kitchen",
+      "cabinet"
+    ],
+    "labels": [
+      {
+        "word": "kitchen",
+        "pos": "n.",
+        "zh": "厨房"
+      },
+      {
+        "word": "cabinet",
+        "pos": "n.",
+        "zh": "储物柜"
+      }
+    ],
+    "sources": [
+      {
+        "word": "kitchen",
+        "physical_page": 175,
+        "printed_page": 164
+      },
+      {
+        "word": "cabinet",
+        "physical_page": 175,
+        "printed_page": 164
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 22\n场景词群 | 建筑场所\n厨房里的储物柜\ncabinet  n.  储物柜\nkitchen  n.  厨房\n放进句子里\nWe keep bowls in the kitchen cabinet.\n我们把碗放在厨房储物柜里。\n用法提醒\na kitchen cabinet 指厨房储物柜。\n雅思应用\n口语 Part 1 · 描述家里的厨房\n轮到你了\n用 cabinet 描述你把餐具放在哪里。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "We keep bowls in the kitchen cabinet.",
+    "example_zh": "我们把碗放在厨房储物柜里。",
+    "examples": [
+      {
+        "en": "We keep bowls in the kitchen cabinet.",
+        "zh": "我们把碗放在厨房储物柜里。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "in the kitchen",
+        "在厨房里"
+      ],
+      [
+        "a kitchen cabinet",
+        "厨房储物柜"
+      ]
+    ],
+    "notes": "a kitchen cabinet 指厨房储物柜。",
+    "scene": "温暖的租屋厨房整体透视，有窗、灶台、水槽和工作台，kitchen 的长线落在整体空间中心的工作台附近。前景居住者打开浅木色上层储物柜，里面有摆放的碗与调味罐，cabinet 短线指向打开柜门的木框，明显指物件而非整个房间。让厨房整体和柜体都大而可辨。",
+    "palette": "窗光青白、浅橡木柜门、陶红砖和灰绿工作台，画出房间与物件的层次。",
+    "ielts": "口语 Part 1 · 描述家里的厨房",
+    "practice": "用 cabinet 描述你把餐具放在哪里。",
+    "answer": "I keep my plates in a cabinet next to the sink.",
+    "reference_urls": [],
+    "image": "previews/22.webp"
+  },
+  {
+    "id": "23",
+    "page": 23,
+    "title": "阳台和露台有什么区别",
+    "kind": "contrast",
+    "targets": [
+      "balcony",
+      "terrace"
+    ],
+    "labels": [
+      {
+        "word": "balcony",
+        "pos": "n.",
+        "zh": "阳台"
+      },
+      {
+        "word": "terrace",
+        "pos": "n.",
+        "zh": "露天平台"
+      }
+    ],
+    "sources": [
+      {
+        "word": "balcony",
+        "physical_page": 175,
+        "printed_page": 164
+      },
+      {
+        "word": "terrace",
+        "physical_page": 175,
+        "printed_page": 164
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 23\n词义辨析 | 建筑场所\n阳台和露台有什么区别\nbalcony  n.  阳台\nterrace  n.  露天平台\n放进句子里\nWe had breakfast on the terrace.\n我们在露天平台上吃了早餐。\n用法提醒\nbalcony 常突出外墙。terrace 可指宽阔的露天平台。\n雅思应用\n口语 Part 2 · 描述旅途中喜欢的住宿\n轮到你了\n用 balcony 或 terrace 描述一处户外空间。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "We had breakfast on the terrace.",
+    "example_zh": "我们在露天平台上吃了早餐。",
+    "examples": [
+      {
+        "en": "We had breakfast on the terrace.",
+        "zh": "我们在露天平台上吃了早餐。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a private balcony",
+        "私人阳台"
+      ],
+      [
+        "an outdoor terrace",
+        "露天平台"
+      ]
+    ],
+    "notes": "balcony 常突出外墙。terrace 可指宽阔的露天平台。",
+    "scene": "临海的两层旅馆，视角斜从花园上看。balcony 的细引线准确指到上层窗门外突出于墙的狭小有栏杆平台，细画边缘与投影。terrace 的细引线明确指向地面略抬高、宽敞开阔的石铺露天区域，有桌椅和客人可坐，画出其地面与花园台阶相连。两个空间一高一低，同一建筑提供尺度。",
+    "palette": "海蓝与白墙形成明快对比，阳台用铁灰栏杆，露台用暖沙色铺地。",
+    "ielts": "口语 Part 2 · 描述旅途中喜欢的住宿",
+    "practice": "用 balcony 或 terrace 描述一处户外空间。",
+    "answer": "Our room had a small balcony overlooking the sea.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/balcony",
+      "https://dictionary.cambridge.org/us/dictionary/english/terrace"
+    ],
+    "image": "previews/23.webp"
+  },
+  {
+    "id": "24",
+    "page": 24,
+    "title": "盥洗室里的三件设施",
+    "kind": "contrast",
+    "targets": [
+      "lavatory",
+      "toilet",
+      "bath",
+      "basin"
+    ],
+    "labels": [
+      {
+        "word": "lavatory",
+        "pos": "n.",
+        "zh": "盥洗室"
+      },
+      {
+        "word": "toilet",
+        "pos": "n.",
+        "zh": "抽水马桶"
+      },
+      {
+        "word": "bath",
+        "pos": "n.",
+        "zh": "浴缸（英式）"
+      },
+      {
+        "word": "basin",
+        "pos": "n.",
+        "zh": "洗脸盆"
+      }
+    ],
+    "sources": [
+      {
+        "word": "lavatory",
+        "physical_page": 175,
+        "printed_page": 164
+      },
+      {
+        "word": "toilet",
+        "physical_page": 175,
+        "printed_page": 164
+      },
+      {
+        "word": "bath",
+        "physical_page": 175,
+        "printed_page": 164
+      },
+      {
+        "word": "basin",
+        "physical_page": 175,
+        "printed_page": 164
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 24\n词义辨析 | 建筑场所\n盥洗室里的三件设施\nlavatory  n.  盥洗室\nbasin  n.  洗脸盆\nbath  n.  浴缸（英式）\ntoilet  n.  抽水马桶\n放进句子里\nThe basin is beside the bath.\n洗脸盆在浴缸旁边。\n用法提醒\ntoilet 在英式英语中也可指厕所。\n雅思应用\n听力 Part 2 · 识别室内设施的位置\n轮到你了\n用 beside 描述两件盥洗室设施的位置。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The basin is beside the bath.",
+    "example_zh": "洗脸盆在浴缸旁边。",
+    "examples": [
+      {
+        "en": "The basin is beside the bath.",
+        "zh": "洗脸盆在浴缸旁边。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "use the lavatory",
+        "使用盥洗室"
+      ],
+      [
+        "flush the toilet",
+        "冲马桶"
+      ],
+      [
+        "a bath and shower",
+        "浴缸和淋浴"
+      ],
+      [
+        "a wash basin",
+        "洗脸盆"
+      ]
+    ],
+    "notes": "toilet 在英式英语中也可指厕所。",
+    "scene": "旅馆客房盥洗室的斜侧剖视。lavatory 用轻柔的括线指门框以内的整个盥洗室空间。最左方独立的白瓷抽水马桶有水箱与盖，toilet 线指向马桶瓷身。中间靠后是长浴缸，bath 线落在浴缸边。右前方是装在台面上带水龙头的圆形洗脸盆，basin 线指盆缘。四个引线不交叉。",
+    "palette": "浅青瓷砖和海盐白表现清洁空间，木台与暖铜把各处白瓷边缘分开。",
+    "ielts": "听力 Part 2 · 识别室内设施的位置",
+    "practice": "用 beside 描述两件盥洗室设施的位置。",
+    "answer": "The toilet is beside the bath.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/lavatory"
+    ],
+    "image": "previews/24.webp"
+  },
+  {
+    "id": "25",
+    "page": 25,
+    "title": "购物中心里的不同店铺",
+    "kind": "scene",
+    "targets": [
+      "mall",
+      "store",
+      "supermarket",
+      "booth"
+    ],
+    "labels": [
+      {
+        "word": "mall",
+        "pos": "n.",
+        "zh": "购物中心"
+      },
+      {
+        "word": "store",
+        "pos": "n.",
+        "zh": "商店"
+      },
+      {
+        "word": "supermarket",
+        "pos": "n.",
+        "zh": "超市"
+      },
+      {
+        "word": "booth",
+        "pos": "n.",
+        "zh": "售货摊"
+      }
+    ],
+    "sources": [
+      {
+        "word": "mall",
+        "physical_page": 176,
+        "printed_page": 165
+      },
+      {
+        "word": "store",
+        "physical_page": 176,
+        "printed_page": 165
+      },
+      {
+        "word": "supermarket",
+        "physical_page": 176,
+        "printed_page": 165
+      },
+      {
+        "word": "booth",
+        "physical_page": 176,
+        "printed_page": 165
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 25\n场景词群 | 建筑场所\n购物中心里的不同店铺\nmall  n.  购物中心\nstore  n.  商店\nsupermarket  n.  超市\nbooth  n.  售货摊\n放进句子里\nThere is a supermarket inside the mall.\n购物中心里有一家超市。\n用法提醒\nmall 指整个购物中心，booth 可指一个小摊位。\n雅思应用\n听力 Part 2 · 商场平面图定位\n轮到你了\n用 near 说明图中售货摊的位置。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "There is a supermarket inside the mall.",
+    "example_zh": "购物中心里有一家超市。",
+    "examples": [
+      {
+        "en": "There is a supermarket inside the mall.",
+        "zh": "购物中心里有一家超市。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a shopping mall",
+        "购物中心"
+      ],
+      [
+        "a clothing store",
+        "服装店"
+      ],
+      [
+        "a local supermarket",
+        "本地超市"
+      ],
+      [
+        "a sales booth",
+        "售货摊"
+      ]
+    ],
+    "notes": "mall 指整个购物中心，booth 可指一个小摊位。",
+    "scene": "一座明亮室内购物中心全景，有玻璃天顶、二楼回廊和前景步道。mall 括线标整个商场公共空间。左侧玻璃门内有挂衣架和收银台的独立服装店，store 线指向该店的入口。右侧开阔入口内有推车和成排食品货架，supermarket 线落在入口内。中庭前景摆着独立的小型摊位，有手工艺品和一位摊主，booth 短线指向柜台。没有商标、路牌或其他字。",
+    "palette": "钢蓝顶棚和暖米地板统一空间，服装店赭红、超市叶绿、售货摊明黄方便辨认。",
+    "ielts": "听力 Part 2 · 商场平面图定位",
+    "practice": "用 near 说明图中售货摊的位置。",
+    "answer": "The booth is near the supermarket.",
+    "reference_urls": [],
+    "image": "previews/25.webp"
+  },
+  {
+    "id": "26",
+    "page": 26,
+    "title": "综合建筑群里的场所",
+    "kind": "scene",
+    "targets": [
+      "complex",
+      "casino",
+      "studio"
+    ],
+    "labels": [
+      {
+        "word": "complex",
+        "pos": "n.",
+        "zh": "综合建筑群"
+      },
+      {
+        "word": "casino",
+        "pos": "n.",
+        "zh": "赌场"
+      },
+      {
+        "word": "studio",
+        "pos": "n.",
+        "zh": "工作室"
+      }
+    ],
+    "sources": [
+      {
+        "word": "complex",
+        "physical_page": 176,
+        "printed_page": 165
+      },
+      {
+        "word": "casino",
+        "physical_page": 176,
+        "printed_page": 165
+      },
+      {
+        "word": "studio",
+        "physical_page": 176,
+        "printed_page": 165
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 26\n场景词群 | 建筑场所\n综合建筑群里的场所\ncomplex  n.  综合建筑群\ncasino  n.  赌场\nstudio  n.  工作室\n放进句子里\nThe arts complex includes a studio for local painters.\n这个艺术综合建筑群设有一间供本地画家使用的工作室。\n用法提醒\ncomplex 作名词可指一组相连或相关的建筑。\n雅思应用\n口语 Part 2 · 描述一处文化设施\n轮到你了\n用 complex 和 studio 描述一处建筑群。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The arts complex includes a studio for local painters.",
+    "example_zh": "这个艺术综合建筑群设有一间供本地画家使用的工作室。",
+    "examples": [
+      {
+        "en": "The arts complex includes a studio for local painters.",
+        "zh": "这个艺术综合建筑群设有一间供本地画家使用的工作室。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an arts complex",
+        "艺术综合建筑群"
+      ],
+      [
+        "a casino entrance",
+        "赌场入口"
+      ],
+      [
+        "an art studio",
+        "美术工作室"
+      ]
+    ],
+    "notes": "complex 作名词可指一组相连或相关的建筑。",
+    "scene": "俯视一组通过步道和连廊相连的城市休闲建筑。complex 的宽括线涵盖整组建筑和中心庭院。左翼切开一小片室内，露出空置轮盘桌和大厅，casino 短线指该翼的室内空间，不画投注。右翼窗内画架、画布、调色桌和正在作画的成人清晰可辨，studio 短线指整个画室。呈现空间功能，无店名、广告或其他标签。",
+    "palette": "蓝灰连廊、砂色立面和绿庭院统一建筑群，赌场为暖栗色，画室有清亮的天窗色。",
+    "ielts": "口语 Part 2 · 描述一处文化设施",
+    "practice": "用 complex 和 studio 描述一处建筑群。",
+    "answer": "The new complex has an art studio and a small gallery.",
+    "reference_urls": [],
+    "image": "previews/26.webp"
+  },
+  {
+    "id": "27",
+    "page": 27,
+    "title": "从市中心到城市外围",
+    "kind": "contrast",
+    "targets": [
+      "downtown",
+      "urban",
+      "peripheral",
+      "vicinity"
+    ],
+    "labels": [
+      {
+        "word": "downtown",
+        "pos": "n.",
+        "zh": "市中心"
+      },
+      {
+        "word": "urban",
+        "pos": "adj.",
+        "zh": "城市的"
+      },
+      {
+        "word": "peripheral",
+        "pos": "adj.",
+        "zh": "外围的"
+      },
+      {
+        "word": "vicinity",
+        "pos": "n.",
+        "zh": "附近区域"
+      }
+    ],
+    "sources": [
+      {
+        "word": "downtown",
+        "physical_page": 176,
+        "printed_page": 165
+      },
+      {
+        "word": "urban",
+        "physical_page": 176,
+        "printed_page": 165
+      },
+      {
+        "word": "peripheral",
+        "physical_page": 176,
+        "printed_page": 165
+      },
+      {
+        "word": "vicinity",
+        "physical_page": 176,
+        "printed_page": 165
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 27\n词义辨析 | 建筑场所\n从市中心到城市外围\nurban  adj.  城市的\ndowntown  n.  市中心\nvicinity  n.  附近区域\nperipheral  adj.  外围的\n放进句子里\nThere are several cafés in the vicinity of the station.\n车站附近有几家咖啡馆。\n用法提醒\nin the vicinity of 表示在某地附近。\n雅思应用\n写作 Task 1 · 说明地图上的位置\n轮到你了\n用 peripheral areas 描述城市外围的变化。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "There are several cafés in the vicinity of the station.",
+    "example_zh": "车站附近有几家咖啡馆。",
+    "examples": [
+      {
+        "en": "There are several cafés in the vicinity of the station.",
+        "zh": "车站附近有几家咖啡馆。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the city’s downtown",
+        "市中心"
+      ],
+      [
+        "an urban area",
+        "城区"
+      ],
+      [
+        "peripheral areas",
+        "外围地区"
+      ],
+      [
+        "in the vicinity of",
+        "在……附近"
+      ]
+    ],
+    "notes": "in the vicinity of 表示在某地附近。",
+    "scene": "一幅连贯的斜俯视城市全景。downtown 线落在中心密集高楼与街道；urban 用一条细括线覆盖城市建成区范围，注意不覆盖右远方农田。peripheral 线指城市边缘较稀疏的低层建筑。市中心旁一座醒目带轨道的火车站，vicinity 线明确指围绕车站数条街的小虚线圈，线不落在建筑本身。无地名、图例或方位文字。",
+    "palette": "市中心用钢蓝与砖红，建成区外缘过渡到低饱和浅褐和野地绿，车站周边圈用橘黄。",
+    "ielts": "写作 Task 1 · 说明地图上的位置",
+    "practice": "用 peripheral areas 描述城市外围的变化。",
+    "answer": "New housing was built in the peripheral areas of the city.",
+    "reference_urls": [],
+    "image": "previews/27.webp"
+  },
+  {
+    "id": "28",
+    "page": 28,
+    "title": "宽敞、空处与密封",
+    "kind": "contrast",
+    "targets": [
+      "room",
+      "void",
+      "spacious",
+      "airtight"
+    ],
+    "labels": [
+      {
+        "word": "room",
+        "pos": "n.",
+        "zh": "房间"
+      },
+      {
+        "word": "void",
+        "pos": "n.",
+        "zh": "空处"
+      },
+      {
+        "word": "spacious",
+        "pos": "adj.",
+        "zh": "宽敞的"
+      },
+      {
+        "word": "airtight",
+        "pos": "adj.",
+        "zh": "不透气的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "room",
+        "physical_page": 176,
+        "printed_page": 165
+      },
+      {
+        "word": "void",
+        "physical_page": 176,
+        "printed_page": 165
+      },
+      {
+        "word": "spacious",
+        "physical_page": 176,
+        "printed_page": 165
+      },
+      {
+        "word": "airtight",
+        "physical_page": 176,
+        "printed_page": 165
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 28\n词义辨析 | 建筑场所\n宽敞、空处与密封\nairtight  adj.  不透气的\nroom  n.  房间\nvoid  n.  空处\nspacious  adj.  宽敞的\n放进句子里\nThe living area feels spacious even with a large sofa.\n即使摆着一张大沙发，起居区仍显得宽敞。\n用法提醒\nroom 还可表示可用空间，如 room for a table。\n雅思应用\n口语 Part 2 · 描述一套理想的住房\n轮到你了\n用 spacious 描述你喜欢的房间。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The living area feels spacious even with a large sofa.",
+    "example_zh": "即使摆着一张大沙发，起居区仍显得宽敞。",
+    "examples": [
+      {
+        "en": "The living area feels spacious even with a large sofa.",
+        "zh": "即使摆着一张大沙发，起居区仍显得宽敞。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a quiet room",
+        "安静的房间"
+      ],
+      [
+        "a void above the lobby",
+        "大厅上方的挑空"
+      ],
+      [
+        "a spacious living area",
+        "宽敞的起居区"
+      ],
+      [
+        "an airtight seal",
+        "气密封口"
+      ]
+    ],
+    "notes": "room 还可表示可用空间，如 room for a table。",
+    "scene": "现代住宅样板间的建筑剖视场景。room 标签指一个四面墙可辨的小房间整体。spacious 用双向短箭头标一旁宽大客厅内沙发和窗之间的宽阔活动空间。void 指上下两层间没有楼板的挑空中庭，线落在上层栏杆内的空体积。airtight 仅修饰密封的关窗接缝，画小放大剖面展示橡胶条填满窗框和玻璃间隙，蓝色风线到密封边即停。别把整个房屋标成密封。",
+    "palette": "木地板暖褐、挑空蓝灰、宽敞客厅用明亮米白，密封剖面用清晰深蓝与橡胶黑。",
+    "ielts": "口语 Part 2 · 描述一套理想的住房",
+    "practice": "用 spacious 描述你喜欢的房间。",
+    "answer": "I would like a spacious room with plenty of natural light.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/void",
+      "https://dictionary.cambridge.org/dictionary/english/airtight"
+    ],
+    "image": "previews/28.webp"
+  },
+  {
+    "id": "29",
+    "page": 29,
+    "title": "古堡前的广场和开阔草地",
+    "kind": "scene",
+    "targets": [
+      "castle",
+      "plaza",
+      "expanse"
+    ],
+    "labels": [
+      {
+        "word": "castle",
+        "pos": "n.",
+        "zh": "城堡"
+      },
+      {
+        "word": "plaza",
+        "pos": "n.",
+        "zh": "广场"
+      },
+      {
+        "word": "expanse",
+        "pos": "n.",
+        "zh": "一大片开阔区域"
+      }
+    ],
+    "sources": [
+      {
+        "word": "castle",
+        "physical_page": 177,
+        "printed_page": 166
+      },
+      {
+        "word": "plaza",
+        "physical_page": 177,
+        "printed_page": 166
+      },
+      {
+        "word": "expanse",
+        "physical_page": 177,
+        "printed_page": 166
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 29\n场景词群 | 建筑场所\n古堡前的广场和开阔草地\ncastle  n.  城堡\nexpanse  n.  一大片开阔区域\nplaza  n.  广场\n放进句子里\nBeyond the plaza was a broad expanse of grass.\n广场外是一大片开阔的草地。\n用法提醒\na vast expanse of 可描述大片开阔地带。\n雅思应用\n口语 Part 2 · 描述参观过的历史建筑\n轮到你了\n用 castle 和 plaza 说说游客会看到什么。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "Beyond the plaza was a broad expanse of grass.",
+    "example_zh": "广场外是一大片开阔的草地。",
+    "examples": [
+      {
+        "en": "Beyond the plaza was a broad expanse of grass.",
+        "zh": "广场外是一大片开阔的草地。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a medieval castle",
+        "中世纪城堡"
+      ],
+      [
+        "a public plaza",
+        "公共广场"
+      ],
+      [
+        "a vast expanse of grass",
+        "大片开阔的草地"
+      ]
+    ],
+    "notes": "a vast expanse of 可描述大片开阔地带。",
+    "scene": "从一处古堡所在山坡看向山下城镇，三处同在一幅风景。castle 线落在古堡垛口与石塔，plaza 线落在城堡入口前有喷泉、人群与石铺地的广场，expanse 用一条细括线覆盖广场外连向远方的开阔大片草地，草地视野清晰延伸到地平线。三者用不同层次表达，别把 expanse 线落到一个局部物体。",
+    "palette": "古堡石灰、广场土红与大片草地鲜绿对比，远景浅蓝加大空间感。",
+    "ielts": "口语 Part 2 · 描述参观过的历史建筑",
+    "practice": "用 castle 和 plaza 说说游客会看到什么。",
+    "answer": "The plaza in front of the castle has a small fountain.",
+    "reference_urls": [],
+    "image": "previews/29.webp"
+  },
+  {
+    "id": "30",
+    "page": 30,
+    "title": "木匠和石匠在修什么",
+    "kind": "contrast",
+    "targets": [
+      "carpenter",
+      "mason",
+      "tile",
+      "brickwork"
+    ],
+    "labels": [
+      {
+        "word": "carpenter",
+        "pos": "n.",
+        "zh": "木匠"
+      },
+      {
+        "word": "mason",
+        "pos": "n.",
+        "zh": "石匠"
+      },
+      {
+        "word": "tile",
+        "pos": "n.",
+        "zh": "瓷砖"
+      },
+      {
+        "word": "brickwork",
+        "pos": "n.",
+        "zh": "砖砌结构"
+      }
+    ],
+    "sources": [
+      {
+        "word": "carpenter",
+        "physical_page": 177,
+        "printed_page": 166
+      },
+      {
+        "word": "mason",
+        "physical_page": 177,
+        "printed_page": 166
+      },
+      {
+        "word": "tile",
+        "physical_page": 177,
+        "printed_page": 166
+      },
+      {
+        "word": "brickwork",
+        "physical_page": 177,
+        "printed_page": 166
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 30\n词义辨析 | 建筑场所\n木匠和石匠在修什么\nbrickwork  n.  砖砌结构\ncarpenter  n.  木匠\nmason  n.  石匠\ntile  n.  瓷砖\n放进句子里\nThe carpenter repaired the window frame.\n木匠修好了窗框。\n用法提醒\nbrickwork 常指整片砖砌结构。\n雅思应用\n口语 Part 2 · 描述一次建筑修缮\n轮到你了\n用 carpenter 或 mason 说说图中一项工作。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The carpenter repaired the window frame.",
+    "example_zh": "木匠修好了窗框。",
+    "examples": [
+      {
+        "en": "The carpenter repaired the window frame.",
+        "zh": "木匠修好了窗框。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "hire a carpenter",
+        "雇用木匠"
+      ],
+      [
+        "a skilled mason",
+        "熟练的石匠"
+      ],
+      [
+        "a ceramic tile",
+        "一块瓷砖"
+      ],
+      [
+        "repair the brickwork",
+        "修复砖砌结构"
+      ]
+    ],
+    "notes": "brickwork 常指整片砖砌结构。",
+    "scene": "一个公共图书馆旧建筑修复现场。左侧木匠在工作台上修木制窗框，carpenter 线指此人。右侧石匠在给浅灰石块接缝抹砂浆，mason 线指此人。正中墙上是明确露出的整面红色砖砌结构，brickwork 的线落在数排红砖间而非单块石头。前景整齐地摆着几块方形釉面瓷砖，tile 线指单块蓝绿瓷砖，质地与砖墙区分。两位工匠佩戴护目与工作服。",
+    "palette": "木框蜂蜜色、石头灰、砖墙暖红、釉砖青绿，自然分开工种材料。",
+    "ielts": "口语 Part 2 · 描述一次建筑修缮",
+    "practice": "用 carpenter 或 mason 说说图中一项工作。",
+    "answer": "The mason is repairing the stone wall.",
+    "reference_urls": [],
+    "image": "previews/30.webp"
+  },
+  {
+    "id": "31",
+    "page": 31,
+    "title": "工地上的钩、杆和脚手架",
+    "kind": "scene",
+    "targets": [
+      "hook",
+      "lever",
+      "pole",
+      "scaffold"
+    ],
+    "labels": [
+      {
+        "word": "hook",
+        "pos": "n.",
+        "zh": "钩子"
+      },
+      {
+        "word": "lever",
+        "pos": "n.",
+        "zh": "操纵杆"
+      },
+      {
+        "word": "pole",
+        "pos": "n.",
+        "zh": "长杆"
+      },
+      {
+        "word": "scaffold",
+        "pos": "n.",
+        "zh": "脚手架"
+      }
+    ],
+    "sources": [
+      {
+        "word": "hook",
+        "physical_page": 177,
+        "printed_page": 166
+      },
+      {
+        "word": "lever",
+        "physical_page": 177,
+        "printed_page": 166
+      },
+      {
+        "word": "pole",
+        "physical_page": 177,
+        "printed_page": 166
+      },
+      {
+        "word": "scaffold",
+        "physical_page": 177,
+        "printed_page": 166
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 31\n场景词群 | 建筑场所\n工地上的钩、杆和脚手架\nscaffold  n.  脚手架\nhook  n.  钩子\nlever  n.  操纵杆\npole  n.  长杆\n放进句子里\nThe workers put up a scaffold beside the building.\n工人们在建筑物旁搭起了脚手架。\n用法提醒\npole 指长杆。lever 可指控制机器的杆。\n雅思应用\n听力 Part 2 · 识别施工场地和设备\n轮到你了\n用 hook 和 scaffold 描述图中两件东西。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The workers put up a scaffold beside the building.",
+    "example_zh": "工人们在建筑物旁搭起了脚手架。",
+    "examples": [
+      {
+        "en": "The workers put up a scaffold beside the building.",
+        "zh": "工人们在建筑物旁搭起了脚手架。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a crane hook",
+        "吊机吊钩"
+      ],
+      [
+        "a control lever",
+        "操纵杆"
+      ],
+      [
+        "a metal pole",
+        "金属长杆"
+      ],
+      [
+        "put up a scaffold",
+        "搭脚手架"
+      ]
+    ],
+    "notes": "pole 指长杆。lever 可指控制机器的杆。",
+    "scene": "修复石建筑的工地。上方吊机的粗弯钩悬空未挂载，hook 线准确指钩尖。左下安全区的操作台露出一根带圆头的控制杆，lever 线指杆手柄。右前方地面架上斜放一根独立金属长杆，pole 指杆身。建筑右侧是完整搭起的脚手架，包含立管横杆和工作平台，scaffold 指整组结构。线条不要交叉，地面工人穿安全帽，环境不画任何可读标语。",
+    "palette": "机械黄与钩体黑突出吊机，架体用钢蓝，石墙暖灰，把单杆与成组架体分开。",
+    "ielts": "听力 Part 2 · 识别施工场地和设备",
+    "practice": "用 hook 和 scaffold 描述图中两件东西。",
+    "answer": "The hook is to the left of the scaffold.",
+    "reference_urls": [],
+    "image": "previews/31.webp"
+  },
+  {
+    "id": "32",
+    "page": 32,
+    "title": "桥梁施工暂缓期间",
+    "kind": "scene",
+    "targets": [
+      "suspension",
+      "infrastructure",
+      "apparatus"
+    ],
+    "labels": [
+      {
+        "word": "suspension",
+        "pos": "n.",
+        "zh": "暂停"
+      },
+      {
+        "word": "infrastructure",
+        "pos": "n.",
+        "zh": "基础设施"
+      },
+      {
+        "word": "apparatus",
+        "pos": "n.",
+        "zh": "器械装置"
+      }
+    ],
+    "sources": [
+      {
+        "word": "suspension",
+        "physical_page": 177,
+        "printed_page": 166
+      },
+      {
+        "word": "infrastructure",
+        "physical_page": 177,
+        "printed_page": 166
+      },
+      {
+        "word": "apparatus",
+        "physical_page": 177,
+        "printed_page": 166
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 32\n场景词群 | 建筑场所\n桥梁施工暂缓期间\ninfrastructure  n.  基础设施\napparatus  n.  器械装置\nsuspension  n.  暂停\n放进句子里\nThe suspension of work gave engineers time to inspect the bridge.\n施工暂停让工程师有时间检查桥梁。\n用法提醒\nsuspension 在这里表示暂时停止。\n雅思应用\n写作 Task 2 · 讨论基础设施的维护\n轮到你了\n用 infrastructure 写一句建议，说明城市应维护什么。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The suspension of work gave engineers time to inspect the bridge.",
+    "example_zh": "施工暂停让工程师有时间检查桥梁。",
+    "examples": [
+      {
+        "en": "The suspension of work gave engineers time to inspect the bridge.",
+        "zh": "施工暂停让工程师有时间检查桥梁。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a temporary suspension of work",
+        "暂时停工"
+      ],
+      [
+        "invest in infrastructure",
+        "投资基础设施"
+      ],
+      [
+        "a piece of apparatus",
+        "一件器械装置"
+      ]
+    ],
+    "notes": "suspension 在这里表示暂时停止。",
+    "scene": "宽阔的城市桥梁修缮现场，已有可见的道路、桥墩、桥面和路灯，infrastructure 宽括线指桥与路的整体连接。桥头工地静止，一台施工机械盖好罩布，临时路障上有一个圆形暂停符号（两条短竖线，无其他文字），suspension 的线指暂停符号和暂停施工的区域。前景工程师使用一架三脚架上的测量装置勘察桥体，apparatus 线指测量设备本身。画面语境是暂停施工和检测，绝不要画成悬索桥或把暂停指向吊索。",
+    "palette": "河面青蓝和混凝土灰展现桥路关系，橙色路障提示暂停，测量装置用深蓝。",
+    "ielts": "写作 Task 2 · 讨论基础设施的维护",
+    "practice": "用 infrastructure 写一句建议，说明城市应维护什么。",
+    "answer": "Cities should maintain key infrastructure such as roads and bridges.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/suspension",
+      "https://dictionary.cambridge.org/dictionary/english/apparatus"
+    ],
+    "image": "previews/32.webp"
+  },
+  {
+    "id": "33",
+    "page": 33,
+    "title": "河谷里的两项工程",
+    "kind": "scene",
+    "targets": [
+      "viaduct",
+      "span",
+      "dam",
+      "crane"
+    ],
+    "labels": [
+      {
+        "word": "viaduct",
+        "pos": "n.",
+        "zh": "高架桥"
+      },
+      {
+        "word": "span",
+        "pos": "n.",
+        "zh": "跨度"
+      },
+      {
+        "word": "dam",
+        "pos": "n.",
+        "zh": "水坝"
+      },
+      {
+        "word": "crane",
+        "pos": "n.",
+        "zh": "起重机"
+      }
+    ],
+    "sources": [
+      {
+        "word": "viaduct",
+        "physical_page": 178,
+        "printed_page": 167
+      },
+      {
+        "word": "span",
+        "physical_page": 178,
+        "printed_page": 167
+      },
+      {
+        "word": "dam",
+        "physical_page": 178,
+        "printed_page": 167
+      },
+      {
+        "word": "crane",
+        "physical_page": 178,
+        "printed_page": 167
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 33\n场景词群 | 建筑场所\n河谷里的两项工程\nviaduct n. 高架桥\nspan n. 跨度\ndam n. 水坝\ncrane n. 起重机\n放进句子里\nThe railway crosses the valley on a viaduct.\n铁路经由一座高架桥穿过山谷。\n用法提醒\nspan 在这里指相邻桥墩之间的跨度。\n雅思应用\n写作 Task 1 · 描述地图中的新建工程\n轮到你了\n用 viaduct 或 dam 写一句地图变化。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The railway crosses the valley on a viaduct.",
+    "example_zh": "铁路经由一座高架桥穿过山谷。",
+    "examples": [
+      {
+        "en": "The railway crosses the valley on a viaduct.",
+        "zh": "铁路经由一座高架桥穿过山谷。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a railway viaduct",
+        "铁路高架桥"
+      ],
+      [
+        "the longest span",
+        "最长的一跨"
+      ],
+      [
+        "build a dam",
+        "建造水坝"
+      ],
+      [
+        "operate a crane",
+        "操作起重机"
+      ]
+    ],
+    "notes": "span 在这里指相邻桥墩之间的跨度。",
+    "scene": "水彩俯瞰一条连贯河谷。左下近景是一座多跨石拱铁路高架桥，桥上有短列车，viaduct 的引线落到高架桥桥面。只选择桥面近景的一跨，两个细端点落在相邻两个桥墩中心线位置，用一条水平双箭头画出它们的间距，span 的引线连接到这条双箭头的中点，不把整桥标为跨度。右上远处是一条独立横断河道的厚灰水坝，坝后高水位水库与坝下低水位河道分明，dam 的短线只落到坝体。在坝边右岸施工平台，黄色移动起重机吊着一块混凝土构件，crane 的线落到黄色长吊臂。桥与坝由河流在画面中相连，但明显是两个结构。无图例或印字。",
+    "palette": "河谷松绿、深浅两种水蓝、旧石拱的暖灰、坝体冷灰和吊车工程黄。",
+    "ielts": "写作 Task 1 · 描述地图中的新建工程",
+    "practice": "用 viaduct 或 dam 写一句地图变化。",
+    "answer": "A new dam was built upstream of the railway viaduct.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/viaduct"
+    ],
+    "image": "previews/33.webp"
+  },
+  {
+    "id": "34",
+    "page": 34,
+    "title": "社区维修间",
+    "kind": "contrast",
+    "targets": [
+      "malfunction",
+      "maintain",
+      "fix",
+      "mend"
+    ],
+    "labels": [
+      {
+        "word": "malfunction",
+        "pos": "v.",
+        "zh": "发生故障"
+      },
+      {
+        "word": "maintain",
+        "pos": "v.",
+        "zh": "维护"
+      },
+      {
+        "word": "fix",
+        "pos": "v.",
+        "zh": "修理"
+      },
+      {
+        "word": "mend",
+        "pos": "v.",
+        "zh": "修补"
+      }
+    ],
+    "sources": [
+      {
+        "word": "malfunction",
+        "physical_page": 178,
+        "printed_page": 167
+      },
+      {
+        "word": "maintain",
+        "physical_page": 178,
+        "printed_page": 167
+      },
+      {
+        "word": "fix",
+        "physical_page": 178,
+        "printed_page": 167
+      },
+      {
+        "word": "mend",
+        "physical_page": 178,
+        "printed_page": 167
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 34\n词义辨析 | 建筑场所\n社区维修间\nmalfunction v. 发生故障\nmaintain v. 维护\nfix v. 修理\nmend v. 修补\n放进句子里\nThe automatic door malfunctioned during the tour.\n参观途中，自动门出了故障。\n用法提醒\nmaintain 可指日常维护，fix 可指修好故障。\n雅思应用\n听力 Part 1 · 听懂设施报修说明。\n轮到你了\n用 malfunction 和 fix 描述一次报修。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The automatic door malfunctioned during the tour.",
+    "example_zh": "参观途中，自动门出了故障。",
+    "examples": [
+      {
+        "en": "The automatic door malfunctioned during the tour.",
+        "zh": "参观途中，自动门出了故障。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a door malfunctions",
+        "门发生故障"
+      ],
+      [
+        "maintain equipment",
+        "维护设备"
+      ],
+      [
+        "fix a loose wheel",
+        "修好松脱的轮子"
+      ],
+      [
+        "mend an apron",
+        "缝补围裙"
+      ]
+    ],
+    "notes": "maintain 可指日常维护，fix 可指修好故障。",
+    "scene": "社区活动中心的一幅连贯透视画，透过半开放维修间可看见入口。左侧一扇自动滑门卡在半开，门边亮一个简单红色故障灯，malfunction 的引线指向卡住的门。左下另一位技师检查并修正松脱的手推车车轮，旁边有一把扳手，fix 线落在轮轴修理动作。中右穿蓝围裙的工作人员检查另一台工作正常的推车，桌上一张只有对钩的定期检查表，无文字，maintain 线指向检查者手部与检查表。右前景一双手拿针线正在缝补工作围裙的破口，mend 线落在破口的细小针脚。让每种动作的状态和物品清楚分开。",
+    "palette": "障碍门的红灯、工作人员的靛蓝围裙、暖木工作台、修补针线的暗珊瑚色。",
+    "ielts": "听力 Part 1 · 听懂设施报修说明",
+    "practice": "用 malfunction 和 fix 描述一次报修。",
+    "answer": "The lift malfunctioned, and a technician came to fix it.",
+    "reference_urls": [],
+    "image": "previews/34.webp"
+  },
+  {
+    "id": "35",
+    "page": 35,
+    "title": "木工台上的调整",
+    "kind": "scene",
+    "targets": [
+      "modify",
+      "trim",
+      "saw"
+    ],
+    "labels": [
+      {
+        "word": "modify",
+        "pos": "v.",
+        "zh": "修改"
+      },
+      {
+        "word": "trim",
+        "pos": "v.",
+        "zh": "修整"
+      },
+      {
+        "word": "saw",
+        "pos": "n.",
+        "zh": "锯子"
+      }
+    ],
+    "sources": [
+      {
+        "word": "modify",
+        "physical_page": 178,
+        "printed_page": 167
+      },
+      {
+        "word": "trim",
+        "physical_page": 178,
+        "printed_page": 167
+      },
+      {
+        "word": "saw",
+        "physical_page": 178,
+        "printed_page": 167
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 35\n场景词群 | 建筑场所\n木工台上的调整\nmodify v. 修改\ntrim v. 修整\nsaw n. 锯子\n放进句子里\nWe modified the plan to fit a wider shelf.\n我们修改了方案，好放下一块更宽的搁板。\n用法提醒\nmodify 指修改，trim 可指修整边缘。\n雅思应用\n口语 Part 2 · 讲一次动手改造\n轮到你了\n用 modify 说说你改了哪一处设计。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "We modified the plan to fit a wider shelf.",
+    "example_zh": "我们修改了方案，好放下一块更宽的搁板。",
+    "examples": [
+      {
+        "en": "We modified the plan to fit a wider shelf.",
+        "zh": "我们修改了方案，好放下一块更宽的搁板。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "modify the plan",
+        "修改方案"
+      ],
+      [
+        "trim the edge",
+        "修整边缘"
+      ],
+      [
+        "a hand saw",
+        "一把手锯"
+      ]
+    ],
+    "notes": "modify 指修改，trim 可指修整边缘。",
+    "scene": "用一张斜俯视的完整木工台说明图纸修改和木料修整。左前方一只手在一张无文字的书架草图上描画更宽的一格；旧的较窄宽度以灰色淡虚线显示，新的较宽位置以清晰铅笔线表示，modify 的引线精确落在铅笔尖与刚改好的线。右上方工匠用小刨修整固定的木搁板边缘，刨花细薄，trim 短线指到刨花和边缘接触点。右下方独立摆着一把有清楚手柄和长形锯齿刃的手锯，saw 的引线落在手锯刃上；手锯未在使用。",
+    "palette": "浅蜂蜜色木板、锯刃冷灰、草图铅灰和工装的暗砖红。",
+    "ielts": "口语 Part 2 · 讲一次动手改造",
+    "practice": "用 modify 说说你改了哪一处设计。",
+    "answer": "I modified the plan to fit two shelves under the window.",
+    "reference_urls": [],
+    "image": "previews/35.webp"
+  },
+  {
+    "id": "36",
+    "page": 36,
+    "title": "门框工位上的工具",
+    "kind": "scene",
+    "targets": [
+      "weld",
+      "screw",
+      "drill",
+      "plumb"
+    ],
+    "labels": [
+      {
+        "word": "weld",
+        "pos": "v.",
+        "zh": "焊接"
+      },
+      {
+        "word": "screw",
+        "pos": "n.",
+        "zh": "螺钉"
+      },
+      {
+        "word": "drill",
+        "pos": "n.",
+        "zh": "钻机"
+      },
+      {
+        "word": "plumb",
+        "pos": "n.",
+        "zh": "铅锤"
+      }
+    ],
+    "sources": [
+      {
+        "word": "weld",
+        "physical_page": 178,
+        "printed_page": 167
+      },
+      {
+        "word": "screw",
+        "physical_page": 178,
+        "printed_page": 167
+      },
+      {
+        "word": "drill",
+        "physical_page": 178,
+        "printed_page": 167
+      },
+      {
+        "word": "plumb",
+        "physical_page": 178,
+        "printed_page": 167
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 36\n场景词群 | 建筑场所\n门框工位上的工具\nweld v. 焊接\nscrew n. 螺钉\ndrill n. 钻机\nplumb n. 铅锤\n放进句子里\nThe workers welded the steel frame together.\n工人把钢制框架焊接在一起。\n用法提醒\nplumb line 指带重锤的铅垂线。\n雅思应用\n听力 Part 2 · 识别工坊里提到的工具\n轮到你了\n用 weld 或 drill 描述图中的一项工作。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The workers welded the steel frame together.",
+    "example_zh": "工人把钢制框架焊接在一起。",
+    "examples": [
+      {
+        "en": "The workers welded the steel frame together.",
+        "zh": "工人把钢制框架焊接在一起。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "weld a steel frame",
+        "焊接钢框"
+      ],
+      [
+        "tighten a screw",
+        "拧紧螺钉"
+      ],
+      [
+        "a power drill",
+        "电钻"
+      ],
+      [
+        "a plumb line",
+        "铅垂线"
+      ]
+    ],
+    "notes": "plumb line 指带重锤的铅垂线。",
+    "scene": "金属门框工作台的横向场景，保留清楚易看的一整幅画。左方工人戴专业焊帽与护具，身后有防护屏，焊接已夹紧钢框的一个小角，只有少量火星，weld 线精确指到两段金属连接的焊点。近处木工作台上单放一枚有十字槽与螺纹的螺钉，screw 的线落在螺纹处。右下是一台单独摆在台上的蓝色手持钻机，钻头明显，drill 的线指到钻机壳。右上一个立在原位的门框，门框内侧挂一根笔直细绳，绳底端有一枚明显的铜色锥形铅锤，plumb 的引线只能落在重锤，不能落在绳。无具体施工说明、图例、装备说明或额外文字。",
+    "palette": "冷钢蓝、压低亮度的暖橙火花、铅锤旧黄铜、木台的焦茶褐。",
+    "ielts": "听力 Part 2 · 识别工坊里提到的工具",
+    "practice": "用 weld 或 drill 描述图中的一项工作。",
+    "answer": "The worker used a drill to make holes in the frame.",
+    "reference_urls": [
+      "https://www.dictionary.com/browse/plumb"
+    ],
+    "image": "previews/36.webp"
+  },
+  {
+    "id": "37",
+    "page": 37,
+    "title": "布置新公寓",
+    "kind": "contrast",
+    "targets": [
+      "assemble",
+      "install",
+      "furnish"
+    ],
+    "labels": [
+      {
+        "word": "assemble",
+        "pos": "v.",
+        "zh": "组装"
+      },
+      {
+        "word": "install",
+        "pos": "v.",
+        "zh": "安装"
+      },
+      {
+        "word": "furnish",
+        "pos": "v.",
+        "zh": "配备家具"
+      }
+    ],
+    "sources": [
+      {
+        "word": "assemble",
+        "physical_page": 179,
+        "printed_page": 168
+      },
+      {
+        "word": "install",
+        "physical_page": 179,
+        "printed_page": 168
+      },
+      {
+        "word": "furnish",
+        "physical_page": 179,
+        "printed_page": 168
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 37\n词义辨析 | 建筑场所\n布置新公寓\nassemble v. 组装\ninstall v. 安装\nfurnish v. 配备家具\n放进句子里\nWe assembled the bookcase before furnishing the room.\n布置房间之前，我们先组装了书柜。\n用法提醒\nassemble 强调把零件组在一起。\n雅思应用\n口语 Part 2 · 描述你布置过的房间\n轮到你了\n用 furnish 和 install 说说你会怎样布置。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "We assembled the bookcase before furnishing the room.",
+    "example_zh": "布置房间之前，我们先组装了书柜。",
+    "examples": [
+      {
+        "en": "We assembled the bookcase before furnishing the room.",
+        "zh": "布置房间之前，我们先组装了书柜。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "assemble a bookcase",
+        "组装书柜"
+      ],
+      [
+        "install a light",
+        "安装灯具"
+      ],
+      [
+        "furnish a room",
+        "给房间配家具"
+      ]
+    ],
+    "notes": "assemble 强调把零件组在一起。",
+    "scene": "一张连续透视的暖阳公寓图，三件事可见且不重叠。左侧坐在地上的成年人把两块木侧板和一块搁板接成书柜，地上有几块分开的板，assemble 短线指向板件结合处。中部技师把一只墙壁灯固定在墙上，穿工作服且没有裸线，无施工步骤，install 短线到灯座和墙体相接的动作。右侧两位成年人把椅子和小边桌摆进原本空的角落，已放好一张沙发，furnish 引线落到椅子正被放到地毯的动作。场景主体用光柔和，三词签空间分隔开。",
+    "palette": "浅燕麦木板、日照米黄、鼠尾草绿沙发、灯具金铜和软装亚麻蓝。",
+    "ielts": "口语 Part 2 · 描述你布置过的房间",
+    "practice": "用 furnish 和 install 说说你会怎样布置。",
+    "answer": "I would furnish the room with a sofa and install a reading light.",
+    "reference_urls": [],
+    "image": "previews/37.webp"
+  },
+  {
+    "id": "38",
+    "page": 38,
+    "title": "图书馆的平面布局",
+    "kind": "contrast",
+    "targets": [
+      "design",
+      "layout",
+      "placement"
+    ],
+    "labels": [
+      {
+        "word": "design",
+        "pos": "v.",
+        "zh": "设计"
+      },
+      {
+        "word": "layout",
+        "pos": "n.",
+        "zh": "整体布局"
+      },
+      {
+        "word": "placement",
+        "pos": "n.",
+        "zh": "摆放位置"
+      }
+    ],
+    "sources": [
+      {
+        "word": "design",
+        "physical_page": 179,
+        "printed_page": 168
+      },
+      {
+        "word": "layout",
+        "physical_page": 179,
+        "printed_page": 168
+      },
+      {
+        "word": "placement",
+        "physical_page": 179,
+        "printed_page": 168
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 38\n词义辨析 | 建筑场所\n图书馆的平面布局\ndesign v. 设计\nlayout n. 整体布局\nplacement n. 摆放位置\n放进句子里\nThe new layout puts the reading area by the windows.\n新布局把阅读区安排在窗边。\n用法提醒\nlayout 看整体，placement 看某件东西放哪儿。\n雅思应用\n写作 Task 1 · 比较改造前后的平面图\n轮到你了\n用 layout 或 placement 说明一处布局变化。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The new layout puts the reading area by the windows.",
+    "example_zh": "新布局把阅读区安排在窗边。",
+    "examples": [
+      {
+        "en": "The new layout puts the reading area by the windows.",
+        "zh": "新布局把阅读区安排在窗边。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "design a library",
+        "设计图书馆"
+      ],
+      [
+        "the floor layout",
+        "楼层布局"
+      ],
+      [
+        "the placement of chairs",
+        "椅子的摆放位置"
+      ]
+    ],
+    "notes": "layout 看整体，placement 看某件东西放哪儿。",
+    "scene": "斜俯视一座旧图书馆的改造设计台和旁边真实阅览室，整体用同一个建筑师视角连在一起。左前设计师用铅笔起草几个可见的小立面草图和采光方案，design 的引线到设计师的草图铅笔尖。中央是一张占据桌面大部分的清晰平面图，包含相连的阅览区、书架区和过道，无字，layout 用大括线标示整张图的范围。图上靠窗有一个比其他图示清楚的大椅子符号，用橙色细圈强调它的唯一位置，placement 的短线只落在椅子圈上。后方透过落地窗看得到改造后靠窗的一排椅子和书架，帮助把图纸与现实对应。不加文字图例或数字。",
+    "palette": "图纸普鲁士蓝、纸色白、椅子定位橙、远处旧木书架的暖棕。",
+    "ielts": "写作 Task 1 · 比较改造前后的平面图",
+    "practice": "用 layout 或 placement 说明一处布局变化。",
+    "answer": "In the new layout, the reading area is closer to the entrance.",
+    "reference_urls": [],
+    "image": "previews/38.webp"
+  },
+  {
+    "id": "39",
+    "page": 39,
+    "title": "从展馆入口到出口",
+    "kind": "contrast",
+    "targets": [
+      "entrance",
+      "entry",
+      "enter",
+      "exit"
+    ],
+    "labels": [
+      {
+        "word": "entrance",
+        "pos": "n.",
+        "zh": "入口"
+      },
+      {
+        "word": "entry",
+        "pos": "n.",
+        "zh": "进入权"
+      },
+      {
+        "word": "enter",
+        "pos": "v.",
+        "zh": "进入"
+      },
+      {
+        "word": "exit",
+        "pos": "n.",
+        "zh": "出口"
+      }
+    ],
+    "sources": [
+      {
+        "word": "entrance",
+        "physical_page": 179,
+        "printed_page": 168
+      },
+      {
+        "word": "entry",
+        "physical_page": 179,
+        "printed_page": 168
+      },
+      {
+        "word": "enter",
+        "physical_page": 179,
+        "printed_page": 168
+      },
+      {
+        "word": "exit",
+        "physical_page": 179,
+        "printed_page": 168
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 39\n词义辨析 | 建筑场所\n从展馆入口到出口\nentrance n. 入口\nentry n. 进入权\nenter v. 进入\nexit n. 出口\n放进句子里\nYour ticket gives you entry to the gallery.\n凭这张票可以进入展馆。\n用法提醒\nentrance 常指入口，entry 也可指进入权。\n雅思应用\n听力 Part 2 · 跟随展馆导览中的路线\n轮到你了\n用 entrance 和 exit 为访客指路。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "Your ticket gives you entry to the gallery.",
+    "example_zh": "凭这张票可以进入展馆。",
+    "examples": [
+      {
+        "en": "Your ticket gives you entry to the gallery.",
+        "zh": "凭这张票可以进入展馆。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the main entrance",
+        "正门入口"
+      ],
+      [
+        "free entry",
+        "免费入场"
+      ],
+      [
+        "enter the gallery",
+        "进入展馆"
+      ],
+      [
+        "the nearest exit",
+        "最近的出口"
+      ]
+    ],
+    "notes": "entrance 常指入口，entry 也可指进入权。",
+    "scene": "一幅展览馆首层迎宾厅的轴测大场景。左前是主要入馆的玻璃门，entrance 的短线清楚到左门框。门内稍右设小票检台，entry 的短线落在访客出示给工作人员的入场券上，入场券只画一个对钩、没有印字，表现获准进入。中段有另一位穿蓝衣服的访客从公共门厅穿过门槛走入画廊，脚边一条短青色箭头指向展区内，enter 的引线落在跨门槛的动作。右边远处一扇开向室外树木的小门，一位穿黄衣访客从中走出，exit 的线指到那扇独立门框。只允许四个词签，门上不要印英文标牌。",
+    "palette": "青色进馆动线、蜜色外出区域、浅石材和展馆天光蓝。",
+    "ielts": "听力 Part 2 · 跟随展馆导览中的路线",
+    "practice": "用 entrance 和 exit 为访客指路。",
+    "answer": "Go in through the main entrance and use the exit by the garden.",
+    "reference_urls": [],
+    "image": "previews/39.webp"
+  },
+  {
+    "id": "40",
+    "page": 40,
+    "title": "建筑外面与向外",
+    "kind": "contrast",
+    "targets": [
+      "outside",
+      "outward",
+      "exterior",
+      "external"
+    ],
+    "labels": [
+      {
+        "word": "outside",
+        "pos": "adj.",
+        "zh": "外面的"
+      },
+      {
+        "word": "outward",
+        "pos": "adv.",
+        "zh": "向外"
+      },
+      {
+        "word": "exterior",
+        "pos": "n.",
+        "zh": "建筑外部"
+      },
+      {
+        "word": "external",
+        "pos": "adj.",
+        "zh": "外部的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "outside",
+        "physical_page": 179,
+        "printed_page": 168
+      },
+      {
+        "word": "outward",
+        "physical_page": 179,
+        "printed_page": 168
+      },
+      {
+        "word": "exterior",
+        "physical_page": 179,
+        "printed_page": 168
+      },
+      {
+        "word": "external",
+        "physical_page": 180,
+        "printed_page": 169
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 40\n词义辨析 | 建筑场所\n建筑外面与向外\noutside adj. 外面的\noutward adv. 向外\nexterior n. 建筑外部\nexternal adj. 外部的\n放进句子里\nThe outside seating area is open in summer.\n夏季开放室外座位区。\n用法提醒\nexterior 指建筑外部，outward 强调方向。\n雅思应用\n口语 Part 2 · 描述熟悉的建筑外观\n轮到你了\n用 exterior 或 external 描述一个外部细节。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The outside seating area is open in summer.",
+    "example_zh": "夏季开放室外座位区。",
+    "examples": [
+      {
+        "en": "The outside seating area is open in summer.",
+        "zh": "夏季开放室外座位区。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "outside seating",
+        "室外座位"
+      ],
+      [
+        "open outward",
+        "向外打开"
+      ],
+      [
+        "the exterior of a building",
+        "建筑物外部"
+      ],
+      [
+        "an external staircase",
+        "室外楼梯"
+      ]
+    ],
+    "notes": "exterior 指建筑外部，outward 强调方向。",
+    "scene": "建筑写生视角的红砖社区咖啡馆和街边。左侧玻璃内有室内空间，玻璃外的晴天街边明确摆着露天桌椅，outside 的线到露天桌面。中央双扇门的一扇门朝街边打开，铰链位置在门框上；只画一条从关闭位置绕铰链转到室外打开位置的短弧箭头，箭头终点在街边门外，outward 的线到弧箭头。在高处一段明显的红砖墙及多扇窗构成外立面，exterior 短括线标出整段外立面。右端与建筑相连而位于室外的是一段金属楼梯，external 的线落到室外的楼梯踏步。不要增加招牌或门上文字。",
+    "palette": "红砖外墙、外楼梯的石墨灰、露天遮阳伞的天空蓝和向外弧箭头的暖橙。",
+    "ielts": "口语 Part 2 · 描述熟悉的建筑外观",
+    "practice": "用 exterior 或 external 描述一个外部细节。",
+    "answer": "The building has a brick exterior and an external staircase.",
+    "reference_urls": [],
+    "image": "previews/40.webp"
+  },
+  {
+    "id": "41",
+    "page": 41,
+    "title": "走进建筑内部",
+    "kind": "contrast",
+    "targets": [
+      "inner",
+      "interior",
+      "inward",
+      "internal"
+    ],
+    "labels": [
+      {
+        "word": "inner",
+        "pos": "adj.",
+        "zh": "内部的"
+      },
+      {
+        "word": "interior",
+        "pos": "n.",
+        "zh": "建筑内部"
+      },
+      {
+        "word": "inward",
+        "pos": "adv.",
+        "zh": "向内"
+      },
+      {
+        "word": "internal",
+        "pos": "adj.",
+        "zh": "内部的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "inner",
+        "physical_page": 180,
+        "printed_page": 169
+      },
+      {
+        "word": "interior",
+        "physical_page": 180,
+        "printed_page": 169
+      },
+      {
+        "word": "inward",
+        "physical_page": 180,
+        "printed_page": 169
+      },
+      {
+        "word": "internal",
+        "physical_page": 180,
+        "printed_page": 169
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 41\n词义辨析 | 建筑场所\n走进建筑内部\ninner adj. 内部的\ninterior n. 建筑内部\ninward adv. 向内\ninternal adj. 内部的\n放进句子里\nThe door opens inward into the lobby.\n门向内打开，通往大厅。\n用法提醒\ninner courtyard 指内院，internal wall 指内墙。\n雅思应用\n听力 Part 2 · 从导览中辨认室内空间\n轮到你了\n用 inward 和 inner courtyard 描述两处细节。\n第13章 建筑场所 · 原创例句与练习 · 非真题",
+    "example_en": "The door opens inward into the lobby.",
+    "example_zh": "门向内打开，通往大厅。",
+    "examples": [
+      {
+        "en": "The door opens inward into the lobby.",
+        "zh": "门向内打开，通往大厅。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an inner courtyard",
+        "内院"
+      ],
+      [
+        "the interior of the building",
+        "建筑内部"
+      ],
+      [
+        "open inward",
+        "向内打开"
+      ],
+      [
+        "an internal wall",
+        "内墙"
+      ]
+    ],
+    "notes": "inner courtyard 指内院，internal wall 指内墙。",
+    "scene": "一个小型文化中心的彩铅水彩轴测剖视。右后方是四面由建筑围合但露天见树冠的中庭，inner 线落到中庭绿树，表现内院。中左是被屋顶截开以便看见的室内大厅，有室内地毯和座位，interior 用小括线定位这片室内大厅。左前门从街边门槛朝大厅里面打开，画一条以铰链为中心、从门槛位置转向大厅地毯上方的淡蓝弧箭头，inward 的线到指向室内的箭头尖。右前一面赭色矮剖切墙，明确隔开两间都有室内地板的房间，两侧各有一张桌子，internal 的线落在内隔墙的顶端。别把内墙画成外墙。无额外文字或图例。",
+    "palette": "中庭树绿、室内暖米黄、内隔墙的赭红、向内箭头的湖蓝。",
+    "ielts": "听力 Part 2 · 从导览中辨认室内空间",
+    "practice": "用 inward 和 inner courtyard 描述两处细节。",
+    "answer": "The door opens inward, and the inner courtyard is beyond the lobby.",
+    "reference_urls": [],
+    "image": "previews/41.webp"
+  }
+]
