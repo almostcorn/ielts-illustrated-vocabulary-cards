@@ -2,7 +2,7 @@
   "title": "IELTS 插画词汇手记",
   "updated": "2026-11-12",
   "repository": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards",
-  "release_tag": "v2026.11.12-ch11",
+  "release_tag": "v2026.11.12-ch12",
   "chapters": [
     {
       "chapter": 1,
@@ -5442,9 +5442,565 @@
           "preview": "previews/33.webp"
         }
       ]
+    },
+    {
+      "chapter": 12,
+      "title": "饮食健康",
+      "status": "chapter_complete",
+      "cards": 53,
+      "headwords": 173,
+      "path": "chapters/ch12",
+      "pdf": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch12/ch12-learning-cards.pdf",
+      "download": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch12/ch12-study-pack.zip",
+      "index": [
+        {
+          "number": 1,
+          "title": "在餐馆点餐",
+          "words": [
+            "restaurant",
+            "menu",
+            "order",
+            "takeaway"
+          ],
+          "preview": "previews/01.webp"
+        },
+        {
+          "number": 2,
+          "title": "cuisine",
+          "words": [
+            "cuisine"
+          ],
+          "preview": "previews/02.webp"
+        },
+        {
+          "number": 3,
+          "title": "午餐怎么选",
+          "words": [
+            "food",
+            "diet",
+            "vegetarian",
+            "appetite"
+          ],
+          "preview": "previews/03.webp"
+        },
+        {
+          "number": 4,
+          "title": "厨师照着食谱备菜",
+          "words": [
+            "edible",
+            "recipe",
+            "chef"
+          ],
+          "preview": "previews/04.webp"
+        },
+        {
+          "number": 5,
+          "title": "在学校和旅馆取餐",
+          "words": [
+            "refectory",
+            "cafeteria",
+            "buffet"
+          ],
+          "preview": "previews/05.webp"
+        },
+        {
+          "number": 6,
+          "title": "社区聚餐怎么安排",
+          "words": [
+            "treat",
+            "cater",
+            "provision"
+          ],
+          "preview": "previews/06.webp"
+        },
+        {
+          "number": 7,
+          "title": "三种聚餐方式",
+          "words": [
+            "supper",
+            "banquet",
+            "barbecue"
+          ],
+          "preview": "previews/07.webp"
+        },
+        {
+          "number": 8,
+          "title": "小食在什么时候吃",
+          "words": [
+            "bar",
+            "refreshment",
+            "snack",
+            "appetiser"
+          ],
+          "preview": "previews/08.webp"
+        },
+        {
+          "number": 9,
+          "title": "gourmet",
+          "words": [
+            "gourmet"
+          ],
+          "preview": "previews/09.webp"
+        },
+        {
+          "number": 10,
+          "title": "餐桌上的刀叉勺",
+          "words": [
+            "cutlery",
+            "fork",
+            "knife",
+            "spoon"
+          ],
+          "preview": "previews/10.webp"
+        },
+        {
+          "number": 11,
+          "title": "餐具是什么材质",
+          "words": [
+            "silver",
+            "ceramic",
+            "porcelain"
+          ],
+          "preview": "previews/11.webp"
+        },
+        {
+          "number": 12,
+          "title": "托盘上的杯碟和碗",
+          "words": [
+            "bowl",
+            "dish",
+            "saucer",
+            "tray"
+          ],
+          "preview": "previews/12.webp"
+        },
+        {
+          "number": 13,
+          "title": "茶水间里倒一杯",
+          "words": [
+            "glass",
+            "mug",
+            "kettle"
+          ],
+          "preview": "previews/13.webp"
+        },
+        {
+          "number": 14,
+          "title": "炉子上的两种锅",
+          "words": [
+            "pan",
+            "pot",
+            "stove"
+          ],
+          "preview": "previews/14.webp"
+        },
+        {
+          "number": 15,
+          "title": "面包房里的两种炉子",
+          "words": [
+            "furnace",
+            "oven"
+          ],
+          "preview": "previews/15.webp"
+        },
+        {
+          "number": 16,
+          "title": "打开食品罐",
+          "words": [
+            "tin",
+            "lid"
+          ],
+          "preview": "previews/16.webp"
+        },
+        {
+          "number": 17,
+          "title": "咖啡馆里的饮料选择",
+          "words": [
+            "drink",
+            "beverage",
+            "juice",
+            "soda",
+            "coffee"
+          ],
+          "preview": "previews/17.webp"
+        },
+        {
+          "number": 18,
+          "title": "展柜里的酒精与烈酒",
+          "words": [
+            "alcohol",
+            "liquor",
+            "whisky",
+            "brandy"
+          ],
+          "preview": "previews/18.webp"
+        },
+        {
+          "number": 19,
+          "title": "聚餐结束后怎么回家",
+          "words": [
+            "drunk",
+            "sober"
+          ],
+          "preview": "previews/19.webp"
+        },
+        {
+          "number": 20,
+          "title": "从烟叶到卷烟",
+          "words": [
+            "tobacco",
+            "cigarette"
+          ],
+          "preview": "previews/20.webp"
+        },
+        {
+          "number": 21,
+          "title": "菜摊上的红紫绿",
+          "words": [
+            "vegetable",
+            "tomato",
+            "cucumber",
+            "eggplant"
+          ],
+          "preview": "previews/21.webp"
+        },
+        {
+          "number": 22,
+          "title": "从菜地收上来的四种菜",
+          "words": [
+            "potato",
+            "carrot",
+            "turnip",
+            "radish"
+          ],
+          "preview": "previews/22.webp"
+        },
+        {
+          "number": 23,
+          "title": "给一锅汤备料",
+          "words": [
+            "pea",
+            "bean",
+            "cabbage",
+            "onion",
+            "mushroom"
+          ],
+          "preview": "previews/23.webp"
+        },
+        {
+          "number": 24,
+          "title": "果摊上的果串与小果",
+          "words": [
+            "fruit",
+            "cherry",
+            "berry",
+            "grape",
+            "papaya"
+          ],
+          "preview": "previews/24.webp"
+        },
+        {
+          "number": 25,
+          "title": "果园里摘下的三种水果",
+          "words": [
+            "peach",
+            "pear",
+            "plum"
+          ],
+          "preview": "previews/25.webp"
+        },
+        {
+          "number": 26,
+          "title": "切开橙子、柠檬和甜瓜",
+          "words": [
+            "orange",
+            "lemon",
+            "melon"
+          ],
+          "preview": "previews/26.webp"
+        },
+        {
+          "number": 27,
+          "title": "去皮、剥去、去核与去壳",
+          "words": [
+            "peel",
+            "strip",
+            "core",
+            "hull"
+          ],
+          "preview": "previews/27.webp"
+        },
+        {
+          "number": 28,
+          "title": "kiwi",
+          "words": [
+            "kiwi"
+          ],
+          "preview": "previews/28.webp"
+        },
+        {
+          "number": 29,
+          "title": "从麦田到一把麦粒",
+          "words": [
+            "crop",
+            "corn",
+            "grain",
+            "wheat",
+            "reap"
+          ],
+          "preview": "previews/29.webp"
+        },
+        {
+          "number": 30,
+          "title": "厨房里的面粉、粥与糊",
+          "words": [
+            "flour",
+            "porridge",
+            "paste"
+          ],
+          "preview": "previews/30.webp"
+        },
+        {
+          "number": 31,
+          "title": "农场里的家畜与家禽",
+          "words": [
+            "livestock",
+            "chicken",
+            "turkey"
+          ],
+          "preview": "previews/31.webp"
+        },
+        {
+          "number": 32,
+          "title": "菜市场怎么选肉",
+          "words": [
+            "beef",
+            "pork",
+            "mutton",
+            "sausage"
+          ],
+          "preview": "previews/32.webp"
+        },
+        {
+          "number": 33,
+          "title": "在池塘边钓鱼",
+          "words": [
+            "fish",
+            "pond",
+            "rod"
+          ],
+          "preview": "previews/33.webp"
+        },
+        {
+          "number": 34,
+          "title": "乳品柜里有什么",
+          "words": [
+            "dairy",
+            "milk",
+            "yogurt",
+            "cheese"
+          ],
+          "preview": "previews/34.webp"
+        },
+        {
+          "number": 35,
+          "title": "早餐桌上的面包与抹酱",
+          "words": [
+            "cream",
+            "butter",
+            "loaf",
+            "jam"
+          ],
+          "preview": "previews/35.webp"
+        },
+        {
+          "number": 36,
+          "title": "甜点柜里的三种点心",
+          "words": [
+            "pie",
+            "pudding",
+            "biscuit"
+          ],
+          "preview": "previews/36.webp"
+        },
+        {
+          "number": 37,
+          "title": "午餐柜台怎么点餐",
+          "words": [
+            "salad",
+            "sandwich",
+            "hamburger",
+            "soup"
+          ],
+          "preview": "previews/37.webp"
+        },
+        {
+          "number": 38,
+          "title": "意面与比萨怎么区分",
+          "words": [
+            "pizza",
+            "pasta",
+            "spaghetti"
+          ],
+          "preview": "previews/38.webp"
+        },
+        {
+          "number": 39,
+          "title": "冰淇淋柜台的三种选择",
+          "words": [
+            "nut",
+            "chocolate",
+            "ice cream"
+          ],
+          "preview": "previews/39.webp"
+        },
+        {
+          "number": 40,
+          "title": "香草的两种用途",
+          "words": [
+            "vanilla",
+            "ingredient",
+            "perfume"
+          ],
+          "preview": "previews/40.webp"
+        },
+        {
+          "number": 41,
+          "title": "市集上的香料与芥末",
+          "words": [
+            "spice",
+            "pepper",
+            "mustard",
+            "wasabi"
+          ],
+          "preview": "previews/41.webp"
+        },
+        {
+          "number": 42,
+          "title": "炒菜前备好葱姜蒜",
+          "words": [
+            "ginger",
+            "garlic",
+            "scallion"
+          ],
+          "preview": "previews/42.webp"
+        },
+        {
+          "number": 43,
+          "title": "调沙拉汁的四样配料",
+          "words": [
+            "vinegar",
+            "salt",
+            "sugar",
+            "honey"
+          ],
+          "preview": "previews/43.webp"
+        },
+        {
+          "number": 44,
+          "title": "糖果摊上的两个动作",
+          "words": [
+            "candy",
+            "suck",
+            "lick"
+          ],
+          "preview": "previews/44.webp"
+        },
+        {
+          "number": 45,
+          "title": "同一张桌上的四种味道",
+          "words": [
+            "flavour",
+            "sour",
+            "sweet",
+            "bitter",
+            "spicy"
+          ],
+          "preview": "previews/45.webp"
+        },
+        {
+          "number": 46,
+          "title": "一道菜好吃，怎么说",
+          "words": [
+            "delicious",
+            "yummy",
+            "tasty"
+          ],
+          "preview": "previews/46.webp"
+        },
+        {
+          "number": 47,
+          "title": "徒步歇脚时的饥与渴",
+          "words": [
+            "hunger",
+            "thirsty"
+          ],
+          "preview": "previews/47.webp"
+        },
+        {
+          "number": 48,
+          "title": "食物入口后的三个动作",
+          "words": [
+            "chew",
+            "swallow",
+            "digest",
+            "gum"
+          ],
+          "preview": "previews/48.webp"
+        },
+        {
+          "number": 49,
+          "title": "把薯条蘸进酱汁",
+          "words": [
+            "sauce",
+            "ketchup",
+            "dip"
+          ],
+          "preview": "previews/49.webp"
+        },
+        {
+          "number": 50,
+          "title": "supplement",
+          "words": [
+            "supplement"
+          ],
+          "preview": "previews/50.webp"
+        },
+        {
+          "number": 51,
+          "title": "做饭时的三种加热法",
+          "words": [
+            "cook",
+            "bake",
+            "fry",
+            "roast"
+          ],
+          "preview": "previews/51.webp"
+        },
+        {
+          "number": 52,
+          "title": "早餐台上的三样准备",
+          "words": [
+            "toast",
+            "soak",
+            "squeeze"
+          ],
+          "preview": "previews/52.webp"
+        },
+        {
+          "number": 53,
+          "title": "拌沙拉前的三种动作",
+          "words": [
+            "slice",
+            "grind",
+            "stir"
+          ],
+          "preview": "previews/53.webp"
+        }
+      ]
     }
   ],
-  "total_cards": 491,
-  "chapter_coverage_items": 1726,
-  "counting_note": "1,726 为各章词头覆盖项相加，跨章不去重。第 1–11 章均已完成。"
+  "total_cards": 544,
+  "chapter_coverage_items": 1899,
+  "counting_note": "1,899 为各章词头覆盖项相加，跨章不去重。第 1–12 章均已完成。"
 }
