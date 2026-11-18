@@ -1,8 +1,8 @@
 {
   "title": "IELTS 插画词汇手记",
-  "updated": "2026-11-12",
+  "updated": "2026-11-18",
   "repository": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards",
-  "release_tag": "v2026.11.12-ch13",
+  "release_tag": "v2026.11.18-ch14",
   "chapters": [
     {
       "chapter": 1,
@@ -6431,9 +6431,463 @@
           "preview": "previews/41.webp"
         }
       ]
+    },
+    {
+      "chapter": 14,
+      "title": "交通旅行",
+      "status": "chapter_complete",
+      "cards": 44,
+      "headwords": 134,
+      "path": "chapters/ch14",
+      "pdf": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.18-ch14/ch14-learning-cards.pdf",
+      "download": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.18-ch14/ch14-study-pack.zip",
+      "index": [
+        {
+          "number": 1,
+          "title": "从海上航行到驶入港口",
+          "words": [
+            "navigate",
+            "voyage",
+            "port"
+          ],
+          "preview": "previews/01.webp"
+        },
+        {
+          "number": 2,
+          "title": "aviation",
+          "words": [
+            "aviation"
+          ],
+          "preview": "previews/02.webp"
+        },
+        {
+          "number": 3,
+          "title": "旅程、旅行与观兽之旅",
+          "words": [
+            "journey",
+            "travel",
+            "safari"
+          ],
+          "preview": "previews/03.webp"
+        },
+        {
+          "number": 4,
+          "title": "节庆游行吸引了谁",
+          "words": [
+            "parade",
+            "attraction"
+          ],
+          "preview": "previews/04.webp"
+        },
+        {
+          "number": 5,
+          "title": "haunt",
+          "words": [
+            "haunt"
+          ],
+          "preview": "previews/05.webp"
+        },
+        {
+          "number": 6,
+          "title": "旅行中参观纪念建筑",
+          "words": [
+            "memorial",
+            "pyramid"
+          ],
+          "preview": "previews/06.webp"
+        },
+        {
+          "number": 7,
+          "title": "出发前走进机场",
+          "words": [
+            "visa",
+            "airline",
+            "flight",
+            "pilot",
+            "passenger"
+          ],
+          "preview": "previews/07.webp"
+        },
+        {
+          "number": 8,
+          "title": "航空展里的四种辨认",
+          "words": [
+            "airplane",
+            "helicopter",
+            "jet",
+            "parachute"
+          ],
+          "preview": "previews/08.webp"
+        },
+        {
+          "number": 9,
+          "title": "行李总称与一只箱子",
+          "words": [
+            "baggage",
+            "luggage",
+            "suitcase"
+          ],
+          "preview": "previews/09.webp"
+        },
+        {
+          "number": 10,
+          "title": "traffic",
+          "words": [
+            "traffic"
+          ],
+          "preview": "previews/10.webp"
+        },
+        {
+          "number": 11,
+          "title": "上车前收好随身包",
+          "words": [
+            "carry-on",
+            "rack",
+            "fare"
+          ],
+          "preview": "previews/11.webp"
+        },
+        {
+          "number": 12,
+          "title": "货运站里装什么车",
+          "words": [
+            "freight",
+            "truck",
+            "lorry",
+            "van"
+          ],
+          "preview": "previews/12.webp"
+        },
+        {
+          "number": 13,
+          "title": "摊开地图规划旅程",
+          "words": [
+            "atlas",
+            "route",
+            "itinerary"
+          ],
+          "preview": "previews/13.webp"
+        },
+        {
+          "number": 14,
+          "title": "从通道走到路口",
+          "words": [
+            "passage",
+            "intersection",
+            "cross"
+          ],
+          "preview": "previews/14.webp"
+        },
+        {
+          "number": 15,
+          "title": "从小径走向林荫大街",
+          "words": [
+            "way",
+            "path",
+            "lane",
+            "avenue"
+          ],
+          "preview": "previews/15.webp"
+        },
+        {
+          "number": 16,
+          "title": "公路旁的三处细节",
+          "words": [
+            "highway",
+            "curb",
+            "signpost",
+            "pave"
+          ],
+          "preview": "previews/16.webp"
+        },
+        {
+          "number": 17,
+          "title": "客运站前的交通工具",
+          "words": [
+            "vehicle",
+            "auto",
+            "coach",
+            "ambulance"
+          ],
+          "preview": "previews/17.webp"
+        },
+        {
+          "number": 18,
+          "title": "轨道旁的四个词",
+          "words": [
+            "express",
+            "tram",
+            "wagon",
+            "carriage"
+          ],
+          "preview": "previews/18.webp"
+        },
+        {
+          "number": 19,
+          "title": "乡间集市的慢行方式",
+          "words": [
+            "tractor",
+            "cart",
+            "pedicab",
+            "cycle"
+          ],
+          "preview": "previews/19.webp"
+        },
+        {
+          "number": 20,
+          "title": "汽修厂里查看动力",
+          "words": [
+            "garage",
+            "motor",
+            "horsepower"
+          ],
+          "preview": "previews/20.webp"
+        },
+        {
+          "number": 21,
+          "title": "车轮、轮胎与驾驶动作",
+          "words": [
+            "wheel",
+            "tyre",
+            "brake",
+            "honk"
+          ],
+          "preview": "previews/21.webp"
+        },
+        {
+          "number": 22,
+          "title": "crew",
+          "words": [
+            "crew"
+          ],
+          "preview": "previews/22.webp"
+        },
+        {
+          "number": 23,
+          "title": "船上不同的人做什么",
+          "words": [
+            "captain",
+            "steward",
+            "sailor",
+            "seaman"
+          ],
+          "preview": "previews/23.webp"
+        },
+        {
+          "number": 24,
+          "title": "航行中的危险与应急",
+          "words": [
+            "emergency",
+            "hazard"
+          ],
+          "preview": "previews/24.webp"
+        },
+        {
+          "number": 25,
+          "title": "碰撞、压坏与猛冲",
+          "words": [
+            "wreck",
+            "crash",
+            "crush",
+            "dash"
+          ],
+          "preview": "previews/25.webp"
+        },
+        {
+          "number": 26,
+          "title": "船影怎样从视野中消失",
+          "words": [
+            "vanish",
+            "disappear"
+          ],
+          "preview": "previews/26.webp"
+        },
+        {
+          "number": 27,
+          "title": "港湾、码头与船锚",
+          "words": [
+            "harbour",
+            "dock",
+            "anchor"
+          ],
+          "preview": "previews/27.webp"
+        },
+        {
+          "number": 28,
+          "title": "海上的三类大船",
+          "words": [
+            "carrier",
+            "steamer",
+            "liner",
+            "vessel"
+          ],
+          "preview": "previews/28.webp"
+        },
+        {
+          "number": 29,
+          "title": "从登船到航行",
+          "words": [
+            "ferry",
+            "sail",
+            "aboard",
+            "embark"
+          ],
+          "preview": "previews/29.webp"
+        },
+        {
+          "number": 30,
+          "title": "船尾、甲板与动力",
+          "words": [
+            "submerge",
+            "deck",
+            "turbine",
+            "propeller",
+            "stern"
+          ],
+          "preview": "previews/30.webp"
+        },
+        {
+          "number": 31,
+          "title": "湖面上的小船和筏子",
+          "words": [
+            "raft",
+            "canoe",
+            "oar"
+          ],
+          "preview": "previews/31.webp"
+        },
+        {
+          "number": 32,
+          "title": "三种水道怎么辨认",
+          "words": [
+            "channel",
+            "canal",
+            "ditch"
+          ],
+          "preview": "previews/32.webp"
+        },
+        {
+          "number": 33,
+          "title": "铁路上的整条线与部件",
+          "words": [
+            "railroad",
+            "railway",
+            "locomotive",
+            "rail"
+          ],
+          "preview": "previews/33.webp"
+        },
+        {
+          "number": 34,
+          "title": "地下列车驶出隧道",
+          "words": [
+            "subway",
+            "underground",
+            "tunnel"
+          ],
+          "preview": "previews/34.webp"
+        },
+        {
+          "number": 35,
+          "title": "列车从出发到终点",
+          "words": [
+            "depart",
+            "arrive",
+            "destination"
+          ],
+          "preview": "previews/35.webp"
+        },
+        {
+          "number": 36,
+          "title": "行程推迟了怎么说",
+          "words": [
+            "delay",
+            "postpone",
+            "defer"
+          ],
+          "preview": "previews/36.webp"
+        },
+        {
+          "number": 37,
+          "title": "lull",
+          "words": [
+            "lull"
+          ],
+          "preview": "previews/37.webp"
+        },
+        {
+          "number": 38,
+          "title": "expire",
+          "words": [
+            "expire"
+          ],
+          "preview": "previews/38.webp"
+        },
+        {
+          "number": 39,
+          "title": "在邮局寄一封信",
+          "words": [
+            "postage",
+            "stamp",
+            "envelope",
+            "mail"
+          ],
+          "preview": "previews/39.webp"
+        },
+        {
+          "number": 40,
+          "title": "把物品包装好再寄出",
+          "words": [
+            "packet",
+            "package",
+            "parcel",
+            "bind"
+          ],
+          "preview": "previews/40.webp"
+        },
+        {
+          "number": 41,
+          "title": "装载、转运与重担",
+          "words": [
+            "load",
+            "burden",
+            "transfer"
+          ],
+          "preview": "previews/41.webp"
+        },
+        {
+          "number": 42,
+          "title": "包裹在路上，什么时候到",
+          "words": [
+            "transit",
+            "due",
+            "deliver"
+          ],
+          "preview": "previews/42.webp"
+        },
+        {
+          "number": 43,
+          "title": "把信息传给司机",
+          "words": [
+            "transmit",
+            "convey"
+          ],
+          "preview": "previews/43.webp"
+        },
+        {
+          "number": 44,
+          "title": "看速度，也看方向",
+          "words": [
+            "speed",
+            "velocity",
+            "swift"
+          ],
+          "preview": "previews/44.webp"
+        }
+      ]
     }
   ],
-  "total_cards": 585,
-  "chapter_coverage_items": 2033,
-  "counting_note": "2,033 为各章词头覆盖项相加，跨章不去重。第 1–13 章均已完成。"
+  "total_cards": 629,
+  "chapter_coverage_items": 2167,
+  "counting_note": "2,167 为各章词头覆盖项相加，跨章不去重。第 1–14 章均已完成。"
 }

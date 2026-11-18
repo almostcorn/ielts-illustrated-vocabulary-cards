@@ -1,0 +1,3482 @@
+[
+  {
+    "id": "01",
+    "page": 1,
+    "title": "从海上航行到驶入港口",
+    "kind": "scene",
+    "targets": [
+      "navigate",
+      "voyage",
+      "port"
+    ],
+    "labels": [
+      {
+        "word": "navigate",
+        "pos": "v.",
+        "zh": "导航；航行"
+      },
+      {
+        "word": "voyage",
+        "pos": "n.",
+        "zh": "航海旅行"
+      },
+      {
+        "word": "port",
+        "pos": "n.",
+        "zh": "港口"
+      }
+    ],
+    "sources": [
+      {
+        "word": "navigate",
+        "physical_page": 183,
+        "printed_page": 172
+      },
+      {
+        "word": "voyage",
+        "physical_page": 183,
+        "printed_page": 172
+      },
+      {
+        "word": "port",
+        "physical_page": 183,
+        "printed_page": 172
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 01\n场景词群 | 交通旅行\n从海上航行到驶入港口\nnavigate  v.  导航；航行\nvoyage  n.  航海旅行\nport  n.  港口\n放进句子里\nThe crew navigated the ship safely into port.\n船员驾驶船只安全驶入港口。\n用法提醒\nvoyage 常指海上长途旅行。\n雅思应用\n口语 Part 2 | 描述一次乘船旅行\n轮到你了\n用 voyage 和 port 说一句航行经历。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The crew navigated the ship safely into port.",
+    "example_zh": "船员驾驶船只安全驶入港口。",
+    "examples": [
+      {
+        "en": "The crew navigated the ship safely into port.",
+        "zh": "船员驾驶船只安全驶入港口。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "navigate a ship",
+        "驾驶船只航行"
+      ],
+      [
+        "go on a voyage",
+        "进行航海旅行"
+      ],
+      [
+        "arrive in port",
+        "抵达港口"
+      ]
+    ],
+    "notes": "voyage 常指海上长途旅行。",
+    "scene": "A coherent illustrated coastal panorama. In foreground a clearly visible ferry captain's bridge with an adult holding a plotted chart; navigate callout points to the chart and the captain tracing route, not a generic boat. Across upper sea a dashed winding line shows a long voyage arriving from distant horizon past a rocky island towards a sheltered port. Voyage callout attaches as a bracket to this voyage route. Port callout points to the sheltered harbor with quays and moored ships, not one vessel. No labels except these three. Calm clear maritime scene, warm white hull, indigo chart, teal sea and ochre quay.",
+    "palette": "青蓝海面、靛蓝航图、暖赭码头，区分导航动作、航行路线和港口。",
+    "ielts": "口语 Part 2 | 描述一次乘船旅行",
+    "practice": "用 voyage 和 port 说一句航行经历。",
+    "answer": "Our voyage ended when the ferry arrived at the island port.",
+    "reference_urls": [],
+    "image": "previews/01.webp"
+  },
+  {
+    "id": "02",
+    "page": 2,
+    "title": "aviation",
+    "kind": "word",
+    "targets": [
+      "aviation"
+    ],
+    "labels": [
+      {
+        "word": "aviation",
+        "pos": "n.",
+        "zh": "航空；航空业"
+      }
+    ],
+    "sources": [
+      {
+        "word": "aviation",
+        "physical_page": 183,
+        "printed_page": 172
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 02\n单词精讲 | 交通旅行\naviation\n/,eɪ.vi'eɪ.ʃən/   n.\n航空；航空业\n与飞行及航空运输有关的活动和行业。\n放进句子里\nShe hopes to work in aviation after university.\n她希望大学毕业后进入航空业工作。\n常用搭配\ncivil aviation\nthe aviation industry\naviation safety\n用法提醒\naviation 指航空活动或航空业，通常不可数。\n雅思应用\n写作 Task 2 | 讨论航空运输的发展\n轮到你了\n用 aviation 说说航空业带来的一种变化。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "She hopes to work in aviation after university.",
+    "example_zh": "她希望大学毕业后进入航空业工作。",
+    "examples": [
+      {
+        "en": "She hopes to work in aviation after university.",
+        "zh": "她希望大学毕业后进入航空业工作。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "civil aviation",
+        "民用航空"
+      ],
+      [
+        "the aviation industry",
+        "航空业"
+      ],
+      [
+        "aviation safety",
+        "航空安全"
+      ]
+    ],
+    "notes": "aviation 指航空活动或航空业，通常不可数。",
+    "scene": "Single-word showcase. Large aviation at top left, exact IPA and definition underneath. Main illustration right flowing beneath: daylit air museum and working small airfield viewed in one broad scene. One early propeller aircraft in an open museum hangar on left transitions visually towards a contemporary passenger jet visible near a distant airport terminal on right; foreground an adult student with a small scale aircraft model observes. Depict flight development and transport as a field, not only one aircraft. No extra labels, signs or letters anywhere.",
+    "palette": "天空冷蓝、旧机木色和银灰现代机身，用材质与环境表现航空发展。",
+    "ielts": "写作 Task 2 | 讨论航空运输的发展",
+    "practice": "用 aviation 说说航空业带来的一种变化。",
+    "answer": "Modern aviation allows people to travel long distances in a short time.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/us/pronunciation/english/aviation"
+    ],
+    "ipa": "/ˌeɪ.viˈeɪ.ʃən/",
+    "definition": "与飞行及航空运输有关的活动和行业。",
+    "image": "previews/02.webp"
+  },
+  {
+    "id": "03",
+    "page": 3,
+    "title": "旅程、旅行与观兽之旅",
+    "kind": "contrast",
+    "targets": [
+      "journey",
+      "travel",
+      "safari"
+    ],
+    "labels": [
+      {
+        "word": "journey",
+        "pos": "n.",
+        "zh": "旅程"
+      },
+      {
+        "word": "travel",
+        "pos": "v.",
+        "zh": "旅行"
+      },
+      {
+        "word": "safari",
+        "pos": "n.",
+        "zh": "观兽旅行"
+      }
+    ],
+    "sources": [
+      {
+        "word": "journey",
+        "physical_page": 183,
+        "printed_page": 172
+      },
+      {
+        "word": "travel",
+        "physical_page": 183,
+        "printed_page": 172
+      },
+      {
+        "word": "safari",
+        "physical_page": 183,
+        "printed_page": 172
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 03\n词义辨析 | 交通旅行\n旅程、旅行与观兽之旅\njourney  n.  旅程\ntravel  v.  旅行\nsafari  n.  观兽旅行\n放进句子里\nWe went on safari during our travels in Kenya.\n在肯尼亚旅行期间，我们参加了观兽之旅。\n用法提醒\njourney 可指一次旅程，travel 也可作动词。\n雅思应用\n口语 Part 2 | 描述一次特别的旅行\n轮到你了\n用 journey 说说一次旅程，再用 travel 说你的旅行习惯。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "We went on safari during our travels in Kenya.",
+    "example_zh": "在肯尼亚旅行期间，我们参加了观兽之旅。",
+    "examples": [
+      {
+        "en": "We went on safari during our travels in Kenya.",
+        "zh": "在肯尼亚旅行期间，我们参加了观兽之旅。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a long journey",
+        "一段长途旅程"
+      ],
+      [
+        "travel abroad",
+        "出国旅行"
+      ],
+      [
+        "go on safari",
+        "参加观兽旅行"
+      ]
+    ],
+    "notes": "journey 可指一次旅程，travel 也可作动词。",
+    "scene": "A continuous landscape connects a railway journey to an organised wildlife trip. Upper-left: train through hills and a dashed point-to-point line between two unlettered station dots; JOURNEY bracket spans this single route. Lower-left: a backpacking adult walking from a train platform towards an open horizon; TRAVEL leader points to the traveller in motion. Right: an open safari vehicle on a designated distant track, adult guide and tourists observing giraffes from inside; SAFARI leader points to the entire outing. Warm grassland and olive green vehicle, cool blue railway in distance. No extra labels.",
+    "palette": "远景铁路冷蓝、旅行者暖橙背包与草原金绿区分旅程、行动和观兽场景。",
+    "ielts": "口语 Part 2 | 描述一次特别的旅行",
+    "practice": "用 journey 说说一次旅程，再用 travel 说你的旅行习惯。",
+    "answer": "The train journey took three hours. I prefer to travel by rail.",
+    "reference_urls": [],
+    "image": "previews/03.webp"
+  },
+  {
+    "id": "04",
+    "page": 4,
+    "title": "节庆游行吸引了谁",
+    "kind": "scene",
+    "targets": [
+      "parade",
+      "attraction"
+    ],
+    "labels": [
+      {
+        "word": "parade",
+        "pos": "n.",
+        "zh": "庆祝游行"
+      },
+      {
+        "word": "attraction",
+        "pos": "n.",
+        "zh": "吸引游客的事物"
+      }
+    ],
+    "sources": [
+      {
+        "word": "parade",
+        "physical_page": 183,
+        "printed_page": 172
+      },
+      {
+        "word": "attraction",
+        "physical_page": 183,
+        "printed_page": 172
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 04\n场景词群 | 交通旅行\n节庆游行吸引了谁\nparade  n.  庆祝游行\nattraction  n.  吸引游客的事物\n放进句子里\nThe festival parade is a popular local attraction.\n节庆游行是一项很受欢迎的当地活动。\n用法提醒\nattraction 可指值得去看的地方或活动。\n雅思应用\n口语 Part 2 | 介绍一个当地节庆\n轮到你了\n用 parade 描述一次你见过的游行。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The festival parade is a popular local attraction.",
+    "example_zh": "节庆游行是一项很受欢迎的当地活动。",
+    "examples": [
+      {
+        "en": "The festival parade is a popular local attraction.",
+        "zh": "节庆游行是一项很受欢迎的当地活动。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a festival parade",
+        "节庆游行"
+      ],
+      [
+        "a tourist attraction",
+        "旅游景点"
+      ],
+      [
+        "the main attraction",
+        "最吸引人的事物"
+      ]
+    ],
+    "notes": "attraction 可指值得去看的地方或活动。",
+    "scene": "One vivid riverside town street on a local festival day. A lively parade of musicians and people carrying unlettered fabric banners proceeds across the foreground with visible orderly motion. PARADE leader ends on the procession as a grouping bracket. On other side a fair's large illuminated carousel with queue of interested visitors, ATTRACTION leader lands on the carousel attraction as a whole. Only these exact two labels in scene. No incidental words or decorations containing lettering.",
+    "palette": "彩旗暖红和蓝绿衣服表现游行，旋转木马琥珀灯光突出游客驻足的原因。",
+    "ielts": "口语 Part 2 | 介绍一个当地节庆",
+    "practice": "用 parade 描述一次你见过的游行。",
+    "answer": "A colourful parade passed through the town centre.",
+    "reference_urls": [],
+    "image": "previews/04.webp"
+  },
+  {
+    "id": "05",
+    "page": 5,
+    "title": "haunt",
+    "kind": "word",
+    "targets": [
+      "haunt"
+    ],
+    "labels": [
+      {
+        "word": "haunt",
+        "pos": "n.",
+        "zh": "常去的地方"
+      }
+    ],
+    "sources": [
+      {
+        "word": "haunt",
+        "physical_page": 183,
+        "printed_page": 172
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 05\n单词精讲 | 交通旅行\nhaunt\n/hɔ:nt/  n.\n常去的地方\n一个人喜欢经常光顾的地方。\n放进句子里\nThis small café became my favourite haunt.\n这家小咖啡馆成了我最爱常去的地方。\n常用搭配\na favourite haunt\nan old haunt\na regular haunt\n用法提醒\n名词 haunt 常用于 a favourite haunt。\n雅思应用\n口语 Part 2 | 描述一个你经常去的地方\n轮到你了\n用 a favourite haunt 介绍你常去的一处地方。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "This small café became my favourite haunt.",
+    "example_zh": "这家小咖啡馆成了我最爱常去的地方。",
+    "examples": [
+      {
+        "en": "This small café became my favourite haunt.",
+        "zh": "这家小咖啡馆成了我最爱常去的地方。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a favourite haunt",
+        "最爱常去的地方"
+      ],
+      [
+        "an old haunt",
+        "从前常去的地方"
+      ],
+      [
+        "a regular haunt",
+        "经常光顾的地方"
+      ]
+    ],
+    "notes": "名词 haunt 常用于 a favourite haunt。",
+    "scene": "Large haunt with IPA, noun and definition at upper-left. The main illustration is a warm independent canal-side café seen through its open doors and window. A familiar adult patron at their favourite window seat smiles as a barista brings the drink without consulting a menu; the patron's well-used notebook and a jacket on the same chair imply regular visits. Focus on a welcoming frequently visited place. No ghosts, extra callouts, logos, dates or other lettering. Palette of coffee brown, windowsill brick red and blue canal reflection.",
+    "palette": "咖啡棕与窗边暖砖红表现熟悉的店，运河蓝光交代地点。",
+    "ielts": "口语 Part 2 | 描述一个你经常去的地方",
+    "practice": "用 a favourite haunt 介绍你常去的一处地方。",
+    "answer": "The bookshop near my home is a favourite haunt of mine.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/haunt"
+    ],
+    "ipa": "/hɔːnt/",
+    "definition": "一个人喜欢经常光顾的地方。",
+    "image": "previews/05.webp"
+  },
+  {
+    "id": "06",
+    "page": 6,
+    "title": "旅行中参观纪念建筑",
+    "kind": "scene",
+    "targets": [
+      "memorial",
+      "pyramid"
+    ],
+    "labels": [
+      {
+        "word": "memorial",
+        "pos": "n.",
+        "zh": "纪念碑"
+      },
+      {
+        "word": "pyramid",
+        "pos": "n.",
+        "zh": "金字塔"
+      }
+    ],
+    "sources": [
+      {
+        "word": "memorial",
+        "physical_page": 183,
+        "printed_page": 172
+      },
+      {
+        "word": "pyramid",
+        "physical_page": 183,
+        "printed_page": 172
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 06\n场景词群 | 交通旅行\n旅行中参观纪念建筑\nmemorial  n.  纪念碑\npyramid  n.  金字塔\n放进句子里\nWe visited a memorial before travelling to see the pyramids.\n我们先参观了一座纪念碑，之后前往看金字塔。\n用法提醒\nmemorial 用于纪念人物或事件，pyramid 指金字塔形建筑。\n雅思应用\n口语 Part 2 | 介绍一处参观过的历史场所\n轮到你了\n用 memorial 或 pyramid 描述一处建筑。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "We visited a memorial before travelling to see the pyramids.",
+    "example_zh": "我们先参观了一座纪念碑，之后前往看金字塔。",
+    "examples": [
+      {
+        "en": "We visited a memorial before travelling to see the pyramids.",
+        "zh": "我们先参观了一座纪念碑，之后前往看金字塔。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a war memorial",
+        "战争纪念碑"
+      ],
+      [
+        "visit a memorial",
+        "参观纪念碑"
+      ],
+      [
+        "an ancient pyramid",
+        "古代金字塔"
+      ]
+    ],
+    "notes": "memorial 用于纪念人物或事件，pyramid 指金字塔形建筑。",
+    "scene": "One educational heritage visit composition with two clearly separate but naturally joined illustrated settings. At left in a quiet city park stands a modern stone memorial stele surrounded by wreaths and visitors standing respectfully; no real tragedy, dates, military insignia or lettering. MEMORIAL points directly to the stele. At right a distant Egyptian-style ancient square-based pyramid on warm sand, angular blocks visible, travellers at its base; PYRAMID points to the triangular sloping mass. Do not imply same physical site, use gentle paper-edged transition through a central travel sketchbook with only the two silent scene sketches and no letters. No additional vocabulary labels.",
+    "palette": "纪念碑石灰与松绿呈现肃静，沙金和晴天蓝突出金字塔轮廓。",
+    "ielts": "口语 Part 2 | 介绍一处参观过的历史场所",
+    "practice": "用 memorial 或 pyramid 描述一处建筑。",
+    "answer": "The memorial stands in a quiet garden near the river.",
+    "reference_urls": [],
+    "image": "previews/06.webp"
+  },
+  {
+    "id": "07",
+    "page": 7,
+    "title": "出发前走进机场",
+    "kind": "scene",
+    "targets": [
+      "visa",
+      "airline",
+      "flight",
+      "pilot",
+      "passenger"
+    ],
+    "labels": [
+      {
+        "word": "visa",
+        "pos": "n.",
+        "zh": "签证"
+      },
+      {
+        "word": "airline",
+        "pos": "n.",
+        "zh": "航空公司"
+      },
+      {
+        "word": "flight",
+        "pos": "n.",
+        "zh": "航班"
+      },
+      {
+        "word": "pilot",
+        "pos": "n.",
+        "zh": "飞行员"
+      },
+      {
+        "word": "passenger",
+        "pos": "n.",
+        "zh": "乘客"
+      }
+    ],
+    "sources": [
+      {
+        "word": "visa",
+        "physical_page": 184,
+        "printed_page": 173
+      },
+      {
+        "word": "airline",
+        "physical_page": 184,
+        "printed_page": 173
+      },
+      {
+        "word": "flight",
+        "physical_page": 184,
+        "printed_page": 173
+      },
+      {
+        "word": "pilot",
+        "physical_page": 184,
+        "printed_page": 173
+      },
+      {
+        "word": "passenger",
+        "physical_page": 184,
+        "printed_page": 173
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 07\n场景词群 | 交通旅行\n出发前走进机场\nvisa  n.  签证\nairline  n.  航空公司\nflight  n.  航班\npilot  n.  飞行员\npassenger  n.  乘客\nVISA\n放进句子里\nThe passenger asked the airline about the next flight.\n这位乘客向航空公司询问了下一班飞机的信息。\n用法提醒\nairline 指航空公司，flight 可指一次航班。\n雅思应用\n听力 Part 1 | 听懂航班咨询与乘机安排\n轮到你了\n用 flight 和 airline 说一句出行安排。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The passenger asked the airline about the next flight.",
+    "example_zh": "这位乘客向航空公司询问了下一班飞机的信息。",
+    "examples": [
+      {
+        "en": "The passenger asked the airline about the next flight.",
+        "zh": "这位乘客向航空公司询问了下一班飞机的信息。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "apply for a visa",
+        "申请签证"
+      ],
+      [
+        "book a flight",
+        "订航班"
+      ],
+      [
+        "an airline pilot",
+        "航空公司飞行员"
+      ]
+    ],
+    "notes": "airline 指航空公司，flight 可指一次航班。",
+    "scene": "One daylit airport concourse cutaway with five readable callouts carefully spaced. Foreground VISA points to generic visa sticker inside a fictional passport with a tiny abstract seal, no readable personal text. AIRLINE points to a check-in service desk and staff backed by a simple unlettered wing emblem that also appears on a distant aircraft, showing common operator. FLIGHT points to a large digital pictogram-only timetable strip with a single departure route arc, airport dots and small aircraft icon, no numerals or codes. PILOT points to a clearly uniformed adult with epaulettes walking towards the glass gate. PASSENGER points to one traveller seated with a suitcase waiting nearby. Only five exact labels inside the scene, no repeat list.",
+    "palette": "机场玻璃冷蓝、公司标志深青、签证印章暖橙，制服与背包帮助辨认人物身份。",
+    "ielts": "听力 Part 1 | 听懂航班咨询与乘机安排",
+    "practice": "用 flight 和 airline 说一句出行安排。",
+    "answer": "I contacted the airline to change my flight.",
+    "reference_urls": [],
+    "image": "previews/07.webp"
+  },
+  {
+    "id": "08",
+    "page": 8,
+    "title": "航空展里的四种辨认",
+    "kind": "contrast",
+    "targets": [
+      "airplane",
+      "helicopter",
+      "jet",
+      "parachute"
+    ],
+    "labels": [
+      {
+        "word": "airplane",
+        "pos": "n.",
+        "zh": "飞机"
+      },
+      {
+        "word": "helicopter",
+        "pos": "n.",
+        "zh": "直升机"
+      },
+      {
+        "word": "jet",
+        "pos": "n.",
+        "zh": "喷气式飞机"
+      },
+      {
+        "word": "parachute",
+        "pos": "n.",
+        "zh": "降落伞"
+      }
+    ],
+    "sources": [
+      {
+        "word": "airplane",
+        "physical_page": 184,
+        "printed_page": 173
+      },
+      {
+        "word": "helicopter",
+        "physical_page": 184,
+        "printed_page": 173
+      },
+      {
+        "word": "jet",
+        "physical_page": 184,
+        "printed_page": 173
+      },
+      {
+        "word": "parachute",
+        "physical_page": 184,
+        "printed_page": 173
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 08\n词义辨析 | 交通旅行\n航空展里的四种辨认\nairplane  n.  飞机\nhelicopter  n.  直升机\njet  n.  喷气式飞机\nparachute  n.  降落伞\n放进句子里\nThe helicopter was parked beside a jet.\n直升机停在一架喷气式飞机旁。\n用法提醒\njet 是喷气式飞机，也属于 airplane。\n雅思应用\n口语 Part 2 | 描述一次参观航空展的经历\n轮到你了\n用 helicopter 或 jet 说说你见到的航空器。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The helicopter was parked beside a jet.",
+    "example_zh": "直升机停在一架喷气式飞机旁。",
+    "examples": [
+      {
+        "en": "The helicopter was parked beside a jet.",
+        "zh": "直升机停在一架喷气式飞机旁。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a passenger airplane",
+        "客机"
+      ],
+      [
+        "a helicopter flight",
+        "直升机飞行"
+      ],
+      [
+        "a jet engine",
+        "喷气发动机"
+      ],
+      [
+        "open a parachute",
+        "打开降落伞"
+      ]
+    ],
+    "notes": "jet 是喷气式飞机，也属于 airplane。",
+    "scene": "Single organised aviation exhibition on a grassy airfield. AIRPLANE callout has a bracket covering both a fixed-wing propeller aircraft parked on left and a sleek passenger jet at rear right, clarifying both are airplanes. JET points specifically to the passenger jet with visible jet engines under wings. HELICOPTER points to a separate rotorcraft in front right with visible top rotor and tail rotor. PARACHUTE points to a fully inflated bright fabric parachute canopy displayed with fine lines down to an empty harness on a tall stand in a supervised exhibition area; no danger action. All four callouts accurately at objects, do not form false exclusive airplane/jet categories. No extra labels or background lettering.",
+    "palette": "银白机身、机翼蓝灰和橙黄伞面，草绿地面提供清楚轮廓。",
+    "ielts": "口语 Part 2 | 描述一次参观航空展的经历",
+    "practice": "用 helicopter 或 jet 说说你见到的航空器。",
+    "answer": "I saw a passenger jet with two large engines.",
+    "reference_urls": [],
+    "image": "previews/08.webp"
+  },
+  {
+    "id": "09",
+    "page": 9,
+    "title": "行李总称与一只箱子",
+    "kind": "contrast",
+    "targets": [
+      "baggage",
+      "luggage",
+      "suitcase"
+    ],
+    "labels": [
+      {
+        "word": "baggage",
+        "pos": "n.",
+        "zh": "行李"
+      },
+      {
+        "word": "luggage",
+        "pos": "n.",
+        "zh": "行李"
+      },
+      {
+        "word": "suitcase",
+        "pos": "n.",
+        "zh": "行李箱"
+      }
+    ],
+    "sources": [
+      {
+        "word": "baggage",
+        "physical_page": 184,
+        "printed_page": 173
+      },
+      {
+        "word": "luggage",
+        "physical_page": 184,
+        "printed_page": 173
+      },
+      {
+        "word": "suitcase",
+        "physical_page": 184,
+        "printed_page": 173
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 09\n词义辨析 | 交通旅行\n行李总称与一只箱子\nbaggage  n.  行李\nluggage  n.  行李\nsuitcase  n.  行李箱\n放进句子里\nHer luggage included a red suitcase.\n她的行李中有一只红色行李箱。\n用法提醒\nbaggage 和 luggage 通常不可数，可说 a piece of luggage。\n雅思应用\n听力 Part 1 | 描述行李或报失物品\n轮到你了\n用 suitcase 和 luggage 描述你会带的行李。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "Her luggage included a red suitcase.",
+    "example_zh": "她的行李中有一只红色行李箱。",
+    "examples": [
+      {
+        "en": "Her luggage included a red suitcase.",
+        "zh": "她的行李中有一只红色行李箱。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a piece of luggage",
+        "一件行李"
+      ],
+      [
+        "check in baggage",
+        "托运行李"
+      ],
+      [
+        "pack a suitcase",
+        "收拾行李箱"
+      ]
+    ],
+    "notes": "baggage 和 luggage 通常不可数，可说 a piece of luggage。",
+    "scene": "Clear train station luggage waiting area, warm afternoon light. A traveller rests beside a large wheeled suitcase, soft travel bag and backpack as one neat grouped set. BAGGAGE and LUGGAGE labels have two thin independent leaders or a shared unambiguous bracket both enclosing the same entire group, emphasizing overlap. SUITCASE has one precise leader ending on the actual hard-shell suitcase, not the bag/backpack. Use exactly three bilingual callouts once. No signs, tickets with text, extra words or second glossary.",
+    "palette": "行李箱酒红、软包深蓝、背包芥黄与车站石灰地面分清单件和整组。",
+    "ielts": "听力 Part 1 | 描述行李或报失物品",
+    "practice": "用 suitcase 和 luggage 描述你会带的行李。",
+    "answer": "I usually take one small suitcase and a piece of hand luggage.",
+    "reference_urls": [],
+    "image": "previews/09.webp"
+  },
+  {
+    "id": "10",
+    "page": 10,
+    "title": "traffic",
+    "kind": "word",
+    "targets": [
+      "traffic"
+    ],
+    "labels": [
+      {
+        "word": "traffic",
+        "pos": "n.",
+        "zh": "交通；车流"
+      }
+    ],
+    "sources": [
+      {
+        "word": "traffic",
+        "physical_page": 184,
+        "printed_page": 173
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 10\n单词精讲 | 交通旅行\ntraffic\n/'træf.ɪk/  n.\n交通；车流\n道路上的车辆及其行驶活动。\n放进句子里\nTraffic is heavy near the station in the morning.\n早上车站附近车流很大。\n常用搭配\nheavy traffic\ntraffic flow\nreduce traffic congestion\n用法提醒\ntraffic 通常不可数，可用 heavy 描述车流密集。\n雅思应用\n写作 Task 2 | 提出缓解交通拥堵的建议\n轮到你了\n用 heavy traffic 说说你熟悉的一段通勤。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "Traffic is heavy near the station in the morning.",
+    "example_zh": "早上车站附近车流很大。",
+    "examples": [
+      {
+        "en": "Traffic is heavy near the station in the morning.",
+        "zh": "早上车站附近车流很大。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "heavy traffic",
+        "密集的车流"
+      ],
+      [
+        "traffic flow",
+        "车流量；车流状况"
+      ],
+      [
+        "reduce traffic congestion",
+        "缓解交通拥堵"
+      ]
+    ],
+    "notes": "traffic 通常不可数，可用 heavy 描述车流密集。",
+    "scene": "Single word teaching card with huge traffic title at top-left, IPA noun and definition. Dominant urban morning scene right and below showing many cars in a slow orderly queue at an intersection, one bus in a separate lane and cyclists on an adjacent path. Let density of moving vehicles show traffic; no exhaust drama. Visible green traffic light doesn't imply cars must move if junction blocked. No scene labels, signs with words, numbers or logos. Meaning stays traffic overall, no unwanted vocabulary list.",
+    "palette": "清晨蓝灰车流和砖红公交道、绿色树荫突出不同交通空间。",
+    "ielts": "写作 Task 2 | 提出缓解交通拥堵的建议",
+    "practice": "用 heavy traffic 说说你熟悉的一段通勤。",
+    "answer": "Heavy traffic often slows my journey to work.",
+    "reference_urls": [],
+    "ipa": "/ˈtræf.ɪk/",
+    "definition": "道路上的车辆及其行驶活动。",
+    "image": "previews/10.webp"
+  },
+  {
+    "id": "11",
+    "page": 11,
+    "title": "上车前收好随身包",
+    "kind": "scene",
+    "targets": [
+      "carry-on",
+      "rack",
+      "fare"
+    ],
+    "labels": [
+      {
+        "word": "carry-on",
+        "pos": "n.",
+        "zh": "随身行李"
+      },
+      {
+        "word": "rack",
+        "pos": "n.",
+        "zh": "行李架"
+      },
+      {
+        "word": "fare",
+        "pos": "n.",
+        "zh": "票价"
+      }
+    ],
+    "sources": [
+      {
+        "word": "carry-on",
+        "physical_page": 185,
+        "printed_page": 174
+      },
+      {
+        "word": "rack",
+        "physical_page": 185,
+        "printed_page": 174
+      },
+      {
+        "word": "fare",
+        "physical_page": 185,
+        "printed_page": 174
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 11\n场景词群 | 交通旅行\n上车前收好随身包\ncarry-on  n.  随身行李\nrack  n.  行李架\nfare  n.  票价\n放进句子里\nI paid the fare and put my carry-on on the rack.\n我付了车费，把随身行李放上了行李架。\n用法提醒\npay the fare 表示支付车费。\n雅思应用\n听力 Part 1 | 听懂车费与行李安排\n轮到你了\n用 carry-on 和 rack 说说你把包放在哪里。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "I paid the fare and put my carry-on on the rack.",
+    "example_zh": "我付了车费，把随身行李放上了行李架。",
+    "examples": [
+      {
+        "en": "I paid the fare and put my carry-on on the rack.",
+        "zh": "我付了车费，把随身行李放上了行李架。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a carry-on bag",
+        "随身包"
+      ],
+      [
+        "a luggage rack",
+        "行李架"
+      ],
+      [
+        "pay the fare",
+        "付车费"
+      ]
+    ],
+    "notes": "pay the fare 表示支付车费。",
+    "scene": "一张连贯的长途客车剖透插画，近侧敞开车门连到售票窗。carry-on 引线准确指乘客手中一只小型随身旅行包，rack 引线指座位上方清晰的空行李架杆件，不能指包。fare 引线指售票员递出的车票和乘客付款的动作，车票只画简单线条与小硬币图示，没有票价数字或文字。蓝布座位、暖木售票窗，三个落点分离。",
+    "palette": "客车藏蓝、随身包赭橙、车票奶白和售票窗木金。",
+    "ielts": "听力 Part 1 | 听懂车费与行李安排",
+    "practice": "用 carry-on 和 rack 说说你把包放在哪里。",
+    "answer": "I put my carry-on on the overhead rack.",
+    "reference_urls": [],
+    "image": "previews/11.webp"
+  },
+  {
+    "id": "12",
+    "page": 12,
+    "title": "货运站里装什么车",
+    "kind": "contrast",
+    "targets": [
+      "freight",
+      "truck",
+      "lorry",
+      "van"
+    ],
+    "labels": [
+      {
+        "word": "freight",
+        "pos": "n.",
+        "zh": "货物；货运"
+      },
+      {
+        "word": "truck",
+        "pos": "n.",
+        "zh": "卡车"
+      },
+      {
+        "word": "lorry",
+        "pos": "n.",
+        "zh": "卡车，英式常用"
+      },
+      {
+        "word": "van",
+        "pos": "n.",
+        "zh": "厢式货车"
+      }
+    ],
+    "sources": [
+      {
+        "word": "freight",
+        "physical_page": 185,
+        "printed_page": 174
+      },
+      {
+        "word": "truck",
+        "physical_page": 186,
+        "printed_page": 175
+      },
+      {
+        "word": "lorry",
+        "physical_page": 186,
+        "printed_page": 175
+      },
+      {
+        "word": "van",
+        "physical_page": 186,
+        "printed_page": 175
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 12\n词义辨析 | 交通旅行\n货运站里装什么车\nfreight  n.  货物；货运\ntruck  n.  卡车\nlorry  n.  卡车，英式常用\nvan  n.  厢式货车\n放进句子里\nThe freight was loaded onto a lorry.\n货物被装上了一辆卡车。\n用法提醒\nlorry 常用于英式英语，truck 在美式英语中常见。\n雅思应用\n写作 Task 1 | 描述货物运输流程\n轮到你了\n用 freight 和 van 描述一次配送。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The freight was loaded onto a lorry.",
+    "example_zh": "货物被装上了一辆卡车。",
+    "examples": [
+      {
+        "en": "The freight was loaded onto a lorry.",
+        "zh": "货物被装上了一辆卡车。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "road freight",
+        "公路货运"
+      ],
+      [
+        "a delivery truck",
+        "配送卡车"
+      ],
+      [
+        "a delivery van",
+        "配送面包车"
+      ]
+    ],
+    "notes": "lorry 常用于英式英语，truck 在美式英语中常见。",
+    "scene": "大型配送站连贯场景，左侧一辆大型蓝色货车停靠装货台，画清驾驶室和长方形货厢。truck 和 lorry 两条清晰短引线分别指同一辆蓝色货车的两个位置，表示两词可指同一种车辆，不画两种人为分类。freight 引线只指装货台上成组的木箱和托盘货物。右侧另停一辆明显较小的白色封闭式配送面包车，van 指它的车身。工作人员正在有序装货，无可读品牌和编号。",
+    "palette": "大型货车海军蓝、小型货车瓷白、木箱暖赭，便于分清车辆和货物。",
+    "ielts": "写作 Task 1 | 描述货物运输流程",
+    "practice": "用 freight 和 van 描述一次配送。",
+    "answer": "The van carried small items of freight to local shops.",
+    "reference_urls": [],
+    "image": "previews/12.webp"
+  },
+  {
+    "id": "13",
+    "page": 13,
+    "title": "摊开地图规划旅程",
+    "kind": "scene",
+    "targets": [
+      "atlas",
+      "route",
+      "itinerary"
+    ],
+    "labels": [
+      {
+        "word": "atlas",
+        "pos": "n.",
+        "zh": "地图册"
+      },
+      {
+        "word": "route",
+        "pos": "n.",
+        "zh": "路线"
+      },
+      {
+        "word": "itinerary",
+        "pos": "n.",
+        "zh": "行程安排"
+      }
+    ],
+    "sources": [
+      {
+        "word": "atlas",
+        "physical_page": 185,
+        "printed_page": 174
+      },
+      {
+        "word": "route",
+        "physical_page": 185,
+        "printed_page": 174
+      },
+      {
+        "word": "itinerary",
+        "physical_page": 185,
+        "printed_page": 174
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 13\n场景词群 | 交通旅行\n摊开地图规划旅程\natlas  n.  地图册\nroute  n.  路线\nitinerary  n.  行程安排\n放进句子里\nOur itinerary includes a scenic route along the coast.\n我们的行程里有一段沿海的观光路线。\n用法提醒\nroute 是行走路线，itinerary 包含行程安排。\n雅思应用\n口语 Part 2 | 介绍一次计划中的旅行\n轮到你了\n用 itinerary 说说旅行第一站的安排。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "Our itinerary includes a scenic route along the coast.",
+    "example_zh": "我们的行程里有一段沿海的观光路线。",
+    "examples": [
+      {
+        "en": "Our itinerary includes a scenic route along the coast.",
+        "zh": "我们的行程里有一段沿海的观光路线。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a road atlas",
+        "公路地图册"
+      ],
+      [
+        "plan a route",
+        "规划路线"
+      ],
+      [
+        "a detailed itinerary",
+        "详细行程"
+      ]
+    ],
+    "notes": "route 是行走路线，itinerary 包含行程安排。",
+    "scene": "旅人正在窗边桌上规划三日旅行。大幅打开的有装订书脊的地图册在桌中央，atlas 引线指向装订页边。地图没有可读地名，只画海湾、山和城镇；route 的短引线落在一条从起点经山镇到海边的红色路线本身。旁边单独一张行程纸显示三段上下排列的太阳图标和目的地图画，以无文字日程说明按顺序游览，itinerary 引线指整张行程纸。三处落点各自分离，避免额外标签。",
+    "palette": "地图海湾蓝、路线砖红，行程纸金色太阳图示衬纸张米白。",
+    "ielts": "口语 Part 2 | 介绍一次计划中的旅行",
+    "practice": "用 itinerary 说说旅行第一站的安排。",
+    "answer": "The first stop on our itinerary is a small coastal town.",
+    "reference_urls": [],
+    "image": "previews/13.webp"
+  },
+  {
+    "id": "14",
+    "page": 14,
+    "title": "从通道走到路口",
+    "kind": "scene",
+    "targets": [
+      "passage",
+      "intersection",
+      "cross"
+    ],
+    "labels": [
+      {
+        "word": "passage",
+        "pos": "n.",
+        "zh": "通道"
+      },
+      {
+        "word": "intersection",
+        "pos": "n.",
+        "zh": "交叉路口"
+      },
+      {
+        "word": "cross",
+        "pos": "v.",
+        "zh": "横穿"
+      }
+    ],
+    "sources": [
+      {
+        "word": "passage",
+        "physical_page": 185,
+        "printed_page": 174
+      },
+      {
+        "word": "intersection",
+        "physical_page": 185,
+        "printed_page": 174
+      },
+      {
+        "word": "cross",
+        "physical_page": 185,
+        "printed_page": 174
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 14\n场景词群 | 交通旅行\n从通道走到路口\npassage  n.  通道\nintersection  n.  交叉路口\ncross  v.  横穿\n放进句子里\nWe crossed the road at the intersection.\n我们在交叉路口过了马路。\n用法提醒\ncross the road 中 cross 是动词。\n雅思应用\n听力 Part 2 | 听懂街道路口的指路\n轮到你了\n用 passage 和 cross 给一句步行指引。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "We crossed the road at the intersection.",
+    "example_zh": "我们在交叉路口过了马路。",
+    "examples": [
+      {
+        "en": "We crossed the road at the intersection.",
+        "zh": "我们在交叉路口过了马路。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a narrow passage",
+        "狭窄通道"
+      ],
+      [
+        "at the intersection",
+        "在交叉路口"
+      ],
+      [
+        "cross the road",
+        "过马路"
+      ]
+    ],
+    "notes": "cross the road 中 cross 是动词。",
+    "scene": "一幅连贯的步行街角场景，从左边建筑下的有顶步行通道延伸到中央清楚的十字交叉路口。passage 引线指建筑内穿行的整段通道地面。intersection 用短括线圈住两条路相交的中央路面区域。cross 引线指一位成年人正沿斑马线穿过道路的脚步位置，用短箭头标步行方向，不给静态路口贴动词。车停在停止线后，步行灯只用绿小人图标，无字无数字。",
+    "palette": "通道石灰、交叉路口蓝灰、斑马线白和步行者黄衣形成明显定位。",
+    "ielts": "听力 Part 2 | 听懂街道路口的指路",
+    "practice": "用 passage 和 cross 给一句步行指引。",
+    "answer": "Go through the passage and cross the road at the lights.",
+    "reference_urls": [],
+    "image": "previews/14.webp"
+  },
+  {
+    "id": "15",
+    "page": 15,
+    "title": "从小径走向林荫大街",
+    "kind": "contrast",
+    "targets": [
+      "way",
+      "path",
+      "lane",
+      "avenue"
+    ],
+    "labels": [
+      {
+        "word": "way",
+        "pos": "n.",
+        "zh": "路；方向"
+      },
+      {
+        "word": "path",
+        "pos": "n.",
+        "zh": "小径"
+      },
+      {
+        "word": "lane",
+        "pos": "n.",
+        "zh": "小巷"
+      },
+      {
+        "word": "avenue",
+        "pos": "n.",
+        "zh": "林荫大街"
+      }
+    ],
+    "sources": [
+      {
+        "word": "way",
+        "physical_page": 185,
+        "printed_page": 174
+      },
+      {
+        "word": "path",
+        "physical_page": 185,
+        "printed_page": 174
+      },
+      {
+        "word": "lane",
+        "physical_page": 185,
+        "printed_page": 174
+      },
+      {
+        "word": "avenue",
+        "physical_page": 185,
+        "printed_page": 174
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 15\n词义辨析 | 交通旅行\n从小径走向林荫大街\nway  n.  路；方向\npath  n.  小径\nlane  n.  小巷\navenue  n.  林荫大街\n放进句子里\nA narrow lane leads to the tree-lined avenue.\n一条小巷通向那条林荫大街。\n用法提醒\non the way to 表示在去某处的路上。\n雅思应用\n口语 Part 2 | 描述一条喜欢的街道\n轮到你了\n用 path 或 avenue 描述你常走的一条路。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "A narrow lane leads to the tree-lined avenue.",
+    "example_zh": "一条小巷通向那条林荫大街。",
+    "examples": [
+      {
+        "en": "A narrow lane leads to the tree-lined avenue.",
+        "zh": "一条小巷通向那条林荫大街。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "on the way to school",
+        "在去学校的路上"
+      ],
+      [
+        "a footpath",
+        "步行小径"
+      ],
+      [
+        "a narrow lane",
+        "小巷"
+      ],
+      [
+        "a tree-lined avenue",
+        "林荫大街"
+      ]
+    ],
+    "notes": "on the way to 表示在去某处的路上。",
+    "scene": "单幅斜俯视小镇旅行场景，主角在分岔处看一个简单箭头木牌，way 的引线指木牌上指明前进方向的箭头形状。path 指公园内窄小的碎石步行小径，lane 指两排房屋中间很窄的石板巷道，avenue 指远处有两侧成行树木的宽阔大街。三条路在画中连接但各自形态清晰。没有地名、数字、街名字样。",
+    "palette": "小径砂金、巷道石灰、林荫大道深绿，方向箭头暖红。",
+    "ielts": "口语 Part 2 | 描述一条喜欢的街道",
+    "practice": "用 path 或 avenue 描述你常走的一条路。",
+    "answer": "I often walk along the tree-lined avenue near my home.",
+    "reference_urls": [],
+    "image": "previews/15.webp"
+  },
+  {
+    "id": "16",
+    "page": 16,
+    "title": "公路旁的三处细节",
+    "kind": "scene",
+    "targets": [
+      "highway",
+      "curb",
+      "signpost",
+      "pave"
+    ],
+    "labels": [
+      {
+        "word": "highway",
+        "pos": "n.",
+        "zh": "公路"
+      },
+      {
+        "word": "curb",
+        "pos": "n.",
+        "zh": "路缘"
+      },
+      {
+        "word": "signpost",
+        "pos": "n.",
+        "zh": "路标"
+      },
+      {
+        "word": "pave",
+        "pos": "v.",
+        "zh": "铺路"
+      }
+    ],
+    "sources": [
+      {
+        "word": "highway",
+        "physical_page": 186,
+        "printed_page": 175
+      },
+      {
+        "word": "curb",
+        "physical_page": 186,
+        "printed_page": 175
+      },
+      {
+        "word": "signpost",
+        "physical_page": 186,
+        "printed_page": 175
+      },
+      {
+        "word": "pave",
+        "physical_page": 186,
+        "printed_page": 175
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 16\n场景词群 | 交通旅行\n公路旁的三处细节\nhighway  n.  公路\ncurb  n.  路缘\nsignpost  n.  路标\npave  v.  铺路\n放进句子里\nWorkers paved the path beside the highway.\n工人铺好了公路旁的小路。\n用法提醒\ncurb 是美式拼写，英式常写 kerb。\n雅思应用\n听力 Part 2 | 识别道路设施与方向\n轮到你了\n用 signpost 说说路标怎样帮你找到路。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "Workers paved the path beside the highway.",
+    "example_zh": "工人铺好了公路旁的小路。",
+    "examples": [
+      {
+        "en": "Workers paved the path beside the highway.",
+        "zh": "工人铺好了公路旁的小路。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a main highway",
+        "主要公路"
+      ],
+      [
+        "stand by the curb",
+        "站在路缘旁"
+      ],
+      [
+        "follow a signpost",
+        "跟着路标走"
+      ],
+      [
+        "pave a road",
+        "铺路"
+      ]
+    ],
+    "notes": "curb 是美式拼写，英式常写 kerb。",
+    "scene": "晴天郊外公路远近景相接。highway 以引线指向远处贯通两座城镇、路面有中线的宽公路整体。前景行人平台与车道之间有清楚凸起的石砌路缘，curb 引线准确到石路缘顶面。signpost 指路旁有两个箭头形板的木路标，仅图形、不可读地名。最右侧隔离施工小区域里，两名工人正在把石砖逐块铺入一段人行道，pave 指正在放下石砖的手与铺砖动作。安全围栏分开施工和通行路面。",
+    "palette": "公路蓝灰、石缘暖灰、路标深木色、施工背心橙黄。",
+    "ielts": "听力 Part 2 | 识别道路设施与方向",
+    "practice": "用 signpost 说说路标怎样帮你找到路。",
+    "answer": "The signpost showed us the way to the station.",
+    "reference_urls": [],
+    "image": "previews/16.webp"
+  },
+  {
+    "id": "17",
+    "page": 17,
+    "title": "客运站前的交通工具",
+    "kind": "scene",
+    "targets": [
+      "vehicle",
+      "auto",
+      "coach",
+      "ambulance"
+    ],
+    "labels": [
+      {
+        "word": "vehicle",
+        "pos": "n.",
+        "zh": "车辆"
+      },
+      {
+        "word": "auto",
+        "pos": "n.",
+        "zh": "汽车"
+      },
+      {
+        "word": "coach",
+        "pos": "n.",
+        "zh": "长途客车"
+      },
+      {
+        "word": "ambulance",
+        "pos": "n.",
+        "zh": "救护车"
+      }
+    ],
+    "sources": [
+      {
+        "word": "vehicle",
+        "physical_page": 186,
+        "printed_page": 175
+      },
+      {
+        "word": "auto",
+        "physical_page": 186,
+        "printed_page": 175
+      },
+      {
+        "word": "coach",
+        "physical_page": 186,
+        "printed_page": 175
+      },
+      {
+        "word": "ambulance",
+        "physical_page": 186,
+        "printed_page": 175
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 17\n场景词群 | 交通旅行\n客运站前的交通工具\nvehicle  n.  车辆\nauto  n.  汽车\ncoach  n.  长途客车\nambulance  n.  救护车\n放进句子里\nWe travelled to the city by coach.\n我们坐长途客车去了那座城市。\n用法提醒\nvehicle 是车辆的总称。auto 多见于美式用语。\n雅思应用\n口语 Part 1 | 比较出行方式\n轮到你了\n用 coach 说说一次长途出行。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "We travelled to the city by coach.",
+    "example_zh": "我们坐长途客车去了那座城市。",
+    "examples": [
+      {
+        "en": "We travelled to the city by coach.",
+        "zh": "我们坐长途客车去了那座城市。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a motor vehicle",
+        "机动车"
+      ],
+      [
+        "the auto industry",
+        "汽车行业"
+      ],
+      [
+        "travel by coach",
+        "乘长途客车出行"
+      ],
+      [
+        "an ambulance",
+        "一辆救护车"
+      ]
+    ],
+    "notes": "vehicle 是车辆的总称。auto 多见于美式用语。",
+    "scene": "连贯的交通博物馆室外广场或客运站前交通展示场景。画面有一辆普通小汽车、一辆大型带行李舱的长途客车、一辆有蓝色星形急救标志的救护车，三者间隔明确。vehicle 的括线覆盖这三辆车，把它们归为车辆总称。auto 引线指小汽车车身，coach 指长途客车车身，ambulance 指救护车本身，不指警示灯。无品牌文字或路牌。三车停靠，不用竞速情景。",
+    "palette": "小汽车珊瑚红、长途车蓝绿、救护车白蓝，让总类和实例清楚。",
+    "ielts": "口语 Part 1 | 比较出行方式",
+    "practice": "用 coach 说说一次长途出行。",
+    "answer": "I travelled by coach because the tickets were affordable.",
+    "reference_urls": [],
+    "image": "previews/17.webp"
+  },
+  {
+    "id": "18",
+    "page": 18,
+    "title": "轨道旁的四个词",
+    "kind": "contrast",
+    "targets": [
+      "express",
+      "tram",
+      "wagon",
+      "carriage"
+    ],
+    "labels": [
+      {
+        "word": "express",
+        "pos": "n.",
+        "zh": "特快列车"
+      },
+      {
+        "word": "tram",
+        "pos": "n.",
+        "zh": "有轨电车"
+      },
+      {
+        "word": "wagon",
+        "pos": "n.",
+        "zh": "货车厢"
+      },
+      {
+        "word": "carriage",
+        "pos": "n.",
+        "zh": "客运车厢"
+      }
+    ],
+    "sources": [
+      {
+        "word": "express",
+        "physical_page": 186,
+        "printed_page": 175
+      },
+      {
+        "word": "tram",
+        "physical_page": 186,
+        "printed_page": 175
+      },
+      {
+        "word": "wagon",
+        "physical_page": 186,
+        "printed_page": 175
+      },
+      {
+        "word": "carriage",
+        "physical_page": 186,
+        "printed_page": 175
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 18\n词义辨析 | 交通旅行\n轨道旁的四个词\nexpress  n.  特快列车\ntram  n.  有轨电车\nwagon  n.  货车厢\ncarriage  n.  客运车厢\n放进句子里\nThe express has several passenger carriages.\n这班特快列车有几节客运车厢。\n用法提醒\ncarriage 指客运车厢，wagon 可指货车厢。\n雅思应用\n听力 Part 1 | 听懂列车与换乘信息\n轮到你了\n用 tram 或 express 说说你想选哪种出行方式。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The express has several passenger carriages.",
+    "example_zh": "这班特快列车有几节客运车厢。",
+    "examples": [
+      {
+        "en": "The express has several passenger carriages.",
+        "zh": "这班特快列车有几节客运车厢。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an express train",
+        "特快列车"
+      ],
+      [
+        "take a tram",
+        "坐有轨电车"
+      ],
+      [
+        "a freight wagon",
+        "货车厢"
+      ],
+      [
+        "a railway carriage",
+        "火车客运车厢"
+      ]
+    ],
+    "notes": "carriage 指客运车厢，wagon 可指货车厢。",
+    "scene": "一张铁路与有轨电车站附近的连贯交通剖景。远处一列流线型长途列车从城市站台出发，express 标签引线指列车头与整列车，不显示文字或速度数据。近处单独一段透明剖视客运火车车厢，能看见两排座位和旅客，carriage 指整个客运车厢侧壳。平行货运轨道上一节平板货车厢载着木箱，wagon 引线指该车厢底盘和护栏。下方城市道路上有电线相连的单节有轨电车，tram 引线指车体。各轨道清楚分离，不交错混淆。",
+    "palette": "特快银蓝、客运车厢暖窗金、货车厢深褐和电车草绿。",
+    "ielts": "听力 Part 1 | 听懂列车与换乘信息",
+    "practice": "用 tram 或 express 说说你想选哪种出行方式。",
+    "answer": "I would take the tram for a short trip across town.",
+    "reference_urls": [],
+    "image": "previews/18.webp"
+  },
+  {
+    "id": "19",
+    "page": 19,
+    "title": "乡间集市的慢行方式",
+    "kind": "scene",
+    "targets": [
+      "tractor",
+      "cart",
+      "pedicab",
+      "cycle"
+    ],
+    "labels": [
+      {
+        "word": "tractor",
+        "pos": "n.",
+        "zh": "拖拉机"
+      },
+      {
+        "word": "cart",
+        "pos": "n.",
+        "zh": "手推车"
+      },
+      {
+        "word": "pedicab",
+        "pos": "n.",
+        "zh": "人力三轮车"
+      },
+      {
+        "word": "cycle",
+        "pos": "v.",
+        "zh": "骑自行车"
+      }
+    ],
+    "sources": [
+      {
+        "word": "tractor",
+        "physical_page": 187,
+        "printed_page": 176
+      },
+      {
+        "word": "cart",
+        "physical_page": 187,
+        "printed_page": 176
+      },
+      {
+        "word": "pedicab",
+        "physical_page": 187,
+        "printed_page": 176
+      },
+      {
+        "word": "cycle",
+        "physical_page": 187,
+        "printed_page": 176
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 19\n场景词群 | 交通旅行\n乡间集市的慢行方式\ntractor  n.  拖拉机\ncart  n.  手推车\npedicab  n.  人力三轮车\ncycle  v.  骑自行车\n放进句子里\nWe cycled to the village market.\n我们骑自行车去了村里的集市。\n用法提醒\ncycle 可作动词，表示骑自行车。\n雅思应用\n口语 Part 1 | 聊聊骑车习惯\n轮到你了\n用 cycle 说说你多久骑一次车。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "We cycled to the village market.",
+    "example_zh": "我们骑自行车去了村里的集市。",
+    "examples": [
+      {
+        "en": "We cycled to the village market.",
+        "zh": "我们骑自行车去了村里的集市。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a farm tractor",
+        "农用拖拉机"
+      ],
+      [
+        "push a cart",
+        "推一辆手推车"
+      ],
+      [
+        "ride in a pedicab",
+        "坐人力三轮车"
+      ],
+      [
+        "cycle to work",
+        "骑车上班"
+      ]
+    ],
+    "notes": "cycle 可作动词，表示骑自行车。",
+    "scene": "暖阳下的乡村集市旁连续场景。左远处一辆拖拉机在农田边拉小农具，tractor 引线到发动机车身。左前景摊主推着两轮手推货车，cart 引线到手推车木箱和车轮整体。右侧一辆有一个前轮两个后轮、载客座位在骑手后方的人力三轮车，能清楚辨出三个轮子，pedicab 引线指整车。中间独立骑行道上一位戴头盔的成年人踩自行车，cycle 引线到踩踏动作，用小箭头表前进。人物互不遮挡，无文字。",
+    "palette": "拖拉机农机红、推车木棕、三轮车奶油黄、自行车青蓝，配田野绿。",
+    "ielts": "口语 Part 1 | 聊聊骑车习惯",
+    "practice": "用 cycle 说说你多久骑一次车。",
+    "answer": "I cycle to the market once a week.",
+    "reference_urls": [],
+    "image": "previews/19.webp"
+  },
+  {
+    "id": "20",
+    "page": 20,
+    "title": "汽修厂里查看动力",
+    "kind": "scene",
+    "targets": [
+      "garage",
+      "motor",
+      "horsepower"
+    ],
+    "labels": [
+      {
+        "word": "garage",
+        "pos": "n.",
+        "zh": "汽车修理厂"
+      },
+      {
+        "word": "motor",
+        "pos": "n.",
+        "zh": "发动机；马达"
+      },
+      {
+        "word": "horsepower",
+        "pos": "n.",
+        "zh": "马力"
+      }
+    ],
+    "sources": [
+      {
+        "word": "garage",
+        "physical_page": 187,
+        "printed_page": 176
+      },
+      {
+        "word": "motor",
+        "physical_page": 187,
+        "printed_page": 176
+      },
+      {
+        "word": "horsepower",
+        "physical_page": 187,
+        "printed_page": 176
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 20\n场景词群 | 交通旅行\n汽修厂里查看动力\ngarage  n.  汽车修理厂\nmotor  n.  发动机；马达\nhorsepower  n.  马力\n放进句子里\nThe mechanic checked the motor at the garage.\n修理工在汽车修理厂检查了发动机。\n用法提醒\nhorsepower 是表示功率的单位。\n雅思应用\n阅读 | 识别车辆动力参数的描述\n轮到你了\n用 garage 和 motor 说说一次车辆检查。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The mechanic checked the motor at the garage.",
+    "example_zh": "修理工在汽车修理厂检查了发动机。",
+    "examples": [
+      {
+        "en": "The mechanic checked the motor at the garage.",
+        "zh": "修理工在汽车修理厂检查了发动机。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a local garage",
+        "附近的汽车修理厂"
+      ],
+      [
+        "an electric motor",
+        "电动机"
+      ],
+      [
+        "engine horsepower",
+        "发动机马力"
+      ]
+    ],
+    "notes": "horsepower 是表示功率的单位。",
+    "scene": "明亮汽车修理厂剖透场景，车停稳熄火，修理员在车头旁检查。garage 引线指整个敞开修理工位的建筑空间。motor 引线直接落到打开车盖下面清楚独立的发动机金属机体。horsepower 引线指修理员另一只手中的车辆规格表，其中只显示一个简洁功率表盘图标和无文字线条，以示功率参数，不画马、不要数值或其他单位文字。所有部件保持示意简洁可认，地面工具有序。",
+    "palette": "修理厂钢灰与蓝色工具柜，发动机银灰，规格表暖黄纸面。",
+    "ielts": "阅读 | 识别车辆动力参数的描述",
+    "practice": "用 garage 和 motor 说说一次车辆检查。",
+    "answer": "I took the car to a garage to have the motor checked.",
+    "reference_urls": [],
+    "image": "previews/20.webp"
+  },
+  {
+    "id": "21",
+    "page": 21,
+    "title": "车轮、轮胎与驾驶动作",
+    "kind": "scene",
+    "targets": [
+      "wheel",
+      "tyre",
+      "brake",
+      "honk"
+    ],
+    "labels": [
+      {
+        "word": "wheel",
+        "pos": "n.",
+        "zh": "车轮"
+      },
+      {
+        "word": "tyre",
+        "pos": "n.",
+        "zh": "轮胎"
+      },
+      {
+        "word": "brake",
+        "pos": "v.",
+        "zh": "刹车"
+      },
+      {
+        "word": "honk",
+        "pos": "v.",
+        "zh": "鸣笛"
+      }
+    ],
+    "sources": [
+      {
+        "word": "wheel",
+        "physical_page": 187,
+        "printed_page": 176
+      },
+      {
+        "word": "tyre",
+        "physical_page": 187,
+        "printed_page": 176
+      },
+      {
+        "word": "brake",
+        "physical_page": 187,
+        "printed_page": 176
+      },
+      {
+        "word": "honk",
+        "physical_page": 187,
+        "printed_page": 176
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 21\n场景词群 | 交通旅行\n车轮、轮胎与驾驶动作\nwheel  n.  车轮\ntyre  n.  轮胎\nbrake  v.  刹车\nhonk  v.  鸣笛\n放进句子里\nThe driver braked and sounded the horn.\n司机踩了刹车，并按响了喇叭。\n用法提醒\ntyre 是英式拼写，tire 是美式拼写。\n雅思应用\n口语 Part 2 | 描述一次出行经历\n轮到你了\n用 brake 或 honk 描述一个驾驶动作。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The driver braked and sounded the horn.",
+    "example_zh": "司机踩了刹车，并按响了喇叭。",
+    "examples": [
+      {
+        "en": "The driver braked and sounded the horn.",
+        "zh": "司机踩了刹车，并按响了喇叭。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a steering wheel",
+        "方向盘"
+      ],
+      [
+        "a flat tyre",
+        "瘪轮胎"
+      ],
+      [
+        "brake gently",
+        "轻踩刹车"
+      ],
+      [
+        "honk the horn",
+        "按喇叭"
+      ]
+    ],
+    "notes": "tyre 是英式拼写，tire 是美式拼写。",
+    "scene": "停在驾驶练习场的汽车做一个简洁教学剖透。左下方前轮单独放大但仍由细连线连接原车：wheel 的括线框住金属轮毂和轮胎组成的整个车轮，tyre 的短引线只指外圈黑色橡胶表面。右上方显示驾驶员脚轻踩刹车踏板的透明车内剖视，brake 引线指脚踩踏板动作。右下方驾驶员手按方向盘中心的喇叭区，用两个短声波符号显示，honk 引线直接落到手按的位置。各放大区没有多余词签，不用字母数字。",
+    "palette": "轮胎炭黑、车体湖蓝、踏板与方向盘深灰，动作点用琥珀色。",
+    "ielts": "口语 Part 2 | 描述一次出行经历",
+    "practice": "用 brake 或 honk 描述一个驾驶动作。",
+    "answer": "The driver braked gently as the traffic slowed.",
+    "reference_urls": [],
+    "image": "previews/21.webp"
+  },
+  {
+    "id": "22",
+    "page": 22,
+    "title": "crew",
+    "kind": "word",
+    "targets": [
+      "crew"
+    ],
+    "labels": [
+      {
+        "word": "crew",
+        "pos": "n.",
+        "zh": "全体机组人员；全体船员"
+      }
+    ],
+    "sources": [
+      {
+        "word": "crew",
+        "physical_page": 187,
+        "printed_page": 176
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 22\n单词精讲 | 交通旅行\ncrew\n/kru:/  n.\n全体机组人员；全体船员\n飞机、船舶等交通工具上的工作人员整体。\n常用搭配\nthe cabin crew\na crew member\nthe flight crew\n放进句子里\nThe crew welcomed passengers on board.\n机组人员欢迎乘客登机。\n用法提醒\ncrew 指在飞机或船上共同工作的人员。\n雅思应用\n听力 Part 1 | 识别机组与旅客的身份\n轮到你了\n用 crew 描述他们在旅途中做的一件事。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The crew welcomed passengers on board.",
+    "example_zh": "机组人员欢迎乘客登机。",
+    "examples": [
+      {
+        "en": "The crew welcomed passengers on board.",
+        "zh": "机组人员欢迎乘客登机。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the cabin crew",
+        "客舱乘务组"
+      ],
+      [
+        "a crew member",
+        "一名机组成员"
+      ],
+      [
+        "the flight crew",
+        "飞行机组"
+      ]
+    ],
+    "notes": "crew 指在飞机或船上共同工作的人员。",
+    "scene": "单词精讲卡，大词头、标准音标和释义在左上。右侧并延伸下方的大场景是在飞机舱门口准备工作的机组，能见两名飞行员和两名客舱工作人员共同检查登机准备，统一但不同岗位制服，手里拿着无文字检查单。通过团队共同工作呈现 crew 是一个群体，不把旅客画成机组。机舱背景只画座椅和窗户，无额外词签或编号。",
+    "palette": "航空制服海军蓝、机舱瓷白、登机口天空蓝与少量金色徽章。",
+    "ielts": "听力 Part 1 | 识别机组与旅客的身份",
+    "practice": "用 crew 描述他们在旅途中做的一件事。",
+    "answer": "The crew helped passengers find their seats.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/crew"
+    ],
+    "ipa": "/kruː/",
+    "definition": "飞机、船舶等交通工具上的工作人员整体。",
+    "image": "previews/22.webp"
+  },
+  {
+    "id": "23",
+    "page": 23,
+    "title": "船上不同的人做什么",
+    "kind": "scene",
+    "targets": [
+      "captain",
+      "steward",
+      "sailor",
+      "seaman"
+    ],
+    "labels": [
+      {
+        "word": "captain",
+        "pos": "n.",
+        "zh": "船长"
+      },
+      {
+        "word": "steward",
+        "pos": "n.",
+        "zh": "乘务员"
+      },
+      {
+        "word": "sailor",
+        "pos": "n.",
+        "zh": "水手"
+      },
+      {
+        "word": "seaman",
+        "pos": "n.",
+        "zh": "水手"
+      }
+    ],
+    "sources": [
+      {
+        "word": "captain",
+        "physical_page": 188,
+        "printed_page": 177
+      },
+      {
+        "word": "steward",
+        "physical_page": 188,
+        "printed_page": 177
+      },
+      {
+        "word": "sailor",
+        "physical_page": 189,
+        "printed_page": 178
+      },
+      {
+        "word": "seaman",
+        "physical_page": 189,
+        "printed_page": 178
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 23\n场景词群 | 交通旅行\n船上不同的人做什么\ncaptain  n.  船长\nsailor  n.  水手\nsteward  n.  乘务员\nseaman  n.  水手\n放进句子里\nA steward brought us water during the crossing.\n渡海途中，一位乘务员给我们送来了水。\n用法提醒\nsailor 和 seaman 都可指职业水手。\n雅思应用\n听力 Part 1 · 识别船上工作人员\n轮到你了\n用 captain 或 steward 说说船上一位工作人员的职责。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "A steward brought us water during the crossing.",
+    "example_zh": "渡海途中，一位乘务员给我们送来了水。",
+    "examples": [
+      {
+        "en": "A steward brought us water during the crossing.",
+        "zh": "渡海途中，一位乘务员给我们送来了水。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the ship’s captain",
+        "船长"
+      ],
+      [
+        "a cabin steward",
+        "客舱乘务员"
+      ],
+      [
+        "an experienced sailor",
+        "有经验的水手"
+      ]
+    ],
+    "notes": "sailor 和 seaman 都可指职业水手。",
+    "scene": "Large continuous cutaway of a passenger ship in port. Top right captain stands at the bridge controls with a clear view, callout ends at that officer. Center right steward in service uniform offers a tray of water to a seated passenger. Lower left a professional deck worker coils rope. Sailor and seaman labels have two leaders terminating on the SAME worker, showing overlapping professional terms. No extra bilingual words or ship signage.",
+    "palette": "船桥用海军蓝，乘务区用暖杏，甲板木色与绳索赭色突出人物分工。",
+    "ielts": "听力 Part 1 · 识别船上工作人员",
+    "practice": "用 captain 或 steward 说说船上一位工作人员的职责。",
+    "answer": "The captain is responsible for the ship and its crew.",
+    "reference_urls": [],
+    "image": "previews/23.webp"
+  },
+  {
+    "id": "24",
+    "page": 24,
+    "title": "航行中的危险与应急",
+    "kind": "contrast",
+    "targets": [
+      "emergency",
+      "hazard"
+    ],
+    "labels": [
+      {
+        "word": "emergency",
+        "pos": "n.",
+        "zh": "紧急情况"
+      },
+      {
+        "word": "hazard",
+        "pos": "n.",
+        "zh": "危险因素"
+      }
+    ],
+    "sources": [
+      {
+        "word": "emergency",
+        "physical_page": 188,
+        "printed_page": 177
+      },
+      {
+        "word": "hazard",
+        "physical_page": 188,
+        "printed_page": 177
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 24\n词义辨析 | 交通旅行\n航行中的危险与应急\nemergency  n.  紧急情况\nhazard  n.  危险因素\n放进句子里\nThe crew practised what to do in an emergency.\n船员演练了遇到紧急情况时该做什么。\n用法提醒\nhazard 指可能造成伤害的因素。\n雅思应用\n阅读 · 区分风险因素与紧急事件\n轮到你了\n用 hazard 描述旅途中可能遇到的一种危险因素。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The crew practised what to do in an emergency.",
+    "example_zh": "船员演练了遇到紧急情况时该做什么。",
+    "examples": [
+      {
+        "en": "The crew practised what to do in an emergency.",
+        "zh": "船员演练了遇到紧急情况时该做什么。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a safety hazard",
+        "安全隐患"
+      ],
+      [
+        "in an emergency",
+        "在紧急情况下"
+      ],
+      [
+        "emergency services",
+        "应急救援部门"
+      ]
+    ],
+    "notes": "hazard 指可能造成伤害的因素。",
+    "scene": "A passenger ferry safety-training demonstration in a calm harbor. Hazard pointer ends at an unnoticed loose rope across a walking area, marked by simple warning triangle icon only. Emergency pointer to a practice rescue response where two crew members are assisting an uninjured adult with a life ring beside a lowered rescue boat. Clearly a drill-style scene, nobody distressed, no procedural diagrams or instructions. The teaching example is ordinary vocabulary, no prescriptive safety advice.",
+    "palette": "海水蓝与救生圈橙红，警示绳索用暖赭色，区分危险因素和紧急应对。",
+    "ielts": "阅读 · 区分风险因素与紧急事件",
+    "practice": "用 hazard 描述旅途中可能遇到的一种危险因素。",
+    "answer": "Ice on a mountain path can be a hazard.",
+    "reference_urls": [],
+    "image": "previews/24.webp"
+  },
+  {
+    "id": "25",
+    "page": 25,
+    "title": "碰撞、压坏与猛冲",
+    "kind": "contrast",
+    "targets": [
+      "wreck",
+      "crash",
+      "crush",
+      "dash"
+    ],
+    "labels": [
+      {
+        "word": "wreck",
+        "pos": "n.",
+        "zh": "失事船只的残骸"
+      },
+      {
+        "word": "crash",
+        "pos": "v.",
+        "zh": "碰撞"
+      },
+      {
+        "word": "crush",
+        "pos": "v.",
+        "zh": "压坏"
+      },
+      {
+        "word": "dash",
+        "pos": "v.",
+        "zh": "猛冲"
+      }
+    ],
+    "sources": [
+      {
+        "word": "wreck",
+        "physical_page": 188,
+        "printed_page": 177
+      },
+      {
+        "word": "crash",
+        "physical_page": 188,
+        "printed_page": 177
+      },
+      {
+        "word": "crush",
+        "physical_page": 188,
+        "printed_page": 177
+      },
+      {
+        "word": "dash",
+        "physical_page": 188,
+        "printed_page": 177
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 25\n词义辨析 | 交通旅行\n碰撞、压坏与猛冲\nwreck  n.  失事船只的残骸\ndash  v.  猛冲\ncrash  v.  碰撞\ncrush  v.  压坏\n放进句子里\nThe heavy suitcase crushed the empty box.\n沉重的行李箱压坏了那个空纸箱。\n用法提醒\ncrash 强调碰撞，crush 强调挤压损坏。\n雅思应用\n口语 Part 2 · 描述一次旅途中的小意外\n轮到你了\n用 crash 或 crush 说一句旅途中的意外。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The heavy suitcase crushed the empty box.",
+    "example_zh": "沉重的行李箱压坏了那个空纸箱。",
+    "examples": [
+      {
+        "en": "The heavy suitcase crushed the empty box.",
+        "zh": "沉重的行李箱压坏了那个空纸箱。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a shipwreck",
+        "失事船只残骸"
+      ],
+      [
+        "crash into a wall",
+        "撞到墙上"
+      ],
+      [
+        "crush a box",
+        "压坏箱子"
+      ],
+      [
+        "dash to the station",
+        "冲向车站"
+      ]
+    ],
+    "notes": "crash 强调碰撞，crush 强调挤压损坏。",
+    "scene": "One coastal transport museum yard with four precise illustration moments. Far left an old salvaged wooden ship wreck displayed dry on land, with visibly broken hull but no bodies or disaster. In midground an empty small baggage cart has bumped into a low wall, tiny motion lines at contact indicate crash. In foreground a soft empty cardboard box is visibly flattened beneath one dropped heavy suitcase, for crush. To right an adult traveler with backpack dashes along a clear path toward a distant waiting shuttle. Each callout touches its exact object or action. No additional written signs.",
+    "palette": "旧船木褐、推车铁蓝、被压纸箱赭黄，奔跑人物用橙围巾。",
+    "ielts": "口语 Part 2 · 描述一次旅途中的小意外",
+    "practice": "用 crash 或 crush 说一句旅途中的意外。",
+    "answer": "My bag crashed into the wall as I hurried through the station.",
+    "reference_urls": [],
+    "image": "previews/25.webp"
+  },
+  {
+    "id": "26",
+    "page": 26,
+    "title": "船影怎样从视野中消失",
+    "kind": "contrast",
+    "targets": [
+      "vanish",
+      "disappear"
+    ],
+    "labels": [
+      {
+        "word": "vanish",
+        "pos": "v.",
+        "zh": "突然消失"
+      },
+      {
+        "word": "disappear",
+        "pos": "v.",
+        "zh": "消失；不再可见"
+      }
+    ],
+    "sources": [
+      {
+        "word": "vanish",
+        "physical_page": 188,
+        "printed_page": 177
+      },
+      {
+        "word": "disappear",
+        "physical_page": 188,
+        "printed_page": 177
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 26\n词义辨析 | 交通旅行\n船影怎样从视野中消失\ndisappear  v.  消失；不再可见\nvanish  v.  突然消失\n放进句子里\nThe boat vanished into the fog.\n那条船消失在雾中。\n用法提醒\ndisappear 较通用，vanish 常强调迅速或突然消失。\n雅思应用\n阅读 · 理解旅行叙述中的消失描写\n轮到你了\n用 disappear 或 vanish 描述一个物体离开视线。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The boat vanished into the fog.",
+    "example_zh": "那条船消失在雾中。",
+    "examples": [
+      {
+        "en": "The boat vanished into the fog.",
+        "zh": "那条船消失在雾中。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "vanish into the fog",
+        "消失在雾中"
+      ],
+      [
+        "disappear from view",
+        "从视野中消失"
+      ]
+    ],
+    "notes": "disappear 较通用，vanish 常强调迅速或突然消失。",
+    "scene": "One atmospheric harbor scene showing a small boat moving into dense fog, with a subtle time-progress visual, not multiple full ships. Left side the boat is clearly visible leaving dock, middle its faded silhouette, and right side the white fog where it is no longer visible. disappear leader points to the fading boat silhouette, vanish leader ends at the last barely-visible outline at the fog edge. Small curved travel arrow only, no extra words or numbered stages. Make clear it is the same boat moving out of sight, not an accident.",
+    "palette": "蓝灰海水和雾白，船身暖赭随雾气降低对比。",
+    "ielts": "阅读 · 理解旅行叙述中的消失描写",
+    "practice": "用 disappear 或 vanish 描述一个物体离开视线。",
+    "answer": "The train disappeared into the tunnel.",
+    "reference_urls": [],
+    "image": "previews/26.webp"
+  },
+  {
+    "id": "27",
+    "page": 27,
+    "title": "港湾、码头与船锚",
+    "kind": "scene",
+    "targets": [
+      "harbour",
+      "dock",
+      "anchor"
+    ],
+    "labels": [
+      {
+        "word": "harbour",
+        "pos": "n.",
+        "zh": "港口；港湾"
+      },
+      {
+        "word": "dock",
+        "pos": "n.",
+        "zh": "码头"
+      },
+      {
+        "word": "anchor",
+        "pos": "n.",
+        "zh": "锚"
+      }
+    ],
+    "sources": [
+      {
+        "word": "harbour",
+        "physical_page": 188,
+        "printed_page": 177
+      },
+      {
+        "word": "dock",
+        "physical_page": 188,
+        "printed_page": 177
+      },
+      {
+        "word": "anchor",
+        "physical_page": 188,
+        "printed_page": 177
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 27\n场景词群 | 交通旅行\n港湾、码头与船锚\nharbour  n.  港口；港湾\ndock  n.  码头\nanchor  n.  锚\n放进句子里\nThe boat was waiting at the dock in the harbour.\n那条船停在港口的码头边等候。\n用法提醒\nharbour 美式拼作 harbor。dock 可指靠船的码头。\n雅思应用\n听力 Part 2 · 听懂港口设施介绍\n轮到你了\n用 harbour 和 dock 介绍一处靠船地点。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The boat was waiting at the dock in the harbour.",
+    "example_zh": "那条船停在港口的码头边等候。",
+    "examples": [
+      {
+        "en": "The boat was waiting at the dock in the harbour.",
+        "zh": "那条船停在港口的码头边等候。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a sheltered harbour",
+        "避风港"
+      ],
+      [
+        "at the dock",
+        "在码头"
+      ],
+      [
+        "drop anchor",
+        "抛锚"
+      ]
+    ],
+    "notes": "harbour 美式拼作 harbor。dock 可指靠船的码头。",
+    "scene": "One panoramic enclosed harbor with a breakwater around calm water. harbour bracket embraces the sheltered bay and boat area as whole. dock pointer ends exactly at the solid stone pier with mooring posts, not water. In foreground a small anchored sailboat at rest, a very localized transparent water cutaway exposes a metal anchor and its chain ending at seabed, anchor pointer touches the metal flukes. No seabed engineering detail, no extra labels. Boats are moored safely, no text.",
+    "palette": "港湾青蓝与石码头暖灰，深铁锚衬浅海沙色。",
+    "ielts": "听力 Part 2 · 听懂港口设施介绍",
+    "practice": "用 harbour 和 dock 介绍一处靠船地点。",
+    "answer": "The old dock is on the east side of the harbour.",
+    "reference_urls": [],
+    "image": "previews/27.webp"
+  },
+  {
+    "id": "28",
+    "page": 28,
+    "title": "海上的三类大船",
+    "kind": "scene",
+    "targets": [
+      "carrier",
+      "steamer",
+      "liner",
+      "vessel"
+    ],
+    "labels": [
+      {
+        "word": "carrier",
+        "pos": "n.",
+        "zh": "航空母舰"
+      },
+      {
+        "word": "steamer",
+        "pos": "n.",
+        "zh": "汽船"
+      },
+      {
+        "word": "liner",
+        "pos": "n.",
+        "zh": "大型客轮"
+      },
+      {
+        "word": "vessel",
+        "pos": "n.",
+        "zh": "船舶"
+      }
+    ],
+    "sources": [
+      {
+        "word": "carrier",
+        "physical_page": 189,
+        "printed_page": 178
+      },
+      {
+        "word": "steamer",
+        "physical_page": 189,
+        "printed_page": 178
+      },
+      {
+        "word": "liner",
+        "physical_page": 189,
+        "printed_page": 178
+      },
+      {
+        "word": "vessel",
+        "physical_page": 189,
+        "printed_page": 178
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 28\n场景词群 | 交通旅行\n海上的三类大船\nvessel  n.  船舶\nliner  n.  大型客轮\nsteamer  n.  汽船\ncarrier  n.  航空母舰\n放进句子里\nThe liner carried passengers across the ocean.\n这艘大型客轮载着乘客横渡大洋。\n用法提醒\nvessel 是船舶的统称，aircraft carrier 指航空母舰。\n雅思应用\n阅读 · 识别海运工具的类别\n轮到你了\n用 vessel 或 liner 描述一种客运船舶。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The liner carried passengers across the ocean.",
+    "example_zh": "这艘大型客轮载着乘客横渡大洋。",
+    "examples": [
+      {
+        "en": "The liner carried passengers across the ocean.",
+        "zh": "这艘大型客轮载着乘客横渡大洋。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an aircraft carrier",
+        "航空母舰"
+      ],
+      [
+        "a passenger liner",
+        "大型客轮"
+      ],
+      [
+        "a steam-powered vessel",
+        "蒸汽动力船舶"
+      ]
+    ],
+    "notes": "vessel 是船舶的统称，aircraft carrier 指航空母舰。",
+    "scene": "One maritime museum’s broad harbor display, three fully realized ships at clear separate distances. carrier points to a grey aircraft carrier with flat deck and tiny unarmed aircraft parked, no emblems or weapons. steamer points to a historical black-hull steamship with visible funnel and a modest steam puff. liner points to a long white passenger ocean liner with rows of cabin windows and a high promenade deck. vessel label above with a branched unobtrusive bracket groups the THREE whole ships, not parts. No signs or flags bearing letters.",
+    "palette": "航母冷灰、汽船黑红烟囱、客轮奶白配深蓝海水。",
+    "ielts": "阅读 · 识别海运工具的类别",
+    "practice": "用 vessel 或 liner 描述一种客运船舶。",
+    "answer": "The large vessel has several decks for passengers.",
+    "reference_urls": [],
+    "image": "previews/28.webp"
+  },
+  {
+    "id": "29",
+    "page": 29,
+    "title": "从登船到航行",
+    "kind": "scene",
+    "targets": [
+      "ferry",
+      "sail",
+      "aboard",
+      "embark"
+    ],
+    "labels": [
+      {
+        "word": "ferry",
+        "pos": "n.",
+        "zh": "渡船"
+      },
+      {
+        "word": "sail",
+        "pos": "v.",
+        "zh": "航行"
+      },
+      {
+        "word": "aboard",
+        "pos": "adv.",
+        "zh": "在船上"
+      },
+      {
+        "word": "embark",
+        "pos": "v.",
+        "zh": "登船"
+      }
+    ],
+    "sources": [
+      {
+        "word": "ferry",
+        "physical_page": 189,
+        "printed_page": 178
+      },
+      {
+        "word": "sail",
+        "physical_page": 189,
+        "printed_page": 178
+      },
+      {
+        "word": "aboard",
+        "physical_page": 189,
+        "printed_page": 178
+      },
+      {
+        "word": "embark",
+        "physical_page": 189,
+        "printed_page": 178
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 29\n场景词群 | 交通旅行\n从登船到航行\nsail  v.  航行\nferry  n.  渡船\naboard  adv.  在船上\nembark  v.  登船\n放进句子里\nWe embarked on the ferry before it sailed.\n渡船启航前，我们登上了船。\n用法提醒\nembark 是登船的动作，aboard 表示在船上。\n雅思应用\n听力 Part 1 · 听懂渡轮出行安排\n轮到你了\n用 aboard 说一句乘船经历。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "We embarked on the ferry before it sailed.",
+    "example_zh": "渡船启航前，我们登上了船。",
+    "examples": [
+      {
+        "en": "We embarked on the ferry before it sailed.",
+        "zh": "渡船启航前，我们登上了船。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "take a ferry",
+        "乘渡船"
+      ],
+      [
+        "sail across the river",
+        "渡河航行"
+      ],
+      [
+        "go aboard",
+        "上船"
+      ],
+      [
+        "embark on a ship",
+        "登船"
+      ]
+    ],
+    "notes": "embark 是登船的动作，aboard 表示在船上。",
+    "scene": "One river ferry panorama with a large close view of a moored car-and-passenger ferry. ferry line to the whole ferry bow. embark line to the precise adult passenger stepping from ramp threshold onto boat. aboard line to a separate seated passenger clearly already within ship deck rail. sail line to a smaller same-style ferry moving across river in background with obvious wake and direction arrow. Keep clear spatial reading and no time confusion. No signage beyond specified vocabulary tags.",
+    "palette": "河水青蓝、渡船奶白和登船坡道暖木，人物橙色行李突出登船动作。",
+    "ielts": "听力 Part 1 · 听懂渡轮出行安排",
+    "practice": "用 aboard 说一句乘船经历。",
+    "answer": "There were only a few passengers aboard that morning.",
+    "reference_urls": [],
+    "image": "previews/29.webp"
+  },
+  {
+    "id": "30",
+    "page": 30,
+    "title": "船尾、甲板与动力",
+    "kind": "scene",
+    "targets": [
+      "submerge",
+      "deck",
+      "turbine",
+      "propeller",
+      "stern"
+    ],
+    "labels": [
+      {
+        "word": "submerge",
+        "pos": "v.",
+        "zh": "没入水中"
+      },
+      {
+        "word": "deck",
+        "pos": "n.",
+        "zh": "甲板"
+      },
+      {
+        "word": "turbine",
+        "pos": "n.",
+        "zh": "涡轮机"
+      },
+      {
+        "word": "propeller",
+        "pos": "n.",
+        "zh": "螺旋桨"
+      },
+      {
+        "word": "stern",
+        "pos": "n.",
+        "zh": "船尾"
+      }
+    ],
+    "sources": [
+      {
+        "word": "submerge",
+        "physical_page": 189,
+        "printed_page": 178
+      },
+      {
+        "word": "deck",
+        "physical_page": 189,
+        "printed_page": 178
+      },
+      {
+        "word": "turbine",
+        "physical_page": 189,
+        "printed_page": 178
+      },
+      {
+        "word": "propeller",
+        "physical_page": 189,
+        "printed_page": 178
+      },
+      {
+        "word": "stern",
+        "physical_page": 189,
+        "printed_page": 178
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 30\n场景词群 | 交通旅行\n船尾、甲板与动力\ndeck  n.  甲板\nstern  n.  船尾\nturbine  n.  涡轮机\npropeller  n.  螺旋桨\nsubmerge  v.  没入水中\n放进句子里\nThe propeller is submerged below the stern.\n螺旋桨没入船尾下方的水中。\n用法提醒\nsubmerge 表示没入水中，stern 指船尾。\n雅思应用\n阅读 · 看懂船舶结构与动力描述\n轮到你了\n用 deck 或 stern 介绍船上的一个位置。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The propeller is submerged below the stern.",
+    "example_zh": "螺旋桨没入船尾下方的水中。",
+    "examples": [
+      {
+        "en": "The propeller is submerged below the stern.",
+        "zh": "螺旋桨没入船尾下方的水中。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "on deck",
+        "在甲板上"
+      ],
+      [
+        "a steam turbine",
+        "蒸汽涡轮机"
+      ],
+      [
+        "the ship’s stern",
+        "船尾"
+      ],
+      [
+        "a submerged propeller",
+        "浸在水下的螺旋桨"
+      ]
+    ],
+    "notes": "submerge 表示没入水中，stern 指船尾。",
+    "scene": "One clearly schematic side cutaway of a small turbine-powered demonstration vessel at harbor, simplified educational art with no scale or engineering promise. Deck line touches broad upper walking surface. Stern line touches the rear end above propeller, with bow and aft visually obvious. Turbine line touches a cutaway cylindrical turbine housing with one visible bladed rotor inside engine compartment, connected through a simple shaft to propeller. Propeller line touches distinct 3-blade metal propeller below water at stern. Submerge line points to that propeller passing below clearly drawn blue waterline, paired with small downward arrow. Never point submerge to the turbine. Only exact five labels, no others.",
+    "palette": "深蓝船尾、青蓝水线与金属冷灰，机舱剖面用柔赭衬出叶片。",
+    "ielts": "阅读 · 看懂船舶结构与动力描述",
+    "practice": "用 deck 或 stern 介绍船上的一个位置。",
+    "answer": "We stood on the deck near the stern.",
+    "reference_urls": [],
+    "image": "previews/30.webp"
+  },
+  {
+    "id": "31",
+    "page": 31,
+    "title": "湖面上的小船和筏子",
+    "kind": "scene",
+    "targets": [
+      "raft",
+      "canoe",
+      "oar"
+    ],
+    "labels": [
+      {
+        "word": "raft",
+        "pos": "n.",
+        "zh": "木筏"
+      },
+      {
+        "word": "canoe",
+        "pos": "n.",
+        "zh": "独木舟"
+      },
+      {
+        "word": "oar",
+        "pos": "n.",
+        "zh": "桨"
+      }
+    ],
+    "sources": [
+      {
+        "word": "raft",
+        "physical_page": 189,
+        "printed_page": 178
+      },
+      {
+        "word": "canoe",
+        "physical_page": 189,
+        "printed_page": 178
+      },
+      {
+        "word": "oar",
+        "physical_page": 189,
+        "printed_page": 178
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 31\n场景词群 | 交通旅行\n湖面上的小船和筏子\ncanoe  n.  独木舟\nraft  n.  木筏\noar  n.  桨\n放进句子里\nWe explored the lake in a canoe.\n我们乘独木舟游览了湖面。\n用法提醒\ncanoe 是船，oar 是用来划船的桨。\n雅思应用\n口语 Part 2 · 描述一次户外水上活动\n轮到你了\n用 raft 或 canoe 说说你想体验的活动。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "We explored the lake in a canoe.",
+    "example_zh": "我们乘独木舟游览了湖面。",
+    "examples": [
+      {
+        "en": "We explored the lake in a canoe.",
+        "zh": "我们乘独木舟游览了湖面。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a wooden raft",
+        "木筏"
+      ],
+      [
+        "in a canoe",
+        "乘独木舟"
+      ],
+      [
+        "a wooden oar",
+        "木桨"
+      ]
+    ],
+    "notes": "canoe 是船，oar 是用来划船的桨。",
+    "scene": "One clear lakeside scene with two small watercraft and a loose boat oar in foreground. Raft line ends at tied-together round logs forming a flat raft beside landing; a life jacket lies on it but no standing passenger. Canoe line ends at a narrow open canoe with pointed ends, occupied by a seated paddler in life jacket. Oar line ends at one long wooden oar with broad blade and round shaft resting on the bank, separate from canoe’s handheld paddle. No labels added for the paddle or other objects.",
+    "palette": "湖水翡翠绿、原木暖褐、独木舟朱红与岸边浅沙色。",
+    "ielts": "口语 Part 2 · 描述一次户外水上活动",
+    "practice": "用 raft 或 canoe 说说你想体验的活动。",
+    "answer": "I would like to paddle a canoe on a quiet lake.",
+    "reference_urls": [],
+    "image": "previews/31.webp"
+  },
+  {
+    "id": "32",
+    "page": 32,
+    "title": "三种水道怎么辨认",
+    "kind": "contrast",
+    "targets": [
+      "channel",
+      "canal",
+      "ditch"
+    ],
+    "labels": [
+      {
+        "word": "channel",
+        "pos": "n.",
+        "zh": "海峡；水道"
+      },
+      {
+        "word": "canal",
+        "pos": "n.",
+        "zh": "运河"
+      },
+      {
+        "word": "ditch",
+        "pos": "n.",
+        "zh": "沟渠"
+      }
+    ],
+    "sources": [
+      {
+        "word": "channel",
+        "physical_page": 190,
+        "printed_page": 179
+      },
+      {
+        "word": "canal",
+        "physical_page": 190,
+        "printed_page": 179
+      },
+      {
+        "word": "ditch",
+        "physical_page": 190,
+        "printed_page": 179
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 32\n词义辨析 | 交通旅行\n三种水道怎么辨认\nchannel  n.  海峡；水道\ncanal  n.  运河\nditch  n.  沟渠\n放进句子里\nA canal connects the harbour to the inland town.\n一条运河把港口和内陆小镇连接起来。\n用法提醒\ncanal 常指人工运河，ditch 通常较窄较浅。\n雅思应用\n写作 Task 1 · 描述地图上的水道\n轮到你了\n用 canal 或 channel 描述地图中的一条水道。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "A canal connects the harbour to the inland town.",
+    "example_zh": "一条运河把港口和内陆小镇连接起来。",
+    "examples": [
+      {
+        "en": "A canal connects the harbour to the inland town.",
+        "zh": "一条运河把港口和内陆小镇连接起来。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a shipping channel",
+        "航道"
+      ],
+      [
+        "an irrigation canal",
+        "灌溉渠"
+      ],
+      [
+        "a roadside ditch",
+        "路边沟渠"
+      ]
+    ],
+    "notes": "canal 常指人工运河，ditch 通常较窄较浅。",
+    "scene": "One landscape panorama from elevated viewpoint. Broad natural sea channel between two uneven coastlines on left with a small passenger ship. canal on right is clearly a straight man-made waterway with regular stone sides and one simple lock gate, tiny barge. ditch in foreground is a narrow shallow drainage trench beside a country road, with grass banks, no boat. Each pointer precisely ends within its own body of water. No invented geography labels or map compass.",
+    "palette": "海峡深蓝、运河碧青、浅沟草绿和泥土赭色区分规模与人工痕迹。",
+    "ielts": "写作 Task 1 · 描述地图上的水道",
+    "practice": "用 canal 或 channel 描述地图中的一条水道。",
+    "answer": "The canal runs beside the old railway.",
+    "reference_urls": [],
+    "image": "previews/32.webp"
+  },
+  {
+    "id": "33",
+    "page": 33,
+    "title": "铁路上的整条线与部件",
+    "kind": "scene",
+    "targets": [
+      "railroad",
+      "railway",
+      "locomotive",
+      "rail"
+    ],
+    "labels": [
+      {
+        "word": "railroad",
+        "pos": "n.",
+        "zh": "铁路，美式常用"
+      },
+      {
+        "word": "railway",
+        "pos": "n.",
+        "zh": "铁路，英式常用"
+      },
+      {
+        "word": "locomotive",
+        "pos": "n.",
+        "zh": "机车"
+      },
+      {
+        "word": "rail",
+        "pos": "n.",
+        "zh": "铁轨"
+      }
+    ],
+    "sources": [
+      {
+        "word": "railroad",
+        "physical_page": 190,
+        "printed_page": 179
+      },
+      {
+        "word": "railway",
+        "physical_page": 190,
+        "printed_page": 179
+      },
+      {
+        "word": "locomotive",
+        "physical_page": 190,
+        "printed_page": 179
+      },
+      {
+        "word": "rail",
+        "physical_page": 190,
+        "printed_page": 179
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 33\n场景词群 | 交通旅行\n铁路上的整条线与部件\nrailroad  n.  铁路，美式常用\nrailway  n.  铁路，英式常用\nlocomotive  n.  机车\nrail  n.  铁轨\n放进句子里\nThe locomotive pulled the train along the railway.\n机车牵引着列车沿铁路行驶。\n用法提醒\nrailway 和 railroad 都可指铁路，rail 也可指一根铁轨。\n雅思应用\n阅读 · 识别铁路系统与部件的描述\n轮到你了\n用 locomotive 或 railway 描述一段铁路旅程。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The locomotive pulled the train along the railway.",
+    "example_zh": "机车牵引着列车沿铁路行驶。",
+    "examples": [
+      {
+        "en": "The locomotive pulled the train along the railway.",
+        "zh": "机车牵引着列车沿铁路行驶。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a railway station",
+        "火车站"
+      ],
+      [
+        "a railroad company",
+        "铁路公司"
+      ],
+      [
+        "a diesel locomotive",
+        "柴油机车"
+      ],
+      [
+        "steel rails",
+        "钢轨"
+      ]
+    ],
+    "notes": "railway 和 railroad 都可指铁路，rail 也可指一根铁轨。",
+    "scene": "One large railway station approach with track curving through countryside. Railroad and railway two labels connect to the SAME whole track-and-station network via a shared bracket. Locomotive line clearly ends on the separate engine at the head of a short passenger train, distinct from carriages. Rail line ends on ONE shiny steel rail in the foreground, not sleeper or whole track. No platform signs or numbers. Human scale clear, no additional text.",
+    "palette": "铁轨银灰、机车深红、乡野草绿和天空浅蓝。",
+    "ielts": "阅读 · 识别铁路系统与部件的描述",
+    "practice": "用 locomotive 或 railway 描述一段铁路旅程。",
+    "answer": "The railway passes through a valley before reaching the city.",
+    "reference_urls": [],
+    "image": "previews/33.webp"
+  },
+  {
+    "id": "34",
+    "page": 34,
+    "title": "地下列车驶出隧道",
+    "kind": "scene",
+    "targets": [
+      "subway",
+      "underground",
+      "tunnel"
+    ],
+    "labels": [
+      {
+        "word": "subway",
+        "pos": "n.",
+        "zh": "地铁，美式常用"
+      },
+      {
+        "word": "underground",
+        "pos": "n.",
+        "zh": "地铁，英式常用"
+      },
+      {
+        "word": "tunnel",
+        "pos": "n.",
+        "zh": "隧道"
+      }
+    ],
+    "sources": [
+      {
+        "word": "subway",
+        "physical_page": 190,
+        "printed_page": 179
+      },
+      {
+        "word": "underground",
+        "physical_page": 190,
+        "printed_page": 179
+      },
+      {
+        "word": "tunnel",
+        "physical_page": 190,
+        "printed_page": 179
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 34\n场景词群 | 交通旅行\n地下列车驶出隧道\nsubway  n.  地铁，美式常用\nunderground  n.  地铁，英式常用\ntunnel  n.  隧道\n放进句子里\nThe underground train came out of the tunnel.\n地铁列车驶出了隧道。\n用法提醒\n地铁在美式英语中常说 subway，英式常说 underground。\n雅思应用\n听力 Part 2 · 听懂城市交通介绍\n轮到你了\n用 subway 或 underground 介绍一种通勤方式。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The underground train came out of the tunnel.",
+    "example_zh": "地铁列车驶出了隧道。",
+    "examples": [
+      {
+        "en": "The underground train came out of the tunnel.",
+        "zh": "地铁列车驶出了隧道。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "take the subway",
+        "乘地铁"
+      ],
+      [
+        "an underground train",
+        "地铁列车"
+      ],
+      [
+        "a railway tunnel",
+        "铁路隧道"
+      ]
+    ],
+    "notes": "地铁在美式英语中常说 subway，英式常说 underground。",
+    "scene": "One station cross-section below a clear illustrated street surface. Subway and underground two label leaders point to the SAME metro train on track below street level, avoiding any pedestrian passage interpretation. Tunnel line ends on the arched passage through earth beyond the platform from which the train is emerging. Underground train platform and tunnel continuous, passengers behind edge, no route names or signs. Teaching illustrates regional words, not real transit branding.",
+    "palette": "地面暖砖和绿树、地铁车厢青蓝、隧道深墨色形成上下层次。",
+    "ielts": "听力 Part 2 · 听懂城市交通介绍",
+    "practice": "用 subway 或 underground 介绍一种通勤方式。",
+    "answer": "I usually take the underground to work.",
+    "reference_urls": [],
+    "image": "previews/34.webp"
+  },
+  {
+    "id": "35",
+    "page": 35,
+    "title": "列车从出发到终点",
+    "kind": "scene",
+    "targets": [
+      "depart",
+      "arrive",
+      "destination"
+    ],
+    "labels": [
+      {
+        "word": "depart",
+        "pos": "v.",
+        "zh": "出发；离开"
+      },
+      {
+        "word": "arrive",
+        "pos": "v.",
+        "zh": "到达"
+      },
+      {
+        "word": "destination",
+        "pos": "n.",
+        "zh": "目的地"
+      }
+    ],
+    "sources": [
+      {
+        "word": "depart",
+        "physical_page": 190,
+        "printed_page": 179
+      },
+      {
+        "word": "arrive",
+        "physical_page": 190,
+        "printed_page": 179
+      },
+      {
+        "word": "destination",
+        "physical_page": 190,
+        "printed_page": 179
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 35\n场景词群 | 交通旅行\n列车从出发到终点\ndestination  n.  目的地\ndepart  v.  出发；离开\narrive  v.  到达\n放进句子里\nWe arrived at our destination before sunset.\n日落前，我们到达了目的地。\n用法提醒\narrive at 后接车站等地点，arrive in 后接城市或国家。\n雅思应用\n听力 Part 1 · 识别出发和到达信息\n轮到你了\n用 depart 和 arrive 说说一次行程。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "We arrived at our destination before sunset.",
+    "example_zh": "日落前，我们到达了目的地。",
+    "examples": [
+      {
+        "en": "We arrived at our destination before sunset.",
+        "zh": "日落前，我们到达了目的地。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "depart from a station",
+        "从车站出发"
+      ],
+      [
+        "arrive at a station",
+        "到达车站"
+      ],
+      [
+        "reach a destination",
+        "到达目的地"
+      ]
+    ],
+    "notes": "arrive at 后接车站等地点，arrive in 后接城市或国家。",
+    "scene": "One simplified illustrated rail route winding from left station to right terminal in a landscape, with exactly two small same-design trains representing a departure scene left and arrival scene right. Depart leader ends at the rearward station clearance and outward arrow beside left train. Arrive leader ends at train rolling into right platform with inward arrow. Destination line ends on a large pin over right terminal building. Subtle one-way connecting route, no written numbers/place names. Natural story rather than a technical infographic.",
+    "palette": "出发站暖赭、路径深蓝、终点站浅杏配红色目的地图针。",
+    "ielts": "听力 Part 1 · 识别出发和到达信息",
+    "practice": "用 depart 和 arrive 说说一次行程。",
+    "answer": "We departed from the city in the morning and arrived at the coast at noon.",
+    "reference_urls": [],
+    "image": "previews/35.webp"
+  },
+  {
+    "id": "36",
+    "page": 36,
+    "title": "行程推迟了怎么说",
+    "kind": "contrast",
+    "targets": [
+      "delay",
+      "postpone",
+      "defer"
+    ],
+    "labels": [
+      {
+        "word": "delay",
+        "pos": "n.",
+        "zh": "延误"
+      },
+      {
+        "word": "postpone",
+        "pos": "v.",
+        "zh": "推迟"
+      },
+      {
+        "word": "defer",
+        "pos": "v.",
+        "zh": "延后"
+      }
+    ],
+    "sources": [
+      {
+        "word": "delay",
+        "physical_page": 190,
+        "printed_page": 179
+      },
+      {
+        "word": "postpone",
+        "physical_page": 190,
+        "printed_page": 179
+      },
+      {
+        "word": "defer",
+        "physical_page": 190,
+        "printed_page": 179
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 36\n词义辨析 | 交通旅行\n行程推迟了怎么说\ndelay  n.  延误\npostpone  v.  推迟\ndefer  v.  延后\n放进句子里\nWe decided to postpone our trip until next month.\n我们决定把旅行推迟到下个月。\n用法提醒\npostpone 和 defer 后可接名词或动名词。\n雅思应用\n听力 Part 1 · 听懂行程变更\n轮到你了\n用 postpone 或 defer 说一句改期安排。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "We decided to postpone our trip until next month.",
+    "example_zh": "我们决定把旅行推迟到下个月。",
+    "examples": [
+      {
+        "en": "We decided to postpone our trip until next month.",
+        "zh": "我们决定把旅行推迟到下个月。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a long delay",
+        "长时间延误"
+      ],
+      [
+        "postpone a trip",
+        "推迟旅行"
+      ],
+      [
+        "defer departure",
+        "延后出发"
+      ]
+    ],
+    "notes": "postpone 和 defer 后可接名词或动名词。",
+    "scene": "One train station ticket assistance area. Delay leader to waiting travelers beside a small clock and a still-empty platform; no exact times or incident claims. Postpone leader to an adult moving a small suitcase icon sticker from earlier to later square on a paper travel calendar with blank squares. Defer leader to a booking agent carefully moving a departure ticket into a later calendar pocket. The three scenes should show overlapping postponement meanings, no fake rigid categories or numbered data. Only labels specified.",
+    "palette": "候车区冷蓝、日历暖白和橙色行李贴纸突出时间后移。",
+    "ielts": "听力 Part 1 · 听懂行程变更",
+    "practice": "用 postpone 或 defer 说一句改期安排。",
+    "answer": "We had to defer our departure because of the storm.",
+    "reference_urls": [],
+    "image": "previews/36.webp"
+  },
+  {
+    "id": "37",
+    "page": 37,
+    "title": "lull",
+    "kind": "word",
+    "targets": [
+      "lull"
+    ],
+    "labels": [
+      {
+        "word": "lull",
+        "pos": "n.",
+        "zh": "暂时的平静；间歇"
+      }
+    ],
+    "sources": [
+      {
+        "word": "lull",
+        "physical_page": 190,
+        "printed_page": 179
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 37\n单词精讲 | 交通旅行\nlull\n/lʌl/  n.\n暂时的平静；间歇\n繁忙或嘈杂的活动暂时减弱或停下。\n放进句子里\nWe enjoyed a lull between the two departures.\n两班车发出之间，我们享受了片刻安静。\n常用搭配\na brief lull\na lull in the traffic\na lull in the conversation\n用法提醒\na lull in the traffic 表示交通流量暂时减少。\n雅思应用\n阅读 · 理解活动短暂停歇的描写\n轮到你了\n用 a lull in 描述一次短暂的平静。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "We enjoyed a lull between the two departures.",
+    "example_zh": "两班车发出之间，我们享受了片刻安静。",
+    "examples": [
+      {
+        "en": "We enjoyed a lull between the two departures.",
+        "zh": "两班车发出之间，我们享受了片刻安静。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a brief lull",
+        "短暂间歇"
+      ],
+      [
+        "a lull in the traffic",
+        "交通的短暂清静"
+      ],
+      [
+        "a lull in the conversation",
+        "谈话的短暂停顿"
+      ]
+    ],
+    "notes": "a lull in the traffic 表示交通流量暂时减少。",
+    "scene": "Large headword and IPA upper left. Main illustration shows a busy station during a quiet interval between services: a nearly empty platform, cleaning staff calmly resting a broom, a few seated waiting passengers, a motionless train in far background, calm soft window light. A faint watercolor secondary vignette of the same platform crowded earlier can blend along far edge to make a temporary lull intelligible, but no text or extra labels. The lull belongs to activity, not sleeping passengers.",
+    "palette": "安静站台用浅蓝灰与柔和窗光，远处忙碌片段用暖赭，突出短暂停歇。",
+    "ielts": "阅读 · 理解活动短暂停歇的描写",
+    "practice": "用 a lull in 描述一次短暂的平静。",
+    "answer": "There was a lull in the traffic after the morning rush.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/pronunciation/english/lull"
+    ],
+    "ipa": "/lʌl/",
+    "definition": "繁忙或嘈杂的活动暂时减弱或停下。",
+    "image": "previews/37.webp"
+  },
+  {
+    "id": "38",
+    "page": 38,
+    "title": "expire",
+    "kind": "word",
+    "targets": [
+      "expire"
+    ],
+    "labels": [
+      {
+        "word": "expire",
+        "pos": "v.",
+        "zh": "到期；失效"
+      }
+    ],
+    "sources": [
+      {
+        "word": "expire",
+        "physical_page": 190,
+        "printed_page": 179
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 38\n单词精讲 | 交通旅行\nexpire\n/ɪk'spaɪə/  v.\n到期；失效\n证件或协议等到了有效期的终点。\n常用搭配\na passport expires · an expired ticket · the expiry date\n放进句子里\nMy passport expires next year.\n我的护照明年到期。\n用法提醒\nexpire 常用于护照、签证和票券的有效期。\n雅思应用\n听力 Part 1 · 留意旅行证件的有效期\n轮到你了\n用 expire 说一张证件或票券何时到期。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "My passport expires next year.",
+    "example_zh": "我的护照明年到期。",
+    "examples": [
+      {
+        "en": "My passport expires next year.",
+        "zh": "我的护照明年到期。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a passport expires",
+        "护照到期"
+      ],
+      [
+        "an expired ticket",
+        "过期票券"
+      ],
+      [
+        "the expiry date",
+        "到期日"
+      ]
+    ],
+    "notes": "expire 常用于护照、签证和票券的有效期。",
+    "scene": "Large headword and IPA upper left. Main illustration is a traveler reviewing passport validity before packing: open generic unbranded passport with a blank identity oval and a simple date line, a wall calendar with an already-past day crossed and a new future ticket on table. Show validity running out through a simple fading horizontal time line and calendar icon, no extra English/Chinese signs or invented dates. Traveler thoughtful, neutral, no real personal information. The passport remains the semantic focus.",
+    "palette": "护照深酒红、纸张奶白和日历淡蓝，淡红标记帮助理解有效期届满。",
+    "ielts": "听力 Part 1 · 留意旅行证件的有效期",
+    "practice": "用 expire 说一张证件或票券何时到期。",
+    "answer": "My student travel pass expires at the end of the month.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/pronunciation/english/expire"
+    ],
+    "ipa": "/ɪkˈspaɪə/",
+    "definition": "证件或协议等到了有效期的终点。",
+    "image": "previews/38.webp"
+  },
+  {
+    "id": "39",
+    "page": 39,
+    "title": "在邮局寄一封信",
+    "kind": "scene",
+    "targets": [
+      "postage",
+      "stamp",
+      "envelope",
+      "mail"
+    ],
+    "labels": [
+      {
+        "word": "postage",
+        "pos": "n.",
+        "zh": "邮费"
+      },
+      {
+        "word": "stamp",
+        "pos": "n.",
+        "zh": "邮票"
+      },
+      {
+        "word": "envelope",
+        "pos": "n.",
+        "zh": "信封"
+      },
+      {
+        "word": "mail",
+        "pos": "n.",
+        "zh": "邮件"
+      }
+    ],
+    "sources": [
+      {
+        "word": "postage",
+        "physical_page": 191,
+        "printed_page": 180
+      },
+      {
+        "word": "stamp",
+        "physical_page": 191,
+        "printed_page": 180
+      },
+      {
+        "word": "envelope",
+        "physical_page": 191,
+        "printed_page": 180
+      },
+      {
+        "word": "mail",
+        "physical_page": 191,
+        "printed_page": 180
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 39\n场景词群 | 交通旅行\n在邮局寄一封信\npostage n. 邮费\nstamp n. 邮票\nenvelope n. 信封\nmail n. 邮件\n放进句子里\nI put a stamp on the envelope before posting it.\n寄出前，我在信封上贴了一张邮票。\n用法提醒\nmail 作邮件总称时通常不可数。\n雅思应用\n听力 Part 1 · 听懂寄信与邮费信息\n轮到你了\n用 stamp 和 envelope 说说寄信前要做什么。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "I put a stamp on the envelope before posting it.",
+    "example_zh": "寄出前，我在信封上贴了一张邮票。",
+    "examples": [
+      {
+        "en": "I put a stamp on the envelope before posting it.",
+        "zh": "寄出前，我在信封上贴了一张邮票。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "pay the postage",
+        "付邮费"
+      ],
+      [
+        "a postage stamp",
+        "一张邮票"
+      ],
+      [
+        "an airmail envelope",
+        "航空信封"
+      ],
+      [
+        "send mail",
+        "寄邮件"
+      ]
+    ],
+    "notes": "mail 作邮件总称时通常不可数。",
+    "scene": "连贯的邮局柜台近景，旅客向柜台工作人员递信。postage 引线落到付邮费的支付终端与付款动作处。stamp 引线精确落到一封封好信的右上角小邮票，邮票只有风景图案，不印文字。envelope 指向另一只单独打开的牛皮纸信封外壳。mail 用小括线框住柜台收件盘内三四封待寄信，表示邮件总称。信与收件盘和终端位置分明，不加任何其他读得出的文字。",
+    "palette": "邮局的暖木柜台、深青工作服、信封牛皮色和邮票的珊瑚红。",
+    "ielts": "听力 Part 1 · 听懂寄信与邮费信息",
+    "practice": "用 stamp 和 envelope 说说寄信前要做什么。",
+    "answer": "I put the letter in an envelope and stuck a stamp on it.",
+    "reference_urls": [],
+    "image": "previews/39.webp"
+  },
+  {
+    "id": "40",
+    "page": 40,
+    "title": "把物品包装好再寄出",
+    "kind": "scene",
+    "targets": [
+      "packet",
+      "package",
+      "parcel",
+      "bind"
+    ],
+    "labels": [
+      {
+        "word": "packet",
+        "pos": "n.",
+        "zh": "小包装"
+      },
+      {
+        "word": "package",
+        "pos": "n.",
+        "zh": "包裹"
+      },
+      {
+        "word": "parcel",
+        "pos": "n.",
+        "zh": "包裹"
+      },
+      {
+        "word": "bind",
+        "pos": "v.",
+        "zh": "捆；绑"
+      }
+    ],
+    "sources": [
+      {
+        "word": "packet",
+        "physical_page": 191,
+        "printed_page": 180
+      },
+      {
+        "word": "package",
+        "physical_page": 191,
+        "printed_page": 180
+      },
+      {
+        "word": "parcel",
+        "physical_page": 191,
+        "printed_page": 180
+      },
+      {
+        "word": "bind",
+        "physical_page": 191,
+        "printed_page": 180
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 40\n场景词群 | 交通旅行\n把物品包装好再寄出\npacket n. 小包装\npackage n. 包裹\nparcel n. 包裹\nbind v. 捆；绑\n放进句子里\nShe bound the parcel with string.\n她用细绳捆好了包裹。\n用法提醒\nparcel 和 package 都可指包裹，packet 常指小包装。\n雅思应用\n口语 Part 2 · 描述一次寄送物品的经历\n轮到你了\n用 parcel 和 bind 说说怎样包装一本书。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "She bound the parcel with string.",
+    "example_zh": "她用细绳捆好了包裹。",
+    "examples": [
+      {
+        "en": "She bound the parcel with string.",
+        "zh": "她用细绳捆好了包裹。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a packet of biscuits",
+        "一小包饼干"
+      ],
+      [
+        "wrap a package",
+        "包装一件包裹"
+      ],
+      [
+        "send a parcel",
+        "寄包裹"
+      ],
+      [
+        "bind with string",
+        "用绳子捆扎"
+      ]
+    ],
+    "notes": "parcel 和 package 都可指包裹，packet 常指小包装。",
+    "scene": "邮局包装台上，一小包透明包装饼干位于左前景，packet 引线只指小包饼干。中间一只装好书的牛皮纸包裹，用单一显眼的细边线框出物件整体，package 和 parcel 的两根引线分别落在同一个包裹整体的两侧，避免表现成互斥的两类。右侧成人正给另一只结实纸箱用棉绳交叉捆扎，bind 指向双手正在打结的绳结，不是纸箱本身。箱子都无字。",
+    "palette": "牛皮纸赭黄、棉绳米白、包装台青灰与饼干金黄。",
+    "ielts": "口语 Part 2 · 描述一次寄送物品的经历",
+    "practice": "用 parcel 和 bind 说说怎样包装一本书。",
+    "answer": "I wrapped the book as a parcel and bound it with string.",
+    "reference_urls": [],
+    "image": "previews/40.webp"
+  },
+  {
+    "id": "41",
+    "page": 41,
+    "title": "装载、转运与重担",
+    "kind": "scene",
+    "targets": [
+      "load",
+      "burden",
+      "transfer"
+    ],
+    "labels": [
+      {
+        "word": "load",
+        "pos": "v.",
+        "zh": "装载"
+      },
+      {
+        "word": "burden",
+        "pos": "n.",
+        "zh": "重担"
+      },
+      {
+        "word": "transfer",
+        "pos": "v.",
+        "zh": "转运"
+      }
+    ],
+    "sources": [
+      {
+        "word": "load",
+        "physical_page": 191,
+        "printed_page": 180
+      },
+      {
+        "word": "burden",
+        "physical_page": 191,
+        "printed_page": 180
+      },
+      {
+        "word": "transfer",
+        "physical_page": 191,
+        "printed_page": 180
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 41\n场景词群 | 交通旅行\n装载、转运与重担\nload v. 装载\nburden n. 重担\ntransfer v. 转运\n放进句子里\nThe workers loaded the boxes onto the van.\n工人们把箱子装上了货车。\n用法提醒\nload sth onto a vehicle 表示把物品装上交通工具。\n雅思应用\n阅读 · 理解货物运输流程\n轮到你了\n用 transfer 说明一件物品怎样换车运输。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The workers loaded the boxes onto the van.",
+    "example_zh": "工人们把箱子装上了货车。",
+    "examples": [
+      {
+        "en": "The workers loaded the boxes onto the van.",
+        "zh": "工人们把箱子装上了货车。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "load a van",
+        "给货车装货"
+      ],
+      [
+        "a heavy burden",
+        "沉重的负担"
+      ],
+      [
+        "transfer goods",
+        "转运货物"
+      ]
+    ],
+    "notes": "load sth onto a vehicle 表示把物品装上交通工具。",
+    "scene": "连贯的物流站前景：左侧工作人员把中等纸箱推进停靠货车的货厢，load 引线落到装箱进车动作。中间一只箱子沿滚轮传送台从一辆车交给另一辆车的工作人员，地面短弧箭头标明转运，transfer 引线落到箱子跨车交接的位置。右下旅行者身背沉重、鼓起的背包，双手扶着肩带略微用力，burden 引线指向背包本体，表示重担。不画危险搬抬，不加额外标牌或字。",
+    "palette": "物流车深蓝、纸箱暖褐和旅客背包铁锈橙。",
+    "ielts": "阅读 · 理解货物运输流程",
+    "practice": "用 transfer 说明一件物品怎样换车运输。",
+    "answer": "The parcel was transferred from the lorry to a smaller van.",
+    "reference_urls": [],
+    "image": "previews/41.webp"
+  },
+  {
+    "id": "42",
+    "page": 42,
+    "title": "包裹在路上，什么时候到",
+    "kind": "scene",
+    "targets": [
+      "transit",
+      "due",
+      "deliver"
+    ],
+    "labels": [
+      {
+        "word": "transit",
+        "pos": "n.",
+        "zh": "运输途中；中转"
+      },
+      {
+        "word": "due",
+        "pos": "adj.",
+        "zh": "预期的；到期的"
+      },
+      {
+        "word": "deliver",
+        "pos": "v.",
+        "zh": "递送"
+      }
+    ],
+    "sources": [
+      {
+        "word": "transit",
+        "physical_page": 192,
+        "printed_page": 181
+      },
+      {
+        "word": "due",
+        "physical_page": 191,
+        "printed_page": 180
+      },
+      {
+        "word": "deliver",
+        "physical_page": 192,
+        "printed_page": 181
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 42\n场景词群 | 交通旅行\n包裹在路上，什么时候到\ntransit n. 运输途中；中转\ndue adj. 预期的；到期的\ndeliver v. 递送\n放进句子里\nThe parcel is due to arrive tomorrow.\n包裹预计明天到达。\n用法提醒\nin transit 表示在运输途中，be due to arrive 表示预计到达。\n雅思应用\n听力 Part 1 · 记录预计送达时间\n轮到你了\n用 due to arrive 说出一件物品的预计到达时间。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The parcel is due to arrive tomorrow.",
+    "example_zh": "包裹预计明天到达。",
+    "examples": [
+      {
+        "en": "The parcel is due to arrive tomorrow.",
+        "zh": "包裹预计明天到达。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "in transit",
+        "在运输途中"
+      ],
+      [
+        "be due to arrive",
+        "预计到达"
+      ],
+      [
+        "deliver a parcel",
+        "递送包裹"
+      ]
+    ],
+    "notes": "in transit 表示在运输途中，be due to arrive 表示预计到达。",
+    "scene": "主图是同一社区配送线路的连续叙事：左上仓库到右下住家门廊之间画一条细虚线路径，一辆厢式货车正在路中，transit 词签落到线路中的货车和包裹，说明在途。左下收件人手持手机，手机画一个简洁日历格、下一个日期的高亮框和包裹图标，没有字母数字，due 的引线指日历的预计日期格。右下快递员正把同款包裹交到门口收件人手上，deliver 引线落在交付动作。三个标签位置清楚，不加额外词。",
+    "palette": "线路与车身湖蓝、门廊砖红、包裹纸褐和手机日期暖黄。",
+    "ielts": "听力 Part 1 · 记录预计送达时间",
+    "practice": "用 due to arrive 说出一件物品的预计到达时间。",
+    "answer": "My new suitcase is due to arrive on Friday.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/due"
+    ],
+    "image": "previews/42.webp"
+  },
+  {
+    "id": "43",
+    "page": 43,
+    "title": "把信息传给司机",
+    "kind": "scene",
+    "targets": [
+      "transmit",
+      "convey"
+    ],
+    "labels": [
+      {
+        "word": "transmit",
+        "pos": "v.",
+        "zh": "传输"
+      },
+      {
+        "word": "convey",
+        "pos": "v.",
+        "zh": "传达；运送"
+      }
+    ],
+    "sources": [
+      {
+        "word": "transmit",
+        "physical_page": 191,
+        "printed_page": 180
+      },
+      {
+        "word": "convey",
+        "physical_page": 192,
+        "printed_page": 181
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 43\n场景词群 | 交通旅行\n把信息传给司机\ntransmit v. 传输\nconvey v. 传达；运送\n放进句子里\nThe radio transmits messages to the driver.\n无线电把信息传给司机。\n用法提醒\nconvey 可指运送，也可指传达意思。\n雅思应用\n阅读 · 区分交通信息中的传输与传达\n轮到你了\n用 convey 说说地图能向旅客传达什么。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The radio transmits messages to the driver.",
+    "example_zh": "无线电把信息传给司机。",
+    "examples": [
+      {
+        "en": "The radio transmits messages to the driver.",
+        "zh": "无线电把信息传给司机。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "transmit a signal",
+        "传输信号"
+      ],
+      [
+        "convey information",
+        "传达信息"
+      ]
+    ],
+    "notes": "convey 可指运送，也可指传达意思。",
+    "scene": "一个温暖的运输调度室，左侧调度员通过无线电与窗外货车司机通信，transmit 的短引线落在有几圈小信号波的无线电天线上，信号以无文字波形连到车内接收设备。右侧调度员指着一张只有地图图形的路线图，向另一位司机解释路线，convey 引线指两人之间的讲解和手势，用一条简单对话曲线呈现信息从人到人的传达。词签不落在人物头上。没有图中文字。",
+    "palette": "调度室木色、无线电靛蓝和地图草绿，暖黄灯光连接沟通场景。",
+    "ielts": "阅读 · 区分交通信息中的传输与传达",
+    "practice": "用 convey 说说地图能向旅客传达什么。",
+    "answer": "A clear map can convey the route more effectively than a long explanation.",
+    "reference_urls": [],
+    "image": "previews/43.webp"
+  },
+  {
+    "id": "44",
+    "page": 44,
+    "title": "看速度，也看方向",
+    "kind": "scene",
+    "targets": [
+      "speed",
+      "velocity",
+      "swift"
+    ],
+    "labels": [
+      {
+        "word": "speed",
+        "pos": "n.",
+        "zh": "速度"
+      },
+      {
+        "word": "velocity",
+        "pos": "n.",
+        "zh": "速度，物理语境含方向"
+      },
+      {
+        "word": "swift",
+        "pos": "adj.",
+        "zh": "迅速的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "speed",
+        "physical_page": 192,
+        "printed_page": 181
+      },
+      {
+        "word": "velocity",
+        "physical_page": 192,
+        "printed_page": 181
+      },
+      {
+        "word": "swift",
+        "physical_page": 192,
+        "printed_page": 181
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 44\n场景词群 | 交通旅行\n看速度，也看方向\nspeed n. 速度\nvelocity n. 速度，物理语境含方向\nswift adj. 迅速的\n放进句子里\nThe boat changed its velocity as it turned.\n船转弯时，速度的方向发生了变化。\n用法提醒\n物理语境中，velocity 同时包含快慢和方向。\n雅思应用\n阅读 · 理解交通与运动描述\n轮到你了\n用 swift 描述一次迅速的行动。\n第14章 交通旅行 · 原创例句与练习 · 非真题",
+    "example_en": "The boat changed its velocity as it turned.",
+    "example_zh": "船转弯时，速度的方向发生了变化。",
+    "examples": [
+      {
+        "en": "The boat changed its velocity as it turned.",
+        "zh": "船转弯时，速度的方向发生了变化。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "reduce speed",
+        "降低速度"
+      ],
+      [
+        "change velocity",
+        "改变速度"
+      ],
+      [
+        "a swift response",
+        "迅速的回应"
+      ]
+    ],
+    "notes": "物理语境中，velocity 同时包含快慢和方向。",
+    "scene": "一条河湾中的交通教学场景，上方主图是一艘小渡轮正在沿河转弯，船边画两条细的等长蓝箭头，分别朝转弯前的右方和转弯后的右下方，velocity 的一条引线指向方向已变的蓝箭头。左前景自然放大船上的机械速度表，只画刻度与指针、没有字母或数字，speed 引线精确指表针，表现快慢。岸边一名骑行快递员正快步把信交给收件人，简洁动作线表现迅速交接，swift 引线指交接动作。不用具体速度数值，不画危险行为。",
+    "palette": "河水浅蓝、方向箭头深蓝、船体白与快递员衣服珊瑚橙。",
+    "ielts": "阅读 · 理解交通与运动描述",
+    "practice": "用 swift 描述一次迅速的行动。",
+    "answer": "The courier made a swift delivery to the office.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/velocity?topic=speed-of-motion"
+    ],
+    "image": "previews/44.webp"
+  }
+]

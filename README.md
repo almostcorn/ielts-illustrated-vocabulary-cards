@@ -2,7 +2,7 @@
 
 用画面理解词义，用例句走进语境，再用练习把词汇说出来。
 
-**585 张插画学习卡 · 13 个完整章节 · 持续更新**
+**629 张插画学习卡 · 14 个完整章节 · 持续更新**
 
 [按章节开始学习](#章节目录) · [下载 PDF 和高清原图](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases) · [查看制作原则](DESIGN.md)
 
@@ -35,12 +35,13 @@
 | 11 | 时尚潮流 | 33 | 113 | [打开章节](chapters/ch11/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch11/ch11-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch11/ch11-study-pack.zip) |
 | 12 | 饮食健康 | 53 | 173 | [打开章节](chapters/ch12/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch12/ch12-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch12/ch12-study-pack.zip) |
 | 13 | 建筑场所 | 41 | 134 | [打开章节](chapters/ch13/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch13/ch13-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch13/ch13-study-pack.zip) |
+| 14 | 交通旅行 | 44 | 134 | [打开章节](chapters/ch14/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.18-ch14/ch14-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.18-ch14/ch14-study-pack.zip) |
 
-全书共 22 章。第 1–13 章已完成，第 14–22 章共 9 章待制作。章内词头合计 2,033 项，跨章出现的同一个词分别计入各章。
+全书共 22 章。第 1–14 章已完成，第 15–22 章共 8 章待制作。章内词头合计 2,167 项，跨章出现的同一个词分别计入各章。
 
 ## 文件说明
 
-- `chapters/`：585张在线预览，以及学习文稿、练习、独立答案、词头覆盖表和可编辑内容。
+- `chapters/`：629张在线预览，以及学习文稿、练习、独立答案、词头覆盖表和可编辑内容。
 - `catalog.json`：章节与卡片索引，便于检索或继续制作。
 - [Releases](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases)：每章合订PDF与含高清PNG的完整学习包；预览图做了网页压缩，高清原图保持发布版本。
 
@@ -52,4 +53,4 @@
 
 公开仓库用于分享与学习，目前未另行授予统一的开源内容许可；转载、再发布或商业使用请先联系维护者。
 
-维护者：[Evelyn](https://github.com/Eva-Lau) · 更新于2026-11-12
+维护者：[Evelyn](https://github.com/Eva-Lau) · 更新于2026-11-18
