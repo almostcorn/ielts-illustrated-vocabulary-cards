@@ -1,0 +1,4217 @@
+[
+  {
+    "id": "01",
+    "page": 1,
+    "title": "公共服务由谁来负责",
+    "kind": "scene",
+    "targets": [
+      "government",
+      "authority",
+      "political"
+    ],
+    "labels": [
+      {
+        "word": "government",
+        "pos": "n.",
+        "zh": "政府"
+      },
+      {
+        "word": "authority",
+        "pos": "n.",
+        "zh": "主管机构"
+      },
+      {
+        "word": "political",
+        "pos": "adj.",
+        "zh": "政治的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "government",
+        "physical_page": 195,
+        "printed_page": 184
+      },
+      {
+        "word": "authority",
+        "physical_page": 195,
+        "printed_page": 184
+      },
+      {
+        "word": "political",
+        "physical_page": 195,
+        "printed_page": 184
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 01\n场景词群 | 国家政府\n公共服务由谁来负责\ngovernment  n.  政府\nauthority  n.  主管机构\npolitical  adj.  政治的\n放进句子里\nThe government asked the transport authority to review the plan.\n政府要求交通主管机构审查这项计划。\n用法提醒\nauthority 可指对某项事务负责的主管机构。\n雅思应用\n口语 Part 3 | 讨论公共服务由谁负责\n轮到你了\n用 government 说一项你希望改善的公共服务。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The government asked the transport authority to review the plan.",
+    "example_zh": "政府要求交通主管机构审查这项计划。",
+    "examples": [
+      {
+        "en": "The government asked the transport authority to review the plan.",
+        "zh": "政府要求交通主管机构审查这项计划。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "local government",
+        "地方政府"
+      ],
+      [
+        "a transport authority",
+        "交通主管机构"
+      ],
+      [
+        "a political debate",
+        "政治辩论"
+      ]
+    ],
+    "notes": "authority 可指对某项事务负责的主管机构。",
+    "scene": "Single lively cutaway civic administration building and public square in an invented city. GOVERNMENT callout with an elegant bracket spans the overall civic office building where departments work. AUTHORITY leader points to a dedicated transport-regulation service counter where an official examines a bus-route plan, clearly a responsible public body. POLITICAL leader points to an open public council debate next to the building, with a semicircle of residents discussing policy with a speaker. All depicted adult figures ordinary and diverse, no real party symbols or flags. Accurate separate endpoints. No extraneous lettering on papers or signs. Calm civic scene with cream sandstone, teal transport counter, brick-red debating benches.",
+    "palette": "暖石色办公楼、深青服务窗口和砖红议事座椅，区分机构整体、具体主管单位和政治讨论。",
+    "ielts": "口语 Part 3 | 讨论公共服务由谁负责",
+    "practice": "用 government 说一项你希望改善的公共服务。",
+    "answer": "I hope the government will improve local bus services.",
+    "reference_urls": [],
+    "image": "previews/01.webp"
+  },
+  {
+    "id": "02",
+    "page": 2,
+    "title": "bureaucracy",
+    "kind": "word",
+    "targets": [
+      "bureaucracy"
+    ],
+    "labels": [
+      {
+        "word": "bureaucracy",
+        "pos": "n.",
+        "zh": "行政体系；繁琐手续"
+      }
+    ],
+    "sources": [
+      {
+        "word": "bureaucracy",
+        "physical_page": 195,
+        "printed_page": 184
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 02\n单词精讲 | 国家政府\nbureaucracy\n/bjʊə’rɒk.rə.si/  n.\n行政体系；繁琐手续\n由部门、工作人员与规章组成的行政管理体系。\n放进句子里\nOnline forms can reduce bureaucracy.\n在线表格可以减少繁琐手续。\n常用搭配\ngovernment bureaucracy\nreduce bureaucracy\ncut through bureaucracy\n用法提醒\nbureaucracy 也可指办事手续繁琐的现象。\n雅思应用\n写作 Task 2 | 讨论怎样简化公共服务\n轮到你了\n用 reduce bureaucracy 写一句办事改进建议。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "Online forms can reduce bureaucracy.",
+    "example_zh": "在线表格可以减少繁琐手续。",
+    "examples": [
+      {
+        "en": "Online forms can reduce bureaucracy.",
+        "zh": "在线表格可以减少繁琐手续。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "government bureaucracy",
+        "政府行政体系"
+      ],
+      [
+        "reduce bureaucracy",
+        "减少繁琐手续"
+      ],
+      [
+        "cut through bureaucracy",
+        "克服繁琐手续"
+      ]
+    ],
+    "notes": "bureaucracy 也可指办事手续繁琐的现象。",
+    "scene": "Huge bureaucracy headword at top left with readable exact IPA and Chinese definition. Main illustration on right flowing below is a respectful public service building cutaway. An adult resident carries one form through three clearly separated desks where officials check, stamp, then file documents. A thin unobtrusive ribbon arrow connects the stages, with no words or numbers on the ribbon. A calm clerk at a separate laptop shows one streamlined form on an unlettered screen, helping convey the example's possibility of simplifying paperwork. Fine paper documents and warm cabinets. Do not depict sadistic or incompetent officials, no labelled extra words.",
+    "palette": "纸张米白、档案柜木棕、印章暗红和电子窗口浅蓝，对照纸质手续与线上表格。",
+    "ielts": "写作 Task 2 | 讨论怎样简化公共服务",
+    "practice": "用 reduce bureaucracy 写一句办事改进建议。",
+    "answer": "Using one online form could reduce bureaucracy.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/pronunciation/english/bureaucracy"
+    ],
+    "ipa": "/bjʊəˈrɒk.rə.si/",
+    "definition": "由部门、工作人员与规章组成的行政管理体系。",
+    "image": "previews/02.webp"
+  },
+  {
+    "id": "03",
+    "page": 3,
+    "title": "理论阅读中的三个概念",
+    "kind": "contrast",
+    "targets": [
+      "Marxism",
+      "socialism",
+      "communism"
+    ],
+    "labels": [
+      {
+        "word": "Marxism",
+        "pos": "n.",
+        "zh": "马克思主义"
+      },
+      {
+        "word": "socialism",
+        "pos": "n.",
+        "zh": "社会主义"
+      },
+      {
+        "word": "communism",
+        "pos": "n.",
+        "zh": "共产主义"
+      }
+    ],
+    "sources": [
+      {
+        "word": "Marxism",
+        "physical_page": 195,
+        "printed_page": 184
+      },
+      {
+        "word": "socialism",
+        "physical_page": 195,
+        "printed_page": 184
+      },
+      {
+        "word": "communism",
+        "physical_page": 195,
+        "printed_page": 184
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 03\n词义辨析 | 国家政府\n理论阅读中的三个概念\nMarxism  n.  马克思主义\nsocialism  n.  社会主义\ncommunism  n.  共产主义\n马克思的社会、政治与经济理论\n强调生产资料的社会所有\n以无阶级和生产资料公有为目标\n放进句子里\nThe seminar compared Marxism, socialism and communism.\n这场研讨会比较了马克思主义、社会主义和共产主义。\n用法提醒\n这三个词常见于政治理论与历史讨论。\n雅思应用\n阅读 | 识别政治理论及其定义\n轮到你了\n用其中一个词介绍一本历史书的内容。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The seminar compared Marxism, socialism and communism.",
+    "example_zh": "这场研讨会比较了马克思主义、社会主义和共产主义。",
+    "examples": [
+      {
+        "en": "The seminar compared Marxism, socialism and communism.",
+        "zh": "这场研讨会比较了马克思主义、社会主义和共产主义。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "Marxist theory",
+        "马克思主义理论"
+      ],
+      [
+        "the history of socialism",
+        "社会主义的历史"
+      ],
+      [
+        "the ideal of communism",
+        "共产主义理想"
+      ]
+    ],
+    "notes": "这三个词常见于政治理论与历史讨论。",
+    "scene": "Three large adjacent concept illustrations integrated into a history seminar spread. Left, a tutor and students analyse an industrial society diagram on an open notebook, with workers, factory, and ownership connections, depicting a theory of society, politics, and economics. Middle, members jointly discuss the operation of a community-owned workshop and publicly run transport, depicting social ownership. Right, a lightly drawn conceptual community with shared production resources and people at equal level, depicting the ideal of a society without classes. These are concept illustrations, not claims about an actual country. Labels directly attach to each corresponding vignette, each English/POS/Chinese shown once. Place one small exact Chinese caption under each illustration: Marxism caption 马克思的社会、政治与经济理论; socialism caption 强调生产资料的社会所有; communism caption 以无阶级和生产资料公有为目标. No extra words or leaders to a lone book. These captions belong inside illustration, no repeated list underneath.",
+    "palette": "石墨灰和赭色呈现理论分析，公共工坊用蓝绿，共享理想示意用浅暖橙。",
+    "ielts": "阅读 | 识别政治理论及其定义",
+    "practice": "用其中一个词介绍一本历史书的内容。",
+    "answer": "The book includes a chapter on the history of socialism.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/marxism",
+      "https://dictionary.cambridge.org/dictionary/english/socialism",
+      "https://dictionary.cambridge.org/dictionary/english/communism"
+    ],
+    "image": "previews/03.webp"
+  },
+  {
+    "id": "04",
+    "page": 4,
+    "title": "materialism",
+    "kind": "word",
+    "targets": [
+      "materialism"
+    ],
+    "labels": [
+      {
+        "word": "materialism",
+        "pos": "n.",
+        "zh": "唯物主义"
+      }
+    ],
+    "sources": [
+      {
+        "word": "materialism",
+        "physical_page": 195,
+        "printed_page": 184
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 04\n单词精讲 | 国家政府\nmaterialism\n/mə'tɪə.ri.ə.lɪ.zəm/  n.\n唯物主义\n认为物质是根本实在的哲学观点。\n放进句子里\nThe lecture introduced materialism as a philosophical view.\n这场讲座把唯物主义作为一种哲学观点加以介绍。\n常用搭配\nhistorical materialism\nphilosophical materialism\na form of materialism\n用法提醒\n哲学讨论中常见 historical materialism 这一搭配。\n雅思应用\n阅读 | 识别哲学观点的定义\n轮到你了\n用 materialism 写一句介绍讲座或书籍的话。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The lecture introduced materialism as a philosophical view.",
+    "example_zh": "这场讲座把唯物主义作为一种哲学观点加以介绍。",
+    "examples": [
+      {
+        "en": "The lecture introduced materialism as a philosophical view.",
+        "zh": "这场讲座把唯物主义作为一种哲学观点加以介绍。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "historical materialism",
+        "历史唯物主义"
+      ],
+      [
+        "philosophical materialism",
+        "哲学上的唯物主义"
+      ],
+      [
+        "a form of materialism",
+        "一种唯物主义观点"
+      ]
+    ],
+    "notes": "哲学讨论中常见 historical materialism 这一搭配。",
+    "scene": "Large headword with IPA on left, dominant thoughtful philosophy seminar illustration at right and below. A tutor points towards ordinary physical objects, a rock, globe and anatomical brain model, while adult learners discuss an unlettered concept sketch connecting them. The scene conveys a philosophical account concerned with matter and physical reality. Do not suggest a laboratory experiment proves a philosophy. No symbols disparaging religion, ghosts, supernatural motifs or material luxury goods. No extra labels.",
+    "palette": "岩石赭灰、地球蓝绿和纸页米白，服务于物质世界的哲学讨论。",
+    "ielts": "阅读 | 识别哲学观点的定义",
+    "practice": "用 materialism 写一句介绍讲座或书籍的话。",
+    "answer": "The course includes a lecture on materialism.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/materialism"
+    ],
+    "ipa": "/məˈtɪə.ri.ə.lɪ.zəm/",
+    "definition": "认为物质是根本实在的哲学观点。",
+    "image": "previews/04.webp"
+  },
+  {
+    "id": "05",
+    "page": 5,
+    "title": "政体与公共决策",
+    "kind": "contrast",
+    "targets": [
+      "republic",
+      "regime",
+      "democracy"
+    ],
+    "labels": [
+      {
+        "word": "republic",
+        "pos": "n.",
+        "zh": "共和国"
+      },
+      {
+        "word": "regime",
+        "pos": "n.",
+        "zh": "政体；政权"
+      },
+      {
+        "word": "democracy",
+        "pos": "n.",
+        "zh": "民主；民主制度"
+      }
+    ],
+    "sources": [
+      {
+        "word": "republic",
+        "physical_page": 195,
+        "printed_page": 184
+      },
+      {
+        "word": "regime",
+        "physical_page": 195,
+        "printed_page": 184
+      },
+      {
+        "word": "democracy",
+        "physical_page": 195,
+        "printed_page": 184
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 05\n词义辨析 | 国家政府\n政体与公共决策\nrepublic  n.  共和国\nregime  n.  政体；政权\ndemocracy  n.  民主；民主制度\n由非世袭国家元首领导的国家\n统治体系或执政集团\n人民参与决定如何治理\n放进句子里\nThe course examined how democracy can work in a republic.\n这门课探讨民主制度如何在共和国中运作。\n用法提醒\nregime 可指政体或执政集团，常带贬义。\n雅思应用\n阅读 | 理解政体与治理方式的描述\n轮到你了\n用 republic 或 democracy 介绍一门课程的主题。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The course examined how democracy can work in a republic.",
+    "example_zh": "这门课探讨民主制度如何在共和国中运作。",
+    "examples": [
+      {
+        "en": "The course examined how democracy can work in a republic.",
+        "zh": "这门课探讨民主制度如何在共和国中运作。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a republic",
+        "一个共和国"
+      ],
+      [
+        "a political regime",
+        "一种政体"
+      ],
+      [
+        "representative democracy",
+        "代议制民主"
+      ]
+    ],
+    "notes": "regime 可指政体或执政集团，常带贬义。",
+    "scene": "A neutral illustrated civics museum with three large linked educational models. REPUBLIC callout points to a model state assembly and an elected head-of-state office with a ballot icon, no crown, reflecting a republic as a state without a hereditary monarch. REGIME points to the whole administrative organisation diagram as a bracket spanning an executive office, departments and procedural links, representing a governing system or group, not a named country. DEMOCRACY points to adults participating in a public decision with discussion and ballot box. Avoid any implication that every republic is democratic or that these labels are mutually exclusive. Print small conceptual cue captions only below respective picture: 由非世袭国家元首领导的国家; 统治体系或执政集团; 人民参与决定如何治理. No party symbols, real national flags, leaders or other text.",
+    "palette": "博物馆石白、议事场景深青和投票纸暖黄让制度与参与行为可分辨。",
+    "ielts": "阅读 | 理解政体与治理方式的描述",
+    "practice": "用 republic 或 democracy 介绍一门课程的主题。",
+    "answer": "The course explores the history of democracy.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/regime"
+    ],
+    "image": "previews/05.webp"
+  },
+  {
+    "id": "06",
+    "page": 6,
+    "title": "层级与平等参与",
+    "kind": "contrast",
+    "targets": [
+      "hierarchy",
+      "egalitarian"
+    ],
+    "labels": [
+      {
+        "word": "hierarchy",
+        "pos": "n.",
+        "zh": "等级结构"
+      },
+      {
+        "word": "egalitarian",
+        "pos": "adj.",
+        "zh": "主张平等的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "hierarchy",
+        "physical_page": 195,
+        "printed_page": 184
+      },
+      {
+        "word": "egalitarian",
+        "physical_page": 195,
+        "printed_page": 184
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 06\n词义辨析 | 国家政府\n层级与平等参与\nhierarchy  n.  等级结构\negalitarian  adj.  主张平等的\n放进句子里\nThe organisation aims to create a more egalitarian workplace.\n这个组织希望建立一个更加平等的工作环境。\n用法提醒\nhierarchy 描述层级，egalitarian 强调平等观念。\n雅思应用\n写作 Task 2 | 讨论工作场所的平等\n轮到你了\n用 egalitarian 描述一种公平参与的做法。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The organisation aims to create a more egalitarian workplace.",
+    "example_zh": "这个组织希望建立一个更加平等的工作环境。",
+    "examples": [
+      {
+        "en": "The organisation aims to create a more egalitarian workplace.",
+        "zh": "这个组织希望建立一个更加平等的工作环境。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an organisational hierarchy",
+        "组织层级结构"
+      ],
+      [
+        "an egalitarian society",
+        "主张平等的社会"
+      ],
+      [
+        "a more egalitarian workplace",
+        "更加平等的工作场所"
+      ]
+    ],
+    "notes": "hierarchy 描述层级，egalitarian 强调平等观念。",
+    "scene": "One illustrated community organisation workshop comparing decision arrangements. At left a transparent vertical organisational diagram connects a director's desk above two team-lead desks and several workstations below, same sized human figures at levels, with HIERARCHY bracket around the stepped organisation. At right an adult group sits at an even-height round discussion table, equal microphone access and shared document, with EGALITARIAN leader to the interaction. Do not encode status by race or gender. These are examples of structure and participation, no claim one removes all hierarchy. No extra writing.",
+    "palette": "层级图用深蓝连线和浅木办公桌，平等讨论用暖橙圆桌与柔绿座椅。",
+    "ielts": "写作 Task 2 | 讨论工作场所的平等",
+    "practice": "用 egalitarian 描述一种公平参与的做法。",
+    "answer": "An egalitarian workplace gives staff a chance to express their views.",
+    "reference_urls": [],
+    "image": "previews/06.webp"
+  },
+  {
+    "id": "07",
+    "page": 7,
+    "title": "办事方式怎样改变",
+    "kind": "scene",
+    "targets": [
+      "reform",
+      "process",
+      "revolution"
+    ],
+    "labels": [
+      {
+        "word": "reform",
+        "pos": "n.",
+        "zh": "改革"
+      },
+      {
+        "word": "process",
+        "pos": "n.",
+        "zh": "过程"
+      },
+      {
+        "word": "revolution",
+        "pos": "n.",
+        "zh": "巨大变革"
+      }
+    ],
+    "sources": [
+      {
+        "word": "reform",
+        "physical_page": 196,
+        "printed_page": 185
+      },
+      {
+        "word": "process",
+        "physical_page": 196,
+        "printed_page": 185
+      },
+      {
+        "word": "revolution",
+        "physical_page": 195,
+        "printed_page": 184
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 07\n场景词群 | 国家政府\n办事方式怎样改变\nreform  n.  改革\nprocess  n.  过程\nrevolution  n.  巨大变革\n放进句子里\nDigital records caused a revolution in the way the office worked.\n数字档案使办公室的工作方式发生了巨大变革。\n用法提醒\nrevolution 也可比喻影响深远的巨大变化。\n雅思应用\n写作 Task 2 | 讨论技术怎样改变公共服务\n轮到你了\n用 reform 或 process 说一句服务改进。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "Digital records caused a revolution in the way the office worked.",
+    "example_zh": "数字档案使办公室的工作方式发生了巨大变革。",
+    "examples": [
+      {
+        "en": "Digital records caused a revolution in the way the office worked.",
+        "zh": "数字档案使办公室的工作方式发生了巨大变革。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "administrative reform",
+        "行政改革"
+      ],
+      [
+        "an application process",
+        "申请过程"
+      ],
+      [
+        "a digital revolution",
+        "数字革命"
+      ]
+    ],
+    "notes": "revolution 也可比喻影响深远的巨大变化。",
+    "scene": "A coherent public-records office timeline without numbers. Left an office worker replaces a confusing multi-form system with one clear checklist and counter as a modest administrative reform; REFORM points to the altered procedure. Middle a short sequence of icons connected by arrows shows application, review and completion; PROCESS bracket spans the sequence. Right a much broader historical shift from bulky handwritten record ledgers to interconnected digital records and public online terminals; REVOLUTION bracket spans the visible transformation. No destructive crowd or violence, this uses figurative major change. No explanatory text beyond three exact labels.",
+    "palette": "纸质档案木棕、流程连线靛蓝和电子终端浅青表现不同程度的变化。",
+    "ielts": "写作 Task 2 | 讨论技术怎样改变公共服务",
+    "practice": "用 reform 或 process 说一句服务改进。",
+    "answer": "The reform made the application process simpler.",
+    "reference_urls": [],
+    "image": "previews/07.webp"
+  },
+  {
+    "id": "08",
+    "page": 8,
+    "title": "conservative",
+    "kind": "word",
+    "targets": [
+      "conservative"
+    ],
+    "labels": [
+      {
+        "word": "conservative",
+        "pos": "adj.",
+        "zh": "谨慎的；保守的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "conservative",
+        "physical_page": 196,
+        "printed_page": 185
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 08\n单词精讲 | 国家政府\nconservative\n/kən'sɜ:.və.tɪv/  adj.\n谨慎的；保守的\n偏于谨慎、避免风险或不愿大幅改变的。\n放进句子里\nThey took a conservative approach to the renovation.\n他们采用了谨慎的修缮方式。\n常用搭配\na conservative approach\na conservative estimate\nconservative views\n用法提醒\nconservative 也可用于描述保守的估计或观点。\n雅思应用\n写作 Task 2 | 讨论历史建筑的改造\n轮到你了\n用 a conservative approach 写一句谨慎做法。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "They took a conservative approach to the renovation.",
+    "example_zh": "他们采用了谨慎的修缮方式。",
+    "examples": [
+      {
+        "en": "They took a conservative approach to the renovation.",
+        "zh": "他们采用了谨慎的修缮方式。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a conservative approach",
+        "谨慎的做法"
+      ],
+      [
+        "a conservative estimate",
+        "保守估计"
+      ],
+      [
+        "conservative views",
+        "保守观点"
+      ]
+    ],
+    "notes": "conservative 也可用于描述保守的估计或观点。",
+    "scene": "Huge word with IPA and clear definition on upper left. Main picture shows a heritage building renovation meeting: a conservator and adult planners carefully compare a drawing that preserves most original stonework with a small tray of matching replacement stones for only damaged sections. Actual scaffold small, historic arch intact. An engineer points to a very limited marked repair on the drawing, depicting a cautious approach to change. No claims about real party politics or architectural advice, no alternative proposal or extra text.",
+    "palette": "旧石暖灰、替换砖赭色和图纸蓝线，突出谨慎的小幅改动。",
+    "ielts": "写作 Task 2 | 讨论历史建筑的改造",
+    "practice": "用 a conservative approach 写一句谨慎做法。",
+    "answer": "The team took a conservative approach and kept the original design.",
+    "reference_urls": [],
+    "ipa": "/kənˈsɜː.və.tɪv/",
+    "definition": "偏于谨慎、避免风险或不愿大幅改变的。",
+    "image": "previews/08.webp"
+  },
+  {
+    "id": "09",
+    "page": 9,
+    "title": "meltdown",
+    "kind": "word",
+    "targets": [
+      "meltdown"
+    ],
+    "labels": [
+      {
+        "word": "meltdown",
+        "pos": "n.",
+        "zh": "严重崩溃"
+      }
+    ],
+    "sources": [
+      {
+        "word": "meltdown",
+        "physical_page": 196,
+        "printed_page": 185
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 09\n单词精讲 | 国家政府\nmeltdown\n/’melt.daʊn/  n.\n严重崩溃\n严重失灵或崩溃，常用于金融、经济或系统。\n放进句子里\nThe financial meltdown affected many businesses.\n这场金融危机影响了许多企业。\n常用搭配\na financial meltdown\nan economic meltdown\na system meltdown\n用法提醒\nmeltdown 可比喻金融或系统的严重崩溃。\n雅思应用\n阅读 | 识别描述金融危机的词语\n轮到你了\n用 financial meltdown 写一句历史讨论。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The financial meltdown affected many businesses.",
+    "example_zh": "这场金融危机影响了许多企业。",
+    "examples": [
+      {
+        "en": "The financial meltdown affected many businesses.",
+        "zh": "这场金融危机影响了许多企业。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a financial meltdown",
+        "金融体系崩溃"
+      ],
+      [
+        "an economic meltdown",
+        "经济崩溃"
+      ],
+      [
+        "a system meltdown",
+        "系统崩溃"
+      ]
+    ],
+    "notes": "meltdown 可比喻金融或系统的严重崩溃。",
+    "scene": "Large headword and IPA/definition on left. Dominant image is a fictional economic-history exhibition with a clearly illustrative steep falling line drawn on an unnumbered display, and connected small shops with shuttered windows and adults reading a neutral financial report. Show systemic disruption rather than one sad person. One small abstract factory model has interrupted connections. No currency figures, stock ticker, real dates, cities, brands or investment instructions. Avoid nuclear scene, this card uses figurative financial sense.",
+    "palette": "金融展板冷蓝、下跌线暗红与闭店木灰表现崩溃的经济情境。",
+    "ielts": "阅读 | 识别描述金融危机的词语",
+    "practice": "用 financial meltdown 写一句历史讨论。",
+    "answer": "The book examines the effects of a financial meltdown.",
+    "reference_urls": [],
+    "ipa": "/ˈmelt.daʊn/",
+    "definition": "严重失灵或崩溃，常用于金融、经济或系统。",
+    "image": "previews/09.webp"
+  },
+  {
+    "id": "10",
+    "page": 10,
+    "title": "双方会谈中的中立立场",
+    "kind": "scene",
+    "targets": [
+      "neutral",
+      "bilateral"
+    ],
+    "labels": [
+      {
+        "word": "neutral",
+        "pos": "adj.",
+        "zh": "中立的"
+      },
+      {
+        "word": "bilateral",
+        "pos": "adj.",
+        "zh": "双边的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "neutral",
+        "physical_page": 196,
+        "printed_page": 185
+      },
+      {
+        "word": "bilateral",
+        "physical_page": 196,
+        "printed_page": 185
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 10\n场景词群 | 国家政府\n双方会谈中的中立立场\nneutral  adj.  中立的\nbilateral  adj.  双边的\n放进句子里\nA neutral mediator helped with the bilateral talks.\n一位中立调解员协助了双边会谈。\n用法提醒\nbilateral 涉及双方，neutral 表示不偏向任何一方。\n雅思应用\n阅读 | 理解谈判参与方与立场\n轮到你了\n用 bilateral talks 介绍一种会谈。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "A neutral mediator helped with the bilateral talks.",
+    "example_zh": "一位中立调解员协助了双边会谈。",
+    "examples": [
+      {
+        "en": "A neutral mediator helped with the bilateral talks.",
+        "zh": "一位中立调解员协助了双边会谈。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "remain neutral",
+        "保持中立"
+      ],
+      [
+        "bilateral talks",
+        "双边会谈"
+      ],
+      [
+        "a bilateral agreement",
+        "双边协议"
+      ]
+    ],
+    "notes": "bilateral 涉及双方，neutral 表示不偏向任何一方。",
+    "scene": "An invented diplomacy training roleplay around a simple table. Two equally sized delegations sit on left and right each holding identical plain folders, with a single connecting handshake and BILATERAL bracket spanning these two teams. A mediator sits centrally with open palms, listening impartially, with NEUTRAL leader specifically to the mediator's role. Balanced placement, no real flags, countries, party colors, text, winner/loser cues or actual current negotiators.",
+    "palette": "两侧服装分别深青与土赭，居中调解者穿中灰，构图平衡表现中立与双边。",
+    "ielts": "阅读 | 理解谈判参与方与立场",
+    "practice": "用 bilateral talks 介绍一种会谈。",
+    "answer": "The two delegations held bilateral talks on cooperation.",
+    "reference_urls": [],
+    "image": "previews/10.webp"
+  },
+  {
+    "id": "11",
+    "page": 11,
+    "title": "市政节庆的旗与横幅",
+    "kind": "scene",
+    "targets": [
+      "municipal",
+      "flag",
+      "banner"
+    ],
+    "labels": [
+      {
+        "word": "municipal",
+        "pos": "adj.",
+        "zh": "市政的"
+      },
+      {
+        "word": "flag",
+        "pos": "n.",
+        "zh": "旗"
+      },
+      {
+        "word": "banner",
+        "pos": "n.",
+        "zh": "横幅"
+      }
+    ],
+    "sources": [
+      {
+        "word": "municipal",
+        "physical_page": 196,
+        "printed_page": 185
+      },
+      {
+        "word": "flag",
+        "physical_page": 196,
+        "printed_page": 185
+      },
+      {
+        "word": "banner",
+        "physical_page": 196,
+        "printed_page": 185
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 11\n场景词群 | 国家政府\n市政节庆的旗与横幅\nmunicipal  adj.  市政的\nflag  n.  旗\nbanner  n.  横幅\n放进句子里\nThe municipal hall displayed flags and a festival banner.\n市政大厅挂出了旗帜和节庆横幅。\n用法提醒\nmunicipal 与市或地方政府有关。\n雅思应用\n口语 Part 2 | 描述一次社区活动\n轮到你了\n用 flag 和 banner 描述活动现场。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The municipal hall displayed flags and a festival banner.",
+    "example_zh": "市政大厅挂出了旗帜和节庆横幅。",
+    "examples": [
+      {
+        "en": "The municipal hall displayed flags and a festival banner.",
+        "zh": "市政大厅挂出了旗帜和节庆横幅。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "municipal services",
+        "市政服务"
+      ],
+      [
+        "raise a flag",
+        "升旗"
+      ],
+      [
+        "a festival banner",
+        "节庆横幅"
+      ]
+    ],
+    "notes": "municipal 与市或地方政府有关。",
+    "scene": "One coherent civic square during a community arts festival. MUNICIPAL leader points to the municipal service booth attached to the town hall with a small city building icon only. FLAG points to a tall flagpole with a plain two-color fictional flag fluttering from one short edge. BANNER points to a long wide fabric banner stretched horizontally between two poles over the pedestrian entrance with a simple flower illustration, no words. Distinguish physical formats and civic function, no real national flags or slogans.",
+    "palette": "市政楼浅石、竖旗蓝金、横幅珊瑚色，让性质和两种布幅形态清楚。",
+    "ielts": "口语 Part 2 | 描述一次社区活动",
+    "practice": "用 flag 和 banner 描述活动现场。",
+    "answer": "Colourful flags and a long banner decorated the square.",
+    "reference_urls": [],
+    "image": "previews/11.webp"
+  },
+  {
+    "id": "12",
+    "page": 12,
+    "title": "arena",
+    "kind": "word",
+    "targets": [
+      "arena"
+    ],
+    "labels": [
+      {
+        "word": "arena",
+        "pos": "n.",
+        "zh": "竞技场；活动领域"
+      }
+    ],
+    "sources": [
+      {
+        "word": "arena",
+        "physical_page": 196,
+        "printed_page": 185
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 12\n单词精讲 | 国家政府\narena\n/ə'ri:.nə/  n.\n竞技场；活动领域\n体育或表演场地，也可比喻某种活动领域。\n放进句子里\nThe debate took place in a large arena.\n这场辩论在一座大型场馆里举行。\n常用搭配\na sports arena\nthe political arena\nthe international arena\n用法提醒\nthe political arena 可以指政界。\n雅思应用\n阅读 | 根据语境判断 arena 的词义\n轮到你了\n用 arena 或 the political arena 写一句话。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The debate took place in a large arena.",
+    "example_zh": "这场辩论在一座大型场馆里举行。",
+    "examples": [
+      {
+        "en": "The debate took place in a large arena.",
+        "zh": "这场辩论在一座大型场馆里举行。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a sports arena",
+        "体育竞技场"
+      ],
+      [
+        "the political arena",
+        "政界"
+      ],
+      [
+        "the international arena",
+        "国际舞台"
+      ]
+    ],
+    "notes": "the political arena 可以指政界。",
+    "scene": "Huge arena title, IPA and definition. Main illustration is a broad roofed oval sports/event arena with central floor, surrounding tiers of spectator seating and clear open entrance. At lower corner of the main art a natural small sketchbook vignette shows a public policy debate at a lectern to suggest the figurative phrase, but no tags or written captions. Both sports space and metaphorical field are represented without extra labels. Blue seating, sand-colored floor and warm public speaking lights.",
+    "palette": "体育场座椅冷蓝、场地沙色与议事灯光暖黄，区分实体场地与活动领域的示意。",
+    "ielts": "阅读 | 根据语境判断 arena 的词义",
+    "practice": "用 arena 或 the political arena 写一句话。",
+    "answer": "She entered the political arena after years of community work.",
+    "reference_urls": [],
+    "ipa": "/əˈriː.nə/",
+    "definition": "体育或表演场地，也可比喻某种活动领域。",
+    "image": "previews/12.webp"
+  },
+  {
+    "id": "13",
+    "page": 13,
+    "title": "公共职务与政治家",
+    "kind": "scene",
+    "targets": [
+      "president",
+      "premier",
+      "minister",
+      "statesman"
+    ],
+    "labels": [
+      {
+        "word": "president",
+        "pos": "n.",
+        "zh": "总统"
+      },
+      {
+        "word": "premier",
+        "pos": "n.",
+        "zh": "总理；首相"
+      },
+      {
+        "word": "minister",
+        "pos": "n.",
+        "zh": "部长"
+      },
+      {
+        "word": "statesman",
+        "pos": "n.",
+        "zh": "有声望的政治家"
+      }
+    ],
+    "sources": [
+      {
+        "word": "president",
+        "physical_page": 197,
+        "printed_page": 186
+      },
+      {
+        "word": "premier",
+        "physical_page": 197,
+        "printed_page": 186
+      },
+      {
+        "word": "minister",
+        "physical_page": 197,
+        "printed_page": 186
+      },
+      {
+        "word": "statesman",
+        "physical_page": 197,
+        "printed_page": 186
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 13\n场景词群 | 国家政府\n公共职务与政治家\npresident  n.  总统\npremier  n.  总理；首相\nminister  n.  部长\nstatesman  n.  有声望的政治家\n放进句子里\nThe minister presented the transport plan at the meeting.\n部长在会议上介绍了交通计划。\n用法提醒\nstatesman 常强调政治家的经验与声望。\n雅思应用\n阅读 | 根据职务辨认人物在事件中的作用\n轮到你了\n用 minister 或 president 介绍一句会议安排。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The minister presented the transport plan at the meeting.",
+    "example_zh": "部长在会议上介绍了交通计划。",
+    "examples": [
+      {
+        "en": "The minister presented the transport plan at the meeting.",
+        "zh": "部长在会议上介绍了交通计划。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a president",
+        "一位总统"
+      ],
+      [
+        "a premier",
+        "一位总理或首相"
+      ],
+      [
+        "a government minister",
+        "一位政府部长"
+      ],
+      [
+        "an experienced statesman",
+        "一位有经验的政治家"
+      ]
+    ],
+    "notes": "statesman 常强调政治家的经验与声望。",
+    "scene": "A large civics museum teaching wall with four illustrated role scenes and distinct labels, no real personalities or national symbols. PRESIDENT points to a fictional head of state performing an official public ceremony at a neutral state reception podium. PREMIER points to a separate cabinet meeting where a leader coordinates ministers at a table. MINISTER points to an individual official presenting one department's transport plan with bus icons. STATESMAN points to a museum portrait of an invented experienced respected male political figure, connected to pictures of a peace meeting and long-term community projects indicating a public record. Do not put all roles in a single hierarchy or imply universal constitutional powers. No writing except four specified labels.",
+    "palette": "典礼暖金、内阁深青、部门图纸浅蓝和历史肖像柔棕，帮助辨认角色与经历。",
+    "ielts": "阅读 | 根据职务辨认人物在事件中的作用",
+    "practice": "用 minister 或 president 介绍一句会议安排。",
+    "answer": "The minister will discuss the plan with local officials.",
+    "reference_urls": [],
+    "image": "previews/13.webp"
+  },
+  {
+    "id": "14",
+    "page": 14,
+    "title": "议会与参议院",
+    "kind": "contrast",
+    "targets": [
+      "parliament",
+      "senate"
+    ],
+    "labels": [
+      {
+        "word": "parliament",
+        "pos": "n.",
+        "zh": "议会"
+      },
+      {
+        "word": "senate",
+        "pos": "n.",
+        "zh": "参议院"
+      }
+    ],
+    "sources": [
+      {
+        "word": "parliament",
+        "physical_page": 197,
+        "printed_page": 186
+      },
+      {
+        "word": "senate",
+        "physical_page": 197,
+        "printed_page": 186
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 14\n词义辨析 | 国家政府\n议会与参议院\nparliament  n.  议会\nsenate  n.  参议院\n放进句子里\nThe proposal was debated in parliament.\n这项提案在议会中得到讨论。\n用法提醒\nsenate 可指某些国家议会中的参议院。\n雅思应用\n阅读 | 识别立法机构与议事活动\n轮到你了\n用 parliament 写一句讨论公共提案的话。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The proposal was debated in parliament.",
+    "example_zh": "这项提案在议会中得到讨论。",
+    "examples": [
+      {
+        "en": "The proposal was debated in parliament.",
+        "zh": "这项提案在议会中得到讨论。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a member of parliament",
+        "议会议员"
+      ],
+      [
+        "a parliamentary debate",
+        "议会辩论"
+      ],
+      [
+        "the senate",
+        "参议院"
+      ]
+    ],
+    "notes": "senate 可指某些国家议会中的参议院。",
+    "scene": "One clearly conceptual architectural cutaway of an invented legislature. PARLIAMENT bracket spans the entire legislature complex including main debating chamber and offices. SENATE leader points specifically to a separate upper-chamber meeting room in the same model. Both chambers have people in conversation and proposed document folders, no real flag or constitutional diagram of a real country. The lesson shows an institution and one possible chamber within it, not two universally separate branches. No extra labels, logos, numbers or model names.",
+    "palette": "议会建筑暖石色，参议院席位深蓝与纸页米白突出整体和局部。",
+    "ielts": "阅读 | 识别立法机构与议事活动",
+    "practice": "用 parliament 写一句讨论公共提案的话。",
+    "answer": "Members discussed the new proposal in parliament.",
+    "reference_urls": [],
+    "image": "previews/14.webp"
+  },
+  {
+    "id": "15",
+    "page": 15,
+    "title": "大型会议与小组会面",
+    "kind": "contrast",
+    "targets": [
+      "conference",
+      "meeting",
+      "secretary"
+    ],
+    "labels": [
+      {
+        "word": "conference",
+        "pos": "n.",
+        "zh": "大型会议"
+      },
+      {
+        "word": "meeting",
+        "pos": "n.",
+        "zh": "会议；会面"
+      },
+      {
+        "word": "secretary",
+        "pos": "n.",
+        "zh": "秘书"
+      }
+    ],
+    "sources": [
+      {
+        "word": "conference",
+        "physical_page": 197,
+        "printed_page": 186
+      },
+      {
+        "word": "meeting",
+        "physical_page": 197,
+        "printed_page": 186
+      },
+      {
+        "word": "secretary",
+        "physical_page": 197,
+        "printed_page": 186
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 15\n词义辨析 | 国家政府\n大型会议与小组会面\nconference  n.  大型会议\nmeeting  n.  会议；会面\nsecretary  n.  秘书\n放进句子里\nThe secretary arranged a meeting before the conference.\n秘书在大会开始前安排了一场会议。\n用法提醒\nconference 常指有较多参与者的正式会议。\n雅思应用\n听力 Part 1 | 听懂会议时间与场地安排\n轮到你了\n用 arrange a meeting 说一句工作安排。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The secretary arranged a meeting before the conference.",
+    "example_zh": "秘书在大会开始前安排了一场会议。",
+    "examples": [
+      {
+        "en": "The secretary arranged a meeting before the conference.",
+        "zh": "秘书在大会开始前安排了一场会议。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "attend a conference",
+        "参加大会"
+      ],
+      [
+        "arrange a meeting",
+        "安排会议"
+      ],
+      [
+        "a committee secretary",
+        "委员会秘书"
+      ]
+    ],
+    "notes": "conference 常指有较多参与者的正式会议。",
+    "scene": "One continuous modern conference venue with cutaway: the large main auditorium has rows of attendees and a speaker, CONFERENCE bracket spans the whole event; a separate glass-walled small committee room has six adults around a table, MEETING leader points there; an adult of any gender at the reception desk is preparing the agenda and schedule, SECRETARY leader directly on that organiser. Avoid confusing secretary with waiter, use document tray and diary. No printed agenda words or other incidental letters.",
+    "palette": "大会厅深蓝座椅、玻璃会议室浅青与接待台木色区分规模和职责。",
+    "ielts": "听力 Part 1 | 听懂会议时间与场地安排",
+    "practice": "用 arrange a meeting 说一句工作安排。",
+    "answer": "The secretary will arrange a meeting for the delegates.",
+    "reference_urls": [],
+    "image": "previews/15.webp"
+  },
+  {
+    "id": "16",
+    "page": 16,
+    "title": "代表团以谁的名义发言",
+    "kind": "scene",
+    "targets": [
+      "headquarters",
+      "delegation",
+      "behalf"
+    ],
+    "labels": [
+      {
+        "word": "headquarters",
+        "pos": "n.",
+        "zh": "总部"
+      },
+      {
+        "word": "delegation",
+        "pos": "n.",
+        "zh": "代表团"
+      },
+      {
+        "word": "behalf",
+        "pos": "n.",
+        "zh": "用于 on behalf of，代表"
+      }
+    ],
+    "sources": [
+      {
+        "word": "headquarters",
+        "physical_page": 197,
+        "printed_page": 186
+      },
+      {
+        "word": "delegation",
+        "physical_page": 197,
+        "printed_page": 186
+      },
+      {
+        "word": "behalf",
+        "physical_page": 197,
+        "printed_page": 186
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 16\n场景词群 | 国家政府\n代表团以谁的名义发言\nheadquarters  n.  总部\ndelegation  n.  代表团\nbehalf  n.  用于 on behalf of，代表\non behalf of\n放进句子里\nShe spoke on behalf of the delegation.\n她代表代表团发言。\n用法提醒\non behalf of 表示代表某人或某个团体。\n雅思应用\n口语 Part 3 | 说明代表团或组织的作用\n轮到你了\n用 on behalf of 写一句代表他人表达意见的话。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "She spoke on behalf of the delegation.",
+    "example_zh": "她代表代表团发言。",
+    "examples": [
+      {
+        "en": "She spoke on behalf of the delegation.",
+        "zh": "她代表代表团发言。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "company headquarters",
+        "公司总部"
+      ],
+      [
+        "a visiting delegation",
+        "来访代表团"
+      ],
+      [
+        "on behalf of the community",
+        "代表社区"
+      ]
+    ],
+    "notes": "on behalf of 表示代表某人或某个团体。",
+    "scene": "A coherent headquarters visit, with a large building facade behind and a well-lit conference area in foreground. HEADQUARTERS bracket covers the main office building as the organisation's central office. DELEGATION bracket groups three visitors with matching plain folders, all distinct from the host staff. BEHALF label leader points to one delegation speaker presenting a community proposal while a small picture panel behind them shows the wider group of residents they represent, connected by a simple subtle arrow. Render exact English phrase 'on behalf of' once inside this representation link, no extra words. No flags, country names, personal identifiers or corporate logos.",
+    "palette": "总部玻璃蓝、来访文件夹深赭与居民图景暖绿呈现地点、团体和代表关系。",
+    "ielts": "口语 Part 3 | 说明代表团或组织的作用",
+    "practice": "用 on behalf of 写一句代表他人表达意见的话。",
+    "answer": "I spoke on behalf of the residents at the meeting.",
+    "reference_urls": [],
+    "image": "previews/16.webp"
+  },
+  {
+    "id": "17",
+    "page": 17,
+    "title": "police",
+    "kind": "word",
+    "targets": [
+      "police"
+    ],
+    "labels": [
+      {
+        "word": "police",
+        "pos": "n.",
+        "zh": "警方；警察"
+      }
+    ],
+    "sources": [
+      {
+        "word": "police",
+        "physical_page": 197,
+        "printed_page": 186
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 17\n单词精讲 | 国家政府\npolice\n/pə'li:s/  n.\n警方；警察\n负责维持公共秩序和执法的人员或机构。\n放进句子里\nThe police are directing traffic near the school.\n警方正在学校附近指挥交通。\n常用搭配\ncall the police\na police officer\nthe local police\n用法提醒\npolice 表示警方时通常搭配复数谓语。\n雅思应用\n听力 Part 1 | 听懂寻求警方帮助的情境\n轮到你了\n用 the police are 描述一种协助公众的工作。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The police are directing traffic near the school.",
+    "example_zh": "警方正在学校附近指挥交通。",
+    "examples": [
+      {
+        "en": "The police are directing traffic near the school.",
+        "zh": "警方正在学校附近指挥交通。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "call the police",
+        "报警"
+      ],
+      [
+        "a police officer",
+        "一名警察"
+      ],
+      [
+        "the local police",
+        "当地警方"
+      ]
+    ],
+    "notes": "police 表示警方时通常搭配复数谓语。",
+    "scene": "Huge police headword with IPA and definition in upper-left. Dominant illustration shows a courteous unarmed traffic police team assisting adults and children at a zebra crossing near an ordinary school entrance. One officer in high-visibility uniform calmly directs paused cars, another assists an elderly pedestrian crossing; use safe road layout and correct visible crossing markings. No weapons, distress, real police insignia, readable license plates or extra labels. Public service illustrated. No real country facts.",
+    "palette": "高可见度柠黄制服、道路蓝灰和斑马线白色强调协助与交通秩序。",
+    "ielts": "听力 Part 1 | 听懂寻求警方帮助的情境",
+    "practice": "用 the police are 描述一种协助公众的工作。",
+    "answer": "The police are helping people cross the road.",
+    "reference_urls": [],
+    "ipa": "/pəˈliːs/",
+    "definition": "负责维持公共秩序和执法的人员或机构。",
+    "image": "previews/17.webp"
+  },
+  {
+    "id": "18",
+    "page": 18,
+    "title": "市政办公室怎样提供服务",
+    "kind": "scene",
+    "targets": [
+      "mayor",
+      "service",
+      "office",
+      "administration"
+    ],
+    "labels": [
+      {
+        "word": "mayor",
+        "pos": "n.",
+        "zh": "市长"
+      },
+      {
+        "word": "service",
+        "pos": "n.",
+        "zh": "服务"
+      },
+      {
+        "word": "office",
+        "pos": "n.",
+        "zh": "办公室"
+      },
+      {
+        "word": "administration",
+        "pos": "n.",
+        "zh": "行政管理"
+      }
+    ],
+    "sources": [
+      {
+        "word": "mayor",
+        "physical_page": 198,
+        "printed_page": 187
+      },
+      {
+        "word": "service",
+        "physical_page": 198,
+        "printed_page": 187
+      },
+      {
+        "word": "office",
+        "physical_page": 198,
+        "printed_page": 187
+      },
+      {
+        "word": "administration",
+        "physical_page": 198,
+        "printed_page": 187
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 18\n场景词群 | 国家政府\n市政办公室怎样提供服务\nmayor  n.  市长\nservice  n.  服务\noffice  n.  办公室\nadministration  n.  行政管理\n放进句子里\nGood administration helps the city provide better services.\n良好的行政管理有助于城市提供更好的服务。\n用法提醒\nservice 可指服务，office 也可指担任的官职。\n雅思应用\n写作 Task 2 | 讨论公共服务如何改善\n轮到你了\n用 service 和 administration 说说一种公共服务。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "Good administration helps the city provide better services.",
+    "example_zh": "良好的行政管理有助于城市提供更好的服务。",
+    "examples": [
+      {
+        "en": "Good administration helps the city provide better services.",
+        "zh": "良好的行政管理有助于城市提供更好的服务。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "public services",
+        "公共服务"
+      ],
+      [
+        "hold office",
+        "担任公职"
+      ],
+      [
+        "local administration",
+        "地方行政管理"
+      ]
+    ],
+    "notes": "service 可指服务，office 也可指担任的官职。",
+    "scene": "One welcoming fictional city hall interior, seen as a spacious cutaway. A mayor in an ordinary suit with a modest civic chain talks with residents near the entrance; MAYOR line ends on that adult. SERVICE line ends on the hands of a clerk helping an older resident complete an unlettered form at a counter. OFFICE line ends on the actual office room enclosure with desk, window and shelves. ADMINISTRATION line points to a separate back-office team sorting forms into trays and arranging a shared schedule pictogram board. Show the management process as a group of actions, not one document. No text on forms, badges or background.",
+    "palette": "浅木服务台、青蓝文件与窗边暖光，把接待、办公空间和行政流程区分开。",
+    "ielts": "写作 Task 2 | 讨论公共服务如何改善",
+    "practice": "用 service 和 administration 说说一种公共服务。",
+    "answer": "Efficient administration can improve local library services.",
+    "reference_urls": [],
+    "image": "previews/18.webp"
+  },
+  {
+    "id": "19",
+    "page": 19,
+    "title": "在两个行政部门之间递送规划",
+    "kind": "contrast",
+    "targets": [
+      "bureau",
+      "department"
+    ],
+    "labels": [
+      {
+        "word": "bureau",
+        "pos": "n.",
+        "zh": "局；办事机构"
+      },
+      {
+        "word": "department",
+        "pos": "n.",
+        "zh": "部门"
+      }
+    ],
+    "sources": [
+      {
+        "word": "bureau",
+        "physical_page": 198,
+        "printed_page": 187
+      },
+      {
+        "word": "department",
+        "physical_page": 198,
+        "printed_page": 187
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 19\n词义辨析 | 国家政府\n在两个行政部门之间递送规划\nbureau  n.  局；办事机构\ndepartment  n.  部门\n放进句子里\nThe bureau sent the plans to the transport department.\n办事局把规划图送到了交通部门。\n用法提醒\nbureau 和 department 都可指行政机构，具体层级依语境。\n雅思应用\n听力 Part 1 | 听懂应联系哪个办事部门\n轮到你了\n用 department 说出一种你熟悉的部门。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The bureau sent the plans to the transport department.",
+    "example_zh": "办事局把规划图送到了交通部门。",
+    "examples": [
+      {
+        "en": "The bureau sent the plans to the transport department.",
+        "zh": "办事局把规划图送到了交通部门。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a government bureau",
+        "政府办事局"
+      ],
+      [
+        "the transport department",
+        "交通部门"
+      ]
+    ],
+    "notes": "bureau 和 department 都可指行政机构，具体层级依语境。",
+    "scene": "Two distinct adjoining government service areas in one fictional civic building, no hierarchy implied. Left is a land information bureau with a landscape map and survey model; BUREAU line points to its entire small office. Right is a transport department with transit route diagrams, miniature bus and multiple desks; DEPARTMENT line points to that whole work area. A clerk carries a rolled plan from left to right. Doors use simple pictograms, no lettering or numerals. Exactly two scene callouts with POS.",
+    "palette": "左侧地图青绿，右侧交通规划深蓝，共用暖木走廊连接递送动作。",
+    "ielts": "听力 Part 1 | 听懂应联系哪个办事部门",
+    "practice": "用 department 说出一种你熟悉的部门。",
+    "answer": "I contacted the transport department about the bus timetable.",
+    "reference_urls": [],
+    "image": "previews/19.webp"
+  },
+  {
+    "id": "20",
+    "page": 20,
+    "title": "利用能源，看清主导部分",
+    "kind": "scene",
+    "targets": [
+      "harness",
+      "dominate",
+      "power"
+    ],
+    "labels": [
+      {
+        "word": "harness",
+        "pos": "v.",
+        "zh": "利用"
+      },
+      {
+        "word": "dominate",
+        "pos": "v.",
+        "zh": "占主导"
+      },
+      {
+        "word": "power",
+        "pos": "n.",
+        "zh": "电能"
+      }
+    ],
+    "sources": [
+      {
+        "word": "harness",
+        "physical_page": 198,
+        "printed_page": 187
+      },
+      {
+        "word": "dominate",
+        "physical_page": 198,
+        "printed_page": 187
+      },
+      {
+        "word": "power",
+        "physical_page": 198,
+        "printed_page": 187
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 20\n场景词群 | 国家政府\n利用能源，看清主导部分\nharness  v.  利用\ndominate  v.  占主导\npower  n.  电能\n放进句子里\nThe device harnesses water to generate power.\n这个装置利用水来发电。\n用法提醒\ndominate 可表示在某个范围中占主导。\n雅思应用\n阅读 | 理解能源利用与主导来源的表述\n轮到你了\n用 harness 和 power 描述一种能源利用。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The device harnesses water to generate power.",
+    "example_zh": "这个装置利用水来发电。",
+    "examples": [
+      {
+        "en": "The device harnesses water to generate power.",
+        "zh": "这个装置利用水来发电。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "harness energy",
+        "利用能源"
+      ],
+      [
+        "generate power",
+        "发电"
+      ],
+      [
+        "dominate a sector",
+        "在某领域占主导"
+      ]
+    ],
+    "notes": "dominate 可表示在某个范围中占主导。",
+    "scene": "A hands-on energy exhibit in a civic science centre. HARNESS points to a visible small water wheel driven by flowing water and mechanically connected by wire to a glowing lamp, showing the process of using natural energy. POWER points to the glowing lamp and its electrical lead, clearly electrical energy. DOMINATE points to a large unnumbered ring diagram above the desk: a single blue segment occupies about three quarters of the circle and contains a tiny wind-turbine icon; remaining two small grey segments have solar and hydro icons. A presenter gestures to the large sector. This is a model illustration with no factual data claim, no chart numbers, no written percentages, no extra text.",
+    "palette": "水轮木金、发光灯暖黄与主导蓝色扇区形成明确的能量和比例线索。",
+    "ielts": "阅读 | 理解能源利用与主导来源的表述",
+    "practice": "用 harness 和 power 描述一种能源利用。",
+    "answer": "Wind turbines harness the wind to generate power.",
+    "reference_urls": [],
+    "image": "previews/20.webp"
+  },
+  {
+    "id": "21",
+    "page": 21,
+    "title": "改变决定与影响出行",
+    "kind": "contrast",
+    "targets": [
+      "influence",
+      "affect"
+    ],
+    "labels": [
+      {
+        "word": "influence",
+        "pos": "v.",
+        "zh": "影响"
+      },
+      {
+        "word": "affect",
+        "pos": "v.",
+        "zh": "影响"
+      }
+    ],
+    "sources": [
+      {
+        "word": "influence",
+        "physical_page": 198,
+        "printed_page": 187
+      },
+      {
+        "word": "affect",
+        "physical_page": 198,
+        "printed_page": 187
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 21\n词义辨析 | 国家政府\n改变决定与影响出行\ninfluence  v.  影响\naffect  v.  影响\n放进句子里\nThe road closure affected bus services.\n道路封闭影响了公交服务。\n用法提醒\n两词都可表示影响。influence 常用于想法或决定。\n雅思应用\n写作 Task 2 | 描述交通措施产生的影响\n轮到你了\n用 affect 说说道路施工怎样影响出行。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The road closure affected bus services.",
+    "example_zh": "道路封闭影响了公交服务。",
+    "examples": [
+      {
+        "en": "The road closure affected bus services.",
+        "zh": "道路封闭影响了公交服务。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "influence a decision",
+        "影响决定"
+      ],
+      [
+        "affect daily life",
+        "影响日常生活"
+      ]
+    ],
+    "notes": "两词都可表示影响。influence 常用于想法或决定。",
+    "scene": "One town transport workshop with two clearly related action areas. INFLUENCE label points to a resident explaining a bus proposal using a silent illustrated board while listeners reconsider a route plan on the table, showing influence on decisions. A small thought bubble connects a listener to the revised bus route, without words. AFFECT label points to a temporary road closure barrier forcing a bus to follow a curved detour arrow around a work zone visible through the wide window, showing impact on travel. No text on signs or maps. Exact two labels only.",
+    "palette": "会议桌暖木和人物柔蓝，窗外施工橙与绕行路线青绿清楚区分两种影响。",
+    "ielts": "写作 Task 2 | 描述交通措施产生的影响",
+    "practice": "用 affect 说说道路施工怎样影响出行。",
+    "answer": "Road repairs can affect the time people spend travelling.",
+    "reference_urls": [],
+    "image": "previews/21.webp"
+  },
+  {
+    "id": "22",
+    "page": 22,
+    "title": "重要性与历史意义",
+    "kind": "contrast",
+    "targets": [
+      "importance",
+      "significance"
+    ],
+    "labels": [
+      {
+        "word": "importance",
+        "pos": "n.",
+        "zh": "重要性"
+      },
+      {
+        "word": "significance",
+        "pos": "n.",
+        "zh": "重要性；意义"
+      }
+    ],
+    "sources": [
+      {
+        "word": "importance",
+        "physical_page": 198,
+        "printed_page": 187
+      },
+      {
+        "word": "significance",
+        "physical_page": 198,
+        "printed_page": 187
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 22\n词义辨析 | 国家政府\n重要性与历史意义\nimportance  n.  重要性\nsignificance  n.  重要性；意义\n放进句子里\nThe old doorway has special significance for the community.\n这座老门楼对社区有特别的意义。\n用法提醒\n两词都可指重要性，significance 也可指意义。\n雅思应用\n口语 Part 2 | 说明一个地方为何重要\n轮到你了\n用 importance 或 significance 说明一个公共场所的价值。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The old doorway has special significance for the community.",
+    "example_zh": "这座老门楼对社区有特别的意义。",
+    "examples": [
+      {
+        "en": "The old doorway has special significance for the community.",
+        "zh": "这座老门楼对社区有特别的意义。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the importance of access",
+        "无障碍通行的重要性"
+      ],
+      [
+        "historical significance",
+        "历史意义"
+      ]
+    ],
+    "notes": "两词都可指重要性，significance 也可指意义。",
+    "scene": "A community museum entrance in one continuous scene. IMPORTANCE line points to an accessible ramp being used by a wheelchair visitor while an adult opens the wide door, highlighting practical importance of access. SIGNIFICANCE line points to an old original carved doorway preserved in a glass display with a wordless historic sketch showing its earlier use; visitors contemplate the display. Do not show a false rigid distinction: both are noun concepts, the two settings illustrate common uses. Large two bilingual labels, no other lettering.",
+    "palette": "实用入口浅青与暖黄扶手，历史门框棕金和玻璃冷蓝区分场景。",
+    "ielts": "口语 Part 2 | 说明一个地方为何重要",
+    "practice": "用 importance 或 significance 说明一个公共场所的价值。",
+    "answer": "The library is of great importance to local students.",
+    "reference_urls": [],
+    "image": "previews/22.webp"
+  },
+  {
+    "id": "23",
+    "page": 23,
+    "title": "社区里的不同组织",
+    "kind": "scene",
+    "targets": [
+      "organisation",
+      "association",
+      "union",
+      "community"
+    ],
+    "labels": [
+      {
+        "word": "organisation",
+        "pos": "n.",
+        "zh": "组织"
+      },
+      {
+        "word": "association",
+        "pos": "n.",
+        "zh": "协会"
+      },
+      {
+        "word": "union",
+        "pos": "n.",
+        "zh": "工会"
+      },
+      {
+        "word": "community",
+        "pos": "n.",
+        "zh": "社区"
+      }
+    ],
+    "sources": [
+      {
+        "word": "organisation",
+        "physical_page": 198,
+        "printed_page": 187
+      },
+      {
+        "word": "association",
+        "physical_page": 198,
+        "printed_page": 187
+      },
+      {
+        "word": "union",
+        "physical_page": 199,
+        "printed_page": 188
+      },
+      {
+        "word": "community",
+        "physical_page": 199,
+        "printed_page": 188
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 23\n场景词群 | 国家政府\n社区里的不同组织\norganisation  n.  组织\nassociation  n.  协会\nunion  n.  工会\ncommunity  n.  社区\n放进句子里\nThe association organised an event for the community.\n协会为社区组织了一场活动。\n用法提醒\nassociation 和 union 都可指某种组织，具体含义依语境。\n雅思应用\n口语 Part 2 | 描述一个你了解的社区组织\n轮到你了\n用 community 和 organisation 说说一项社区活动。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The association organised an event for the community.",
+    "example_zh": "协会为社区组织了一场活动。",
+    "examples": [
+      {
+        "en": "The association organised an event for the community.",
+        "zh": "协会为社区组织了一场活动。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a community centre",
+        "社区中心"
+      ],
+      [
+        "a parent-teacher association",
+        "家长教师协会"
+      ],
+      [
+        "a trade union",
+        "工会"
+      ]
+    ],
+    "notes": "association 和 union 都可指某种组织，具体含义依语境。",
+    "scene": "A broad cutaway of a fictional community centre and the homes around it. COMMUNITY bracket encloses the surrounding neighbourhood and centre. ORGANISATION bracket points to the whole organised volunteer group preparing a neighbourhood clean-up at a table in front. In a left room a parent-teacher association meets around a table with a school drawing and adults discussing shared plans; ASSOCIATION line points to this group. In a separate right room teachers and support staff meet as a union with work schedules and a handshake symbol on a plain board; UNION line points to that group. All people are adults, no party logos, slogans or background words. Groups are examples of organisations rather than mutually exclusive categories.",
+    "palette": "街区暖砖、志愿者绿围裙与两个会议室的蓝、赭色桌面分清群体和范围。",
+    "ielts": "口语 Part 2 | 描述一个你了解的社区组织",
+    "practice": "用 community 和 organisation 说说一项社区活动。",
+    "answer": "A local organisation runs weekend activities for the community.",
+    "reference_urls": [],
+    "image": "previews/23.webp"
+  },
+  {
+    "id": "24",
+    "page": 24,
+    "title": "合作项目旁的机构与联赛",
+    "kind": "scene",
+    "targets": [
+      "consortium",
+      "institution",
+      "league"
+    ],
+    "labels": [
+      {
+        "word": "consortium",
+        "pos": "n.",
+        "zh": "联营体"
+      },
+      {
+        "word": "institution",
+        "pos": "n.",
+        "zh": "机构"
+      },
+      {
+        "word": "league",
+        "pos": "n.",
+        "zh": "联赛"
+      }
+    ],
+    "sources": [
+      {
+        "word": "consortium",
+        "physical_page": 199,
+        "printed_page": 188
+      },
+      {
+        "word": "institution",
+        "physical_page": 199,
+        "printed_page": 188
+      },
+      {
+        "word": "league",
+        "physical_page": 199,
+        "printed_page": 188
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 24\n场景词群 | 国家政府\n合作项目旁的机构与联赛\nconsortium  n.  联营体\ninstitution  n.  机构\nleague  n.  联赛\n放进句子里\nThe companies formed a consortium to build the bridge.\n几家公司组成联营体来修建这座桥。\n用法提醒\nconsortium 常指为共同项目合作的企业或机构联合体。\n雅思应用\n阅读 | 识别合作机构与项目参与方\n轮到你了\n用 consortium 或 institution 介绍一种合作。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The companies formed a consortium to build the bridge.",
+    "example_zh": "几家公司组成联营体来修建这座桥。",
+    "examples": [
+      {
+        "en": "The companies formed a consortium to build the bridge.",
+        "zh": "几家公司组成联营体来修建这座桥。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "form a consortium",
+        "组成联营体"
+      ],
+      [
+        "an educational institution",
+        "教育机构"
+      ],
+      [
+        "a football league",
+        "足球联赛"
+      ]
+    ],
+    "notes": "consortium 常指为共同项目合作的企业或机构联合体。",
+    "scene": "A fictional university campus with a project pavilion and football field in one coherent panorama. INSTITUTION bracket encloses the main university building with classrooms visible, representing an educational institution. CONSORTIUM line points to three representatives from separate companies, each with a distinct simple emblem on their unlettered folder, signing one shared project document beside a model bridge; group them with one bracket. LEAGUE line points to two adult football teams lining up at the edge of the campus field beneath a silent bracket that groups their organised competition, not a lone ball. No real corporate, sport or political insignia, no lettering or numerals.",
+    "palette": "大学暖石色、合作项目深青图纸与球场绿将三种组织情境连起来。",
+    "ielts": "阅读 | 识别合作机构与项目参与方",
+    "practice": "用 consortium 或 institution 介绍一种合作。",
+    "answer": "Several firms formed a consortium to develop the new site.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/consortium"
+    ],
+    "image": "previews/24.webp"
+  },
+  {
+    "id": "25",
+    "page": 25,
+    "title": "团结合作，保留各自特色",
+    "kind": "scene",
+    "targets": [
+      "unite",
+      "unique"
+    ],
+    "labels": [
+      {
+        "word": "unite",
+        "pos": "v.",
+        "zh": "团结；联合"
+      },
+      {
+        "word": "unique",
+        "pos": "adj.",
+        "zh": "独特的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "unite",
+        "physical_page": 199,
+        "printed_page": 188
+      },
+      {
+        "word": "unique",
+        "physical_page": 199,
+        "printed_page": 188
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 25\n场景词群 | 国家政府\n团结合作，保留各自特色\nunite  v.  团结；联合\nunique  adj.  独特的\n放进句子里\nThe project united people with unique skills.\n这个项目把拥有独特技能的人聚到了一起。\n用法提醒\nunite 表示联合起来，unique 强调独特。\n雅思应用\n口语 Part 2 | 描述一次团队合作\n轮到你了\n用 unite 和 unique 说说一次合作。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The project united people with unique skills.",
+    "example_zh": "这个项目把拥有独特技能的人聚到了一起。",
+    "examples": [
+      {
+        "en": "The project united people with unique skills.",
+        "zh": "这个项目把拥有独特技能的人聚到了一起。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "unite people",
+        "团结人们"
+      ],
+      [
+        "a unique design",
+        "独特的设计"
+      ]
+    ],
+    "notes": "unite 表示联合起来，unique 强调独特。",
+    "scene": "A cooperative art workshop for adults in a community room. People bring differently shaped and coloured handmade pieces together to complete a large circular mosaic; UNITE label has a short bracket pointing to multiple hands joining sections into the whole. UNIQUE label points to a close-up of one unusual patterned ceramic piece, visibly distinct from every other piece, supported by a small magnifying lens-shaped inset integrated into the table. Keep the artwork natural and wordless. Exactly two callouts, no repeated glossary.",
+    "palette": "多彩陶片各具纹样，暖木桌连接众人的手，深青括线突出汇合动作。",
+    "ielts": "口语 Part 2 | 描述一次团队合作",
+    "practice": "用 unite 和 unique 说说一次合作。",
+    "answer": "The event united people, and each person brought a unique idea.",
+    "reference_urls": [],
+    "image": "previews/25.webp"
+  },
+  {
+    "id": "26",
+    "page": 26,
+    "title": "国家与联邦结构",
+    "kind": "contrast",
+    "targets": [
+      "nation",
+      "federal"
+    ],
+    "labels": [
+      {
+        "word": "nation",
+        "pos": "n.",
+        "zh": "国家；国民"
+      },
+      {
+        "word": "federal",
+        "pos": "adj.",
+        "zh": "联邦的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "nation",
+        "physical_page": 199,
+        "printed_page": 188
+      },
+      {
+        "word": "federal",
+        "physical_page": 199,
+        "printed_page": 188
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 26\n词义辨析 | 国家政府\n国家与联邦结构\nnation  n.  国家；国民\nfederal  adj.  联邦的\n放进句子里\nA federal system has national and regional levels of government.\n联邦制设有全国和地区层面的政府。\n用法提醒\nnation 可指国家或国民，federal 常与 system 连用。\n雅思应用\n阅读 | 理解政府层级的描述\n轮到你了\n用 federal system 描述两个政府层级。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "A federal system has national and regional levels of government.",
+    "example_zh": "联邦制设有全国和地区层面的政府。",
+    "examples": [
+      {
+        "en": "A federal system has national and regional levels of government.",
+        "zh": "联邦制设有全国和地区层面的政府。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a nation",
+        "一个国家"
+      ],
+      [
+        "a federal system",
+        "联邦制"
+      ]
+    ],
+    "notes": "nation 可指国家或国民，federal 常与 system 连用。",
+    "scene": "A purely fictional educational civics tabletop model, no real country map or flag. NATION bracket encompasses one large map-shaped model with a single outer boundary, several coloured internal regions, miniature towns and people. FEDERAL line points to an elevated national assembly model connected by clear thin lines to three regional assembly models inside the same outer boundary, showing national and regional levels of government. Large simple models dominate the art with an adult educator gesturing. No names, claims about current countries, labels beyond the exact two terms or numerical labels.",
+    "palette": "模型外边界深蓝，区域用青、赭、绿，中央和地方机构用暖白。",
+    "ielts": "阅读 | 理解政府层级的描述",
+    "practice": "用 federal system 描述两个政府层级。",
+    "answer": "In a federal system, national and regional governments share responsibilities.",
+    "reference_urls": [],
+    "image": "previews/26.webp"
+  },
+  {
+    "id": "27",
+    "page": 27,
+    "title": "放眼全球的联系",
+    "kind": "contrast",
+    "targets": [
+      "global",
+      "worldwide"
+    ],
+    "labels": [
+      {
+        "word": "global",
+        "pos": "adj.",
+        "zh": "全球的"
+      },
+      {
+        "word": "worldwide",
+        "pos": "adj.",
+        "zh": "世界范围的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "global",
+        "physical_page": 199,
+        "printed_page": 188
+      },
+      {
+        "word": "worldwide",
+        "physical_page": 199,
+        "printed_page": 188
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 27\n词义辨析 | 国家政府\n放眼全球的联系\nglobal  adj.  全球的\nworldwide  adj.  世界范围的\n放进句子里\nThe project received worldwide support.\n这个项目获得了世界各地的支持。\n用法提醒\nglobal 和 worldwide 都可表示全球范围的。\n雅思应用\n写作 Task 2 | 讨论全球合作\n轮到你了\n用 global 或 worldwide 说说一项跨国合作。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The project received worldwide support.",
+    "example_zh": "这个项目获得了世界各地的支持。",
+    "examples": [
+      {
+        "en": "The project received worldwide support.",
+        "zh": "这个项目获得了世界各地的支持。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "global cooperation",
+        "全球合作"
+      ],
+      [
+        "worldwide support",
+        "世界各地的支持"
+      ]
+    ],
+    "notes": "global 和 worldwide 都可表示全球范围的。",
+    "scene": "One dominant beautifully drawn globe with several tiny towns linked across oceans by gentle arcs. GLOBAL label line ends at the globe as a whole. WORLDWIDE label uses a broad bracket around the many distant linked towns across the same globe. In foreground international volunteers exchange unlettered parcels at a table, connecting a shared project to the network. The two labels refer to the same geographic scope; no implication that one is larger. No country names, precise data, real flags or extra text.",
+    "palette": "海蓝地球、陆地青绿与连接弧暖金说明范围广泛的联系。",
+    "ielts": "写作 Task 2 | 讨论全球合作",
+    "practice": "用 global 或 worldwide 说说一项跨国合作。",
+    "answer": "A global network allows researchers to share ideas.",
+    "reference_urls": [],
+    "image": "previews/27.webp"
+  },
+  {
+    "id": "28",
+    "page": 28,
+    "title": "在国外学习的三种表达",
+    "kind": "contrast",
+    "targets": [
+      "foreign",
+      "overseas",
+      "abroad"
+    ],
+    "labels": [
+      {
+        "word": "foreign",
+        "pos": "adj.",
+        "zh": "外国的"
+      },
+      {
+        "word": "overseas",
+        "pos": "adj.",
+        "zh": "海外的"
+      },
+      {
+        "word": "abroad",
+        "pos": "adv.",
+        "zh": "在国外"
+      }
+    ],
+    "sources": [
+      {
+        "word": "foreign",
+        "physical_page": 199,
+        "printed_page": 188
+      },
+      {
+        "word": "overseas",
+        "physical_page": 199,
+        "printed_page": 188
+      },
+      {
+        "word": "abroad",
+        "physical_page": 200,
+        "printed_page": 189
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 28\n词义辨析 | 国家政府\n在国外学习的三种表达\nforeign  adj.  外国的\noverseas  adj.  海外的\nabroad  adv.  在国外\n放进句子里\nShe hopes to study abroad next year.\n她希望明年出国学习。\n用法提醒\nabroad 是副词，可说 study abroad。\n雅思应用\n口语 Part 3 | 讨论出国学习\n轮到你了\n用 study abroad 说说你对出国学习的想法。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "She hopes to study abroad next year.",
+    "example_zh": "她希望明年出国学习。",
+    "examples": [
+      {
+        "en": "She hopes to study abroad next year.",
+        "zh": "她希望明年出国学习。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a foreign university",
+        "外国大学"
+      ],
+      [
+        "an overseas student",
+        "海外学生"
+      ],
+      [
+        "study abroad",
+        "在国外学习"
+      ]
+    ],
+    "notes": "abroad 是副词，可说 study abroad。",
+    "scene": "A friendly fictional international study centre seen through a wide bay window. A student carries two university guides with clearly different abstract emblems and no words; FOREIGN label points to the guide showing an overseas university building, indicating a foreign institution relative to their home. OVERSEAS label points to a small illustrated route across the ocean to a campus, showing an overseas study destination. ABROAD label points to the adult student now attending a class at that destination in an integrated right-hand vignette. No passports, real national flags or country names. This is contextual usage; foreign and overseas are adjectives in the tags while abroad is an adverb. All exact labels once.",
+    "palette": "本地浅木桌、跨海蓝色路线与目的地校园暖砖色区分身份和位置。",
+    "ielts": "口语 Part 3 | 讨论出国学习",
+    "practice": "用 study abroad 说说你对出国学习的想法。",
+    "answer": "I would like to study abroad and experience a different education system.",
+    "reference_urls": [],
+    "image": "previews/28.webp"
+  },
+  {
+    "id": "29",
+    "page": 29,
+    "title": "同一次迁移的两个方向",
+    "kind": "contrast",
+    "targets": [
+      "emigrate",
+      "immigrate"
+    ],
+    "labels": [
+      {
+        "word": "emigrate",
+        "pos": "v.",
+        "zh": "移居国外"
+      },
+      {
+        "word": "immigrate",
+        "pos": "v.",
+        "zh": "移入另一国"
+      }
+    ],
+    "sources": [
+      {
+        "word": "emigrate",
+        "physical_page": 200,
+        "printed_page": 189
+      },
+      {
+        "word": "immigrate",
+        "physical_page": 200,
+        "printed_page": 189
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 29\n词义辨析 | 国家政府\n同一次迁移的两个方向\nemigrate  v.  移居国外\nimmigrate  v.  移入另一国\n放进句子里\nThey emigrated from their home country and immigrated to a new one.\n他们从自己的国家移居国外，迁入了另一个国家。\n用法提醒\nemigrate from 强调离开，immigrate to 强调迁入。\n雅思应用\n写作 Task 2 | 描述国际人口迁移\n轮到你了\n用 emigrate from 和 immigrate to 写同一次迁移。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "They emigrated from their home country and immigrated to a new one.",
+    "example_zh": "他们从自己的国家移居国外，迁入了另一个国家。",
+    "examples": [
+      {
+        "en": "They emigrated from their home country and immigrated to a new one.",
+        "zh": "他们从自己的国家移居国外，迁入了另一个国家。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "emigrate from a country",
+        "从某国移出"
+      ],
+      [
+        "immigrate to a country",
+        "迁入某国"
+      ]
+    ],
+    "notes": "emigrate from 强调离开，immigrate to 强调迁入。",
+    "scene": "One simple fictional map across the top half, two large distinct land areas on opposite sides of a sea, with a single arrow from the left home area to the right destination area. At the left arrow tail a family wheels suitcases away from their old home; EMIGRATE leader ends exactly at the departing tail. At right the same family arrives and is welcomed at a new home; IMMIGRATE leader ends at arriving arrowhead. No actual countries, real flags, names, borders or policy claims. Keep route one-way and consistent, no second opposite route. Clear example and usage under scene.",
+    "palette": "出发地暖赭、目的地青绿与海蓝路线呈现离开和进入两个视角。",
+    "ielts": "写作 Task 2 | 描述国际人口迁移",
+    "practice": "用 emigrate from 和 immigrate to 写同一次迁移。",
+    "answer": "The family emigrated from one country and immigrated to another.",
+    "reference_urls": [],
+    "image": "previews/29.webp"
+  },
+  {
+    "id": "30",
+    "page": 30,
+    "title": "君主历史展里的四个线索",
+    "kind": "scene",
+    "targets": [
+      "reign",
+      "throne",
+      "crown",
+      "wreath"
+    ],
+    "labels": [
+      {
+        "word": "reign",
+        "pos": "n.",
+        "zh": "统治时期"
+      },
+      {
+        "word": "throne",
+        "pos": "n.",
+        "zh": "王座"
+      },
+      {
+        "word": "crown",
+        "pos": "n.",
+        "zh": "王冠"
+      },
+      {
+        "word": "wreath",
+        "pos": "n.",
+        "zh": "花环"
+      }
+    ],
+    "sources": [
+      {
+        "word": "reign",
+        "physical_page": 200,
+        "printed_page": 189
+      },
+      {
+        "word": "throne",
+        "physical_page": 200,
+        "printed_page": 189
+      },
+      {
+        "word": "crown",
+        "physical_page": 200,
+        "printed_page": 189
+      },
+      {
+        "word": "wreath",
+        "physical_page": 200,
+        "printed_page": 189
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 30\n场景词群 | 国家政府\n君主历史展里的四个线索\nreign  n.  统治时期\nthrone  n.  王座\ncrown  n.  王冠\nwreath  n.  花环\n放进句子里\nThe museum displays a crown beside an old throne.\n博物馆在一座旧王座旁展示了一顶王冠。\n用法提醒\nreign 可作名词，指君主统治时期。\n雅思应用\n口语 Part 2 | 描述一次参观历史展的经历\n轮到你了\n用 crown 或 throne 介绍一件展品。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The museum displays a crown beside an old throne.",
+    "example_zh": "博物馆在一座旧王座旁展示了一顶王冠。",
+    "examples": [
+      {
+        "en": "The museum displays a crown beside an old throne.",
+        "zh": "博物馆在一座旧王座旁展示了一顶王冠。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "during her reign",
+        "在她统治期间"
+      ],
+      [
+        "a royal throne",
+        "王座"
+      ],
+      [
+        "a flower wreath",
+        "花环"
+      ]
+    ],
+    "notes": "reign 可作名词，指君主统治时期。",
+    "scene": "A fictional historical palace museum interior, no real monarch, country or dynasty. A distant historical royal portrait sits above a long visual timeline panel depicting one same adult sovereign aging through several small portraits without dates or words; REIGN bracket encompasses that interval panel. THRONE points to a large ornate seat in the display. CROWN points to a metal jeweled crown in its own glass case, clearly different from WREATH which points to a separate circular arrangement of green leaves and flowers on a low stand. Adult museum visitors observe. Four exact callouts with POS, no extra lettering.",
+    "palette": "王座绛红、王冠金色、花环青绿与历史图板暖褐清楚区分实物和时期。",
+    "ielts": "口语 Part 2 | 描述一次参观历史展的经历",
+    "practice": "用 crown 或 throne 介绍一件展品。",
+    "answer": "An old crown was displayed in a glass case near the throne.",
+    "reference_urls": [],
+    "image": "previews/30.webp"
+  },
+  {
+    "id": "31",
+    "page": 31,
+    "title": "puppet",
+    "kind": "word",
+    "targets": [
+      "puppet"
+    ],
+    "labels": [
+      {
+        "word": "puppet",
+        "pos": "n.",
+        "zh": "木偶；傀儡"
+      }
+    ],
+    "sources": [
+      {
+        "word": "puppet",
+        "physical_page": 200,
+        "printed_page": 189
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 31\n单词精讲 | 国家政府\npuppet\n/ˈpʌp.ɪt/  n.\n木偶；傀儡\n由线或手控制动作的玩偶，也可比喻受操纵的人。\n放进句子里\nThe puppet moved as the performer pulled the strings.\n表演者拉动细线，木偶随之移动。\n常用搭配\na puppet show\na string puppet\ncontrol a puppet\n用法提醒\npuppet 也可比喻受他人操纵的人。\n雅思应用\n口语 Part 2 | 描述一次看过的表演\n轮到你了\n用 puppet 描述木偶如何运动。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The puppet moved as the performer pulled the strings.",
+    "example_zh": "表演者拉动细线，木偶随之移动。",
+    "examples": [
+      {
+        "en": "The puppet moved as the performer pulled the strings.",
+        "zh": "表演者拉动细线，木偶随之移动。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a puppet show",
+        "木偶戏"
+      ],
+      [
+        "a string puppet",
+        "提线木偶"
+      ],
+      [
+        "control a puppet",
+        "操纵木偶"
+      ]
+    ],
+    "notes": "puppet 也可比喻受他人操纵的人。",
+    "scene": "Single-word showcase with huge puppet at top left, exact IPA, noun and Chinese definition. Main illustration right and beneath shows an adult puppeteer holding a wooden control bar above a carved wooden marionette on a small warm theatre stage. Clearly visible fine strings connect the bar to arms and legs and show how the person's hand movements control the puppet. Friendly, richly crafted, no political figure or real flag. No other scene labels, no additional words, no duplicate glossary. Keep strings physically correct and puppet distinct from living person.",
+    "palette": "木偶暖木色、绛红舞台和蓝灰背景，让控制杆与细线动作清晰。",
+    "ielts": "口语 Part 2 | 描述一次看过的表演",
+    "practice": "用 puppet 描述木偶如何运动。",
+    "answer": "The puppet raised its arms when the performer lifted the strings.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/pronunciation/english/puppet"
+    ],
+    "ipa": "/ˈpʌp.ɪt/",
+    "definition": "由线或手控制动作的玩偶，也可比喻受操纵的人。",
+    "image": "previews/31.webp"
+  },
+  {
+    "id": "32",
+    "page": 32,
+    "title": "历史展中的独立与自由",
+    "kind": "scene",
+    "targets": [
+      "civil",
+      "colony",
+      "liberty",
+      "independence"
+    ],
+    "labels": [
+      {
+        "word": "civil",
+        "pos": "adj.",
+        "zh": "公民的"
+      },
+      {
+        "word": "colony",
+        "pos": "n.",
+        "zh": "殖民地"
+      },
+      {
+        "word": "liberty",
+        "pos": "n.",
+        "zh": "自由"
+      },
+      {
+        "word": "independence",
+        "pos": "n.",
+        "zh": "独立"
+      }
+    ],
+    "sources": [
+      {
+        "word": "civil",
+        "physical_page": 200,
+        "printed_page": 189
+      },
+      {
+        "word": "colony",
+        "physical_page": 200,
+        "printed_page": 189
+      },
+      {
+        "word": "liberty",
+        "physical_page": 200,
+        "printed_page": 189
+      },
+      {
+        "word": "independence",
+        "physical_page": 200,
+        "printed_page": 189
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 32\n场景词群 | 国家政府\n历史展中的独立与自由\ncivil  adj.  公民的\ncolony  n.  殖民地\nliberty  n.  自由\nindependence  n.  独立\n放进句子里\nThe museum tells the story of a former colony's independence.\n这座博物馆讲述一个前殖民地独立的故事。\n用法提醒\ncivil rights 指公民权利，independence 指独立。\n雅思应用\n阅读 | 理解独立与公民权利相关叙述\n轮到你了\n用 liberty 或 independence 说说展览的主题。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The museum tells the story of a former colony's independence.",
+    "example_zh": "这座博物馆讲述一个前殖民地独立的故事。",
+    "examples": [
+      {
+        "en": "The museum tells the story of a former colony's independence.",
+        "zh": "这座博物馆讲述一个前殖民地独立的故事。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "civil rights",
+        "公民权利"
+      ],
+      [
+        "a former colony",
+        "前殖民地"
+      ],
+      [
+        "gain independence",
+        "获得独立"
+      ]
+    ],
+    "notes": "civil rights 指公民权利，independence 指独立。",
+    "scene": "A fictional history museum exhibit with one readable left-to-right story panorama and no real country claim. COLONY points to a map-shaped exhibit showing a small territory connected by a dotted administrative line across the sea to a distant larger territory under the same abstract emblem. INDEPENDENCE points to an illustrated historical scene of residents raising a new abstract unlettered flag with the old administrative line visibly ending before that panel. LIBERTY points to a figure stepping out of an open barred gate into a broad free public square, an educational freedom symbol without weapons or violence. CIVIL points to a present-day public meeting in a side area where ordinary adults take turns speaking with equal access to a microphone, an example of civil rights. Exactly four bilingual labels, avoid dates, real flags, slogans or extra signs.",
+    "palette": "历史地图棕金、独立旗青蓝、开放广场浅绿与公共讨论的暖木色区分概念。",
+    "ielts": "阅读 | 理解独立与公民权利相关叙述",
+    "practice": "用 liberty 或 independence 说说展览的主题。",
+    "answer": "The exhibition explores liberty and independence.",
+    "reference_urls": [],
+    "image": "previews/32.webp"
+  },
+  {
+    "id": "33",
+    "page": 33,
+    "title": "暴风雨中的一处庇护",
+    "kind": "scene",
+    "targets": [
+      "slum",
+      "refuge"
+    ],
+    "labels": [
+      {
+        "word": "slum",
+        "pos": "n.",
+        "zh": "贫民区"
+      },
+      {
+        "word": "refuge",
+        "pos": "n.",
+        "zh": "庇护；避难所"
+      }
+    ],
+    "sources": [
+      {
+        "word": "slum",
+        "physical_page": 201,
+        "printed_page": 190
+      },
+      {
+        "word": "refuge",
+        "physical_page": 201,
+        "printed_page": 190
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 33\n场景词群 | 国家政府\n暴风雨中的一处庇护\nslum  n.  贫民区\nrefuge  n.  庇护；避难所\n放进句子里\nThe hall offered refuge from the storm.\n礼堂为人们提供了躲避暴风雨的地方。\n用法提醒\nrefuge 可指庇护，也可指避难的地方。\n雅思应用\n写作 Task 2 | 讨论住房与公共设施\n轮到你了\n用 refuge 描述一处能躲避恶劣天气的地方。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The hall offered refuge from the storm.",
+    "example_zh": "礼堂为人们提供了躲避暴风雨的地方。",
+    "examples": [
+      {
+        "en": "The hall offered refuge from the storm.",
+        "zh": "礼堂为人们提供了躲避暴风雨的地方。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "seek refuge",
+        "寻求庇护"
+      ],
+      [
+        "take refuge in a hall",
+        "在礼堂避难"
+      ],
+      [
+        "improve housing in slum areas",
+        "改善贫民区住房"
+      ]
+    ],
+    "notes": "refuge 可指庇护，也可指避难的地方。",
+    "scene": "A single imagined city district during a rainstorm, respectfully observed. Left a broad grouping of tightly packed, poorly maintained urban homes with cramped lanes and unreliable drainage; slum label brackets the built environment as a whole, no ethnic stereotypes and no labelling individuals. Right a sturdy community hall with its open doors, warm dry interior and people sheltering from the storm; refuge leader ends in the dry hall interior. Depict the two settings at a humane distance, no sensational distress or dangerous action. No signs or incidental lettering.",
+    "palette": "雨云青灰与狭窄街巷的土褐交代环境，礼堂暖光解释避难处。",
+    "ielts": "写作 Task 2 | 讨论住房与公共设施",
+    "practice": "用 refuge 描述一处能躲避恶劣天气的地方。",
+    "answer": "The community centre offered refuge from the heavy rain.",
+    "reference_urls": [],
+    "image": "previews/33.webp"
+  },
+  {
+    "id": "34",
+    "page": 34,
+    "title": "asylum",
+    "kind": "word",
+    "targets": [
+      "asylum"
+    ],
+    "labels": [
+      {
+        "word": "asylum",
+        "pos": "n.",
+        "zh": "庇护"
+      }
+    ],
+    "sources": [
+      {
+        "word": "asylum",
+        "physical_page": 201,
+        "printed_page": 190
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 34\n单词精讲 | 国家政府\nasylum\n/ə'saɪ.ləm/  n.\n庇护\n一国给予因受迫害等原因离开原居住国者的庇护。\n常用搭配\nseek asylum · grant asylum · political asylum\n放进句子里\nThe family sought asylum in another country.\n这个家庭在另一个国家寻求庇护。\n用法提醒\nseek asylum 是寻求庇护的常见搭配。\n雅思应用\n阅读 | 理解人口迁移与庇护话题\n轮到你了\n用 seek asylum 写一句描述性句子。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The family sought asylum in another country.",
+    "example_zh": "这个家庭在另一个国家寻求庇护。",
+    "examples": [
+      {
+        "en": "The family sought asylum in another country.",
+        "zh": "这个家庭在另一个国家寻求庇护。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "seek asylum",
+        "寻求庇护"
+      ],
+      [
+        "grant asylum",
+        "给予庇护"
+      ],
+      [
+        "political asylum",
+        "政治庇护"
+      ]
+    ],
+    "notes": "seek asylum 是寻求庇护的常见搭配。",
+    "scene": "Single-word showcase. Huge asylum at upper left with exact IPA, noun, gloss and short definition. The large main illustration is a neutral public protection interview office: an adult family seated across a table from a respectful official, a simple folder and generic two-region globe/map with no labels in background indicating another country. An open sheltering doorway motif and gentle daylight communicate requested protection. The family has ordinary diverse clothing; no flags, borders, wars, legal checklists, identity details or extra scene labels. Do not imply any mandatory legal procedure or eligibility rule.",
+    "palette": "办公室浅蓝、纸张米白和门外暖金光呈现安定与庇护。",
+    "ielts": "阅读 | 理解人口迁移与庇护话题",
+    "practice": "用 seek asylum 写一句描述性句子。",
+    "answer": "Some people leave their homes and seek asylum abroad.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/pronunciation/english/asylum",
+      "https://dictionary.cambridge.org/dictionary/english/asylum"
+    ],
+    "ipa": "/əˈsaɪ.ləm/",
+    "definition": "一国给予因受迫害等原因离开原居住国者的庇护。",
+    "image": "previews/34.webp"
+  },
+  {
+    "id": "35",
+    "page": 35,
+    "title": "人口与人口统计",
+    "kind": "scene",
+    "targets": [
+      "population",
+      "demographic"
+    ],
+    "labels": [
+      {
+        "word": "population",
+        "pos": "n.",
+        "zh": "人口"
+      },
+      {
+        "word": "demographic",
+        "pos": "adj.",
+        "zh": "人口统计的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "population",
+        "physical_page": 201,
+        "printed_page": 190
+      },
+      {
+        "word": "demographic",
+        "physical_page": 201,
+        "printed_page": 190
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 35\n场景词群 | 国家政府\n人口与人口统计\npopulation  n.  人口\ndemographic  adj.  人口统计的\n放进句子里\nThe report examines demographic changes in the town.\n这份报告研究了镇上的人口变化。\n用法提醒\npopulation 是名词，demographic 是形容词。\n雅思应用\n写作 Task 1 | 描述人口结构变化\n轮到你了\n用 demographic 描述一份人口变化报告。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The report examines demographic changes in the town.",
+    "example_zh": "这份报告研究了镇上的人口变化。",
+    "examples": [
+      {
+        "en": "The report examines demographic changes in the town.",
+        "zh": "这份报告研究了镇上的人口变化。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the local population",
+        "当地人口"
+      ],
+      [
+        "demographic change",
+        "人口变化"
+      ],
+      [
+        "demographic data",
+        "人口统计数据"
+      ]
+    ],
+    "notes": "population 是名词，demographic 是形容词。",
+    "scene": "One small city planning studio overlooking an imagined town. Population callout brackets a broad collection of small human silhouette tokens representing everyone in the town, with actual town buildings behind. Demographic leader points to an analyst arranging the same kinds of tokens into age-group columns on a large clean chart with no words, numbers or percentages. Make it visibly a grouped analysis of the population, not a claim about any real city. Diverse adult visitors and an analyst collaborate. No extra labels or printed data.",
+    "palette": "城镇砖红、分析表浅蓝与不同年龄图标的柔橙取自统计工作。",
+    "ielts": "写作 Task 1 | 描述人口结构变化",
+    "practice": "用 demographic 描述一份人口变化报告。",
+    "answer": "The chart shows demographic changes over several years.",
+    "reference_urls": [],
+    "image": "previews/35.webp"
+  },
+  {
+    "id": "36",
+    "page": 36,
+    "title": "公民身份与居住联系",
+    "kind": "contrast",
+    "targets": [
+      "citizen",
+      "resident"
+    ],
+    "labels": [
+      {
+        "word": "citizen",
+        "pos": "n.",
+        "zh": "公民"
+      },
+      {
+        "word": "resident",
+        "pos": "n.",
+        "zh": "居民"
+      }
+    ],
+    "sources": [
+      {
+        "word": "citizen",
+        "physical_page": 201,
+        "printed_page": 190
+      },
+      {
+        "word": "resident",
+        "physical_page": 201,
+        "printed_page": 190
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 36\n词义辨析 | 国家政府\n公民身份与居住联系\ncitizen  n.  公民\nresident  n.  居民\n放进句子里\nShe is both a citizen and a resident of this country.\n她既是这个国家的公民，也居住在这里。\n用法提醒\ncitizen 强调国籍身份，resident 强调居住联系。\n雅思应用\n口语 Part 1 | 介绍自己居住的地方\n轮到你了\n用 resident 描述你与一座城市的居住联系。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "She is both a citizen and a resident of this country.",
+    "example_zh": "她既是这个国家的公民，也居住在这里。",
+    "examples": [
+      {
+        "en": "She is both a citizen and a resident of this country.",
+        "zh": "她既是这个国家的公民，也居住在这里。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a citizen of a country",
+        "一国公民"
+      ],
+      [
+        "a local resident",
+        "当地居民"
+      ],
+      [
+        "a permanent resident",
+        "永久居民"
+      ]
+    ],
+    "notes": "citizen 强调国籍身份，resident 强调居住联系。",
+    "scene": "One imagined civic square seen through two natural adjacent spaces. Citizen leader ends at a generic passport-like citizenship booklet held by an adult, with a simple abstract national emblem and no real country or text. Resident leader points to the same adult entering their apartment with a key, depicted as a small sequential second moment alongside a softly connected open door. A subtle same jacket and bag makes the same person recognizable. Show two aspects of one person, not mutually exclusive groups. No specific rights, voting qualifications or legal claims.",
+    "palette": "身份册深蓝、住家暖木和门口植物绿区分身份与居住。",
+    "ielts": "口语 Part 1 | 介绍自己居住的地方",
+    "practice": "用 resident 描述你与一座城市的居住联系。",
+    "answer": "I have been a resident of this city for several years.",
+    "reference_urls": [],
+    "image": "previews/36.webp"
+  },
+  {
+    "id": "37",
+    "page": 37,
+    "title": "社群背景与平等",
+    "kind": "scene",
+    "targets": [
+      "ethnic",
+      "racial",
+      "clan"
+    ],
+    "labels": [
+      {
+        "word": "ethnic",
+        "pos": "adj.",
+        "zh": "民族的；族群的"
+      },
+      {
+        "word": "racial",
+        "pos": "adj.",
+        "zh": "种族的"
+      },
+      {
+        "word": "clan",
+        "pos": "n.",
+        "zh": "宗族；大家族"
+      }
+    ],
+    "sources": [
+      {
+        "word": "ethnic",
+        "physical_page": 201,
+        "printed_page": 190
+      },
+      {
+        "word": "racial",
+        "physical_page": 201,
+        "printed_page": 190
+      },
+      {
+        "word": "clan",
+        "physical_page": 201,
+        "printed_page": 190
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 37\n场景词群 | 国家政府\n社群背景与平等\nethnic  adj.  民族的；族群的\nclan  n.  宗族；大家族\nracial  adj.  种族的\n放进句子里\nThe workshop focused on racial equality.\n这场工作坊聚焦种族平等。\n用法提醒\nethnic 可谈族群文化，clan 可指有亲缘联系的大家族。\n雅思应用\n写作 Task 2 | 讨论文化多样性与平等\n轮到你了\n用 ethnic 或 racial 组成一个恰当的短语。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The workshop focused on racial equality.",
+    "example_zh": "这场工作坊聚焦种族平等。",
+    "examples": [
+      {
+        "en": "The workshop focused on racial equality.",
+        "zh": "这场工作坊聚焦种族平等。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "ethnic traditions",
+        "民族传统"
+      ],
+      [
+        "racial equality",
+        "种族平等"
+      ],
+      [
+        "members of a clan",
+        "宗族成员"
+      ]
+    ],
+    "notes": "ethnic 可谈族群文化，clan 可指有亲缘联系的大家族。",
+    "scene": "A respectful imagined community heritage centre. Left a modest display of varied traditional textiles and music instruments with adults demonstrating a dance, ethnic label points to the cultural display rather than to anyone's skin. Centre a facilitated equality workshop in which adults of varied appearances sit at one round table with equal chairs and a balanced scales icon, racial label is anchored to that equality workshop context. Right an extended family of several generations looks at a branching family tree made of unlettered portrait circles; clan bracket embraces the related family group and tree. Avoid attributing ethnicity to clothing as an inherent trait and avoid racial hierarchies, caricatures, stereotypes or real flags. No extra written words.",
+    "palette": "织物彩色、平等讨论区青蓝与家谱暖木色区分文化、平等和亲缘。",
+    "ielts": "写作 Task 2 | 讨论文化多样性与平等",
+    "practice": "用 ethnic 或 racial 组成一个恰当的短语。",
+    "answer": "ethnic traditions; racial equality",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/clan"
+    ],
+    "image": "previews/37.webp"
+  },
+  {
+    "id": "38",
+    "page": 38,
+    "title": "从选举权到选出代表",
+    "kind": "contrast",
+    "targets": [
+      "franchise",
+      "vote",
+      "elect"
+    ],
+    "labels": [
+      {
+        "word": "franchise",
+        "pos": "n.",
+        "zh": "选举权"
+      },
+      {
+        "word": "vote",
+        "pos": "v.",
+        "zh": "投票"
+      },
+      {
+        "word": "elect",
+        "pos": "v.",
+        "zh": "选举"
+      }
+    ],
+    "sources": [
+      {
+        "word": "franchise",
+        "physical_page": 201,
+        "printed_page": 190
+      },
+      {
+        "word": "vote",
+        "physical_page": 201,
+        "printed_page": 190
+      },
+      {
+        "word": "elect",
+        "physical_page": 202,
+        "printed_page": 191
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 38\n词义辨析 | 国家政府\n从选举权到选出代表\nfranchise  n.  选举权\nvote  v.  投票\nelect  v.  选举\n放进句子里\nMembers voted to elect a new representative.\n成员们投票选举了一位新代表。\n用法提醒\nthe franchise 可指选举权，elect 强调通过选举选出。\n雅思应用\n阅读 | 区分选举权、投票与选出\n轮到你了\n用 vote 和 elect 写一句中性的选举描述。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "Members voted to elect a new representative.",
+    "example_zh": "成员们投票选举了一位新代表。",
+    "examples": [
+      {
+        "en": "Members voted to elect a new representative.",
+        "zh": "成员们投票选举了一位新代表。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the franchise",
+        "选举权"
+      ],
+      [
+        "cast a vote",
+        "投票"
+      ],
+      [
+        "elect a representative",
+        "选举代表"
+      ]
+    ],
+    "notes": "the franchise 可指选举权，elect 强调通过选举选出。",
+    "scene": "An imagined educational civics exhibition, without a real party, candidate, country or slogan. Three clear connected moments across one exhibit hall. Franchise label points to an exhibit of an adult holding an abstract voting-right card with a ballot icon. Vote leader ends precisely at another adult's hand putting a folded blank ballot into a sealed box. Elect leader points to a neutral group result display with one unlettered portrait tile lifted among several, representing choosing a representative through votes; surrounding adults calmly observe. All ballots and portraits generic, no real individuals, numbers, persuasion or directions about who to vote for.",
+    "palette": "选举权卡片深蓝、投票箱浅木与结果展示暖金，呈现权利、动作和选出结果。",
+    "ielts": "阅读 | 区分选举权、投票与选出",
+    "practice": "用 vote 和 elect 写一句中性的选举描述。",
+    "answer": "The members voted to elect their committee chair.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/franchise"
+    ],
+    "image": "previews/38.webp"
+  },
+  {
+    "id": "39",
+    "page": 39,
+    "title": "资格与个人偏好",
+    "kind": "contrast",
+    "targets": [
+      "entitle",
+      "preference"
+    ],
+    "labels": [
+      {
+        "word": "entitle",
+        "pos": "v.",
+        "zh": "给予……权利或资格"
+      },
+      {
+        "word": "preference",
+        "pos": "n.",
+        "zh": "偏好"
+      }
+    ],
+    "sources": [
+      {
+        "word": "entitle",
+        "physical_page": 201,
+        "printed_page": 190
+      },
+      {
+        "word": "preference",
+        "physical_page": 201,
+        "printed_page": 190
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 39\n词义辨析 | 国家政府\n资格与个人偏好\nentitle  v.  给予……权利或资格\npreference  n.  偏好\n放进句子里\nThe pass entitles visitors to free entry.\n这张通行证使游客有资格免费入场。\n用法提醒\nentitle someone to something 表示使某人有权获得某物。\n雅思应用\n听力 Part 1 | 听懂通行证与活动选择\n轮到你了\n用 preference 说说你更喜欢哪类参观活动。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The pass entitles visitors to free entry.",
+    "example_zh": "这张通行证使游客有资格免费入场。",
+    "examples": [
+      {
+        "en": "The pass entitles visitors to free entry.",
+        "zh": "这张通行证使游客有资格免费入场。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "be entitled to entry",
+        "有权入场"
+      ],
+      [
+        "a preference for history",
+        "偏爱历史"
+      ],
+      [
+        "personal preference",
+        "个人偏好"
+      ]
+    ],
+    "notes": "entitle someone to something 表示使某人有权获得某物。",
+    "scene": "A welcoming fictional museum entrance and activity desk in one continuous scene. Entitle callout points to a visitor pass being scanned at an entrance gate, visibly granting entry; the pass has only a museum icon and no letters. Preference leader points to an adult choosing a history exhibit icon card over a nature exhibit icon card at an adjacent desk, with a deliberate selecting gesture. Do not confuse entitlement with priority or preference; keep the gate and choice separate. No price, rules or incidental text.",
+    "palette": "通行卡靛蓝、入口暖光与两张活动卡的绿赭对比区分资格和选择。",
+    "ielts": "听力 Part 1 | 听懂通行证与活动选择",
+    "practice": "用 preference 说说你更喜欢哪类参观活动。",
+    "answer": "I have a preference for history exhibitions.",
+    "reference_urls": [],
+    "image": "previews/39.webp"
+  },
+  {
+    "id": "40",
+    "page": 40,
+    "title": "一份调查怎样进行",
+    "kind": "scene",
+    "targets": [
+      "respondent",
+      "poll",
+      "checklist"
+    ],
+    "labels": [
+      {
+        "word": "respondent",
+        "pos": "n.",
+        "zh": "调查对象"
+      },
+      {
+        "word": "poll",
+        "pos": "n.",
+        "zh": "民意调查"
+      },
+      {
+        "word": "checklist",
+        "pos": "n.",
+        "zh": "核对清单"
+      }
+    ],
+    "sources": [
+      {
+        "word": "respondent",
+        "physical_page": 202,
+        "printed_page": 191
+      },
+      {
+        "word": "poll",
+        "physical_page": 202,
+        "printed_page": 191
+      },
+      {
+        "word": "checklist",
+        "physical_page": 202,
+        "printed_page": 191
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 40\n场景词群 | 国家政府\n一份调查怎样进行\nchecklist  n.  核对清单\nrespondent  n.  调查对象\npoll  n.  民意调查\n放进句子里\nEach respondent answered the same set of questions.\n每位调查对象都回答了同一组问题。\n用法提醒\nconduct a poll 表示进行民意调查。\n雅思应用\n写作 Task 1 | 理解调查对象和结果描述\n轮到你了\n用 respondent 或 poll 描述一次调查。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "Each respondent answered the same set of questions.",
+    "example_zh": "每位调查对象都回答了同一组问题。",
+    "examples": [
+      {
+        "en": "Each respondent answered the same set of questions.",
+        "zh": "每位调查对象都回答了同一组问题。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a survey respondent",
+        "调查对象"
+      ],
+      [
+        "conduct a poll",
+        "进行民意调查"
+      ],
+      [
+        "follow a checklist",
+        "按清单核对"
+      ]
+    ],
+    "notes": "conduct a poll 表示进行民意调查。",
+    "scene": "One neutral community research desk in a library foyer. Respondent leader points to an adult answering a question to a researcher, no speech text. Poll grouping bracket spans the researcher and several answering residents as the overall survey activity. Checklist leader ends precisely on a separate clipboard with square tick boxes and picture icons that the researcher checks before each interview. No invented survey percentages, results, real election preferences or numerical claims. Each callout appears once.",
+    "palette": "图书馆暖木、研究员青蓝文件夹与核对清单浅绿来自调查现场。",
+    "ielts": "写作 Task 1 | 理解调查对象和结果描述",
+    "practice": "用 respondent 或 poll 描述一次调查。",
+    "answer": "The poll asked residents about local transport.",
+    "reference_urls": [],
+    "image": "previews/40.webp"
+  },
+  {
+    "id": "41",
+    "page": 41,
+    "title": "提名之前与职位接续",
+    "kind": "scene",
+    "targets": [
+      "ambition",
+      "nominate",
+      "succession"
+    ],
+    "labels": [
+      {
+        "word": "ambition",
+        "pos": "n.",
+        "zh": "抱负"
+      },
+      {
+        "word": "nominate",
+        "pos": "v.",
+        "zh": "提名"
+      },
+      {
+        "word": "succession",
+        "pos": "n.",
+        "zh": "职位接续；继任"
+      }
+    ],
+    "sources": [
+      {
+        "word": "ambition",
+        "physical_page": 202,
+        "printed_page": 191
+      },
+      {
+        "word": "nominate",
+        "physical_page": 202,
+        "printed_page": 191
+      },
+      {
+        "word": "succession",
+        "physical_page": 202,
+        "printed_page": 191
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 41\n场景词群 | 国家政府\n提名之前与职位接续\nambition  n.  抱负\nnominate  v.  提名\nsuccession  n.  职位接续；继任\n放进句子里\nThe committee nominated her to lead the project.\n委员会提名她来领导这个项目。\n用法提醒\nnominate 指提名，succession 可指职位接续。\n雅思应用\n口语 Part 2 | 描述一个有抱负的人\n轮到你了\n用 ambition 说说一个人的目标。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The committee nominated her to lead the project.",
+    "example_zh": "委员会提名她来领导这个项目。",
+    "examples": [
+      {
+        "en": "The committee nominated her to lead the project.",
+        "zh": "委员会提名她来领导这个项目。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "have an ambition",
+        "怀有抱负"
+      ],
+      [
+        "nominate someone for a role",
+        "提名某人担任某职"
+      ],
+      [
+        "succession planning",
+        "继任规划"
+      ]
+    ],
+    "notes": "nominate 指提名，succession 可指职位接续。",
+    "scene": "A fictional community arts organisation in three linked moments. At left a volunteer planning future leadership, with a simple thought vignette of them leading an art workshop; ambition points to the person and aspiration vignette. Centre a committee proposes an unlettered portrait card for a leadership role, nominate line to the hand placing that proposed candidate card before the group, with discussion still ongoing. Right an outgoing coordinator hands a plain office key and project folder to an incoming coordinator, succession bracket covers the handover. Distinguish proposal from actual handover. No vote instructions, political candidates, real organisations or extra text.",
+    "palette": "个人规划柔蓝、讨论桌暖木与交接文件夹墨绿呈现三个阶段。",
+    "ielts": "口语 Part 2 | 描述一个有抱负的人",
+    "practice": "用 ambition 说说一个人的目标。",
+    "answer": "Her ambition is to run a community arts centre.",
+    "reference_urls": [],
+    "image": "previews/41.webp"
+  },
+  {
+    "id": "42",
+    "page": 42,
+    "title": "安全、福利与身心状态",
+    "kind": "scene",
+    "targets": [
+      "safety",
+      "welfare",
+      "well-being"
+    ],
+    "labels": [
+      {
+        "word": "safety",
+        "pos": "n.",
+        "zh": "安全"
+      },
+      {
+        "word": "welfare",
+        "pos": "n.",
+        "zh": "福利；福祉"
+      },
+      {
+        "word": "well-being",
+        "pos": "n.",
+        "zh": "身心健康；幸福"
+      }
+    ],
+    "sources": [
+      {
+        "word": "safety",
+        "physical_page": 202,
+        "printed_page": 191
+      },
+      {
+        "word": "welfare",
+        "physical_page": 202,
+        "printed_page": 191
+      },
+      {
+        "word": "well-being",
+        "physical_page": 202,
+        "printed_page": 191
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 42\n场景词群 | 国家政府\n安全、福利与身心状态\nsafety  n.  安全\nwelfare  n.  福利；福祉\nwell-being  n.  身心健康；幸福\n放进句子里\nThe centre supports the well-being of local families.\n这个中心支持当地家庭的身心福祉。\n用法提醒\nwelfare 可谈福利支持，well-being 常谈身心良好状态。\n雅思应用\n写作 Task 2 | 讨论社区公共服务\n轮到你了\n用 safety 或 well-being 说说一项社区设施的作用。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The centre supports the well-being of local families.",
+    "example_zh": "这个中心支持当地家庭的身心福祉。",
+    "examples": [
+      {
+        "en": "The centre supports the well-being of local families.",
+        "zh": "这个中心支持当地家庭的身心福祉。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "public safety",
+        "公共安全"
+      ],
+      [
+        "social welfare",
+        "社会福利"
+      ],
+      [
+        "mental well-being",
+        "心理健康"
+      ]
+    ],
+    "notes": "welfare 可谈福利支持，well-being 常谈身心良好状态。",
+    "scene": "One imagined community centre with a coherent cutaway of three adjoining areas. Safety leader points to a secure handrail and clearly separated pedestrian route at entrance being checked by staff. Welfare leader points to an organised support desk distributing meal parcels and practical information to adults. Well-being leader points to a calm social garden where residents chat and take gentle exercise together. Avoid health claims, medical advice, body stereotypes or promises of specific outcomes. Use no extra written signs, just the three exact labels.",
+    "palette": "入口安全设施湖蓝、服务台暖橙与花园绿区分安全、支持与生活状态。",
+    "ielts": "写作 Task 2 | 讨论社区公共服务",
+    "practice": "用 safety 或 well-being 说说一项社区设施的作用。",
+    "answer": "A well-lit path can improve pedestrian safety.",
+    "reference_urls": [],
+    "image": "previews/42.webp"
+  },
+  {
+    "id": "43",
+    "page": 43,
+    "title": "社区花园怎样变得更好",
+    "kind": "scene",
+    "targets": [
+      "harmony",
+      "steady",
+      "flourish",
+      "succeed"
+    ],
+    "labels": [
+      {
+        "word": "harmony",
+        "pos": "n.",
+        "zh": "和谐"
+      },
+      {
+        "word": "steady",
+        "pos": "adj.",
+        "zh": "稳固的；平稳的"
+      },
+      {
+        "word": "flourish",
+        "pos": "v.",
+        "zh": "繁茂；兴旺"
+      },
+      {
+        "word": "succeed",
+        "pos": "v.",
+        "zh": "成功"
+      }
+    ],
+    "sources": [
+      {
+        "word": "harmony",
+        "physical_page": 203,
+        "printed_page": 192
+      },
+      {
+        "word": "steady",
+        "physical_page": 203,
+        "printed_page": 192
+      },
+      {
+        "word": "flourish",
+        "physical_page": 203,
+        "printed_page": 192
+      },
+      {
+        "word": "succeed",
+        "physical_page": 203,
+        "printed_page": 192
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 43\n场景词群 | 国家政府\n社区花园怎样变得更好\nharmony  n.  和谐\nsteady  adj.  稳固的；平稳的\nflourish  v.  繁茂；兴旺\nsucceed  v.  成功\n放进句子里\nThe volunteers worked in harmony, and the garden began to flourish.\n志愿者们和谐协作，花园开始繁茂起来。\n用法提醒\nsucceed in doing something 表示成功做成某事。\n雅思应用\n口语 Part 2 | 描述一次合作完成的事情\n轮到你了\n用 in harmony 或 succeed 描述一次合作。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The volunteers worked in harmony, and the garden began to flourish.",
+    "example_zh": "志愿者们和谐协作，花园开始繁茂起来。",
+    "examples": [
+      {
+        "en": "The volunteers worked in harmony, and the garden began to flourish.",
+        "zh": "志愿者们和谐协作，花园开始繁茂起来。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "work in harmony",
+        "和谐协作"
+      ],
+      [
+        "a steady ladder",
+        "稳固的梯子"
+      ],
+      [
+        "plants flourish",
+        "植物繁茂"
+      ],
+      [
+        "succeed in a task",
+        "完成任务取得成功"
+      ]
+    ],
+    "notes": "succeed in doing something 表示成功做成某事。",
+    "scene": "One active community garden. Harmony bracket encompasses volunteers working cooperatively around a raised bed, each performing a complementary job. Steady arrow ends on a securely braced stable stepladder resting on level ground, with no one climbing and a worker checking its footing. Flourish arrow to vigorous healthy plants with plentiful leaves. Succeed arrow to the completed raised bed and satisfied volunteers comparing it to an unlettered original sketch, clearly achieving their plan. No numeric growth claims or slogans. Exact four labels once.",
+    "palette": "叶绿表现繁茂，木色花床与暖橙工具表现协作，稳固梯子用清楚蓝灰轮廓。",
+    "ielts": "口语 Part 2 | 描述一次合作完成的事情",
+    "practice": "用 in harmony 或 succeed 描述一次合作。",
+    "answer": "We worked in harmony and succeeded in restoring the garden.",
+    "reference_urls": [],
+    "image": "previews/43.webp"
+  },
+  {
+    "id": "44",
+    "page": 44,
+    "title": "从不同角度看同一张方案",
+    "kind": "contrast",
+    "targets": [
+      "perspective",
+      "viewpoint",
+      "standpoint"
+    ],
+    "labels": [
+      {
+        "word": "perspective",
+        "pos": "n.",
+        "zh": "观察角度；观点"
+      },
+      {
+        "word": "viewpoint",
+        "pos": "n.",
+        "zh": "观点"
+      },
+      {
+        "word": "standpoint",
+        "pos": "n.",
+        "zh": "立场"
+      }
+    ],
+    "sources": [
+      {
+        "word": "perspective",
+        "physical_page": 203,
+        "printed_page": 192
+      },
+      {
+        "word": "viewpoint",
+        "physical_page": 203,
+        "printed_page": 192
+      },
+      {
+        "word": "standpoint",
+        "physical_page": 203,
+        "printed_page": 192
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 44\n词义辨析 | 国家政府\n从不同角度看同一张方案\nperspective  n.  观察角度；观点\nviewpoint  n.  观点\nstandpoint  n.  立场\n放进句子里\nWe considered the plan from a different perspective.\n我们从另一个角度考虑了这个方案。\n用法提醒\n三词都可谈看法，standpoint 常强调所处立场。\n雅思应用\n写作 Task 2 | 从不同立场讨论公共方案\n轮到你了\n用 from a ... perspective 提出一个观察角度。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "We considered the plan from a different perspective.",
+    "example_zh": "我们从另一个角度考虑了这个方案。",
+    "examples": [
+      {
+        "en": "We considered the plan from a different perspective.",
+        "zh": "我们从另一个角度考虑了这个方案。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "from a different perspective",
+        "从不同角度"
+      ],
+      [
+        "express a viewpoint",
+        "表达观点"
+      ],
+      [
+        "from a practical standpoint",
+        "从实际立场看"
+      ]
+    ],
+    "notes": "三词都可谈看法，standpoint 常强调所处立场。",
+    "scene": "A fictional public park design discussion around one large illustrated plan. Perspective leader points to one overhead inset drawing and the observer looking from another physical angle, showing a way of viewing an issue. Viewpoint leader points to a resident expressing a thought with a simple thought bubble showing a playground icon. Standpoint leader points to an accessibility adviser considering a ramp icon from their professional position. These are overlapping uses, avoid rigid mutually exclusive definitions. Main plan and people fill the scene; icons have no writing and there are only three exact labels.",
+    "palette": "公园图纸浅绿、居民意见暖橙与无障碍建议湖蓝区分讨论角度。",
+    "ielts": "写作 Task 2 | 从不同立场讨论公共方案",
+    "practice": "用 from a ... perspective 提出一个观察角度。",
+    "answer": "From a resident's perspective, the park should be easy to reach.",
+    "reference_urls": [],
+    "image": "previews/44.webp"
+  },
+  {
+    "id": "45",
+    "page": 45,
+    "title": "未来的可能性与行动指引",
+    "kind": "contrast",
+    "targets": [
+      "prospect",
+      "outlook",
+      "guideline"
+    ],
+    "labels": [
+      {
+        "word": "prospect",
+        "pos": "n.",
+        "zh": "可能性；前景"
+      },
+      {
+        "word": "outlook",
+        "pos": "n.",
+        "zh": "展望；前景"
+      },
+      {
+        "word": "guideline",
+        "pos": "n.",
+        "zh": "指导方针"
+      }
+    ],
+    "sources": [
+      {
+        "word": "prospect",
+        "physical_page": 203,
+        "printed_page": 192
+      },
+      {
+        "word": "outlook",
+        "physical_page": 203,
+        "printed_page": 192
+      },
+      {
+        "word": "guideline",
+        "physical_page": 203,
+        "printed_page": 192
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 45\n词义辨析 | 国家政府\n未来的可能性与行动指引\nprospect  n.  可能性；前景\noutlook  n.  展望；前景\nguideline  n.  指导方针\n放进句子里\nThe plan offers the prospect of a greener town.\n这个方案带来了建设更绿色城镇的可能性。\n用法提醒\nprospect 可强调可能性，outlook 可谈整体前景。\n雅思应用\n写作 Task 2 | 讨论城市未来发展\n轮到你了\n用 prospect 或 outlook 描述一个设想中的变化。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The plan offers the prospect of a greener town.",
+    "example_zh": "这个方案带来了建设更绿色城镇的可能性。",
+    "examples": [
+      {
+        "en": "The plan offers the prospect of a greener town.",
+        "zh": "这个方案带来了建设更绿色城镇的可能性。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the prospect of change",
+        "变化的可能性"
+      ],
+      [
+        "a positive outlook",
+        "积极的展望"
+      ],
+      [
+        "follow a guideline",
+        "遵循指导方针"
+      ]
+    ],
+    "notes": "prospect 可强调可能性，outlook 可谈整体前景。",
+    "scene": "An imagined town improvement planning studio. Prospect leader points to an unlettered transparent overlay showing one possible future footbridge over an existing river, visually a possibility being considered. Outlook leader points to a broad town panorama board containing future green spaces, homes and transport icons as an overall view of the future. Guideline leader ends on a separate illustrated instruction sheet with simple ordered icons about access and planting, no words or numerals. Explicitly no real forecast, data, claims or dates. Clean large three labels only.",
+    "palette": "可能方案用淡蓝透明叠图，整体展望用城市暖石与树绿，指引纸张用米白。",
+    "ielts": "写作 Task 2 | 讨论城市未来发展",
+    "practice": "用 prospect 或 outlook 描述一个设想中的变化。",
+    "answer": "The new garden offers the prospect of more green space.",
+    "reference_urls": [],
+    "image": "previews/45.webp"
+  },
+  {
+    "id": "46",
+    "page": 46,
+    "title": "讨论方案时提出建议",
+    "kind": "scene",
+    "targets": [
+      "ethic",
+      "suggest",
+      "advise",
+      "proposal"
+    ],
+    "labels": [
+      {
+        "word": "ethic",
+        "pos": "n.",
+        "zh": "行为准则；道德观"
+      },
+      {
+        "word": "suggest",
+        "pos": "v.",
+        "zh": "建议"
+      },
+      {
+        "word": "advise",
+        "pos": "v.",
+        "zh": "提供建议"
+      },
+      {
+        "word": "proposal",
+        "pos": "n.",
+        "zh": "提案"
+      }
+    ],
+    "sources": [
+      {
+        "word": "ethic",
+        "physical_page": 203,
+        "printed_page": 192
+      },
+      {
+        "word": "suggest",
+        "physical_page": 203,
+        "printed_page": 192
+      },
+      {
+        "word": "advise",
+        "physical_page": 203,
+        "printed_page": 192
+      },
+      {
+        "word": "proposal",
+        "physical_page": 203,
+        "printed_page": 192
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 46\n场景词群 | 国家政府\n讨论方案时提出建议\nethic  n.  行为准则；道德观\nsuggest  v.  建议\nadvise  v.  提供建议\nproposal  n.  提案\n放进句子里\nThe adviser suggested a change to the proposal.\n顾问建议修改这份提案。\n用法提醒\n可说 advise someone to do something；行为准则也常用 ethics。\n雅思应用\n写作 Task 2 | 提出并解释公共方案建议\n轮到你了\n用 suggest 或 advise 提出一条具体建议。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The adviser suggested a change to the proposal.",
+    "example_zh": "顾问建议修改这份提案。",
+    "examples": [
+      {
+        "en": "The adviser suggested a change to the proposal.",
+        "zh": "顾问建议修改这份提案。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a work ethic",
+        "职业道德观"
+      ],
+      [
+        "suggest a change",
+        "建议作出改变"
+      ],
+      [
+        "advise someone to act",
+        "建议某人行动"
+      ],
+      [
+        "submit a proposal",
+        "提交提案"
+      ]
+    ],
+    "notes": "可说 advise someone to do something；行为准则也常用 ethics。",
+    "scene": "One neutral library community planning meeting. Ethic leader points to a shared pictogram code-of-conduct sheet with an honest handshake and balanced scales, no written words. Suggest leader points to a resident indicating a possible garden location on a draft map with a questioning gesture. Advise leader points to a professional adviser explaining an access ramp design to the group using a small model. Proposal leader points to the finished formal map folder placed in front of the chair, clearly a written plan rather than the speaking action. Four labels spaced on dominant scene only, no redundant glossary or extra lettering.",
+    "palette": "图书馆暖木与图纸青蓝表现讨论，提案文件夹砖红，道德准则图标深绿。",
+    "ielts": "写作 Task 2 | 提出并解释公共方案建议",
+    "practice": "用 suggest 或 advise 提出一条具体建议。",
+    "answer": "I suggest adding a ramp near the entrance.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/ethic"
+    ],
+    "image": "previews/46.webp"
+  },
+  {
+    "id": "47",
+    "page": 47,
+    "title": "先提示，再把路线说清楚",
+    "kind": "scene",
+    "targets": [
+      "hint",
+      "clarify"
+    ],
+    "labels": [
+      {
+        "word": "hint",
+        "pos": "n.",
+        "zh": "提示"
+      },
+      {
+        "word": "clarify",
+        "pos": "v.",
+        "zh": "澄清；说明清楚"
+      }
+    ],
+    "sources": [
+      {
+        "word": "hint",
+        "physical_page": 204,
+        "printed_page": 193
+      },
+      {
+        "word": "clarify",
+        "physical_page": 204,
+        "printed_page": 193
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 47\n场景词群 | 国家政府\n先提示，再把路线说清楚\nhint n. 提示\nclarify v. 澄清；说明清楚\n放进句子里\nThe volunteer clarified the route for the visitor.\n志愿者向来访者把路线说明清楚了。\n用法提醒\ngive a hint 是给提示，clarify 强调使意思更清楚。\n雅思应用\n口语 Part 2 | 描述一次向别人问路的经历\n轮到你了\n用 clarify 说说你希望别人说明清楚的事。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The volunteer clarified the route for the visitor.",
+    "example_zh": "志愿者向来访者把路线说明清楚了。",
+    "examples": [
+      {
+        "en": "The volunteer clarified the route for the visitor.",
+        "zh": "志愿者向来访者把路线说明清楚了。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "give a hint",
+        "给一点提示"
+      ],
+      [
+        "clarify a point",
+        "把某一点说明清楚"
+      ]
+    ],
+    "notes": "give a hint 是给提示，clarify 强调使意思更清楚。",
+    "scene": "连贯的社区服务台。左侧志愿者用指尖轻轻指向地图上一座桥的图标，来访者若有所思，hint词签的细引线落在志愿者暗示性的指尖和桥图标之间。右侧同一服务台的另一位志愿者展开一张更清楚的路线图，沿三段明确连通的路线逐段讲解，来访者点头明白，clarify引线落在其展开图纸并说明路线的动作。地图只有图形，无街名和字。",
+    "palette": "提示区浅琥珀，清楚解释区青蓝，服务台暖木色连接两处。",
+    "ielts": "口语 Part 2 | 描述一次向别人问路的经历",
+    "practice": "用 clarify 说说你希望别人说明清楚的事。",
+    "answer": "Could you clarify which entrance I should use?",
+    "reference_urls": [],
+    "image": "previews/47.webp"
+  },
+  {
+    "id": "48",
+    "page": 48,
+    "title": "公开告诉大家一件事",
+    "kind": "scene",
+    "targets": [
+      "declare",
+      "announce",
+      "proclaim"
+    ],
+    "labels": [
+      {
+        "word": "declare",
+        "pos": "v.",
+        "zh": "宣布"
+      },
+      {
+        "word": "announce",
+        "pos": "v.",
+        "zh": "宣布；通知"
+      },
+      {
+        "word": "proclaim",
+        "pos": "v.",
+        "zh": "郑重宣布"
+      }
+    ],
+    "sources": [
+      {
+        "word": "declare",
+        "physical_page": 204,
+        "printed_page": 193
+      },
+      {
+        "word": "announce",
+        "physical_page": 204,
+        "printed_page": 193
+      },
+      {
+        "word": "proclaim",
+        "physical_page": 204,
+        "printed_page": 193
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 48\n场景词群 | 国家政府\n公开告诉大家一件事\ndeclare v. 宣布\nannounce v. 宣布；通知\nproclaim v. 郑重宣布\nLibrary\n放进句子里\nThe organiser announced a change to the programme.\n组织者宣布了活动安排的一项变动。\n用法提醒\n三者都可表示公开宣布，语气和使用场合有差别。\n雅思应用\n听力 Part 2 | 听懂公共场所的通知\n轮到你了\n用 announce 描述一次安排变更。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The organiser announced a change to the programme.",
+    "example_zh": "组织者宣布了活动安排的一项变动。",
+    "examples": [
+      {
+        "en": "The organiser announced a change to the programme.",
+        "zh": "组织者宣布了活动安排的一项变动。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "declare a meeting open",
+        "宣布会议开始"
+      ],
+      [
+        "announce a change",
+        "宣布一项变动"
+      ],
+      [
+        "proclaim the news",
+        "郑重宣布消息"
+      ]
+    ],
+    "notes": "三者都可表示公开宣布，语气和使用场合有差别。",
+    "scene": "一张由三个相连公共空间组成的主插画，以人物行为解释三个意思有重叠的词。左侧社区图书馆新馆开门，一位负责人面对来宾作正式开馆宣布，declare引线指向宣布动作。中间火车站工作人员向候车旅客用麦克风通知安排，announce引线落在麦克风及说话动作。右侧是一幅明确画框中的历史城镇生活图，报信人站在台阶上向居民高声宣读展开的公告卷轴，proclaim引线落在报信人宣告的动作。历史图只是虚构示意，没有国旗、现实政治人物或可读公告文字。",
+    "palette": "图书馆木绿、车站蓝灰与历史图的赭金区分三个公开场合。",
+    "ielts": "听力 Part 2 | 听懂公共场所的通知",
+    "practice": "用 announce 描述一次安排变更。",
+    "answer": "The organiser announced that the event would start later.",
+    "reference_urls": [],
+    "image": "previews/48.webp"
+  },
+  {
+    "id": "49",
+    "page": 49,
+    "title": "肯定、声称与承认",
+    "kind": "scene",
+    "targets": [
+      "affirm",
+      "claim",
+      "admit"
+    ],
+    "labels": [
+      {
+        "word": "affirm",
+        "pos": "v.",
+        "zh": "肯定；确认"
+      },
+      {
+        "word": "claim",
+        "pos": "v.",
+        "zh": "声称"
+      },
+      {
+        "word": "admit",
+        "pos": "v.",
+        "zh": "承认"
+      }
+    ],
+    "sources": [
+      {
+        "word": "affirm",
+        "physical_page": 204,
+        "printed_page": 193
+      },
+      {
+        "word": "claim",
+        "physical_page": 204,
+        "printed_page": 193
+      },
+      {
+        "word": "admit",
+        "physical_page": 205,
+        "printed_page": 194
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 49\n场景词群 | 国家政府\n肯定、声称与承认\naffirm v. 肯定；确认\nclaim v. 声称\nadmit v. 承认\n放进句子里\nThe organiser admitted that the map contained a mistake.\n组织者承认地图里有一个错误。\n用法提醒\nclaim 可表示声称，admit 常用于承认事实或错误。\n雅思应用\n阅读 | 区分观点陈述与承认事实\n轮到你了\n用 admit 说说你怎样承认一次小失误。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The organiser admitted that the map contained a mistake.",
+    "example_zh": "组织者承认地图里有一个错误。",
+    "examples": [
+      {
+        "en": "The organiser admitted that the map contained a mistake.",
+        "zh": "组织者承认地图里有一个错误。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "affirm support",
+        "确认支持"
+      ],
+      [
+        "claim ownership",
+        "声称拥有"
+      ],
+      [
+        "admit a mistake",
+        "承认错误"
+      ]
+    ],
+    "notes": "claim 可表示声称，admit 常用于承认事实或错误。",
+    "scene": "虚构的社区失物与意见服务区，三个小动作在一张宽主图里清楚定位。左侧居民在公共花园计划图前点头并举拇指表示支持，affirm引线落在其肯定手势与计划之间。中间服务台上有一把独特的蓝色雨伞，一位居民指着自己说是自己的，工作人员正查看登记册，claim引线落在居民认领的动作，不表示已经查证。右侧一位志愿者把一张画错方向箭头的路线图拿给同事，坦率地指向自己的错误并准备纠正，admit引线指承认失误的手势。没有对话文字或其他标签。",
+    "palette": "花园计划绿、认领雨伞蓝、修改路线的珊瑚红对应不同动作。",
+    "ielts": "阅读 | 区分观点陈述与承认事实",
+    "practice": "用 admit 说说你怎样承认一次小失误。",
+    "answer": "I admitted that I had given my friend the wrong address.",
+    "reference_urls": [],
+    "image": "previews/49.webp"
+  },
+  {
+    "id": "50",
+    "page": 50,
+    "title": "从说出计划到落实和查看",
+    "kind": "scene",
+    "targets": [
+      "state",
+      "implement",
+      "monitor"
+    ],
+    "labels": [
+      {
+        "word": "state",
+        "pos": "v.",
+        "zh": "陈述；说明"
+      },
+      {
+        "word": "implement",
+        "pos": "v.",
+        "zh": "实施；执行"
+      },
+      {
+        "word": "monitor",
+        "pos": "v.",
+        "zh": "监测；监督"
+      }
+    ],
+    "sources": [
+      {
+        "word": "state",
+        "physical_page": 204,
+        "printed_page": 193
+      },
+      {
+        "word": "implement",
+        "physical_page": 204,
+        "printed_page": 193
+      },
+      {
+        "word": "monitor",
+        "physical_page": 204,
+        "printed_page": 193
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 50\n场景词群 | 国家政府\n从说出计划到落实和查看\nstate v. 陈述；说明\nimplement v. 实施；执行\nmonitor v. 监测；监督\n放进句子里\nThe team implemented the plan and monitored its progress.\n团队实施了计划，并监测了其进展。\n用法提醒\nimplement a plan 是实施计划，monitor progress 是监测进展。\n雅思应用\n写作 Task 2 | 说明公共项目怎样落实\n轮到你了\n用 implement 和 monitor 描述一个公共项目。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The team implemented the plan and monitored its progress.",
+    "example_zh": "团队实施了计划，并监测其进展。",
+    "examples": [
+      {
+        "en": "The team implemented the plan and monitored its progress.",
+        "zh": "团队实施了计划，并监测其进展。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "state a view",
+        "陈述观点"
+      ],
+      [
+        "implement a plan",
+        "实施计划"
+      ],
+      [
+        "monitor progress",
+        "监测进展"
+      ]
+    ],
+    "notes": "implement a plan 是实施计划，monitor progress 是监测进展。",
+    "scene": "连贯的公共花园改善场景。左侧工作人员面对居民清楚说明一张花园方案，state引线落在其面向图板的陈述动作。中间工人依照同一图纸在花园铺设一条步道和安放长椅，implement引线落到把计划落地的施工动作。右侧社区管理员用平板记录花园使用情况，图上只有无数字的小图表和人数小图标，monitor引线落在记录观察的动作。人物和计划虚构，不示意真实政府政策，不加数字或其他文字。",
+    "palette": "方案靛蓝、落实时步道赭黄和观察区花园绿依次连接流程。",
+    "ielts": "写作 Task 2 | 说明公共项目怎样落实",
+    "practice": "用 implement 和 monitor 描述一个公共项目。",
+    "answer": "The council can implement the plan and monitor how residents use the park.",
+    "reference_urls": [],
+    "image": "previews/50.webp"
+  },
+  {
+    "id": "51",
+    "page": 51,
+    "title": "社区服务中的三种支持",
+    "kind": "scene",
+    "targets": [
+      "assist",
+      "aid",
+      "encourage"
+    ],
+    "labels": [
+      {
+        "word": "assist",
+        "pos": "v.",
+        "zh": "帮助；协助"
+      },
+      {
+        "word": "aid",
+        "pos": "n.",
+        "zh": "援助；救援物资"
+      },
+      {
+        "word": "encourage",
+        "pos": "v.",
+        "zh": "鼓励"
+      }
+    ],
+    "sources": [
+      {
+        "word": "assist",
+        "physical_page": 204,
+        "printed_page": 193
+      },
+      {
+        "word": "aid",
+        "physical_page": 204,
+        "printed_page": 193
+      },
+      {
+        "word": "encourage",
+        "physical_page": 204,
+        "printed_page": 193
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 51\n场景词群 | 国家政府\n社区服务中的三种支持\nassist v. 帮助；协助\naid n. 援助；救援物资\nencourage v. 鼓励\n社区服务中心\n放进句子里\nVolunteers assisted residents and distributed aid.\n志愿者帮助居民，并分发援助物资。\n用法提醒\nassist sb with sth 表示协助某人处理某事。\n雅思应用\n口语 Part 2 | 描述一次志愿服务\n轮到你了\n用 encourage 说说怎样支持一位新志愿者。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "Volunteers assisted residents and distributed aid.",
+    "example_zh": "志愿者帮助居民，并分发援助物资。",
+    "examples": [
+      {
+        "en": "Volunteers assisted residents and distributed aid.",
+        "zh": "志愿者帮助居民，并分发援助物资。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "assist with a task",
+        "协助一项任务"
+      ],
+      [
+        "distribute aid",
+        "分发援助物资"
+      ],
+      [
+        "encourage someone to try",
+        "鼓励某人尝试"
+      ]
+    ],
+    "notes": "assist sb with sth 表示协助某人处理某事。",
+    "scene": "温暖的社区服务中心主图。左侧志愿者坐在来访者旁边协助看一张只有表格线的申请表，assist引线落在一起处理表格的双手。中间物资柜前工作人员把食物盒、饮用水和毛毯整齐交给需要的居民，aid用括线指整组援助物资，不指某类人。右侧一位准备做社区介绍的紧张成年新志愿者拿着空白讲稿，伙伴面对他微笑鼓掌，encourage引线落在鼓励的手势。没有医疗操作、字样、身份刻板或可读表格。",
+    "palette": "帮助区木色、援助柜湖蓝与鼓励场景暖橙使三种支持清楚。",
+    "ielts": "口语 Part 2 | 描述一次志愿服务",
+    "practice": "用 encourage 说说怎样支持一位新志愿者。",
+    "answer": "I encouraged the new volunteer to share his ideas.",
+    "reference_urls": [],
+    "image": "previews/51.webp"
+  },
+  {
+    "id": "52",
+    "page": 52,
+    "title": "在展馆认识两种地域表达",
+    "kind": "scene",
+    "targets": [
+      "African",
+      "European"
+    ],
+    "labels": [
+      {
+        "word": "African",
+        "pos": "adj.",
+        "zh": "非洲的"
+      },
+      {
+        "word": "European",
+        "pos": "adj.",
+        "zh": "欧洲的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "African",
+        "physical_page": 205,
+        "printed_page": 194
+      },
+      {
+        "word": "European",
+        "physical_page": 205,
+        "printed_page": 194
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 52\n场景词群 | 国家政府\n在展馆认识两种地域表达\nAfrican adj. 非洲的\nEuropean adj. 欧洲的\n放进句子里\nThe museum has galleries of African and European art.\n博物馆设有非洲艺术和欧洲艺术展厅。\n用法提醒\nAfrican 和 European 都可作形容词，也可作名词指人。\n雅思应用\n口语 Part 2 | 描述一次参观展览\n轮到你了\n用 African 或 European 描述一种你想了解的艺术。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The museum has galleries of African and European art.",
+    "example_zh": "博物馆设有非洲艺术和欧洲艺术展厅。",
+    "examples": [
+      {
+        "en": "The museum has galleries of African and European art.",
+        "zh": "博物馆设有非洲艺术和欧洲艺术展厅。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "African art",
+        "非洲艺术"
+      ],
+      [
+        "European history",
+        "欧洲历史"
+      ]
+    ],
+    "notes": "African 和 European 都可作形容词，也可作名词指人。",
+    "scene": "现代博物馆的一张宽广主插画。两处连贯展厅展现不同年代和媒介的丰富艺术品，不把地域等同单一风格。左展厅有清楚的非洲大陆简洁轮廓小导览板，下方展示陶器、摄影和现代抽象画；African引线指向此展厅的整体括线。右展厅有清楚的欧洲简洁轮廓小导览板，展示雕塑、摄影和现代抽象画；European引线指该展厅整体括线。地图不画国界、不加名称或国旗，人物穿普通当代衣服，不靠肤色区别地区。",
+    "palette": "非洲展厅陶土暖色和欧洲展厅石灰冷色只是室内展陈色，两处都有多种艺术媒介。",
+    "ielts": "口语 Part 2 | 描述一次参观展览",
+    "practice": "用 African 或 European 描述一种你想了解的艺术。",
+    "answer": "I would like to learn more about contemporary African art.",
+    "reference_urls": [],
+    "image": "previews/52.webp"
+  },
+  {
+    "id": "53",
+    "page": 53,
+    "title": "古罗马遗迹与拉丁语",
+    "kind": "scene",
+    "targets": [
+      "Latin",
+      "Roman"
+    ],
+    "labels": [
+      {
+        "word": "Latin",
+        "pos": "n.",
+        "zh": "拉丁语"
+      },
+      {
+        "word": "Roman",
+        "pos": "adj.",
+        "zh": "古罗马的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "Latin",
+        "physical_page": 205,
+        "printed_page": 194
+      },
+      {
+        "word": "Roman",
+        "physical_page": 205,
+        "printed_page": 194
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 53\n场景词群 | 国家政府\n古罗马遗迹与拉丁语\nLatin n. 拉丁语\nRoman adj. 古罗马的\nROMA\n放进句子里\nThe guide explained a Roman inscription written in Latin.\n导游讲解了一段用拉丁语写的古罗马铭文。\n用法提醒\nLatin 可指拉丁语，Roman 可修饰古罗马建筑或事物。\n雅思应用\n阅读 | 理解历史遗址与古代语言\n轮到你了\n用 Roman 和 Latin 说说一次历史参观。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The guide explained a Roman inscription written in Latin.",
+    "example_zh": "导游讲解了一段用拉丁语写的古罗马铭文。",
+    "examples": [
+      {
+        "en": "The guide explained a Roman inscription written in Latin.",
+        "zh": "导游讲解了一段用拉丁语写的古罗马铭文。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "study Latin",
+        "学习拉丁语"
+      ],
+      [
+        "Roman architecture",
+        "古罗马建筑"
+      ]
+    ],
+    "notes": "Latin 可指拉丁语，Roman 可修饰古罗马建筑或事物。",
+    "scene": "古罗马遗迹博物馆的温暖中庭。主图右侧呈现一段保存的罗马石拱和柱廊，Roman引线指整个古建遗迹。左前景游客在展柜前观察一块古代铭文拓片与一本拉丁语研究书，Latin引线明确指书和铭文的语言学习位置。只在拓片上写唯一确切拉丁词 ROMA，不能写随机乱码或额外英文标签。简洁清楚的主图帮助理解一个词是语言、一个词是建筑所属的时代文化。",
+    "palette": "古石赭灰、书页暖米与铜绿展柜衬考古观察。",
+    "ielts": "阅读 | 理解历史遗址与古代语言",
+    "practice": "用 Roman 和 Latin 说说一次历史参观。",
+    "answer": "We saw a Roman monument with an inscription in Latin.",
+    "reference_urls": [],
+    "image": "previews/53.webp"
+  },
+  {
+    "id": "54",
+    "page": 54,
+    "title": "历史书与半岛地理图",
+    "kind": "scene",
+    "targets": [
+      "Jewish",
+      "Arabian"
+    ],
+    "labels": [
+      {
+        "word": "Jewish",
+        "pos": "adj.",
+        "zh": "犹太人的；犹太教的"
+      },
+      {
+        "word": "Arabian",
+        "pos": "adj.",
+        "zh": "阿拉伯半岛的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "Jewish",
+        "physical_page": 205,
+        "printed_page": 194
+      },
+      {
+        "word": "Arabian",
+        "physical_page": 205,
+        "printed_page": 194
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 54\n场景词群 | 国家政府\n历史书与半岛地理图\nJewish adj. 犹太人的；犹太教的\nArabian adj. 阿拉伯半岛的\nJewish history\nArabian Peninsula\n放进句子里\nThe library displayed books on Jewish history and the Arabian Peninsula.\n图书馆展出了有关犹太历史和阿拉伯半岛的书。\n用法提醒\nArabian 常用于地理名称；阿拉伯语通常用 Arabic。\n雅思应用\n阅读 | 区分文化、地域与语言名称\n轮到你了\n用 Arabian Peninsula 写一句地理阅读的介绍。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The library displayed books on Jewish history and the Arabian Peninsula.",
+    "example_zh": "图书馆展出了有关犹太历史和阿拉伯半岛的书。",
+    "examples": [
+      {
+        "en": "The library displayed books on Jewish history and the Arabian Peninsula.",
+        "zh": "图书馆展出了有关犹太历史和阿拉伯半岛的书。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "Jewish history",
+        "犹太历史"
+      ],
+      [
+        "the Arabian Peninsula",
+        "阿拉伯半岛"
+      ]
+    ],
+    "notes": "Arabian 常用于地理名称；阿拉伯语通常用 Arabic。",
+    "scene": "图书馆安静的阅读桌。左边展开一本历史研究书，书页是历史文献和生活物件的插图，精确书名 Jewish history 大字清楚可读；Jewish词签用短线指这本书，不指人的外貌。右边是折开的地理图册，清楚画出阿拉伯半岛的大致半岛形状和邻近海岸，只有精确图名 Arabian Peninsula，无其他地名、国界、政治符号或国旗。Arabian词签指这张地理图。两名普通衣着成年读者讨论书与地图，不赋予外貌族群标签。",
+    "palette": "历史书深蓝与暖纸色，地理图沙色和海水浅青对应两种阅读对象。",
+    "ielts": "阅读 | 区分文化、地域与语言名称",
+    "practice": "用 Arabian Peninsula 写一句地理阅读的介绍。",
+    "answer": "I read a book about the Arabian Peninsula.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/jewish",
+      "https://dictionary.cambridge.org/dictionary/english/arabian"
+    ],
+    "image": "previews/54.webp"
+  },
+  {
+    "id": "55",
+    "page": 55,
+    "title": "语言课上的四本会话书",
+    "kind": "scene",
+    "targets": [
+      "Portuguese",
+      "Spanish",
+      "Greek",
+      "Italian"
+    ],
+    "labels": [
+      {
+        "word": "Portuguese",
+        "pos": "n.",
+        "zh": "葡萄牙语"
+      },
+      {
+        "word": "Spanish",
+        "pos": "n.",
+        "zh": "西班牙语"
+      },
+      {
+        "word": "Greek",
+        "pos": "n.",
+        "zh": "希腊语"
+      },
+      {
+        "word": "Italian",
+        "pos": "n.",
+        "zh": "意大利语"
+      }
+    ],
+    "sources": [
+      {
+        "word": "Portuguese",
+        "physical_page": 205,
+        "printed_page": 194
+      },
+      {
+        "word": "Spanish",
+        "physical_page": 205,
+        "printed_page": 194
+      },
+      {
+        "word": "Greek",
+        "physical_page": 205,
+        "printed_page": 194
+      },
+      {
+        "word": "Italian",
+        "physical_page": 205,
+        "printed_page": 194
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 55\n场景词群 | 国家政府\n语言课上的四本会话书\nPortuguese n. 葡萄牙语\nSpanish n. 西班牙语\nGreek n. 希腊语\nItalian n. 意大利语\n放进句子里\nShe studies Spanish and practises Italian with a friend.\n她学习西班牙语，并和朋友练习意大利语。\n用法提醒\n本卡取语言义；这四个词也可作形容词。\n雅思应用\n口语 Part 1 | 聊聊想学的语言\n轮到你了\n从图中选一种语言，说说你为什么想学。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "She studies Spanish and practises Italian with a friend.",
+    "example_zh": "她学习西班牙语，并和朋友练习意大利语。",
+    "examples": [
+      {
+        "en": "She studies Spanish and practises Italian with a friend.",
+        "zh": "她学习西班牙语，并和朋友练习意大利语。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "speak Portuguese",
+        "说葡萄牙语"
+      ],
+      [
+        "learn Spanish",
+        "学西班牙语"
+      ],
+      [
+        "study Greek",
+        "学习希腊语"
+      ],
+      [
+        "practise Italian",
+        "练习意大利语"
+      ]
+    ],
+    "notes": "本卡取语言义；这四个词也可作形容词。",
+    "scene": "明亮的语言学习展台，老师与成年学习者围着桌面讨论四本大开本会话书。四本书保持清楚间隔，封面只有无字插画，分别是里斯本有轨电车、巴塞罗那建筑、希腊石柱和威尼斯运河，用于旅行主题封面记忆。Portuguese、Spanish、Greek、Italian 四个词签各以短引线精确指一本书，词签本身就是书的语言信息，封面不另印重复名称。没有外貌国籍暗示，没有国旗、额外读得出的字或地图。",
+    "palette": "封面依场景用电车黄、建筑砖红、石柱白蓝和运河青绿，桌面统一暖木色。",
+    "ielts": "口语 Part 1 | 聊聊想学的语言",
+    "practice": "从图中选一种语言，说说你为什么想学。",
+    "answer": "I would like to learn Greek so I can talk to people when I travel.",
+    "reference_urls": [],
+    "image": "previews/55.webp"
+  },
+  {
+    "id": "56",
+    "page": 56,
+    "title": "在阅读中辨认地域形容词",
+    "kind": "scene",
+    "targets": [
+      "Russian",
+      "soviet",
+      "Swiss",
+      "Indian"
+    ],
+    "labels": [
+      {
+        "word": "Russian",
+        "pos": "adj.",
+        "zh": "俄罗斯的"
+      },
+      {
+        "word": "soviet",
+        "pos": "adj.",
+        "zh": "苏联的，历史用语"
+      },
+      {
+        "word": "Swiss",
+        "pos": "adj.",
+        "zh": "瑞士的"
+      },
+      {
+        "word": "Indian",
+        "pos": "adj.",
+        "zh": "印度的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "Russian",
+        "physical_page": 205,
+        "printed_page": 194
+      },
+      {
+        "word": "soviet",
+        "physical_page": 205,
+        "printed_page": 194
+      },
+      {
+        "word": "Swiss",
+        "physical_page": 205,
+        "printed_page": 194
+      },
+      {
+        "word": "Indian",
+        "physical_page": 205,
+        "printed_page": 194
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 56\n场景词群 | 国家政府\n在阅读中辨认地域形容词\nRussian adj. 俄罗斯的\nSoviet adj. 苏联的，历史用语\nSwiss adj. 瑞士的\nIndian adj. 印度的\nRussian literature\nSoviet history\nSwiss design\nIndian cinema\n放进句子里\nThe reading list includes Russian literature and Indian cinema.\n阅读清单包括俄罗斯文学和印度电影。\n用法提醒\nSoviet 指历史上的苏联；其余三词在本卡取地域形容词义。\n雅思应用\n阅读 | 理解人文资料中的地域修饰语\n轮到你了\n从图中选一个形容词，介绍一项你感兴趣的主题。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "The reading list includes Russian literature and Indian cinema.",
+    "example_zh": "阅读清单包括俄罗斯文学和印度电影。",
+    "examples": [
+      {
+        "en": "The reading list includes Russian literature and Indian cinema.",
+        "zh": "阅读清单包括俄罗斯文学和印度电影。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "Russian literature",
+        "俄罗斯文学"
+      ],
+      [
+        "Soviet history",
+        "苏联历史"
+      ],
+      [
+        "Swiss design",
+        "瑞士设计"
+      ],
+      [
+        "Indian cinema",
+        "印度电影"
+      ]
+    ],
+    "notes": "Soviet 指历史上的苏联；其余三词在本卡取地域形容词义。",
+    "scene": "大学图书馆的主题阅读桌，四个清楚分开的资料展示架以图像表现研究主题。Russian引线指一本厚的文学选集，翻开的插图是一列经过雪地的列车，不画国旗。Soviet引线指历史档案盒，盒内黑白旧照片与一本旧档案组成历史资料，绝不混作当前国家。Swiss引线指一本现代设计展册，展开精确的家具和排版网格图像。Indian引线指一本电影研究册，展开的是摄影机和虚构片场插图。四架只用词签和下列准确主题短语，不用人物脸或服饰辨国籍。",
+    "palette": "文学冷蓝、历史档案褐、设计册青灰与电影册暖金按资料主题区分。",
+    "ielts": "阅读 | 理解人文资料中的地域修饰语",
+    "practice": "从图中选一个形容词，介绍一项你感兴趣的主题。",
+    "answer": "I am interested in Swiss design and would like to visit a design museum.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/soviet"
+    ],
+    "image": "previews/56.webp"
+  },
+  {
+    "id": "57",
+    "page": 57,
+    "title": "旅行计划里的澳大利亚、新西兰和加拿大",
+    "kind": "scene",
+    "targets": [
+      "Australia",
+      "New Zealand",
+      "Canada"
+    ],
+    "labels": [
+      {
+        "word": "Australia",
+        "pos": "n.",
+        "zh": "澳大利亚"
+      },
+      {
+        "word": "New Zealand",
+        "pos": "n.",
+        "zh": "新西兰"
+      },
+      {
+        "word": "Canada",
+        "pos": "n.",
+        "zh": "加拿大"
+      }
+    ],
+    "sources": [
+      {
+        "word": "Australia",
+        "physical_page": 205,
+        "printed_page": 194
+      },
+      {
+        "word": "New Zealand",
+        "physical_page": 205,
+        "printed_page": 194
+      },
+      {
+        "word": "Canada",
+        "physical_page": 205,
+        "printed_page": 194
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 57\n场景词群 | 国家政府\n旅行计划里的澳大利亚、新西兰和加拿大\nAustralia n. 澳大利亚\nNew Zealand n. 新西兰\nCanada n. 加拿大\n放进句子里\nOur travel plan includes Australia, New Zealand and Canada.\n我们的旅行计划包括澳大利亚、新西兰和加拿大。\n用法提醒\n国家名称通常大写；New Zealand 是两个词组成的名称。\n雅思应用\n口语 Part 2 | 描述一个想去的国家\n轮到你了\n从三个国家中选一个，说说你想在那里做什么。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "Our travel plan includes Australia, New Zealand and Canada.",
+    "example_zh": "我们的旅行计划包括澳大利亚、新西兰和加拿大。",
+    "examples": [
+      {
+        "en": "Our travel plan includes Australia, New Zealand and Canada.",
+        "zh": "我们的旅行计划包括澳大利亚、新西兰和加拿大。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "visit Australia",
+        "去澳大利亚旅行"
+      ],
+      [
+        "travel to New Zealand",
+        "前往新西兰旅行"
+      ],
+      [
+        "a trip to Canada",
+        "加拿大之旅"
+      ]
+    ],
+    "notes": "国家名称通常大写；New Zealand 是两个词组成的名称。",
+    "scene": "温暖的旅行计划桌，三张大号手绘目的地明信片放在摊开的空白旅行日记中，构成主要画面。左卡是清楚的悉尼歌剧院与港湾，Australia引线指整张目的地明信片。中卡是新西兰米尔福德峡湾的山峰、水面和一艘小观光船，New Zealand指此卡。右卡是多伦多天际线和独特CN塔，Canada指此卡。三张不画地图边界和国旗，不写城市名称，人物只是手持相机计划旅行，词签各出现一次。",
+    "palette": "澳大利亚卡港湾蓝、峡湾卡深绿与雪峰白、加拿大卡夕阳金和天际线紫灰。",
+    "ielts": "口语 Part 2 | 描述一个想去的国家",
+    "practice": "从三个国家中选一个，说说你想在那里做什么。",
+    "answer": "I would like to visit New Zealand and take a boat trip through a fiord.",
+    "reference_urls": [],
+    "image": "previews/57.webp"
+  },
+  {
+    "id": "58",
+    "page": 58,
+    "title": "计划一次欧洲行程",
+    "kind": "scene",
+    "targets": [
+      "Britain",
+      "France",
+      "Germany"
+    ],
+    "labels": [
+      {
+        "word": "Britain",
+        "pos": "n.",
+        "zh": "英国；不列颠"
+      },
+      {
+        "word": "France",
+        "pos": "n.",
+        "zh": "法国"
+      },
+      {
+        "word": "Germany",
+        "pos": "n.",
+        "zh": "德国"
+      }
+    ],
+    "sources": [
+      {
+        "word": "Britain",
+        "physical_page": 206,
+        "printed_page": 195
+      },
+      {
+        "word": "France",
+        "physical_page": 206,
+        "printed_page": 195
+      },
+      {
+        "word": "Germany",
+        "physical_page": 206,
+        "printed_page": 195
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 58\n场景词群 | 国家政府\n计划一次欧洲行程\nBritain n. 英国；不列颠\nFrance n. 法国\nGermany n. 德国\n放进句子里\nShe travelled from Britain to France before visiting Germany.\n她从英国前往法国，之后又去了德国。\n用法提醒\nBritain 常用来指英国，Great Britain 指大不列颠岛。\n雅思应用\n口语 Part 2 | 描述一次多地旅行计划\n轮到你了\n用 France 或 Germany 说说你想去的一处地方。\n第15章 国家政府 · 原创例句与练习 · 非真题",
+    "example_en": "She travelled from Britain to France before visiting Germany.",
+    "example_zh": "她从英国前往法国，之后又去了德国。",
+    "examples": [
+      {
+        "en": "She travelled from Britain to France before visiting Germany.",
+        "zh": "她从英国前往法国，之后又去了德国。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "travel from Britain",
+        "从英国出发旅行"
+      ],
+      [
+        "visit France",
+        "到法国旅行"
+      ],
+      [
+        "a trip to Germany",
+        "德国之旅"
+      ]
+    ],
+    "notes": "Britain 常用来指英国，Great Britain 指大不列颠岛。",
+    "scene": "火车旅行计划的一张连续插画，以旅客桌上的三幅手绘城市风景展示三个目的地。左侧英国伦敦议会大厦钟楼与河岸，Britain词签落在整幅伦敦风景上。中间法国巴黎埃菲尔铁塔与河岸，France指中幅。右侧德国柏林勃兰登堡门，Germany指右幅。用一条没有实际地理比例含义的细装饰旅行线连接画纸，不画国境、地图或现实路线时刻。只给三词签，不加城市名。",
+    "palette": "伦敦暖石与河蓝、巴黎浅灰与花粉、柏林砂岩金色取自建筑与环境。",
+    "ielts": "口语 Part 2 | 描述一次多地旅行计划",
+    "practice": "用 France 或 Germany 说说你想去的一处地方。",
+    "answer": "I would like to travel to Germany and visit a local museum.",
+    "reference_urls": [
+      "https://www.oxfordlearnersdictionaries.com/definition/english/britain",
+      "https://www.oxfordlearnersdictionaries.com/definition/english/great-britain",
+      "https://dictionary.cambridge.org/dictionary/english/united-kingdom"
+    ],
+    "image": "previews/58.webp"
+  }
+]

@@ -1,8 +1,8 @@
 {
   "title": "IELTS 插画词汇手记",
-  "updated": "2026-11-18",
+  "updated": "2026-11-24",
   "repository": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards",
-  "release_tag": "v2026.11.18-ch14",
+  "release_tag": "v2026.11.24-ch15",
   "chapters": [
     {
       "chapter": 1,
@@ -6885,9 +6885,576 @@
           "preview": "previews/44.webp"
         }
       ]
+    },
+    {
+      "chapter": 15,
+      "title": "国家政府",
+      "status": "chapter_complete",
+      "cards": 58,
+      "headwords": 149,
+      "path": "chapters/ch15-国家政府",
+      "pdf": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.24-ch15/ch15-learning-cards.pdf",
+      "download": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.24-ch15/ch15-study-pack.zip",
+      "index": [
+        {
+          "number": 1,
+          "title": "公共服务由谁来负责",
+          "words": [
+            "government",
+            "authority",
+            "political"
+          ],
+          "preview": "previews/01.webp"
+        },
+        {
+          "number": 2,
+          "title": "bureaucracy",
+          "words": [
+            "bureaucracy"
+          ],
+          "preview": "previews/02.webp"
+        },
+        {
+          "number": 3,
+          "title": "理论阅读中的三个概念",
+          "words": [
+            "Marxism",
+            "socialism",
+            "communism"
+          ],
+          "preview": "previews/03.webp"
+        },
+        {
+          "number": 4,
+          "title": "materialism",
+          "words": [
+            "materialism"
+          ],
+          "preview": "previews/04.webp"
+        },
+        {
+          "number": 5,
+          "title": "政体与公共决策",
+          "words": [
+            "republic",
+            "regime",
+            "democracy"
+          ],
+          "preview": "previews/05.webp"
+        },
+        {
+          "number": 6,
+          "title": "层级与平等参与",
+          "words": [
+            "hierarchy",
+            "egalitarian"
+          ],
+          "preview": "previews/06.webp"
+        },
+        {
+          "number": 7,
+          "title": "办事方式怎样改变",
+          "words": [
+            "reform",
+            "process",
+            "revolution"
+          ],
+          "preview": "previews/07.webp"
+        },
+        {
+          "number": 8,
+          "title": "conservative",
+          "words": [
+            "conservative"
+          ],
+          "preview": "previews/08.webp"
+        },
+        {
+          "number": 9,
+          "title": "meltdown",
+          "words": [
+            "meltdown"
+          ],
+          "preview": "previews/09.webp"
+        },
+        {
+          "number": 10,
+          "title": "双方会谈中的中立立场",
+          "words": [
+            "neutral",
+            "bilateral"
+          ],
+          "preview": "previews/10.webp"
+        },
+        {
+          "number": 11,
+          "title": "市政节庆的旗与横幅",
+          "words": [
+            "municipal",
+            "flag",
+            "banner"
+          ],
+          "preview": "previews/11.webp"
+        },
+        {
+          "number": 12,
+          "title": "arena",
+          "words": [
+            "arena"
+          ],
+          "preview": "previews/12.webp"
+        },
+        {
+          "number": 13,
+          "title": "公共职务与政治家",
+          "words": [
+            "president",
+            "premier",
+            "minister",
+            "statesman"
+          ],
+          "preview": "previews/13.webp"
+        },
+        {
+          "number": 14,
+          "title": "议会与参议院",
+          "words": [
+            "parliament",
+            "senate"
+          ],
+          "preview": "previews/14.webp"
+        },
+        {
+          "number": 15,
+          "title": "大型会议与小组会面",
+          "words": [
+            "conference",
+            "meeting",
+            "secretary"
+          ],
+          "preview": "previews/15.webp"
+        },
+        {
+          "number": 16,
+          "title": "代表团以谁的名义发言",
+          "words": [
+            "headquarters",
+            "delegation",
+            "behalf"
+          ],
+          "preview": "previews/16.webp"
+        },
+        {
+          "number": 17,
+          "title": "police",
+          "words": [
+            "police"
+          ],
+          "preview": "previews/17.webp"
+        },
+        {
+          "number": 18,
+          "title": "市政办公室怎样提供服务",
+          "words": [
+            "mayor",
+            "service",
+            "office",
+            "administration"
+          ],
+          "preview": "previews/18.webp"
+        },
+        {
+          "number": 19,
+          "title": "在两个行政部门之间递送规划",
+          "words": [
+            "bureau",
+            "department"
+          ],
+          "preview": "previews/19.webp"
+        },
+        {
+          "number": 20,
+          "title": "利用能源，看清主导部分",
+          "words": [
+            "harness",
+            "dominate",
+            "power"
+          ],
+          "preview": "previews/20.webp"
+        },
+        {
+          "number": 21,
+          "title": "改变决定与影响出行",
+          "words": [
+            "influence",
+            "affect"
+          ],
+          "preview": "previews/21.webp"
+        },
+        {
+          "number": 22,
+          "title": "重要性与历史意义",
+          "words": [
+            "importance",
+            "significance"
+          ],
+          "preview": "previews/22.webp"
+        },
+        {
+          "number": 23,
+          "title": "社区里的不同组织",
+          "words": [
+            "organisation",
+            "association",
+            "union",
+            "community"
+          ],
+          "preview": "previews/23.webp"
+        },
+        {
+          "number": 24,
+          "title": "合作项目旁的机构与联赛",
+          "words": [
+            "consortium",
+            "institution",
+            "league"
+          ],
+          "preview": "previews/24.webp"
+        },
+        {
+          "number": 25,
+          "title": "团结合作，保留各自特色",
+          "words": [
+            "unite",
+            "unique"
+          ],
+          "preview": "previews/25.webp"
+        },
+        {
+          "number": 26,
+          "title": "国家与联邦结构",
+          "words": [
+            "nation",
+            "federal"
+          ],
+          "preview": "previews/26.webp"
+        },
+        {
+          "number": 27,
+          "title": "放眼全球的联系",
+          "words": [
+            "global",
+            "worldwide"
+          ],
+          "preview": "previews/27.webp"
+        },
+        {
+          "number": 28,
+          "title": "在国外学习的三种表达",
+          "words": [
+            "foreign",
+            "overseas",
+            "abroad"
+          ],
+          "preview": "previews/28.webp"
+        },
+        {
+          "number": 29,
+          "title": "同一次迁移的两个方向",
+          "words": [
+            "emigrate",
+            "immigrate"
+          ],
+          "preview": "previews/29.webp"
+        },
+        {
+          "number": 30,
+          "title": "君主历史展里的四个线索",
+          "words": [
+            "reign",
+            "throne",
+            "crown",
+            "wreath"
+          ],
+          "preview": "previews/30.webp"
+        },
+        {
+          "number": 31,
+          "title": "puppet",
+          "words": [
+            "puppet"
+          ],
+          "preview": "previews/31.webp"
+        },
+        {
+          "number": 32,
+          "title": "历史展中的独立与自由",
+          "words": [
+            "civil",
+            "colony",
+            "liberty",
+            "independence"
+          ],
+          "preview": "previews/32.webp"
+        },
+        {
+          "number": 33,
+          "title": "暴风雨中的一处庇护",
+          "words": [
+            "slum",
+            "refuge"
+          ],
+          "preview": "previews/33.webp"
+        },
+        {
+          "number": 34,
+          "title": "asylum",
+          "words": [
+            "asylum"
+          ],
+          "preview": "previews/34.webp"
+        },
+        {
+          "number": 35,
+          "title": "人口与人口统计",
+          "words": [
+            "population",
+            "demographic"
+          ],
+          "preview": "previews/35.webp"
+        },
+        {
+          "number": 36,
+          "title": "公民身份与居住联系",
+          "words": [
+            "citizen",
+            "resident"
+          ],
+          "preview": "previews/36.webp"
+        },
+        {
+          "number": 37,
+          "title": "社群背景与平等",
+          "words": [
+            "ethnic",
+            "racial",
+            "clan"
+          ],
+          "preview": "previews/37.webp"
+        },
+        {
+          "number": 38,
+          "title": "从选举权到选出代表",
+          "words": [
+            "franchise",
+            "vote",
+            "elect"
+          ],
+          "preview": "previews/38.webp"
+        },
+        {
+          "number": 39,
+          "title": "资格与个人偏好",
+          "words": [
+            "entitle",
+            "preference"
+          ],
+          "preview": "previews/39.webp"
+        },
+        {
+          "number": 40,
+          "title": "一份调查怎样进行",
+          "words": [
+            "respondent",
+            "poll",
+            "checklist"
+          ],
+          "preview": "previews/40.webp"
+        },
+        {
+          "number": 41,
+          "title": "提名之前与职位接续",
+          "words": [
+            "ambition",
+            "nominate",
+            "succession"
+          ],
+          "preview": "previews/41.webp"
+        },
+        {
+          "number": 42,
+          "title": "安全、福利与身心状态",
+          "words": [
+            "safety",
+            "welfare",
+            "well-being"
+          ],
+          "preview": "previews/42.webp"
+        },
+        {
+          "number": 43,
+          "title": "社区花园怎样变得更好",
+          "words": [
+            "harmony",
+            "steady",
+            "flourish",
+            "succeed"
+          ],
+          "preview": "previews/43.webp"
+        },
+        {
+          "number": 44,
+          "title": "从不同角度看同一张方案",
+          "words": [
+            "perspective",
+            "viewpoint",
+            "standpoint"
+          ],
+          "preview": "previews/44.webp"
+        },
+        {
+          "number": 45,
+          "title": "未来的可能性与行动指引",
+          "words": [
+            "prospect",
+            "outlook",
+            "guideline"
+          ],
+          "preview": "previews/45.webp"
+        },
+        {
+          "number": 46,
+          "title": "讨论方案时提出建议",
+          "words": [
+            "ethic",
+            "suggest",
+            "advise",
+            "proposal"
+          ],
+          "preview": "previews/46.webp"
+        },
+        {
+          "number": 47,
+          "title": "先提示，再把路线说清楚",
+          "words": [
+            "hint",
+            "clarify"
+          ],
+          "preview": "previews/47.webp"
+        },
+        {
+          "number": 48,
+          "title": "公开告诉大家一件事",
+          "words": [
+            "declare",
+            "announce",
+            "proclaim"
+          ],
+          "preview": "previews/48.webp"
+        },
+        {
+          "number": 49,
+          "title": "肯定、声称与承认",
+          "words": [
+            "affirm",
+            "claim",
+            "admit"
+          ],
+          "preview": "previews/49.webp"
+        },
+        {
+          "number": 50,
+          "title": "从说出计划到落实和查看",
+          "words": [
+            "state",
+            "implement",
+            "monitor"
+          ],
+          "preview": "previews/50.webp"
+        },
+        {
+          "number": 51,
+          "title": "社区服务中的三种支持",
+          "words": [
+            "assist",
+            "aid",
+            "encourage"
+          ],
+          "preview": "previews/51.webp"
+        },
+        {
+          "number": 52,
+          "title": "在展馆认识两种地域表达",
+          "words": [
+            "African",
+            "European"
+          ],
+          "preview": "previews/52.webp"
+        },
+        {
+          "number": 53,
+          "title": "古罗马遗迹与拉丁语",
+          "words": [
+            "Latin",
+            "Roman"
+          ],
+          "preview": "previews/53.webp"
+        },
+        {
+          "number": 54,
+          "title": "历史书与半岛地理图",
+          "words": [
+            "Jewish",
+            "Arabian"
+          ],
+          "preview": "previews/54.webp"
+        },
+        {
+          "number": 55,
+          "title": "语言课上的四本会话书",
+          "words": [
+            "Portuguese",
+            "Spanish",
+            "Greek",
+            "Italian"
+          ],
+          "preview": "previews/55.webp"
+        },
+        {
+          "number": 56,
+          "title": "在阅读中辨认地域形容词",
+          "words": [
+            "Russian",
+            "soviet",
+            "Swiss",
+            "Indian"
+          ],
+          "preview": "previews/56.webp"
+        },
+        {
+          "number": 57,
+          "title": "旅行计划里的澳大利亚、新西兰和加拿大",
+          "words": [
+            "Australia",
+            "New Zealand",
+            "Canada"
+          ],
+          "preview": "previews/57.webp"
+        },
+        {
+          "number": 58,
+          "title": "计划一次欧洲行程",
+          "words": [
+            "Britain",
+            "France",
+            "Germany"
+          ],
+          "preview": "previews/58.webp"
+        }
+      ]
     }
   ],
-  "total_cards": 629,
-  "chapter_coverage_items": 2167,
-  "counting_note": "2,167 为各章词头覆盖项相加，跨章不去重。第 1–14 章均已完成。"
+  "total_cards": 687,
+  "chapter_coverage_items": 2316,
+  "counting_note": "2,316 为各章词头覆盖项相加，跨章不去重。第 1–15 章均已完成。"
 }
