@@ -2,7 +2,7 @@
 
 用画面理解词义，用例句走进语境，再用练习把词汇说出来。
 
-**687 张插画学习卡 · 15 个完整章节 · 持续更新**
+**764 张插画学习卡 · 16 个完整章节 · 持续更新**
 
 [按章节开始学习](#章节目录) · [下载 PDF 和高清原图](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases) · [查看制作原则](DESIGN.md)
 
@@ -37,12 +37,13 @@
 | 13 | 建筑场所 | 41 | 134 | [打开章节](chapters/ch13-建筑场所/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch13/ch13-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch13/ch13-study-pack.zip) |
 | 14 | 交通旅行 | 44 | 134 | [打开章节](chapters/ch14-交通旅行/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.18-ch14/ch14-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.18-ch14/ch14-study-pack.zip) |
 | 15 | 国家政府 | 58 | 149 | [打开章节](chapters/ch15-国家政府/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.24-ch15/ch15-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.24-ch15/ch15-study-pack.zip) |
+| 16 | 社会经济 | 77 | 171 | [打开章节](chapters/ch16-社会经济/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.24-ch16/ch16-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.24-ch16/ch16-study-pack.zip) |
 
-全书共 22 章。第 1–15 章已完成，第 16–22 章共 7 章待制作。章内词头合计 2,316 项，跨章出现的同一个词分别计入各章。
+全书共 22 章。第 1–16 章已完成，第 17–22 章共 6 章待制作。章内词头合计 2,487 项，跨章出现的同一个词分别计入各章。
 
 ## 文件说明
 
-- `chapters/`：687张在线预览，以及学习文稿、练习、独立答案、词头覆盖表和可编辑内容。
+- `chapters/`：764张在线预览，以及学习文稿、练习、独立答案、词头覆盖表和可编辑内容。
 - `catalog.json`：章节与卡片索引，便于检索或继续制作。
 - [Releases](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases)：每章合订PDF与含高清PNG的完整学习包；预览图做了网页压缩，高清原图保持发布版本。
 

@@ -1,0 +1,5206 @@
+[
+  {
+    "id": "01",
+    "page": 1,
+    "title": "economy",
+    "kind": "word",
+    "targets": [
+      "economy"
+    ],
+    "labels": [
+      {
+        "word": "economy",
+        "pos": "n.",
+        "zh": "经济"
+      }
+    ],
+    "sources": [
+      {
+        "word": "economy",
+        "physical_page": 209,
+        "printed_page": 198
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 01\n单词精讲 | 社会经济\neconomy\n/ɪ'kɒn.ə.mi/  n.\n经济\n一个地区生产、交易和消费等活动构成的经济体系。\n放进句子里\nSmall businesses play an important role in the local economy.\n小企业在当地经济中发挥重要作用。\n常用搭配\nthe local economy\neconomic growth\na strong economy\n用法提醒\neconomy 指经济；economic 是“经济的”。\n雅思应用\n写作 Task 2 | 讨论小企业与地方发展\n轮到你了\n用 the local economy 说一句小企业的作用。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "Small businesses play an important role in the local economy.",
+    "example_zh": "小企业在当地经济中发挥重要作用。",
+    "examples": [
+      {
+        "en": "Small businesses play an important role in the local economy.",
+        "zh": "小企业在当地经济中发挥重要作用。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the local economy",
+        "地方经济"
+      ],
+      [
+        "economic growth",
+        "经济增长"
+      ],
+      [
+        "a strong economy",
+        "强劲的经济"
+      ]
+    ],
+    "notes": "economy 指经济；economic 是“经济的”。",
+    "scene": "Big economy heading, IPA, meaning and definition left; rich main picture of an imaginary coastal town at right and below. Include a maker workshop, a busy food market, delivery van, port and families spending at shops. Soft unlettered arrows circulate goods, labour and payments among them. The interconnected whole shows an economy; no extra vocabulary labels, statistics, charts, slogans, flags or signs.",
+    "palette": "港口海蓝、市场果蔬绿橙、作坊砖红，体现相互联系的经济活动。",
+    "ielts": "写作 Task 2 | 讨论小企业与地方发展",
+    "practice": "用 the local economy 说一句小企业的作用。",
+    "answer": "Local shops support the local economy.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/economy"
+    ],
+    "ipa": "/ɪˈkɒn.ə.mi/",
+    "definition": "一个地区生产、交易和消费等活动构成的经济体系。",
+    "image": "previews/01.webp"
+  },
+  {
+    "id": "02",
+    "page": 2,
+    "title": "商品怎样进入市场",
+    "kind": "scene",
+    "targets": [
+      "trade",
+      "market",
+      "industry"
+    ],
+    "labels": [
+      {
+        "word": "trade",
+        "pos": "n.",
+        "zh": "贸易"
+      },
+      {
+        "word": "market",
+        "pos": "n.",
+        "zh": "市场"
+      },
+      {
+        "word": "industry",
+        "pos": "n.",
+        "zh": "工业；产业"
+      }
+    ],
+    "sources": [
+      {
+        "word": "trade",
+        "physical_page": 209,
+        "printed_page": 198
+      },
+      {
+        "word": "market",
+        "physical_page": 209,
+        "printed_page": 198
+      },
+      {
+        "word": "industry",
+        "physical_page": 209,
+        "printed_page": 198
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 02\n场景词群 | 社会经济\n商品怎样进入市场\ntrade  /'treɪd/  n.  贸易\nmarket  /'mɑ:kɪt/  n.  市场\nindustry  /'ɪndəstri/  n.  工业；产业\n放进句子里\nTrade connects local industry with overseas markets.\n贸易把当地产业与海外市场连接起来。\n用法提醒\nindustry 指产业或工业，trade 强调贸易活动。\n雅思应用\n阅读 | 理解商品流通与产业联系\n轮到你了\n用 trade 和 market 描述商品流通。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "Trade connects local industry with overseas markets.",
+    "example_zh": "贸易把当地产业与海外市场连接起来。",
+    "examples": [
+      {
+        "en": "Trade connects local industry with overseas markets.",
+        "zh": "贸易把当地产业与海外市场连接起来。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "international trade",
+        "国际贸易"
+      ],
+      [
+        "a local market",
+        "当地市场"
+      ],
+      [
+        "the textile industry",
+        "纺织业"
+      ]
+    ],
+    "notes": "industry 指产业或工业，trade 强调贸易活动。",
+    "scene": "One connected textile-to-market panorama: workshop staff produce woven cloth, crates move by cargo boat between two fictional ports, then cloth is sold at a covered market. industry tag brackets the workshop production; trade follows two-way goods route, market points at collective stalls. Only three specified tags, no people/object labels or readable signs.",
+    "palette": "纺织车间靛蓝、运输海蓝与市场暖赭，串起生产、贸易和销售。",
+    "ielts": "阅读 | 理解商品流通与产业联系",
+    "practice": "用 trade 和 market 描述商品流通。",
+    "answer": "Trade helps producers reach new markets.",
+    "reference_urls": [],
+    "image": "previews/02.webp"
+  },
+  {
+    "id": "03",
+    "page": 3,
+    "title": "商人怎样宣传商品",
+    "kind": "scene",
+    "targets": [
+      "merchant",
+      "commercial",
+      "advertise",
+      "slogan"
+    ],
+    "labels": [
+      {
+        "word": "merchant",
+        "pos": "n.",
+        "zh": "商人"
+      },
+      {
+        "word": "commercial",
+        "pos": "adj.",
+        "zh": "商业的"
+      },
+      {
+        "word": "advertise",
+        "pos": "v.",
+        "zh": "做广告"
+      },
+      {
+        "word": "slogan",
+        "pos": "n.",
+        "zh": "广告语；口号"
+      }
+    ],
+    "sources": [
+      {
+        "word": "merchant",
+        "physical_page": 209,
+        "printed_page": 198
+      },
+      {
+        "word": "commercial",
+        "physical_page": 209,
+        "printed_page": 198
+      },
+      {
+        "word": "advertise",
+        "physical_page": 209,
+        "printed_page": 198
+      },
+      {
+        "word": "slogan",
+        "physical_page": 209,
+        "printed_page": 198
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 03\n场景词群 | 社会经济\n商人怎样宣传商品\nmerchant  /'mɜ:tʃənt/  n.  商人\ncommercial  /kə'mɜ:ʃəl/  adj.  商业的\nadvertise  /'ædvətaɪz/  v.  做广告\nslogan  /'sləʊgən/  n.  广告语；口号\nHandmade for everyday life\n放进句子里\nThe merchant used a short slogan to advertise the new shop.\n商人用一句简短的广告语宣传新店。\n用法提醒\ncommercial 可作形容词，表示与商业有关的。\n雅思应用\n口语 Part 2 | 描述一则见过的广告\n轮到你了\n用 advertise 和 slogan 介绍一则广告。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The merchant used a short slogan to advertise the new shop.",
+    "example_zh": "商人用一句简短的广告语宣传新店。",
+    "examples": [
+      {
+        "en": "The merchant used a short slogan to advertise the new shop.",
+        "zh": "商人用一句简短的广告语宣传新店。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a retail merchant",
+        "零售商"
+      ],
+      [
+        "commercial activity",
+        "商业活动"
+      ],
+      [
+        "an advertising slogan",
+        "广告语"
+      ]
+    ],
+    "notes": "commercial 可作形容词，表示与商业有关的。",
+    "scene": "A small fictional merchant prepares an opening campaign for a pottery shop. merchant tag points to shop owner handling a pottery order. commercial tag brackets the sales space and display, advertise tag points to staff placing an illustrated poster, slogan tag points to the poster exact words Handmade for everyday life. Print that slogan once inside the poster. No invented object labels or duplicate glossary.",
+    "palette": "陶器赤陶、店面木色和广告亮黄，服务于商品宣传。",
+    "ielts": "口语 Part 2 | 描述一则见过的广告",
+    "practice": "用 advertise 和 slogan 介绍一则广告。",
+    "answer": "The shop used a simple slogan to advertise its handmade cups.",
+    "reference_urls": [],
+    "image": "previews/03.webp"
+  },
+  {
+    "id": "04",
+    "page": 4,
+    "title": "为社区项目提供资金",
+    "kind": "scene",
+    "targets": [
+      "financial",
+      "fund"
+    ],
+    "labels": [
+      {
+        "word": "financial",
+        "pos": "adj.",
+        "zh": "财务的；金融的"
+      },
+      {
+        "word": "fund",
+        "pos": "v.",
+        "zh": "资助"
+      }
+    ],
+    "sources": [
+      {
+        "word": "financial",
+        "physical_page": 209,
+        "printed_page": 198
+      },
+      {
+        "word": "fund",
+        "physical_page": 209,
+        "printed_page": 198
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 04\n场景词群 | 社会经济\n为社区项目提供资金\nfinancial  adj.  财务的；金融的\nfund  v.  资助\n放进句子里\nThe charity will fund the library and review its financial plan.\n慈善机构将资助这座图书馆，并审查其财务计划。\n用法提醒\nfund 在这里是动词；funds 也常表示资金。\n雅思应用\n阅读 | 理解公共项目的资金安排\n轮到你了\n用 fund 写一句支持社区项目的话。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The charity will fund the library and review its financial plan.",
+    "example_zh": "慈善机构将资助这座图书馆，并审查其财务计划。",
+    "examples": [
+      {
+        "en": "The charity will fund the library and review its financial plan.",
+        "zh": "慈善机构将资助这座图书馆，并审查其财务计划。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "financial support",
+        "财务支持"
+      ],
+      [
+        "fund a project",
+        "资助项目"
+      ],
+      [
+        "raise funds",
+        "筹集资金"
+      ]
+    ],
+    "notes": "fund 在这里是动词；funds 也常表示资金。",
+    "scene": "Community-library planning meeting: at left a volunteer reviews an unlettered budget sheet and calculator, financial label points to that plan; at right a foundation representative hands an unlettered funding approval document, with an arrow to the new library model, fund label follows this action. No currency investment chart or claim of return. Only two tags.",
+    "palette": "图书馆木色、财务图表青蓝、项目模型绿，区分计划与资助行动。",
+    "ielts": "阅读 | 理解公共项目的资金安排",
+    "practice": "用 fund 写一句支持社区项目的话。",
+    "answer": "A local charity will fund the reading room.",
+    "reference_urls": [],
+    "image": "previews/04.webp"
+  },
+  {
+    "id": "05",
+    "page": 5,
+    "title": "捐赠物品与捐资支持",
+    "kind": "contrast",
+    "targets": [
+      "donate",
+      "endow"
+    ],
+    "labels": [
+      {
+        "word": "donate",
+        "pos": "v.",
+        "zh": "捐赠"
+      },
+      {
+        "word": "endow",
+        "pos": "v.",
+        "zh": "捐资支持"
+      }
+    ],
+    "sources": [
+      {
+        "word": "donate",
+        "physical_page": 209,
+        "printed_page": 198
+      },
+      {
+        "word": "endow",
+        "physical_page": 209,
+        "printed_page": 198
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 05\n词义辨析 | 社会经济\n捐赠物品与捐资支持\ndonate  v.  捐赠\nendow  v.  捐资支持\n放进句子里\nVolunteers donated books, and a local donor endowed the library.\n志愿者捐赠了书籍，\n一位当地捐赠者出资支持了图书馆。\n用法提醒\ndonate 可捐钱物；endow 常指捐资支持机构或项目。\n雅思应用\n写作 Task 2 | 讨论公益支持的方式\n轮到你了\n用 donate 或 endow 描述一种公益支持。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "Volunteers donated books, and a local donor endowed the library.",
+    "example_zh": "志愿者捐赠了书籍，一位当地捐赠者出资支持了图书馆。",
+    "examples": [
+      {
+        "en": "Volunteers donated books, and a local donor endowed the library.",
+        "zh": "志愿者捐赠了书籍，一位当地捐赠者出资支持了图书馆。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "donate books",
+        "捐赠书籍"
+      ],
+      [
+        "donate money to charity",
+        "向慈善机构捐款"
+      ],
+      [
+        "endow a library",
+        "捐资支持图书馆"
+      ]
+    ],
+    "notes": "donate 可捐钱物；endow 常指捐资支持机构或项目。",
+    "scene": "Coherent library courtyard with two related actions: volunteers deliver boxes of books directly to the reading room, donate tag points to giving books; a donor formally provides a substantial funding document beside a scale model of the library, endow tag points to financial support. Use visual books/coins not readable paperwork. No claim endow always means any small donation.",
+    "palette": "书本多彩与捐赠箱暖橙，长期机构资助用稳重蓝绿。",
+    "ielts": "写作 Task 2 | 讨论公益支持的方式",
+    "practice": "用 donate 或 endow 描述一种公益支持。",
+    "answer": "Residents donated books to the community library.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/endow"
+    ],
+    "image": "previews/05.webp"
+  },
+  {
+    "id": "06",
+    "page": 6,
+    "title": "买下家具还是租用店铺",
+    "kind": "contrast",
+    "targets": [
+      "purchase",
+      "lease"
+    ],
+    "labels": [
+      {
+        "word": "purchase",
+        "pos": "v.",
+        "zh": "购买"
+      },
+      {
+        "word": "lease",
+        "pos": "v.",
+        "zh": "租用；出租"
+      }
+    ],
+    "sources": [
+      {
+        "word": "purchase",
+        "physical_page": 209,
+        "printed_page": 198
+      },
+      {
+        "word": "lease",
+        "physical_page": 209,
+        "printed_page": 198
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 06\n词义辨析 | 社会经济\n买下家具还是租用店铺\npurchase  v.  购买\nlease  v.  租用；出租\n放进句子里\nThey purchased the chairs but leased the shop.\n他们买下了椅子，但店铺是租来的。\n用法提醒\npurchase 表示买下；lease 表示按约定期限租用或出租。\n雅思应用\n听力 Part 1 | 听懂商铺租赁与购置安排\n轮到你了\n用 purchase 和 lease 各写一句生活安排。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "They purchased the chairs but leased the shop.",
+    "example_zh": "他们买下了椅子，但店铺是租来的。",
+    "examples": [
+      {
+        "en": "They purchased the chairs but leased the shop.",
+        "zh": "他们买下了椅子，但店铺是租来的。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "purchase equipment",
+        "购买设备"
+      ],
+      [
+        "lease a shop",
+        "租用店铺"
+      ],
+      [
+        "a lease agreement",
+        "租赁协议"
+      ]
+    ],
+    "notes": "purchase 表示买下；lease 表示按约定期限租用或出租。",
+    "scene": "Opening a fictional cafe: one side owner pays for chairs with a visible handover of goods showing purchase; other side same cafe owner signs an unlettered lease with property owner and gets keys, calendar motif shows an agreed period. purchase points to chairs/payment action, lease to keys and contract interaction. No legal claims or extra vocabulary labels.",
+    "palette": "购买家具用蜂蜜木色，租赁文件与钥匙用青蓝。",
+    "ielts": "听力 Part 1 | 听懂商铺租赁与购置安排",
+    "practice": "用 purchase 和 lease 各写一句生活安排。",
+    "answer": "We purchased the desks. We leased a small office.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/lease"
+    ],
+    "image": "previews/06.webp"
+  },
+  {
+    "id": "07",
+    "page": 7,
+    "title": "afford",
+    "kind": "word",
+    "targets": [
+      "afford"
+    ],
+    "labels": [
+      {
+        "word": "afford",
+        "pos": "v.",
+        "zh": "负担得起"
+      }
+    ],
+    "sources": [
+      {
+        "word": "afford",
+        "physical_page": 210,
+        "printed_page": 199
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 07\n单词精讲 | 社会经济\nafford\n/ə'fɔ:d/  v.\n负担得起\n有足够的金钱或时间购买、承担或做某事。\n£90\n£180\n£120\n放进句子里\nI can afford to buy a second-hand bike.\n我买得起一辆二手自行车。\n常用搭配\ncan afford to buy\nafford the rent\ncannot afford it\n用法提醒\nafford 后接动词时用 to do。\n雅思应用\n口语 Part 3 | 讨论购物选择与预算\n轮到你了\n用 can afford to 描述一项你负担得起的活动。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "I can afford to buy a second-hand bike.",
+    "example_zh": "我买得起一辆二手自行车。",
+    "examples": [
+      {
+        "en": "I can afford to buy a second-hand bike.",
+        "zh": "我买得起一辆二手自行车。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "can afford to buy",
+        "买得起"
+      ],
+      [
+        "afford the rent",
+        "付得起房租"
+      ],
+      [
+        "cannot afford it",
+        "负担不起"
+      ]
+    ],
+    "notes": "afford 后接动词时用 to do。",
+    "scene": "Large afford heading IPA and meaning. Main illustration an adult learner comparing two bicycles at a local bicycle shop while checking a simple personal budget. Two paper price tags show only £90 and £180; their wallet budget card shows £120. Learner points at the £90 bicycle. No moral judgement or implication borrowed funds, no extra labels. Numerical relation must be clear 90 less than120 less than180. Preserve exact numbers and transcribe them.",
+    "palette": "自行车店清爽蓝绿、预算纸米白，橙色小标突出可负担的选择。",
+    "ielts": "口语 Part 3 | 讨论购物选择与预算",
+    "practice": "用 can afford to 描述一项你负担得起的活动。",
+    "answer": "I can afford to take a short local trip.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/grammar/british-grammar/word-patterns-afford"
+    ],
+    "ipa": "/əˈfɔːd/",
+    "definition": "有足够的金钱或时间购买、承担或做某事。",
+    "image": "previews/07.webp"
+  },
+  {
+    "id": "08",
+    "page": 8,
+    "title": "零售连锁与食品杂货店",
+    "kind": "scene",
+    "targets": [
+      "retail",
+      "chain",
+      "grocery"
+    ],
+    "labels": [
+      {
+        "word": "retail",
+        "pos": "n.",
+        "zh": "零售"
+      },
+      {
+        "word": "chain",
+        "pos": "n.",
+        "zh": "连锁店"
+      },
+      {
+        "word": "grocery",
+        "pos": "n.",
+        "zh": "食品杂货店"
+      }
+    ],
+    "sources": [
+      {
+        "word": "retail",
+        "physical_page": 210,
+        "printed_page": 199
+      },
+      {
+        "word": "chain",
+        "physical_page": 210,
+        "printed_page": 199
+      },
+      {
+        "word": "grocery",
+        "physical_page": 210,
+        "printed_page": 199
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 08\n场景词群 | 社会经济\n零售连锁与食品杂货店\nretail  n.  零售\nchain  n.  连锁店\ngrocery  n.  食品杂货店\n放进句子里\nThe grocery chain sells food through its retail stores.\n这家食品杂货连锁企业通过零售门店销售食品。\n用法提醒\nretail 强调面向消费者零售；chain 指连锁体系。\n雅思应用\n口语 Part 2 | 描述常去的一家商店\n轮到你了\n用 grocery 和 chain 描述一种商店。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The grocery chain sells food through its retail stores.",
+    "example_zh": "这家食品杂货连锁企业通过零售门店销售食品。",
+    "examples": [
+      {
+        "en": "The grocery chain sells food through its retail stores.",
+        "zh": "这家食品杂货连锁企业通过零售门店销售食品。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "retail stores",
+        "零售门店"
+      ],
+      [
+        "a grocery chain",
+        "食品杂货连锁店"
+      ],
+      [
+        "a chain of shops",
+        "连锁商店"
+      ]
+    ],
+    "notes": "retail 强调面向消费者零售；chain 指连锁体系。",
+    "scene": "A lively neighbourhood shopping street. Foreground food grocery with produce and everyday items serves individual customers; a small wall route/map inset naturally inside the scene links three matching storefronts with identical unlettered leaf logos to show chain. retail tag brackets the direct sale to an individual shopper, grocery tag points at food shop, chain tag brackets linked matching outlets. Only three prescribed labels and no repeat glossary.",
+    "palette": "食品果蔬绿橙、街道砖红，连锁路线用靛蓝串联。",
+    "ielts": "口语 Part 2 | 描述常去的一家商店",
+    "practice": "用 grocery 和 chain 描述一种商店。",
+    "answer": "I often shop at a local grocery chain.",
+    "reference_urls": [],
+    "image": "previews/08.webp"
+  },
+  {
+    "id": "09",
+    "page": 9,
+    "title": "促销活动与价格折扣",
+    "kind": "scene",
+    "targets": [
+      "promotion",
+      "discount"
+    ],
+    "labels": [
+      {
+        "word": "promotion",
+        "pos": "n.",
+        "zh": "促销活动"
+      },
+      {
+        "word": "discount",
+        "pos": "n.",
+        "zh": "折扣"
+      }
+    ],
+    "sources": [
+      {
+        "word": "promotion",
+        "physical_page": 210,
+        "printed_page": 199
+      },
+      {
+        "word": "discount",
+        "physical_page": 210,
+        "printed_page": 199
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 09\n场景词群 | 社会经济\n促销活动与价格折扣\npromotion  /prə'məʊʃn/  n.  促销活动\ndiscount  /'dɪskaʊnt/  n.  折扣\n£10 → £8\n放进句子里\nThe weekend promotion includes a discount on selected books.\n周末促销活动包含部分图书的折扣。\n用法提醒\npromotion 指促销活动，discount 指价格减让。\n雅思应用\n听力 Part 1 | 听懂商店优惠信息\n轮到你了\n用 promotion 和 discount 说一句商店优惠。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The weekend promotion includes a discount on selected books.",
+    "example_zh": "周末促销活动包含部分图书的折扣。",
+    "examples": [
+      {
+        "en": "The weekend promotion includes a discount on selected books.",
+        "zh": "周末促销活动包含部分图书的折扣。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a sales promotion",
+        "促销活动"
+      ],
+      [
+        "a discount on books",
+        "图书折扣"
+      ],
+      [
+        "at a discount",
+        "以折扣价"
+      ]
+    ],
+    "notes": "promotion 指促销活动，discount 指价格减让。",
+    "scene": "A bookstore opening a weekend promotion: a staff member arranges a broad display table and illustrated campaign board, promotion label brackets the whole campaign/display. A customer compares a book price tag exactly £10 → £8, discount label points at this price reduction. All arrows/values clear, no other incidental writing, no extra vocabulary labels.",
+    "palette": "书店暖木与促销橙红，折扣标价以清晰蓝线呈现。",
+    "ielts": "听力 Part 1 | 听懂商店优惠信息",
+    "practice": "用 promotion 和 discount 说一句商店优惠。",
+    "answer": "The store offers a discount during its summer promotion.",
+    "reference_urls": [],
+    "image": "previews/09.webp"
+  },
+  {
+    "id": "10",
+    "page": 10,
+    "title": "代金券与优惠券",
+    "kind": "contrast",
+    "targets": [
+      "voucher",
+      "coupon"
+    ],
+    "labels": [
+      {
+        "word": "voucher",
+        "pos": "n.",
+        "zh": "代金券"
+      },
+      {
+        "word": "coupon",
+        "pos": "n.",
+        "zh": "优惠券"
+      }
+    ],
+    "sources": [
+      {
+        "word": "voucher",
+        "physical_page": 210,
+        "printed_page": 199
+      },
+      {
+        "word": "coupon",
+        "physical_page": 210,
+        "printed_page": 199
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 10\n词义辨析 | 社会经济\n代金券与优惠券\nvoucher  n.  代金券\ncoupon  n.  优惠券\n£20\n10% OFF\n放进句子里\nI used a gift voucher and a discount coupon at the shop.\n我在店里使用了一张礼品代金券和一张折扣优惠券。\n用法提醒\nvoucher 与 coupon 的用法有重叠，需看具体条款。\n雅思应用\n听力 Part 1 | 听懂购物券的使用说明\n轮到你了\n用 gift voucher 或 discount coupon 写一句购物经历。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "I used a gift voucher and a discount coupon at the shop.",
+    "example_zh": "我在店里使用了一张礼品代金券和一张折扣优惠券。",
+    "examples": [
+      {
+        "en": "I used a gift voucher and a discount coupon at the shop.",
+        "zh": "我在店里使用了一张礼品代金券和一张折扣优惠券。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a gift voucher",
+        "礼品代金券"
+      ],
+      [
+        "a discount coupon",
+        "折扣优惠券"
+      ],
+      [
+        "use a voucher",
+        "使用代金券"
+      ]
+    ],
+    "notes": "voucher 与 coupon 的用法有重叠，需看具体条款。",
+    "scene": "Two adjacent checkout interactions in a fictional shop, same style and scale: at left shopper uses a gift voucher exactly £20 toward payment, voucher tag leader points to paper voucher. At right shopper uses coupon exactly 10% OFF on a basket, coupon leader to that paper coupon. Neither picture defines an exclusive universal distinction; these are examples. No invented extra words except the specified £20 and10% OFF. Show actual handing-over actions.",
+    "palette": "代金券紫蓝、优惠券珊瑚橙，收银台保持暖纸木色。",
+    "ielts": "听力 Part 1 | 听懂购物券的使用说明",
+    "practice": "用 gift voucher 或 discount coupon 写一句购物经历。",
+    "answer": "I used a gift voucher to buy a book.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/voucher",
+      "https://dictionary.cambridge.org/dictionary/english/coupon"
+    ],
+    "image": "previews/10.webp"
+  },
+  {
+    "id": "11",
+    "page": 11,
+    "title": "旅行前兑换货币",
+    "kind": "scene",
+    "targets": [
+      "currency",
+      "exchange"
+    ],
+    "labels": [
+      {
+        "word": "currency",
+        "pos": "n.",
+        "zh": "货币"
+      },
+      {
+        "word": "exchange",
+        "pos": "n.",
+        "zh": "兑换"
+      }
+    ],
+    "sources": [
+      {
+        "word": "currency",
+        "physical_page": 210,
+        "printed_page": 199
+      },
+      {
+        "word": "exchange",
+        "physical_page": 210,
+        "printed_page": 199
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 11\n场景词群 | 社会经济\n旅行前兑换货币\ncurrency  /'kʌrənsi/  n.  货币\nexchange  /ɪks'tʃeɪndʒ/  n.  兑换\n放进句子里\nThe traveller asked about currency exchange at the airport.\n这位旅客在机场询问了货币兑换的事。\n用法提醒\ncurrency 指货币；currency exchange 表示货币兑换。\n雅思应用\n听力 Part 1 | 询问旅行中的兑换服务\n轮到你了\n用 currency exchange 写一句旅行询问。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The traveller asked about currency exchange at the airport.",
+    "example_zh": "这位旅客在机场询问了货币兑换的事。",
+    "examples": [
+      {
+        "en": "The traveller asked about currency exchange at the airport.",
+        "zh": "这位旅客在机场询问了货币兑换的事。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "foreign currency",
+        "外币"
+      ],
+      [
+        "currency exchange",
+        "货币兑换"
+      ],
+      [
+        "the exchange rate",
+        "兑换汇率"
+      ]
+    ],
+    "notes": "currency 指货币；currency exchange 表示货币兑换。",
+    "scene": "Airport currency exchange counter: adult traveller hands one set of clearly fictional paper currency to teller and receives another visually different set through a tray. currency tag points to banknotes with no real denomination or exchange rate; exchange tag uses two-way arrows to actual transaction. No account advice and no real rates or country claims. Only two target tags.",
+    "palette": "机场青蓝玻璃、两套纸币紫绿，双向箭头说明兑换关系。",
+    "ielts": "听力 Part 1 | 询问旅行中的兑换服务",
+    "practice": "用 currency exchange 写一句旅行询问。",
+    "answer": "Is there a currency exchange service at the station?",
+    "reference_urls": [],
+    "image": "previews/11.webp"
+  },
+  {
+    "id": "12",
+    "page": 12,
+    "title": "swap",
+    "kind": "word",
+    "targets": [
+      "swap"
+    ],
+    "labels": [
+      {
+        "word": "swap",
+        "pos": "v.",
+        "zh": "交换"
+      }
+    ],
+    "sources": [
+      {
+        "word": "swap",
+        "physical_page": 210,
+        "printed_page": 199
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 12\n单词精讲 | 社会经济\nswap\n/swɒp/  v.\n交换\n把一样东西给别人，同时换回另一样东西。\n放进句子里\nWe swapped books after the reading club.\n读书会结束后，我们交换了书。\n常用搭配\nswap books\nswap A for B\nswap something with a friend\n用法提醒\n常用 swap A for B，或 swap something with someone。\n雅思应用\n口语 Part 2 | 描述一次分享或交换\n轮到你了\n用 swap 写一句交换物品的经历。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "We swapped books after the reading club.",
+    "example_zh": "读书会结束后，我们交换了书。",
+    "examples": [
+      {
+        "en": "We swapped books after the reading club.",
+        "zh": "读书会结束后，我们交换了书。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "swap books",
+        "交换书籍"
+      ],
+      [
+        "swap A for B",
+        "用A交换B"
+      ],
+      [
+        "swap something with a friend",
+        "与朋友交换某物"
+      ]
+    ],
+    "notes": "常用 swap A for B，或 swap something with someone。",
+    "scene": "Large swap heading/IPA/meaning left. Main scene two neighbours at a community book-swap table each give one different book to the other, a single clear two-way arrow conveys exchange without money. Keep hands and books anatomically clear. No extra words, labels or signs.",
+    "palette": "社区绿、书封蓝橙，两种颜色跟随书本的交换路径。",
+    "ielts": "口语 Part 2 | 描述一次分享或交换",
+    "practice": "用 swap 写一句交换物品的经历。",
+    "answer": "I swapped a novel for a travel book.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/swap"
+    ],
+    "ipa": "/swɒp/",
+    "definition": "把一样东西给别人，同时换回另一样东西。",
+    "image": "previews/12.webp"
+  },
+  {
+    "id": "13",
+    "page": 13,
+    "title": "账单与付款凭据",
+    "kind": "contrast",
+    "targets": [
+      "invoice",
+      "receipt"
+    ],
+    "labels": [
+      {
+        "word": "invoice",
+        "pos": "n.",
+        "zh": "账单；发票"
+      },
+      {
+        "word": "receipt",
+        "pos": "n.",
+        "zh": "收据"
+      }
+    ],
+    "sources": [
+      {
+        "word": "invoice",
+        "physical_page": 211,
+        "printed_page": 200
+      },
+      {
+        "word": "receipt",
+        "physical_page": 211,
+        "printed_page": 200
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 13\n词义辨析 | 社会经济\n账单与付款凭据\ninvoice  n.  账单；发票\nreceipt  n.  收据\n放进句子里\nThe buyer checked the invoice and kept the receipt.\n买家核对了账单，并保留了收据。\n用法提醒\ninvoice 列明应付款项；receipt 用来证明已付款。\n雅思应用\n听力 Part 1 | 核对购物与付款信息\n轮到你了\n用 invoice 或 receipt 写一句核对付款的话。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The buyer checked the invoice and kept the receipt.",
+    "example_zh": "买家核对了账单，并保留了收据。",
+    "examples": [
+      {
+        "en": "The buyer checked the invoice and kept the receipt.",
+        "zh": "买家核对了账单，并保留了收据。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "issue an invoice",
+        "开具账单或发票"
+      ],
+      [
+        "keep the receipt",
+        "保留收据"
+      ],
+      [
+        "a sales receipt",
+        "销售收据"
+      ]
+    ],
+    "notes": "invoice 列明应付款项；receipt 用来证明已付款。",
+    "scene": "One small furniture-shop transaction shown as two connected moments: buyer checks itemised invoice before paying, then keeps payment receipt after card payment. invoice tag points at itemized demand-for-payment sheet, receipt points at short till slip beside completed card terminal. Only target labels, blank lines in documents, no invented financial numbers or payment policies.",
+    "palette": "账单青蓝、付款收据柔绿，时间顺序用暖灰箭头。",
+    "ielts": "听力 Part 1 | 核对购物与付款信息",
+    "practice": "用 invoice 或 receipt 写一句核对付款的话。",
+    "answer": "Please keep the receipt after payment.",
+    "reference_urls": [],
+    "image": "previews/13.webp"
+  },
+  {
+    "id": "14",
+    "page": 14,
+    "title": "课堂上理解征税",
+    "kind": "scene",
+    "targets": [
+      "tax",
+      "impose",
+      "levy"
+    ],
+    "labels": [
+      {
+        "word": "tax",
+        "pos": "n.",
+        "zh": "税"
+      },
+      {
+        "word": "impose",
+        "pos": "v.",
+        "zh": "征收；强加"
+      },
+      {
+        "word": "levy",
+        "pos": "v.",
+        "zh": "征收"
+      }
+    ],
+    "sources": [
+      {
+        "word": "tax",
+        "physical_page": 211,
+        "printed_page": 200
+      },
+      {
+        "word": "impose",
+        "physical_page": 211,
+        "printed_page": 200
+      },
+      {
+        "word": "levy",
+        "physical_page": 211,
+        "printed_page": 200
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 14\n场景词群 | 社会经济\n课堂上理解征税\ntax  /tæks/  n.  税\nimpose  /ɪm'pəʊz/  v.  征收；强加\nlevy  /'levi/  v.  征收\n放进句子里\nThe class discussed how governments impose and levy taxes.\n课堂讨论了政府如何征税。\n用法提醒\nimpose a tax 和 levy a tax 都可表示征税。\n雅思应用\n阅读 | 理解公共财政中的征税表达\n轮到你了\n用 impose a tax 写一句课堂讨论。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The class discussed how governments impose and levy taxes.",
+    "example_zh": "课堂讨论了政府如何征税。",
+    "examples": [
+      {
+        "en": "The class discussed how governments impose and levy taxes.",
+        "zh": "课堂讨论了政府如何征税。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "impose a tax",
+        "征税"
+      ],
+      [
+        "levy a tax",
+        "征税"
+      ],
+      [
+        "pay tax",
+        "缴税"
+      ]
+    ],
+    "notes": "impose a tax 和 levy a tax 都可表示征税。",
+    "scene": "A classroom civic-economics diagram with a tutor and adults studying an imaginary policy, no real country. A signed blank policy notice starts action (impose label to signature/official decision), small coins collected from traders are tax (tax to coins), collection action into public-services fund is levy (levy to collection hand/arrow). Diagrams are teaching examples, no actual rates, political messages or extra labels. No claim levy/impose are exclusive different tax stages; they are alternative verbs illustrated by related actions.",
+    "palette": "政策纸张米白、税款金赭和公共服务蓝，表现征收关系。",
+    "ielts": "阅读 | 理解公共财政中的征税表达",
+    "practice": "用 impose a tax 写一句课堂讨论。",
+    "answer": "The lesson explained why governments impose taxes.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/levy"
+    ],
+    "image": "previews/14.webp"
+  },
+  {
+    "id": "15",
+    "page": 15,
+    "title": "进口商品与关税",
+    "kind": "scene",
+    "targets": [
+      "tariff",
+      "duty"
+    ],
+    "labels": [
+      {
+        "word": "tariff",
+        "pos": "n.",
+        "zh": "关税"
+      },
+      {
+        "word": "duty",
+        "pos": "n.",
+        "zh": "关税"
+      }
+    ],
+    "sources": [
+      {
+        "word": "tariff",
+        "physical_page": 211,
+        "printed_page": 200
+      },
+      {
+        "word": "duty",
+        "physical_page": 211,
+        "printed_page": 200
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 15\n场景词群 | 社会经济\n进口商品与关税\ntariff  /'tærɪf/  n.  关税\nduty  /'dju:ti/  n.  关税\n放进句子里\nThe lesson explained tariffs and import duties.\n这堂课解释了关税和进口税。\n用法提醒\n此处 duty 指关税；tariff 也可指收费表。\n雅思应用\n阅读 | 理解贸易文章中的关税用语\n轮到你了\n用 import duty 写一句课程介绍。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The lesson explained tariffs and import duties.",
+    "example_zh": "这堂课解释了关税和进口税。",
+    "examples": [
+      {
+        "en": "The lesson explained tariffs and import duties.",
+        "zh": "这堂课解释了关税和进口税。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an import tariff",
+        "进口关税"
+      ],
+      [
+        "import duty",
+        "进口税"
+      ],
+      [
+        "pay duty",
+        "缴纳关税"
+      ]
+    ],
+    "notes": "此处 duty 指关税；tariff 也可指收费表。",
+    "scene": "Economics teaching exhibit of an imaginary port customs point. Imported plain crates arrive by ship, customs payment is illustrated as small coins moving to a document before goods proceed to shop. tariff tag to customs charge on imported goods, duty to payment document for the same type of charge; labels do not imply two mandatory taxes or different nations. No real rates, flags, legal rules or extra words. Use connected semantic arrows and main scene.",
+    "palette": "港口海蓝、货箱木赭、关税支付金色，凸显进口与费用。",
+    "ielts": "阅读 | 理解贸易文章中的关税用语",
+    "practice": "用 import duty 写一句课程介绍。",
+    "answer": "The course includes a lesson on import duty.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/tariff",
+      "https://dictionary.cambridge.org/dictionary/english/duty"
+    ],
+    "image": "previews/15.webp"
+  },
+  {
+    "id": "16",
+    "page": 16,
+    "title": "消耗能源与花钱付款",
+    "kind": "contrast",
+    "targets": [
+      "consume",
+      "spend"
+    ],
+    "labels": [
+      {
+        "word": "consume",
+        "pos": "v.",
+        "zh": "消耗"
+      },
+      {
+        "word": "spend",
+        "pos": "v.",
+        "zh": "花费"
+      }
+    ],
+    "sources": [
+      {
+        "word": "consume",
+        "physical_page": 211,
+        "printed_page": 200
+      },
+      {
+        "word": "spend",
+        "physical_page": 211,
+        "printed_page": 200
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 16\n词义辨析 | 社会经济\n消耗能源与花钱付款\nconsume  v.  消耗\nspend  v.  花费\n放进句子里\nBusinesses consume energy and spend money on electricity.\n企业消耗能源，并在电费上花钱。\n用法提醒\nconsume 常接资源；spend 常接时间或金钱。\n雅思应用\n写作 Task 2 | 讨论企业的能源使用\n轮到你了\n用 spend money on 写一句企业支出。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "Businesses consume energy and spend money on electricity.",
+    "example_zh": "企业消耗能源，并在电费上花钱。",
+    "examples": [
+      {
+        "en": "Businesses consume energy and spend money on electricity.",
+        "zh": "企业消耗能源，并在电费上花钱。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "consume energy",
+        "消耗能源"
+      ],
+      [
+        "spend money on electricity",
+        "在电费上花钱"
+      ],
+      [
+        "spend time doing something",
+        "花时间做某事"
+      ]
+    ],
+    "notes": "consume 常接资源；spend 常接时间或金钱。",
+    "scene": "One bakery scene: oven and lights use electricity shown as discreet energy-flow illustration to socket (consume tag), owner pays electricity bill shown as money transfer and blank bill at desk (spend tag). Distinguish resource use and money spending without implying all electricity has same emissions. No extra object labels.",
+    "palette": "烤炉暖橙、能源流青蓝、付款纸米白，突出两种动作。",
+    "ielts": "写作 Task 2 | 讨论企业的能源使用",
+    "practice": "用 spend money on 写一句企业支出。",
+    "answer": "Small shops spend money on electricity.",
+    "reference_urls": [],
+    "image": "previews/16.webp"
+  },
+  {
+    "id": "17",
+    "page": 17,
+    "title": "设备成本与店铺开支",
+    "kind": "contrast",
+    "targets": [
+      "cost",
+      "expense"
+    ],
+    "labels": [
+      {
+        "word": "cost",
+        "pos": "n.",
+        "zh": "费用；成本"
+      },
+      {
+        "word": "expense",
+        "pos": "n.",
+        "zh": "开支；费用"
+      }
+    ],
+    "sources": [
+      {
+        "word": "cost",
+        "physical_page": 211,
+        "printed_page": 200
+      },
+      {
+        "word": "expense",
+        "physical_page": 211,
+        "printed_page": 200
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 17\n词义辨析 | 社会经济\n设备成本与店铺开支\ncost  n.  费用；成本\nexpense  n.  开支；费用\n放进句子里\nThe cost of the equipment is our biggest expense.\n这笔设备费用是我们最大的一项开支。\n用法提醒\ncost 和 expense 均可指费用，需结合搭配使用。\n雅思应用\n口语 Part 3 | 讨论经营小店的支出\n轮到你了\n用 the cost of 描述一项费用。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The cost of the equipment is our biggest expense.",
+    "example_zh": "这笔设备费用是我们最大的一项开支。",
+    "examples": [
+      {
+        "en": "The cost of the equipment is our biggest expense.",
+        "zh": "这笔设备费用是我们最大的一项开支。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the cost of equipment",
+        "设备费用"
+      ],
+      [
+        "business expenses",
+        "经营开支"
+      ],
+      [
+        "at no extra cost",
+        "不另收费"
+      ]
+    ],
+    "notes": "cost 和 expense 均可指费用，需结合搭配使用。",
+    "scene": "A small cafe owner evaluates a large coffee machine purchase. cost tag points to the machine and its simple unlettered price card; expense tag to the same item entered on an illustrated budget/ledger at the desk. One gentle arrow links same purchase and recorded expense, showing overlap rather than a false exclusive distinction. No numbers or additional labels.",
+    "palette": "咖啡设备钢灰、店铺暖木、预算记录青绿。",
+    "ielts": "口语 Part 3 | 讨论经营小店的支出",
+    "practice": "用 the cost of 描述一项费用。",
+    "answer": "The cost of the equipment is quite high.",
+    "reference_urls": [],
+    "image": "previews/17.webp"
+  },
+  {
+    "id": "18",
+    "page": 18,
+    "title": "收入总额怎样理解",
+    "kind": "scene",
+    "targets": [
+      "revenue",
+      "gross"
+    ],
+    "labels": [
+      {
+        "word": "revenue",
+        "pos": "n.",
+        "zh": "收入"
+      },
+      {
+        "word": "gross",
+        "pos": "adj.",
+        "zh": "总的；毛的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "revenue",
+        "physical_page": 211,
+        "printed_page": 200
+      },
+      {
+        "word": "gross",
+        "physical_page": 211,
+        "printed_page": 200
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 18\n场景词群 | 社会经济\n收入总额怎样理解\nrevenue  /'revənju:/  n.  收入\ngross  /grəʊs/  adj.  总的；毛的\n放进句子里\nThe chart shows the shop's gross revenue.\n这张图表显示了店铺的总收入。\n用法提醒\ngross revenue 指未扣除费用等项目的总收入，不等于利润。\n雅思应用\n写作 Task 1 | 准确描述收入类图表\n轮到你了\n用 gross revenue 写一句图表说明。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The chart shows the shop's gross revenue.",
+    "example_zh": "这张图表显示了店铺的总收入。",
+    "examples": [
+      {
+        "en": "The chart shows the shop's gross revenue.",
+        "zh": "这张图表显示了店铺的总收入。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "gross revenue",
+        "总收入"
+      ],
+      [
+        "sales revenue",
+        "销售收入"
+      ],
+      [
+        "generate revenue",
+        "产生收入"
+      ]
+    ],
+    "notes": "gross revenue 指未扣除费用等项目的总收入，不等于利润。",
+    "scene": "Bookshop bookkeeping lesson: several customer purchases flow as coins into one clear tray before costs are deducted. revenue label points to incoming sales flow, gross label brackets the entire incoming total. A ledger mirrors whole incoming tray with simple unlettered bar, and separate small cost items sit aside not yet subtracted. No actual numbers, promises, profit claims or extra vocabulary labels.",
+    "palette": "书店暖赭、收入流金色与账本青蓝，整组括号表现总额。",
+    "ielts": "写作 Task 1 | 准确描述收入类图表",
+    "practice": "用 gross revenue 写一句图表说明。",
+    "answer": "The table compares the gross revenue of two shops.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/revenue",
+      "https://dictionary.cambridge.org/example/english/gross-revenue"
+    ],
+    "image": "previews/18.webp"
+  },
+  {
+    "id": "19",
+    "page": 19,
+    "title": "recession",
+    "kind": "word",
+    "targets": [
+      "recession"
+    ],
+    "labels": [
+      {
+        "word": "recession",
+        "pos": "n.",
+        "zh": "经济衰退"
+      }
+    ],
+    "sources": [
+      {
+        "word": "recession",
+        "physical_page": 211,
+        "printed_page": 200
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 19\n单词精讲 | 社会经济\nrecession\n/rɪ'seʃ.ən/  n.\n经济衰退\n经济活动低迷、企业经营状况不佳的一段时期。\n放进句子里\nMany small firms struggled during the recession.\n经济衰退期间，许多小企业经营困难。\n常用搭配\nan economic recession\nduring the recession\nrecover from a recession\n用法提醒\nrecession 指一段经济活动低迷的时期。\n雅思应用\n阅读 | 理解经济周期与企业处境\n轮到你了\n用 during the recession 写一句历史描述。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "Many small firms struggled during the recession.",
+    "example_zh": "经济衰退期间，许多小企业经营困难。",
+    "examples": [
+      {
+        "en": "Many small firms struggled during the recession.",
+        "zh": "经济衰退期间，许多小企业经营困难。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an economic recession",
+        "经济衰退"
+      ],
+      [
+        "during the recession",
+        "在经济衰退期间"
+      ],
+      [
+        "recover from a recession",
+        "从经济衰退中复苏"
+      ]
+    ],
+    "notes": "recession 指一段经济活动低迷的时期。",
+    "scene": "Large recession heading with IPA/definition left. Rich imaginary city economy illustration: quieter market, idle factory machinery, shop owners looking at a broad downward unnumbered economic-activity chart, a few closed shops. Preserve dignity, no crowds of stereotyped impoverished people, no real country or dates, no prediction or investment advice. Only headword teaching text, no extra illustration labels.",
+    "palette": "冷蓝灰与偏暗砖红描绘低迷活动，保留暖纸与少量店灯。",
+    "ielts": "阅读 | 理解经济周期与企业处境",
+    "practice": "用 during the recession 写一句历史描述。",
+    "answer": "Sales fell during the recession.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/recession"
+    ],
+    "ipa": "/rɪˈseʃ.ən/",
+    "definition": "经济活动低迷、企业经营状况不佳的一段时期。",
+    "image": "previews/19.webp"
+  },
+  {
+    "id": "20",
+    "page": 20,
+    "title": "经济低迷与危机",
+    "kind": "scene",
+    "targets": [
+      "depression",
+      "crisis"
+    ],
+    "labels": [
+      {
+        "word": "depression",
+        "pos": "n.",
+        "zh": "经济萧条"
+      },
+      {
+        "word": "crisis",
+        "pos": "n.",
+        "zh": "危机"
+      }
+    ],
+    "sources": [
+      {
+        "word": "depression",
+        "physical_page": 212,
+        "printed_page": 201
+      },
+      {
+        "word": "crisis",
+        "physical_page": 212,
+        "printed_page": 201
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 20\n场景词群 | 社会经济\n经济低迷与危机\ndepression  n.  经济萧条\ncrisis  n.  危机\n放进句子里\nThe exhibition explains the difference between a crisis and a depression.\n展览解释了危机与经济萧条的区别。\n用法提醒\ndepression 在经济语境指严重萧条，也可指沮丧。\n雅思应用\n阅读 | 理解经济低迷与危机叙述\n轮到你了\n用 crisis 或 depression 描述一个假想经济展览。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The exhibition explains the difference between a crisis and a depression.",
+    "example_zh": "展览解释了危机与经济萧条的区别。",
+    "examples": [
+      {
+        "en": "The exhibition explains the difference between a crisis and a depression.",
+        "zh": "展览解释了危机与经济萧条的区别。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an economic depression",
+        "经济萧条"
+      ],
+      [
+        "a financial crisis",
+        "金融危机"
+      ],
+      [
+        "face a crisis",
+        "面临危机"
+      ]
+    ],
+    "notes": "depression 在经济语境指严重萧条，也可指沮丧。",
+    "scene": "A fictional economics museum with one large miniature high street. A long sequence of unnumbered calendar leaves above several closed or quiet shops and very few deliveries shows a prolonged severe downturn; depression bracket embraces that extended timeline and whole street, not any person's emotional state. At the side a bank meeting has staff urgently resolving a disrupted payments mechanism, shown by a broken gear in a tabletop diagram; crisis line ends on that acute disruption and response. The prolonged downturn and urgent crisis are related concepts, not a mandatory causal chain. No real events, dates, flags or statistics.",
+    "palette": "冷灰蓝安静街道表现长时间低迷，局部琥珀警示色表现迫切危机，博物馆木色保留温度。",
+    "ielts": "阅读 | 理解经济低迷与危机叙述",
+    "practice": "用 crisis 或 depression 描述一个假想经济展览。",
+    "answer": "The museum has an exhibition about an economic crisis.",
+    "reference_urls": [],
+    "image": "previews/20.webp"
+  },
+  {
+    "id": "21",
+    "page": 21,
+    "title": "银行里的安全、债券与债务",
+    "kind": "scene",
+    "targets": [
+      "security",
+      "bond",
+      "debt"
+    ],
+    "labels": [
+      {
+        "word": "security",
+        "pos": "n.",
+        "zh": "安全"
+      },
+      {
+        "word": "bond",
+        "pos": "n.",
+        "zh": "债券"
+      },
+      {
+        "word": "debt",
+        "pos": "n.",
+        "zh": "债务"
+      }
+    ],
+    "sources": [
+      {
+        "word": "security",
+        "physical_page": 212,
+        "printed_page": 201
+      },
+      {
+        "word": "bond",
+        "physical_page": 212,
+        "printed_page": 201
+      },
+      {
+        "word": "debt",
+        "physical_page": 212,
+        "printed_page": 201
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 21\n场景词群 | 社会经济\n银行里的安全、债券与债务\nsecurity  n.  安全\nbond  n.  债券\ndebt  n.  债务\n放进句子里\nThe company issued a bond and agreed to repay the debt.\n这家公司发行了一张债券，并同意偿还债务。\n用法提醒\nsecurity 可指安全；securities 是证券的复数形式。\n雅思应用\n阅读 | 理解金融工具与偿还义务\n轮到你了\n用 bond 和 debt 写一句描述性句子。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The company issued a bond and agreed to repay the debt.",
+    "example_zh": "这家公司发行了一张债券，并同意偿还债务。",
+    "examples": [
+      {
+        "en": "The company issued a bond and agreed to repay the debt.",
+        "zh": "这家公司发行了一张债券，并同意偿还债务。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "financial security",
+        "财务保障"
+      ],
+      [
+        "issue a bond",
+        "发行债券"
+      ],
+      [
+        "repay a debt",
+        "偿还债务"
+      ]
+    ],
+    "notes": "security 可指安全；securities 是证券的复数形式。",
+    "scene": "A welcoming imagined bank education room. Security leader to a secure vault door with lock and protected document trays. Bond leader to a simple illustrated certificate being exchanged by an investor for funding a fictional workshop, with a visible future repayment arrow from workshop back to investor; the certificate has only an abstract seal. Debt line to an outstanding loan represented by a borrower's ledger with a stack of unpaid coin tokens and repayment arrow. Keep bond and debt connected but visibly different: bond is the certificate instrument, debt is the amount owed. No real institutions, financial advice, returns, rates or written amounts.",
+    "palette": "金库深蓝与文件米白表现安全，债券封印金色与借款账本砖红区分凭证和欠款。",
+    "ielts": "阅读 | 理解金融工具与偿还义务",
+    "practice": "用 bond 和 debt 写一句描述性句子。",
+    "answer": "A bond records a promise to repay a debt.",
+    "reference_urls": [],
+    "image": "previews/21.webp"
+  },
+  {
+    "id": "22",
+    "page": 22,
+    "title": "deficit",
+    "kind": "word",
+    "targets": [
+      "deficit"
+    ],
+    "labels": [
+      {
+        "word": "deficit",
+        "pos": "n.",
+        "zh": "赤字；不足额"
+      }
+    ],
+    "sources": [
+      {
+        "word": "deficit",
+        "physical_page": 212,
+        "printed_page": 201
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 22\n单词精讲 | 社会经济\ndeficit\n/ˈdef.ɪ.sɪt/  n.\n赤字；不足额\n支出超过收入的差额，也可泛指不足额。\n放进句子里\nThe arts centre spent more than it earned and ran a deficit.\n艺术中心的支出超过收入，出现了赤字。\n常用搭配\na budget deficit\n预算赤字\nrun a deficit\n出现赤字\nreduce a deficit\n减少赤字\n用法提醒\nrun a deficit 表示出现赤字。\n雅思应用\n写作 Task 1 | 描述收支与差额\n轮到你了\n用 deficit 描述一个假想机构入不敷出的情况。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The arts centre spent more than it earned and ran a deficit.",
+    "example_zh": "艺术中心的支出超过收入，出现了赤字。",
+    "examples": [
+      {
+        "en": "The arts centre spent more than it earned and ran a deficit.",
+        "zh": "艺术中心的支出超过收入，出现了赤字。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a budget deficit",
+        "预算赤字"
+      ],
+      [
+        "run a deficit",
+        "出现赤字"
+      ],
+      [
+        "reduce a deficit",
+        "减少赤字"
+      ]
+    ],
+    "notes": "run a deficit 表示出现赤字。",
+    "scene": "Large precise word showcase. A fictional community arts centre manager studies a very simple balance model on a desk: incoming coin tokens fill a short transparent column, outgoing coin tokens fill a taller column next to art materials and electricity icons. A clearly visible gap bracket between the column heights expresses spending exceeding income, without numbers, currency, labels or fabricated data. Friendly manager planning calmly, no panic. Word with IPA, noun, gloss and short definition upper left; large semantic illustration on right and across upper half. Do not add any vocabulary callouts inside illustration.",
+    "palette": "收入列湖蓝、支出列暖橙与差额淡红来自收支对照，米白工作室保持清楚。",
+    "ielts": "写作 Task 1 | 描述收支与差额",
+    "practice": "用 deficit 描述一个假想机构入不敷出的情况。",
+    "answer": "The club ran a deficit because its costs exceeded its income.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/deficit"
+    ],
+    "ipa": "/ˈdef.ɪ.sɪt/",
+    "definition": "支出超过收入的差额，也可泛指不足额。",
+    "image": "previews/22.webp"
+  },
+  {
+    "id": "23",
+    "page": 23,
+    "title": "总体物价的两种变化",
+    "kind": "contrast",
+    "targets": [
+      "inflation",
+      "deflation"
+    ],
+    "labels": [
+      {
+        "word": "inflation",
+        "pos": "n.",
+        "zh": "通货膨胀"
+      },
+      {
+        "word": "deflation",
+        "pos": "n.",
+        "zh": "通货紧缩"
+      }
+    ],
+    "sources": [
+      {
+        "word": "inflation",
+        "physical_page": 212,
+        "printed_page": 201
+      },
+      {
+        "word": "deflation",
+        "physical_page": 212,
+        "printed_page": 201
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 23\n词义辨析 | 社会经济\n总体物价的两种变化\ninflation  n.  通货膨胀\ndeflation  n.  通货紧缩\n放进句子里\nInflation raises the general price level, while deflation lowers it.\n通货膨胀使总体物价水平上升，而通货紧缩使其下降。\n用法提醒\n两词谈总体物价水平，不是单件商品的一次涨价或降价。\n雅思应用\n阅读 | 理解通胀、通缩与物价变化\n轮到你了\n用 inflation 或 deflation 说明总体物价的变化方向。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "Inflation raises the general price level, while deflation lowers it.",
+    "example_zh": "通货膨胀使总体物价水平上升，而通货紧缩使其下降。",
+    "examples": [
+      {
+        "en": "Inflation raises the general price level, while deflation lowers it.",
+        "zh": "通货膨胀使总体物价水平上升，而通货紧缩使其下降。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the rate of inflation",
+        "通货膨胀率"
+      ],
+      [
+        "price deflation",
+        "物价通缩"
+      ],
+      [
+        "the general price level",
+        "总体物价水平"
+      ]
+    ],
+    "notes": "两词谈总体物价水平，不是单件商品的一次涨价或降价。",
+    "scene": "An imagined economics classroom demonstration, with two broad adjacent time-sequence exhibits. Each shows the identical basket containing bread, milk, vegetables and soap at three successive unnumbered calendar positions. In inflation exhibit, the total coin-token stacks required for the unchanged basket rise over time; in deflation exhibit they fall over time. Large colored directional ribbons connect each sequence; callouts point to each complete sequence. Multiple products and broad basket explicitly represent general price level, not one product's temporary sale. No country, dates, percentages, currencies, economic forecasts or extra text.",
+    "palette": "上涨序列使用温橙，下降序列使用湖蓝，固定篮子和米白台面强调总体物价而非商品数量。",
+    "ielts": "阅读 | 理解通胀、通缩与物价变化",
+    "practice": "用 inflation 或 deflation 说明总体物价的变化方向。",
+    "answer": "Deflation is a fall in the general price level.",
+    "reference_urls": [
+      "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/methodologies/glossaryofeconomicterms"
+    ],
+    "image": "previews/23.webp"
+  },
+  {
+    "id": "24",
+    "page": 24,
+    "title": "书店里逐渐减少的变化",
+    "kind": "scene",
+    "targets": [
+      "dwindle",
+      "decrease",
+      "decline"
+    ],
+    "labels": [
+      {
+        "word": "dwindle",
+        "pos": "v.",
+        "zh": "逐渐减少"
+      },
+      {
+        "word": "decrease",
+        "pos": "v.",
+        "zh": "减少"
+      },
+      {
+        "word": "decline",
+        "pos": "v.",
+        "zh": "下降"
+      }
+    ],
+    "sources": [
+      {
+        "word": "dwindle",
+        "physical_page": 212,
+        "printed_page": 201
+      },
+      {
+        "word": "decrease",
+        "physical_page": 212,
+        "printed_page": 201
+      },
+      {
+        "word": "decline",
+        "physical_page": 212,
+        "printed_page": 201
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 24\n场景词群 | 社会经济\n书店里逐渐减少的变化\ndwindle  v.  逐渐减少\ndecrease  v.  减少\ndecline  v.  下降\n放进句子里\nVisitor numbers decreased, and book sales declined.\n访客人数减少了，图书销量也下降了。\n用法提醒\ndwindle 常强调逐渐减少；decrease 和 decline 都可表示下降。\n雅思应用\n写作 Task 1 | 描述数量下降趋势\n轮到你了\n用 decrease 或 decline 描述一项假想变化。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "Visitor numbers decreased, and book sales declined.",
+    "example_zh": "访客人数减少了，图书销量也下降了。",
+    "examples": [
+      {
+        "en": "Visitor numbers decreased, and book sales declined.",
+        "zh": "访客人数减少了，图书销量也下降了。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "dwindle gradually",
+        "逐渐减少"
+      ],
+      [
+        "decrease steadily",
+        "稳步减少"
+      ],
+      [
+        "sales decline",
+        "销量下降"
+      ]
+    ],
+    "notes": "dwindle 常强调逐渐减少；decrease 和 decline 都可表示下降。",
+    "scene": "A single fictional bookshop with a clear three-stage inset strip along its broad window: unnumbered morning-to-evening clock faces show a queue steadily shrinking from many adults to a few, and dwindle bracket spans the shrinking queue. Decrease label to a decreasing stack of remaining leaflet tokens on the counter across two side-by-side trays. Decline leader to a clean descending line on an unlettered sales trend board the owner studies. All three are overlapping decrease concepts used in different examples, not a claim that the words have mutually exclusive meanings. Warm bookshop remains welcoming, no stereotyped distressed workers and no written figures.",
+    "palette": "暖木书架和纸张米白交代书店，渐淡紫色队列与蓝色趋势线帮助看出逐渐减少。",
+    "ielts": "写作 Task 1 | 描述数量下降趋势",
+    "practice": "用 decrease 或 decline 描述一项假想变化。",
+    "answer": "The number of visitors decreased over the period.",
+    "reference_urls": [],
+    "image": "previews/24.webp"
+  },
+  {
+    "id": "25",
+    "page": 25,
+    "title": "企业精简与岗位裁减",
+    "kind": "scene",
+    "targets": [
+      "downsize",
+      "redundant"
+    ],
+    "labels": [
+      {
+        "word": "downsize",
+        "pos": "v.",
+        "zh": "精简；裁员"
+      },
+      {
+        "word": "redundant",
+        "pos": "adj.",
+        "zh": "被裁减的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "downsize",
+        "physical_page": 212,
+        "printed_page": 201
+      },
+      {
+        "word": "redundant",
+        "physical_page": 214,
+        "printed_page": 203
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 25\n场景词群 | 社会经济\n企业精简与岗位裁减\ndownsize  v.  精简；裁员\nredundant  adj.  被裁减的\n放进句子里\nThe firm downsized, and several workers were made redundant.\n这家公司精简了规模，几名员工的岗位被裁减。\n用法提醒\nbe made redundant 指因岗位不再需要而被裁员。\n雅思应用\n写作 Task 2 | 讨论就业变化与转岗支持\n轮到你了\n用 downsize 或 redundant 描述一个假想的就业变化。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The firm downsized, and several workers were made redundant.",
+    "example_zh": "这家公司精简了规模，几名员工的岗位被裁减。",
+    "examples": [
+      {
+        "en": "The firm downsized, and several workers were made redundant.",
+        "zh": "这家公司精简了规模，几名员工的岗位被裁减。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "downsize a company",
+        "精简公司规模"
+      ],
+      [
+        "be made redundant",
+        "被裁员"
+      ],
+      [
+        "a redundant worker",
+        "被裁员的员工"
+      ]
+    ],
+    "notes": "be made redundant 指因岗位不再需要而被裁员。",
+    "scene": "A respectful fictional business transition scene. On a planning table a manager moves from a larger workshop model with many workstations to a smaller model with fewer stations; downsize leader spans that before-and-after organisation change. In the same continuous office, an adult who has been made redundant is calmly discussing next work opportunities with a career adviser, holding an unlettered role-closure letter and portfolio; redundant leader points to that worker's changed employment situation, not to their competence or value. No dismissal theatrics, blame, protected-trait stereotypes, legal procedure or extra lettering.",
+    "palette": "旧工作区灰蓝与较小模型浅木表现规模调整，转职咨询区暖绿表现尊重与支持。",
+    "ielts": "写作 Task 2 | 讨论就业变化与转岗支持",
+    "practice": "用 downsize 或 redundant 描述一个假想的就业变化。",
+    "answer": "The company downsized and helped redundant workers find new roles.",
+    "reference_urls": [],
+    "image": "previews/25.webp"
+  },
+  {
+    "id": "26",
+    "page": 26,
+    "title": "减少废弃物，减轻影响",
+    "kind": "scene",
+    "targets": [
+      "reduce",
+      "diminish"
+    ],
+    "labels": [
+      {
+        "word": "reduce",
+        "pos": "v.",
+        "zh": "减少"
+      },
+      {
+        "word": "diminish",
+        "pos": "v.",
+        "zh": "减小；减弱"
+      }
+    ],
+    "sources": [
+      {
+        "word": "reduce",
+        "physical_page": 213,
+        "printed_page": 202
+      },
+      {
+        "word": "diminish",
+        "physical_page": 213,
+        "printed_page": 202
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 26\n场景词群 | 社会经济\n减少废弃物，减轻影响\nreduce  v.  减少\ndiminish  v.  减小；减弱\n放进句子里\nThe café reduced waste and diminished its environmental impact.\n这家咖啡馆减少了废弃物，也减轻了对环境的影响。\n用法提醒\nreduce 和 diminish 都可表示减小，搭配应结合语境。\n雅思应用\n写作 Task 2 | 描述减少废弃物的措施\n轮到你了\n用 reduce 或 diminish 写一句环保措施的描述。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The café reduced waste and diminished its environmental impact.",
+    "example_zh": "这家咖啡馆减少了废弃物，也减轻了对环境的影响。",
+    "examples": [
+      {
+        "en": "The café reduced waste and diminished its environmental impact.",
+        "zh": "这家咖啡馆减少了废弃物，也减轻了对环境的影响。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "reduce waste",
+        "减少废弃物"
+      ],
+      [
+        "diminish the impact",
+        "减轻影响"
+      ],
+      [
+        "reduce costs",
+        "降低成本"
+      ]
+    ],
+    "notes": "reduce 和 diminish 都可表示减小，搭配应结合语境。",
+    "scene": "One community café before-and-after reusable-container project, naturally divided by a service counter. Left old practice has many discarded single-use cups; right current practice has reusable mugs and a clearly smaller waste container. Reduce leader spans the large-to-small waste amount transition. A small but meaningful environmental footprint illustration directly behind the bins shows a broad dark footprint fading to a smaller lighter footprint; diminish leader to that weakened impact relation. Use actual objects and a restrained semantic footprint inset, no moral claims, invented measured results, numbers, signs or extra callouts. The scene is explicitly hypothetical.",
+    "palette": "咖啡馆木棕与陶杯青绿表现行动，废弃物灰褐减淡表现影响减弱。",
+    "ielts": "写作 Task 2 | 描述减少废弃物的措施",
+    "practice": "用 reduce 或 diminish 写一句环保措施的描述。",
+    "answer": "Reusable containers can reduce packaging waste.",
+    "reference_urls": [],
+    "image": "previews/26.webp"
+  },
+  {
+    "id": "27",
+    "page": 27,
+    "title": "增长与每次增加的量",
+    "kind": "scene",
+    "targets": [
+      "increase",
+      "increment",
+      "growth"
+    ],
+    "labels": [
+      {
+        "word": "increase",
+        "pos": "v.",
+        "zh": "增加"
+      },
+      {
+        "word": "increment",
+        "pos": "n.",
+        "zh": "增加量"
+      },
+      {
+        "word": "growth",
+        "pos": "n.",
+        "zh": "增长"
+      }
+    ],
+    "sources": [
+      {
+        "word": "increase",
+        "physical_page": 213,
+        "printed_page": 202
+      },
+      {
+        "word": "increment",
+        "physical_page": 213,
+        "printed_page": 202
+      },
+      {
+        "word": "growth",
+        "physical_page": 213,
+        "printed_page": 202
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 27\n场景词群 | 社会经济\n增长与每次增加的量\nincrease  v.  增加\nincrement  n.  增加量\ngrowth  n.  增长\n放进句子里\nSmall annual increments can lead to steady growth.\n每年小幅增加的量可以带来稳定增长。\n用法提醒\nincrement 指一次增加的量，growth 可指整体增长。\n雅思应用\n写作 Task 1 | 区分增长过程与增加量\n轮到你了\n用 increase 或 growth 描述一个假想上升趋势。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "Small annual increments can lead to steady growth.",
+    "example_zh": "每年小幅增加的量可以带来稳定增长。",
+    "examples": [
+      {
+        "en": "Small annual increments can lead to steady growth.",
+        "zh": "每年小幅增加的量可以带来稳定增长。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "increase gradually",
+        "逐渐增加"
+      ],
+      [
+        "an annual increment",
+        "年度增加量"
+      ],
+      [
+        "steady growth",
+        "稳定增长"
+      ]
+    ],
+    "notes": "increment 指一次增加的量，growth 可指整体增长。",
+    "scene": "A fictional employee pay-review learning exhibit inside a workshop office. A clean stair-step column model has three progressively taller pay-token stacks over three unnumbered calendar leaves. Increase leader follows the upward change between two stacks. Increment leader precisely brackets the extra small segment added at one step, distinguish part from total. Growth bracket embraces the whole multi-step rising sequence. Adult manager and employee examine the model cooperatively. No actual salary, currency, promise, percentages or text. Keep exactly three callouts, no glossary or additional English on boards.",
+    "palette": "薪酬筹码暖金与日历浅蓝表现时间，新增小段用珊瑚色强调增量。",
+    "ielts": "写作 Task 1 | 区分增长过程与增加量",
+    "practice": "用 increase 或 growth 描述一个假想上升趋势。",
+    "answer": "The chart shows steady growth over the period.",
+    "reference_urls": [],
+    "image": "previews/27.webp"
+  },
+  {
+    "id": "28",
+    "page": 28,
+    "title": "成本升级与业务扩大",
+    "kind": "scene",
+    "targets": [
+      "escalate",
+      "expand"
+    ],
+    "labels": [
+      {
+        "word": "escalate",
+        "pos": "v.",
+        "zh": "不断上升；升级"
+      },
+      {
+        "word": "expand",
+        "pos": "v.",
+        "zh": "扩大；扩展"
+      }
+    ],
+    "sources": [
+      {
+        "word": "escalate",
+        "physical_page": 213,
+        "printed_page": 202
+      },
+      {
+        "word": "expand",
+        "physical_page": 213,
+        "printed_page": 202
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 28\n场景词群 | 社会经济\n成本升级与业务扩大\nescalate  v.  不断上升；升级\nexpand  v.  扩大；扩展\n放进句子里\nAs costs escalated, the firm delayed plans to expand.\n随着成本不断上升，这家公司推迟了扩张计划。\n用法提醒\nescalate 常谈成本或冲突升级；expand 可谈规模扩大。\n雅思应用\n写作 Task 2 | 讨论企业成本与扩张\n轮到你了\n用 expand 描述一家假想企业的计划。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "As costs escalated, the firm delayed plans to expand.",
+    "example_zh": "随着成本不断上升，这家公司推迟了扩张计划。",
+    "examples": [
+      {
+        "en": "As costs escalated, the firm delayed plans to expand.",
+        "zh": "随着成本不断上升，这家公司推迟了扩张计划。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "costs escalate",
+        "成本不断上升"
+      ],
+      [
+        "expand a business",
+        "扩大业务"
+      ],
+      [
+        "expand production",
+        "扩大生产"
+      ]
+    ],
+    "notes": "escalate 常谈成本或冲突升级；expand 可谈规模扩大。",
+    "scene": "A fictional furniture workshop planning room. At left an increasingly steep unlettered cost trend sits above a consistent basket of wood, electricity and transport icons, showing escalating costs over time; escalate leader to the accelerating cost path. At right a tabletop model of the current workshop has a translucent planned extension with more floor area; expand leader spans the existing and added floor space. Owners pause to consider the extension while consulting rising costs. Abstract trend and concrete planned building are clearly different illustrations, not synonyms. No real numbers, predictions or extra labels.",
+    "palette": "成本曲线温红呈现压力，拟扩建区用透明青蓝与木色表现空间扩大。",
+    "ielts": "写作 Task 2 | 讨论企业成本与扩张",
+    "practice": "用 expand 描述一家假想企业的计划。",
+    "answer": "The workshop plans to expand its production area.",
+    "reference_urls": [],
+    "image": "previews/28.webp"
+  },
+  {
+    "id": "29",
+    "page": 29,
+    "title": "新书涌入，馆藏更丰富",
+    "kind": "scene",
+    "targets": [
+      "influx",
+      "enrich"
+    ],
+    "labels": [
+      {
+        "word": "influx",
+        "pos": "n.",
+        "zh": "涌入"
+      },
+      {
+        "word": "enrich",
+        "pos": "v.",
+        "zh": "充实；丰富"
+      }
+    ],
+    "sources": [
+      {
+        "word": "influx",
+        "physical_page": 213,
+        "printed_page": 202
+      },
+      {
+        "word": "enrich",
+        "physical_page": 213,
+        "printed_page": 202
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 29\n场景词群 | 社会经济\n新书涌入，馆藏更丰富\ninflux  n.  涌入\nenrich  v.  充实；丰富\n放进句子里\nAn influx of new books enriched the library's collection.\n一批新书涌入，使图书馆的馆藏更加丰富。\n用法提醒\nan influx of 表示大量涌入；enrich 可指丰富内容或体验。\n雅思应用\n口语 Part 2 | 描述一项公共图书馆改善\n轮到你了\n用 enrich 说说新资源怎样丰富学习。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "An influx of new books enriched the library's collection.",
+    "example_zh": "一批新书涌入，使图书馆的馆藏更加丰富。",
+    "examples": [
+      {
+        "en": "An influx of new books enriched the library's collection.",
+        "zh": "一批新书涌入，使图书馆的馆藏更加丰富。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an influx of visitors",
+        "游客涌入"
+      ],
+      [
+        "enrich a collection",
+        "丰富馆藏"
+      ],
+      [
+        "enrich an experience",
+        "丰富体验"
+      ]
+    ],
+    "notes": "an influx of 表示大量涌入；enrich 可指丰富内容或体验。",
+    "scene": "One public library receiving and cataloguing new books. On left, several delivery carts and many new book boxes stream through the open entrance at once; influx bracket spans that large inward arrival. On right the librarian adds books with visibly varied science, art, history and nature pictograms into formerly sparse shelves, which become richly varied; enrich leader points to the diverse expanded collection and librarian's adding action. Blank spines with only small picture motifs, no written titles or incidental extra labels. This is an influx of objects, no migration stereotypes.",
+    "palette": "涌入书箱用暖赭与入口蓝光表现方向，多题材书脊用适度彩色表现丰富。",
+    "ielts": "口语 Part 2 | 描述一项公共图书馆改善",
+    "practice": "用 enrich 说说新资源怎样丰富学习。",
+    "answer": "New books can enrich our learning experience.",
+    "reference_urls": [],
+    "image": "previews/29.webp"
+  },
+  {
+    "id": "30",
+    "page": 30,
+    "title": "affluent",
+    "kind": "word",
+    "targets": [
+      "affluent"
+    ],
+    "labels": [
+      {
+        "word": "affluent",
+        "pos": "adj.",
+        "zh": "富裕的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "affluent",
+        "physical_page": 213,
+        "printed_page": 202
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 30\n单词精讲 | 社会经济\naffluent\n/ˈæf.lu.ənt/  adj.\n富裕的\n拥有较多金钱或经济资源的。\n放进句子里\nThe survey examined services in affluent neighbourhoods.\n这项调查研究了富裕社区的服务。\n常用搭配\nan affluent area\n富裕地区\nan affluent society\n富裕社会\naffluent families\n富裕家庭\n用法提醒\naffluent 可形容人、地区或社会经济富裕。\n雅思应用\n写作 Task 2 | 讨论不同地区的公共服务\n轮到你了\n用 affluent 描述一个假想地区。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The survey examined services in affluent neighbourhoods.",
+    "example_zh": "这项调查研究了富裕社区的服务。",
+    "examples": [
+      {
+        "en": "The survey examined services in affluent neighbourhoods.",
+        "zh": "这项调查研究了富裕社区的服务。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an affluent area",
+        "富裕地区"
+      ],
+      [
+        "an affluent society",
+        "富裕社会"
+      ],
+      [
+        "affluent families",
+        "富裕家庭"
+      ]
+    ],
+    "notes": "affluent 可形容人、地区或社会经济富裕。",
+    "scene": "Word showcase with very large word, accurate IPA, adjective, gloss and concise definition at upper left. The large imagined neighbourhood scene shows comfortable well-maintained spacious homes, mature gardens and a well-resourced community library, ordinary adults walking and reading. A researcher observes the area with an unlettered survey clipboard. Convey plentiful economic resources through the built environment and facilities, not jewelry, luxury caricature or assumptions about moral worth, race or ethnicity. No contrasting poor people, no claim about a real city, no extra callouts or written signs.",
+    "palette": "充足日光、暖石住宅与庭院绿来自富足社区环境，避免用炫耀性金色替代词义。",
+    "ielts": "写作 Task 2 | 讨论不同地区的公共服务",
+    "practice": "用 affluent 描述一个假想地区。",
+    "answer": "The report describes an affluent neighbourhood near the city centre.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/affluent"
+    ],
+    "ipa": "/ˈæf.lu.ənt/",
+    "definition": "拥有较多金钱或经济资源的。",
+    "image": "previews/30.webp"
+  },
+  {
+    "id": "31",
+    "page": 31,
+    "title": "活动空间是否够用",
+    "kind": "scene",
+    "targets": [
+      "sufficient",
+      "adequate",
+      "lack"
+    ],
+    "labels": [
+      {
+        "word": "sufficient",
+        "pos": "adj.",
+        "zh": "足够的"
+      },
+      {
+        "word": "adequate",
+        "pos": "adj.",
+        "zh": "足够的；合格的"
+      },
+      {
+        "word": "lack",
+        "pos": "v.",
+        "zh": "缺少"
+      }
+    ],
+    "sources": [
+      {
+        "word": "sufficient",
+        "physical_page": 213,
+        "printed_page": 202
+      },
+      {
+        "word": "adequate",
+        "physical_page": 213,
+        "printed_page": 202
+      },
+      {
+        "word": "lack",
+        "physical_page": 214,
+        "printed_page": 203
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 31\n场景词群 | 社会经济\n活动空间是否够用\nsufficient  adj.  足够的\nadequate  adj.  足够的；合格的\nlack  v.  缺少\n放进句子里\nThe larger room provides adequate space and sufficient chairs.\n更大的房间提供了足够的空间和椅子。\n用法提醒\nsufficient 和 adequate 都可表示足够；lack 作动词表示缺少。\n雅思应用\n听力 Part 1 | 听懂场地与设备需求\n轮到你了\n用 sufficient 或 adequate 描述活动准备情况。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The larger room provides adequate space and sufficient chairs.",
+    "example_zh": "更大的房间提供了足够的空间和椅子。",
+    "examples": [
+      {
+        "en": "The larger room provides adequate space and sufficient chairs.",
+        "zh": "更大的房间提供了足够的空间和椅子。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "sufficient time",
+        "足够的时间"
+      ],
+      [
+        "adequate space",
+        "足够的空间"
+      ],
+      [
+        "lack equipment",
+        "缺少设备"
+      ]
+    ],
+    "notes": "sufficient 和 adequate 都可表示足够；lack 作动词表示缺少。",
+    "scene": "A community event preparation scene with a clear before-and-after move between two rooms. A small faded earlier-room vignette has enough chairs crammed together but no workable space; lack label points to the missing usable aisle with a restrained empty-space outline. Main large room contains the same matching attendee tokens and one chair for each person; sufficient line to that enough-to-meet-count relationship. Adequate leader brackets the visibly usable comfortable space and accessible aisles in the larger room. Do not imply sufficient and adequate have rigidly distinct meanings; they overlap, illustrated through different collocations. No exact measurements or numeric capacity claims.",
+    "palette": "旧房间淡灰与新房间暖光形成前后变化，椅子湖蓝、可用通道浅绿呈现够用。",
+    "ielts": "听力 Part 1 | 听懂场地与设备需求",
+    "practice": "用 sufficient 或 adequate 描述活动准备情况。",
+    "answer": "We have sufficient chairs and adequate space for the event.",
+    "reference_urls": [],
+    "image": "previews/31.webp"
+  },
+  {
+    "id": "32",
+    "page": 32,
+    "title": "空闲房间与租金节省",
+    "kind": "scene",
+    "targets": [
+      "spare",
+      "saving"
+    ],
+    "labels": [
+      {
+        "word": "spare",
+        "pos": "adj.",
+        "zh": "空闲的；多余的"
+      },
+      {
+        "word": "saving",
+        "pos": "n.",
+        "zh": "节约；节省额"
+      }
+    ],
+    "sources": [
+      {
+        "word": "spare",
+        "physical_page": 214,
+        "printed_page": 203
+      },
+      {
+        "word": "saving",
+        "physical_page": 214,
+        "printed_page": 203
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 32\n场景词群 | 社会经济\n空闲房间与租金节省\nspare  adj.  空闲的；多余的\nsaving  n.  节约；节省额\n放进句子里\nUsing a spare room as an office can produce a saving on rent.\n把空闲房间用作办公室，可以节省租金。\n用法提醒\na saving 是一次节省或节省额；savings 常指储蓄。\n雅思应用\n写作 Task 2 | 讨论在家办公的成本\n轮到你了\n用 spare room 说说一种空间利用方式。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "Using a spare room as an office can produce a saving on rent.",
+    "example_zh": "把空闲房间用作办公室，可以节省租金。",
+    "examples": [
+      {
+        "en": "Using a spare room as an office can produce a saving on rent.",
+        "zh": "把空闲房间用作办公室，可以节省租金。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a spare room",
+        "空闲房间"
+      ],
+      [
+        "a saving on rent",
+        "租金节省"
+      ],
+      [
+        "cost savings",
+        "成本节省"
+      ]
+    ],
+    "notes": "a saving 是一次节省或节省额；savings 常指储蓄。",
+    "scene": "A warm imagined home cutaway. An unused spare room with an extra bed becomes a modest home office with desk and lamp in a clear small before-and-after relation; spare leader points to the formerly unused room enclosure. Saving leader points to a simple adjacent rent-cost comparison: former separate-office rent shown as a taller coin-token stack, current situation shown as a shorter stack and the difference set aside. No amounts, currencies, finance promise or claim that everyone's arrangement saves rent; this is one imagined scenario. The two terms must be represented in the same story, not a word list.",
+    "palette": "住家木色、闲置房间淡蓝与节省筹码柔金表现空间再利用及费用差额。",
+    "ielts": "写作 Task 2 | 讨论在家办公的成本",
+    "practice": "用 spare room 说说一种空间利用方式。",
+    "answer": "A spare room can be used as a study.",
+    "reference_urls": [],
+    "image": "previews/32.webp"
+  },
+  {
+    "id": "33",
+    "page": 33,
+    "title": "一家公司委托另一家公司",
+    "kind": "scene",
+    "targets": [
+      "company",
+      "firm"
+    ],
+    "labels": [
+      {
+        "word": "company",
+        "pos": "n.",
+        "zh": "公司"
+      },
+      {
+        "word": "firm",
+        "pos": "n.",
+        "zh": "公司"
+      }
+    ],
+    "sources": [
+      {
+        "word": "company",
+        "physical_page": 214,
+        "printed_page": 203
+      },
+      {
+        "word": "firm",
+        "physical_page": 214,
+        "printed_page": 203
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 33\n场景词群 | 社会经济\n一家公司委托另一家公司\ncompany  n.  公司\nfirm  n.  公司\n放进句子里\nThe company hired a local design firm to create its logo.\n这家公司聘请了一家本地设计公司来设计标志。\n用法提醒\ncompany 和 firm 都可指公司，不表示固定的规模差别。\n雅思应用\n听力 Part 1 | 听懂公司与服务委托\n轮到你了\n用 company 或 firm 描述一家你熟悉的企业。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The company hired a local design firm to create its logo.",
+    "example_zh": "这家公司聘请了一家本地设计公司来设计标志。",
+    "examples": [
+      {
+        "en": "The company hired a local design firm to create its logo.",
+        "zh": "这家公司聘请了一家本地设计公司来设计标志。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a local company",
+        "本地公司"
+      ],
+      [
+        "a design firm",
+        "设计公司"
+      ],
+      [
+        "run a company",
+        "经营公司"
+      ]
+    ],
+    "notes": "company 和 firm 都可指公司，不表示固定的规模差别。",
+    "scene": "Two real-work activities within one imagined courtyard, linked by a logo design consultation. Left a small bakery business with staff making bread and an owner handing a blank logo brief; company label brackets that bakery enterprise. Right designers in a studio discuss an abstract bread-logo sketch with the bakery owner; firm label brackets the design business. Both are companies in ordinary language, do not imply fixed size or sector differences. No printed business names, logos of real brands or extra text. Main story is one company hiring another business.",
+    "palette": "面包暖赭与设计图纸青蓝区分两家企业，庭院绿把委托关系连起来。",
+    "ielts": "听力 Part 1 | 听懂公司与服务委托",
+    "practice": "用 company 或 firm 描述一家你熟悉的企业。",
+    "answer": "A local design firm created the bakery's logo.",
+    "reference_urls": [],
+    "image": "previews/33.webp"
+  },
+  {
+    "id": "34",
+    "page": 34,
+    "title": "企业活动与独立实体",
+    "kind": "scene",
+    "targets": [
+      "enterprise",
+      "entity"
+    ],
+    "labels": [
+      {
+        "word": "enterprise",
+        "pos": "n.",
+        "zh": "企业；事业"
+      },
+      {
+        "word": "entity",
+        "pos": "n.",
+        "zh": "实体"
+      }
+    ],
+    "sources": [
+      {
+        "word": "enterprise",
+        "physical_page": 214,
+        "printed_page": 203
+      },
+      {
+        "word": "entity",
+        "physical_page": 214,
+        "printed_page": 203
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 34\n场景词群 | 社会经济\n企业活动与独立实体\nenterprise  n.  企业；事业\nentity  n.  实体\n放进句子里\nThe report treats each enterprise as a separate entity.\n这份报告把每家企业视作一个独立实体。\n用法提醒\nenterprise 可指企业或事业；entity 强调独立可识别的单位。\n雅思应用\n阅读 | 理解企业及经济实体的描述\n轮到你了\n用 enterprise 或 entity 描述报告中的一个单位。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The report treats each enterprise as a separate entity.",
+    "example_zh": "这份报告把每家企业视作一个独立实体。",
+    "examples": [
+      {
+        "en": "The report treats each enterprise as a separate entity.",
+        "zh": "这份报告把每家企业视作一个独立实体。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a social enterprise",
+        "社会企业"
+      ],
+      [
+        "a business entity",
+        "企业实体"
+      ],
+      [
+        "run an enterprise",
+        "经营企业"
+      ]
+    ],
+    "notes": "enterprise 可指企业或事业；entity 强调独立可识别的单位。",
+    "scene": "An imagined economic report-making studio overlooking a workshop. Enterprise leader brackets the actual productive workshop with a team making furniture as an organised business activity. Entity leader points to a large clean diagram where that same workshop is enclosed in its own boundary with its own logo-pictogram and resources, separate from two other business units. Match the workshop's recognizable roof and stool icon between actual setting and diagram. Show entity as a separately identifiable unit, not a physical object or a claim of a particular legal status. No words on diagram, no legal rules or extra labels.",
+    "palette": "木工作坊暖木与工作人员青绿表现经营活动，报告边界用深蓝表现可识别的独立单位。",
+    "ielts": "阅读 | 理解企业及经济实体的描述",
+    "practice": "用 enterprise 或 entity 描述报告中的一个单位。",
+    "answer": "Each enterprise appears as a separate entity in the report.",
+    "reference_urls": [],
+    "image": "previews/34.webp"
+  },
+  {
+    "id": "35",
+    "page": 35,
+    "title": "可靠的代理人协助协商",
+    "kind": "scene",
+    "targets": [
+      "agent",
+      "negotiation",
+      "reliable"
+    ],
+    "labels": [
+      {
+        "word": "agent",
+        "pos": "n.",
+        "zh": "代理人"
+      },
+      {
+        "word": "negotiation",
+        "pos": "n.",
+        "zh": "谈判；协商"
+      },
+      {
+        "word": "reliable",
+        "pos": "adj.",
+        "zh": "可靠的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "agent",
+        "physical_page": 214,
+        "printed_page": 203
+      },
+      {
+        "word": "negotiation",
+        "physical_page": 215,
+        "printed_page": 204
+      },
+      {
+        "word": "reliable",
+        "physical_page": 215,
+        "printed_page": 204
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 35\n场景词群 | 社会经济\n可靠的代理人协助协商\nagent  n.  代理人\nnegotiation  n.  谈判；协商\nreliable  adj.  可靠的\n放进句子里\nThe reliable agent helped both sides during the negotiation.\n这位可靠的代理人在协商过程中帮助了双方。\n用法提醒\nreliable 描述值得信赖；negotiation 是协商过程。\n雅思应用\n口语 Part 2 | 描述一位可靠的服务人员\n轮到你了\n用 reliable 说说一个人怎样履行承诺。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The reliable agent helped both sides during the negotiation.",
+    "example_zh": "这位可靠的代理人在协商过程中帮助了双方。",
+    "examples": [
+      {
+        "en": "The reliable agent helped both sides during the negotiation.",
+        "zh": "这位可靠的代理人在协商过程中帮助了双方。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a travel agent",
+        "旅行代理人"
+      ],
+      [
+        "conduct negotiations",
+        "进行谈判"
+      ],
+      [
+        "a reliable service",
+        "可靠的服务"
+      ]
+    ],
+    "notes": "reliable 描述值得信赖；negotiation 是协商过程。",
+    "scene": "A fictional exhibition-space booking office. Agent leader to an intermediary with a plain portfolio connecting an artist and a venue owner. Negotiation bracket surrounds the two parties calmly discussing a room layout and terms at the table, no signed final deal implied. Reliable leader to a semantic inset showing the same agent at three unnumbered calendar appointments with the promised keys, room setup and documents actually ready at the agreed moments; reliability is repeated fulfilled commitments, not appearance. Adults ordinary diverse clothes. No legal rules, real prices or additional English labels.",
+    "palette": "协商桌暖木、代理文件夹湖蓝与履约图标绿色表现沟通和可靠行为。",
+    "ielts": "口语 Part 2 | 描述一位可靠的服务人员",
+    "practice": "用 reliable 说说一个人怎样履行承诺。",
+    "answer": "She is reliable because she always completes the agreed tasks.",
+    "reference_urls": [],
+    "image": "previews/35.webp"
+  },
+  {
+    "id": "36",
+    "page": 36,
+    "title": "从投入到制成品",
+    "kind": "scene",
+    "targets": [
+      "invest",
+      "input",
+      "product"
+    ],
+    "labels": [
+      {
+        "word": "invest",
+        "pos": "v.",
+        "zh": "投资；投入"
+      },
+      {
+        "word": "input",
+        "pos": "n.",
+        "zh": "投入物"
+      },
+      {
+        "word": "product",
+        "pos": "n.",
+        "zh": "产品"
+      }
+    ],
+    "sources": [
+      {
+        "word": "invest",
+        "physical_page": 214,
+        "printed_page": 203
+      },
+      {
+        "word": "input",
+        "physical_page": 214,
+        "printed_page": 203
+      },
+      {
+        "word": "product",
+        "physical_page": 214,
+        "printed_page": 203
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 36\n场景词群 | 社会经济\n从投入到制成品\ninvest  v.  投资；投入\ninput  n.  投入物\nproduct  n.  产品\n放进句子里\nThe workshop invested in equipment to make better products.\n这家作坊投入资金购置设备，以制作更好的产品。\n用法提醒\ninvest in 表示投入某物；input 可指生产投入物。\n雅思应用\n写作 Task 2 | 讨论技术投入与生产\n轮到你了\n用 input 和 product 描述一种简单生产过程。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The workshop invested in equipment to make better products.",
+    "example_zh": "这家作坊投入资金购置设备，以制作更好的产品。",
+    "examples": [
+      {
+        "en": "The workshop invested in equipment to make better products.",
+        "zh": "这家作坊投入资金购置设备，以制作更好的产品。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "invest in equipment",
+        "投资设备"
+      ],
+      [
+        "labour input",
+        "劳动力投入"
+      ],
+      [
+        "a finished product",
+        "制成品"
+      ]
+    ],
+    "notes": "invest in 表示投入某物；input 可指生产投入物。",
+    "scene": "A single fictional woodworking workshop with a readable left-to-right process. At left owners devote resources to installing a useful new cutting machine, indicated by plain funds-token and time-clock icons flowing toward it; invest leader to that committing-resources action. At centre raw wood, worker effort and electricity pictograms enter the production work area; input bracket spans these inputs rather than the finished object. At right finished crafted stools stand ready for customers; product leader exactly to one finished stool. No real brand, performance claims, numbers, projected returns or extra text.",
+    "palette": "原木棕、设备湖蓝与成品暖金来自生产过程，投入箭头用柔绿保持方向清晰。",
+    "ielts": "写作 Task 2 | 讨论技术投入与生产",
+    "practice": "用 input 和 product 描述一种简单生产过程。",
+    "answer": "Wood is an input used to make furniture products.",
+    "reference_urls": [],
+    "image": "previews/36.webp"
+  },
+  {
+    "id": "37",
+    "page": 37,
+    "title": "acquisition",
+    "kind": "word",
+    "targets": [
+      "acquisition"
+    ],
+    "labels": [
+      {
+        "word": "acquisition",
+        "pos": "n.",
+        "zh": "获得；收购"
+      }
+    ],
+    "sources": [
+      {
+        "word": "acquisition",
+        "physical_page": 215,
+        "printed_page": 204
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 37\n单词精讲 | 社会经济\nacquisition\n/ˌæk.wɪˈzɪʃ.ən/  n.\n获得；收购\n获得某物的过程或所得之物，也可指企业收购。\n放进句子里\nThe museum celebrated the acquisition of a new ceramic vase.\n博物馆庆祝新获得了一只陶瓷花瓶。\n常用搭配\nthe acquisition of knowledge\n知识的获得\na recent acquisition\n新近获得的物品\na company acquisition\n公司收购\n用法提醒\nacquisition 可指获得，也可指公司收购。\n雅思应用\n阅读 | 理解资源获得与企业收购语境\n轮到你了\n用 acquisition 描述机构新获得的一件物品。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The museum celebrated the acquisition of a new ceramic vase.",
+    "example_zh": "博物馆庆祝新获得了一只陶瓷花瓶。",
+    "examples": [
+      {
+        "en": "The museum celebrated the acquisition of a new ceramic vase.",
+        "zh": "博物馆庆祝新获得了一只陶瓷花瓶。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the acquisition of knowledge",
+        "知识的获得"
+      ],
+      [
+        "a recent acquisition",
+        "新近获得的物品"
+      ],
+      [
+        "a company acquisition",
+        "公司收购"
+      ]
+    ],
+    "notes": "acquisition 可指获得，也可指公司收购。",
+    "scene": "Large single-word showcase with accurate IPA and noun. Main illustration is a museum receiving a newly acquired historical ceramic vase: a staff member carefully transfers it from protective packing to a well-lit collection display while another updates a plain inventory pictogram. A clear open doorway and handover make obtaining the new item visible. A small optional secondary vignette in the usage module can show two neutral business buildings joining under an umbrella outline for corporate acquisition, no arrow implying equality merger, no percentages. No real brands, labels, artworks copied from identifiable collections or sales claims.",
+    "palette": "陶器青釉与博物馆暖灯解释新获得藏品，包装纸米白与档案淡蓝强化交接。",
+    "ielts": "阅读 | 理解资源获得与企业收购语境",
+    "practice": "用 acquisition 描述机构新获得的一件物品。",
+    "answer": "The library announced the acquisition of a rare book.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/acquisition"
+    ],
+    "ipa": "/ˌæk.wɪˈzɪʃ.ən/",
+    "definition": "获得某物的过程或所得之物，也可指企业收购。",
+    "image": "previews/37.webp"
+  },
+  {
+    "id": "38",
+    "page": 38,
+    "title": "商品装船后成为货载",
+    "kind": "scene",
+    "targets": [
+      "goods",
+      "cargo"
+    ],
+    "labels": [
+      {
+        "word": "goods",
+        "pos": "n.",
+        "zh": "商品；货物"
+      },
+      {
+        "word": "cargo",
+        "pos": "n.",
+        "zh": "运输中的货物"
+      }
+    ],
+    "sources": [
+      {
+        "word": "goods",
+        "physical_page": 215,
+        "printed_page": 204
+      },
+      {
+        "word": "cargo",
+        "physical_page": 215,
+        "printed_page": 204
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 38\n场景词群 | 社会经济\n商品装船后成为货载\ngoods  n.  商品；货物\ncargo  n.  运输中的货物\n放进句子里\nThe goods were packed and loaded onto the ship as cargo.\n这些商品被包装好，并作为货物装上了船。\n用法提醒\ngoods 通常为复数；cargo 强调船、飞机等运输的货载。\n雅思应用\n阅读 | 理解贸易与货物运输\n轮到你了\n用 goods 和 cargo 写一句运输描述。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The goods were packed and loaded onto the ship as cargo.",
+    "example_zh": "这些商品被包装好，并作为货物装上了船。",
+    "examples": [
+      {
+        "en": "The goods were packed and loaded onto the ship as cargo.",
+        "zh": "这些商品被包装好，并作为货物装上了船。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "consumer goods",
+        "消费品"
+      ],
+      [
+        "load cargo",
+        "装载货物"
+      ],
+      [
+        "a cargo ship",
+        "货船"
+      ]
+    ],
+    "notes": "goods 通常为复数；cargo 强调船、飞机等运输的货载。",
+    "scene": "One coherent warehouse-to-ship loading scene. On left goods leader to saleable packaged kettles, cloth and household items arranged on a warehouse inspection table. A continuous physical route leads via plain crates and a dock crane to a cargo ship. Cargo leader brackets the same shipment now loaded in ship's hold and on deck; show matching crate pictograms to make it the same goods in transport. Distinguish context, not mutually exclusive objects. Safe generic port with adult workers and calm water, no shipping claims, country, labels, weights or numbers.",
+    "palette": "仓库纸箱赭色与港口海蓝交代货物从销售对象到运输载荷的场景。",
+    "ielts": "阅读 | 理解贸易与货物运输",
+    "practice": "用 goods 和 cargo 写一句运输描述。",
+    "answer": "The goods arrived at the port as cargo on a large ship.",
+    "reference_urls": [],
+    "image": "previews/38.webp"
+  },
+  {
+    "id": "39",
+    "page": 39,
+    "title": "投保与保修承诺",
+    "kind": "contrast",
+    "targets": [
+      "insure",
+      "guarantee"
+    ],
+    "labels": [
+      {
+        "word": "insure",
+        "pos": "v.",
+        "zh": "给……投保"
+      },
+      {
+        "word": "guarantee",
+        "pos": "n.",
+        "zh": "保证；保修承诺"
+      }
+    ],
+    "sources": [
+      {
+        "word": "insure",
+        "physical_page": 215,
+        "printed_page": 204
+      },
+      {
+        "word": "guarantee",
+        "physical_page": 215,
+        "printed_page": 204
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 39\n词义辨析 | 社会经济\n投保与保修承诺\ninsure  v.  给……投保\nguarantee  n.  保证；保修承诺\n放进句子里\nShe insured her bicycle and kept the appliance guarantee.\n她给自行车投了保，并保留了家电保修凭证。\n用法提醒\ninsure 指投保；guarantee 可指保证或保修承诺。\n雅思应用\n听力 Part 1 | 听懂保险与售后服务\n轮到你了\n用 insure 写一句给物品投保的描述。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "She insured her bicycle and kept the appliance guarantee.",
+    "example_zh": "她给自行车投了保，并保留了家电保修凭证。",
+    "examples": [
+      {
+        "en": "She insured her bicycle and kept the appliance guarantee.",
+        "zh": "她给自行车投了保，并保留了家电保修凭证。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "insure a bicycle",
+        "给自行车投保"
+      ],
+      [
+        "a written guarantee",
+        "书面保证"
+      ],
+      [
+        "under guarantee",
+        "在保修期内"
+      ]
+    ],
+    "notes": "insure 指投保；guarantee 可指保证或保修承诺。",
+    "scene": "One fictional consumer service centre with two connected desks. On left an adult signs an insurance policy for a bicycle beside a bicycle pictogram and a protective umbrella motif; insure leader points to that buying-insurance action, not to physical safety equipment. On right a shop staff member hands a simple guarantee document with a tool/check pictogram beside an appliance and repair bench; guarantee leader points to the written product promise. No promise that all damage is covered, no policy specifics, real terms, costs or legal advice. Keep exactly two in-scene labels and no added English on documents.",
+    "palette": "保险区湖蓝伞形意象和保修区暖橙工具表现两种承诺，文件米白便于辨认。",
+    "ielts": "听力 Part 1 | 听懂保险与售后服务",
+    "practice": "用 insure 写一句给物品投保的描述。",
+    "answer": "They decided to insure the bicycles against theft.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/insure?topic=insurance",
+      "https://downloads.bbc.co.uk/learningenglish/eiam/unit-2/201218_assure_insure_ensure.pdf"
+    ],
+    "image": "previews/39.webp"
+  },
+  {
+    "id": "40",
+    "page": 40,
+    "title": "出席培训与缺席",
+    "kind": "contrast",
+    "targets": [
+      "attend",
+      "absent"
+    ],
+    "labels": [
+      {
+        "word": "attend",
+        "pos": "v.",
+        "zh": "参加；出席"
+      },
+      {
+        "word": "absent",
+        "pos": "adj.",
+        "zh": "缺席的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "attend",
+        "physical_page": 215,
+        "printed_page": 204
+      },
+      {
+        "word": "absent",
+        "physical_page": 215,
+        "printed_page": 204
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 40\n词义辨析 | 社会经济\n出席培训与缺席\nattend  v.  参加；出席\nabsent  adj.  缺席的\n放进句子里\nMost employees attended the training, but two were absent.\n大多数员工参加了培训，但有两人缺席。\n用法提醒\nattend 直接接活动；be absent from 表示缺席。\n雅思应用\n听力 Part 2 | 听懂活动出席安排\n轮到你了\n用 attend 或 absent 描述一次假想活动的出席情况。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "Most employees attended the training, but two were absent.",
+    "example_zh": "大多数员工参加了培训，但有两人缺席。",
+    "examples": [
+      {
+        "en": "Most employees attended the training, but two were absent.",
+        "zh": "大多数员工参加了培训，但有两人缺席。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "attend a meeting",
+        "参加会议"
+      ],
+      [
+        "attend training",
+        "参加培训"
+      ],
+      [
+        "be absent from work",
+        "缺勤"
+      ]
+    ],
+    "notes": "attend 直接接活动；be absent from 表示缺席。",
+    "scene": "A fictional adult workplace training room. Several employees sit participating in a practical materials workshop; attend leader to the attending group and their listening activity. Two clearly empty reserved chairs with matching unlettered portrait placeholder cards and a small calendar absence icon establish two expected people are missing; absent leader brackets those seats and placeholders. No implication of laziness or punishment, no attendance marks by protected traits, no extra names or written labels. Keep the participants calm and interested and use a visible teaching demonstration.",
+    "palette": "培训桌暖木与参与者浅绿表现参加，空椅蓝灰与留位卡表现未到场。",
+    "ielts": "听力 Part 2 | 听懂活动出席安排",
+    "practice": "用 attend 或 absent 描述一次假想活动的出席情况。",
+    "answer": "Several members attended the workshop, but one was absent.",
+    "reference_urls": [],
+    "image": "previews/40.webp"
+  },
+  {
+    "id": "41",
+    "page": 41,
+    "title": "市场里的销售方式",
+    "kind": "scene",
+    "targets": [
+      "sale",
+      "wholesale",
+      "auction"
+    ],
+    "labels": [
+      {
+        "word": "sale",
+        "pos": "n.",
+        "zh": "销售"
+      },
+      {
+        "word": "wholesale",
+        "pos": "n.",
+        "zh": "批发"
+      },
+      {
+        "word": "auction",
+        "pos": "n.",
+        "zh": "拍卖"
+      }
+    ],
+    "sources": [
+      {
+        "word": "sale",
+        "physical_page": 215,
+        "printed_page": 204
+      },
+      {
+        "word": "wholesale",
+        "physical_page": 215,
+        "printed_page": 204
+      },
+      {
+        "word": "auction",
+        "physical_page": 215,
+        "printed_page": 204
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 41\n场景词群 | 社会经济\n市场里的销售方式\nsale  n.  销售\nwholesale  n.  批发\nauction  n.  拍卖\n放进句子里\nThe vase was offered for sale at an auction.\n这只花瓶在一场拍卖会上出售。\n用法提醒\nsale 泛指销售；wholesale 指批发；auction 指竞价拍卖。\n雅思应用\n阅读 | 理解商品交易与销售方式\n轮到你了\n用 wholesale 或 auction 描述一种交易场景。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The vase was offered for sale at an auction.",
+    "example_zh": "这只花瓶在一场拍卖会上出售。",
+    "examples": [
+      {
+        "en": "The vase was offered for sale at an auction.",
+        "zh": "这只花瓶在一场拍卖会上出售。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "for sale",
+        "待售"
+      ],
+      [
+        "buy wholesale",
+        "批发购买"
+      ],
+      [
+        "at an auction",
+        "在拍卖会上"
+      ]
+    ],
+    "notes": "sale 泛指销售；wholesale 指批发；auction 指竞价拍卖。",
+    "scene": "One fictional market hall with three clearly related activities. Sale leader to a general sale transaction: buyer exchanges payment token for a handmade bowl, not discount signage. Wholesale leader to a merchant buying many identical boxed bowls together from a supplier, larger bulk quantity and trade cart clear. Auction leader to an auctioneer with a wooden gavel and two adult bidders raising blank paddles for one vintage vase. These are sale methods and general sale concept, not mutually exclusive categories. No prices, real artworks, slogans, discounts, bidder numbers or additional text.",
+    "palette": "陶碗暖赭、批量纸箱木色与拍卖绒布深紫来自交易现场，不依靠促销红标签解释sale。",
+    "ielts": "阅读 | 理解商品交易与销售方式",
+    "practice": "用 wholesale 或 auction 描述一种交易场景。",
+    "answer": "The shop bought the bowls wholesale.",
+    "reference_urls": [],
+    "image": "previews/41.webp"
+  },
+  {
+    "id": "42",
+    "page": 42,
+    "title": "从出价到成交记录",
+    "kind": "scene",
+    "targets": [
+      "bid",
+      "deal",
+      "transaction"
+    ],
+    "labels": [
+      {
+        "word": "bid",
+        "pos": "n.",
+        "zh": "出价；投标"
+      },
+      {
+        "word": "deal",
+        "pos": "n.",
+        "zh": "交易；协议"
+      },
+      {
+        "word": "transaction",
+        "pos": "n.",
+        "zh": "一笔交易"
+      }
+    ],
+    "sources": [
+      {
+        "word": "bid",
+        "physical_page": 216,
+        "printed_page": 205
+      },
+      {
+        "word": "deal",
+        "physical_page": 216,
+        "printed_page": 205
+      },
+      {
+        "word": "transaction",
+        "physical_page": 216,
+        "printed_page": 205
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 42\n场景词群 | 社会经济\n从出价到成交记录\nbid  n.  出价；投标\ndeal  n.  交易；协议\ntransaction  n.  一笔交易\n放进句子里\nAfter the bid was accepted, they completed the transaction.\n出价被接受后，他们完成了这笔交易。\n用法提醒\nmake a deal 强调达成交易，transaction 指具体的一笔交易。\n雅思应用\n听力 Part 1 | 理解购买与交易安排\n轮到你了\n用 bid 或 transaction 描述一次虚构的拍卖。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "After the bid was accepted, they completed the transaction.",
+    "example_zh": "出价被接受后，他们完成了这笔交易。",
+    "examples": [
+      {
+        "en": "After the bid was accepted, they completed the transaction.",
+        "zh": "出价被接受后，他们完成了这笔交易。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "make a bid",
+        "出价"
+      ],
+      [
+        "make a deal",
+        "达成交易"
+      ],
+      [
+        "complete a transaction",
+        "完成一笔交易"
+      ]
+    ],
+    "notes": "make a deal 强调达成交易，transaction 指具体的一笔交易。",
+    "scene": "A continuous illustration of a small fictional antiques auction. On the left an adult raises a bidding paddle: bid points to the paddle action. At centre buyer and seller agree beside the chosen ceramic bowl, deal points to their handshake. On the right the clerk records the completed sale on a pictorial receipt and ledger, transaction points to that one receipt. Three connected moments with space around callouts; unlettered receipts, no prices or additional labels.",
+    "palette": "竞拍木槌深棕、瓷碗蓝白、成交记录暖米，色彩来自交易现场。",
+    "ielts": "听力 Part 1 | 理解购买与交易安排",
+    "practice": "用 bid 或 transaction 描述一次虚构的拍卖。",
+    "answer": "Her bid was accepted, and the transaction was recorded.",
+    "reference_urls": [],
+    "image": "previews/42.webp"
+  },
+  {
+    "id": "43",
+    "page": 43,
+    "title": "turnover",
+    "kind": "word",
+    "targets": [
+      "turnover"
+    ],
+    "labels": [
+      {
+        "word": "turnover",
+        "pos": "n.",
+        "zh": "营业额；人员流动率"
+      }
+    ],
+    "sources": [
+      {
+        "word": "turnover",
+        "physical_page": 216,
+        "printed_page": 205
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 43\n单词精讲 | 社会经济\nturnover\n/'tɜ:nˌəʊ.və/  n.\n营业额；人员流动率\n一定时期内的销售总额；也可指员工更替的比率。\n常用搭配\nannual turnover · staff turnover · high turnover\n放进句子里\nThe shop's annual turnover increased.\n这家店的年营业额增加了。\n用法提醒\n营业额不等于利润；staff turnover 指人员流动。\n雅思应用\n写作 Task 1 | 描述营业额或员工流动变化\n轮到你了\n用 annual turnover 描述一家虚构商店。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The shop's annual turnover increased.",
+    "example_zh": "这家店的年营业额增加了。",
+    "examples": [
+      {
+        "en": "The shop's annual turnover increased.",
+        "zh": "这家店的年营业额增加了。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "annual turnover",
+        "年营业额"
+      ],
+      [
+        "staff turnover",
+        "人员流动率"
+      ],
+      [
+        "high turnover",
+        "高营业额；高流动率"
+      ]
+    ],
+    "notes": "营业额不等于利润；staff turnover 指人员流动。",
+    "scene": "Huge headword at upper left. Main illustration shows a fictional pottery shop: customer payments feed into a sales ledger over a calendar, illustrating total sales during a period without profit claims. A small meaningful inset within the art shows one staff member leaving and a new colleague arriving at the same counter, illustrating staff turnover. Neither scene contains object callouts, charts with made-up numbers, or labels.",
+    "palette": "陶器店暖陶土与纸页米白表现销售，员工接替的小景使用浅蓝，区分两种词义。",
+    "ielts": "写作 Task 1 | 描述营业额或员工流动变化",
+    "practice": "用 annual turnover 描述一家虚构商店。",
+    "answer": "The report shows a rise in the shop’s annual turnover.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/turnover"
+    ],
+    "ipa": "/ˈtɜːnˌəʊ.və/",
+    "definition": "一定时期内的销售总额；也可指员工更替的比率。",
+    "image": "previews/43.webp"
+  },
+  {
+    "id": "44",
+    "page": 44,
+    "title": "货物往来与数量限额",
+    "kind": "contrast",
+    "targets": [
+      "export",
+      "import",
+      "quota"
+    ],
+    "labels": [
+      {
+        "word": "export",
+        "pos": "v.",
+        "zh": "出口"
+      },
+      {
+        "word": "import",
+        "pos": "v.",
+        "zh": "进口"
+      },
+      {
+        "word": "quota",
+        "pos": "n.",
+        "zh": "配额；限额"
+      }
+    ],
+    "sources": [
+      {
+        "word": "export",
+        "physical_page": 216,
+        "printed_page": 205
+      },
+      {
+        "word": "import",
+        "physical_page": 216,
+        "printed_page": 205
+      },
+      {
+        "word": "quota",
+        "physical_page": 216,
+        "printed_page": 205
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 44\n词义辨析 | 社会经济\n货物往来与数量限额\nexport  v.  出口\nimport  v.  进口\nquota  n.  配额；限额\n放进句子里\nThe company imports coffee and exports pottery.\n这家公司进口咖啡，并出口陶器。\n用法提醒\nimport from 表示从某处进口，export to 表示向某处出口。\n雅思应用\n阅读 | 区分贸易方向与配额限制\n轮到你了\n用 import 和 export 写一句虚构贸易描述。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The company imports coffee and exports pottery.",
+    "example_zh": "这家公司进口咖啡，并出口陶器。",
+    "examples": [
+      {
+        "en": "The company imports coffee and exports pottery.",
+        "zh": "这家公司进口咖啡，并出口陶器。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "import from",
+        "从……进口"
+      ],
+      [
+        "export to",
+        "向……出口"
+      ],
+      [
+        "an import quota",
+        "进口配额"
+      ]
+    ],
+    "notes": "import from 表示从某处进口，export to 表示向某处出口。",
+    "scene": "An invented harbour on two separate scenic shores, no real map. At the foreground home harbour, ceramic crates are being loaded onto a ship leaving: export points to outgoing loading. On a neighbouring berth coffee sacks arrive and are unloaded: import points to incoming unloading. A customs planner compares allowed cargo spaces with incoming crates using a bounded tray of slots, quota points to that capacity boundary. Directions obvious from loading actions and unobtrusive arrows, never real-country borders or actual quota rules.",
+    "palette": "出港陶器赭红、入港咖啡棕、港湾海蓝，配额托盘以克制的金色框线突出限额。",
+    "ielts": "阅读 | 区分贸易方向与配额限制",
+    "practice": "用 import 和 export 写一句虚构贸易描述。",
+    "answer": "The firm imports wood and exports furniture.",
+    "reference_urls": [],
+    "image": "previews/44.webp"
+  },
+  {
+    "id": "45",
+    "page": 45,
+    "title": "dump",
+    "kind": "word",
+    "targets": [
+      "dump"
+    ],
+    "labels": [
+      {
+        "word": "dump",
+        "pos": "v.",
+        "zh": "倾倒；丢弃"
+      }
+    ],
+    "sources": [
+      {
+        "word": "dump",
+        "physical_page": 216,
+        "printed_page": 205
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 45\n单词精讲 | 社会经济\ndump\n/dʌmp/  v.\n倾倒；丢弃\n把不需要的东西随意丢下或倾倒。\n常用搭配\ndump rubbish · dump waste · dump goods\n放进句子里\nSomeone had dumped rubbish beside the road.\n有人把垃圾倒在了路边。\n用法提醒\ndump 常表示随意丢弃；商业语境中也可指低价倾销。\n雅思应用\n写作 Task 2 | 描述垃圾处置问题\n轮到你了\n用 dump 描述一次不当丢弃行为。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "Someone had dumped rubbish beside the road.",
+    "example_zh": "有人把垃圾倒在了路边。",
+    "examples": [
+      {
+        "en": "Someone had dumped rubbish beside the road.",
+        "zh": "有人把垃圾倒在了路边。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "dump rubbish",
+        "倾倒垃圾"
+      ],
+      [
+        "dump waste",
+        "倾倒废弃物"
+      ],
+      [
+        "dump goods",
+        "低价倾销商品"
+      ]
+    ],
+    "notes": "dump 常表示随意丢弃；商业语境中也可指低价倾销。",
+    "scene": "Huge headword, exact IPA and definition. Main illustration is a roadside field beside a river where a fictional adult carelessly tips unwanted sacks from the back of a small truck onto bare ground. The falling unwanted contents and disturbed ground make the action clear. Keep depiction non-graphic and non-instructional; distant litter collection vehicle provides context without extra labels. No flowing toxic chemicals, no brands or legal claims. No object-name callouts.",
+    "palette": "河水灰蓝、废弃物暗灰和田野绿形成环境受影响的语义对照。",
+    "ielts": "写作 Task 2 | 描述垃圾处置问题",
+    "practice": "用 dump 描述一次不当丢弃行为。",
+    "answer": "Some people dump unwanted furniture near the river.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/dump"
+    ],
+    "ipa": "/dʌmp/",
+    "definition": "把不需要的东西随意丢下或倾倒。",
+    "image": "previews/45.webp"
+  },
+  {
+    "id": "46",
+    "page": 46,
+    "title": "股份、股票与股息",
+    "kind": "scene",
+    "targets": [
+      "share",
+      "stock",
+      "dividend"
+    ],
+    "labels": [
+      {
+        "word": "share",
+        "pos": "n.",
+        "zh": "股份"
+      },
+      {
+        "word": "stock",
+        "pos": "n.",
+        "zh": "股票；股本"
+      },
+      {
+        "word": "dividend",
+        "pos": "n.",
+        "zh": "股息；红利"
+      }
+    ],
+    "sources": [
+      {
+        "word": "share",
+        "physical_page": 216,
+        "printed_page": 205
+      },
+      {
+        "word": "stock",
+        "physical_page": 217,
+        "printed_page": 206
+      },
+      {
+        "word": "dividend",
+        "physical_page": 216,
+        "printed_page": 205
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 46\n场景词群 | 社会经济\n股份、股票与股息\nshare  n.  股份\nstock  n.  股票；股本\ndividend  n.  股息；红利\n放进句子里\nThe company paid a dividend to people who held its shares.\n这家公司向持有其股份的人支付了股息。\n用法提醒\ndividend 是向股东支付的部分利润；stock 也可指库存。\n雅思应用\n阅读 | 理解企业所有权与利润分配\n轮到你了\n用 share 和 dividend 描述一个虚构例子。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The company paid a dividend to people who held its shares.",
+    "example_zh": "这家公司向持有其股份的人支付了股息。",
+    "examples": [
+      {
+        "en": "The company paid a dividend to people who held its shares.",
+        "zh": "这家公司向持有其股份的人支付了股息。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "hold shares",
+        "持有股份"
+      ],
+      [
+        "company stock",
+        "公司股票"
+      ],
+      [
+        "pay a dividend",
+        "支付股息"
+      ]
+    ],
+    "notes": "dividend 是向股东支付的部分利润；stock 也可指库存。",
+    "scene": "A clear educational demonstration around a fictional bakery-company model. A teacher separates one ownership tile from several equal parts: share points exactly to that single ownership unit. Stock points to a small portfolio of generic ownership certificates, with no written names. The bakery has chosen to distribute part of its profit: a small coin flow goes to two certificate holders, dividend points to this chosen distribution. Some coins remain in the company box, so the art does not imply all profit must be paid or that dividends are guaranteed. No rising-price charts or investment recommendations.",
+    "palette": "烘焙屋木色、股份示意浅蓝、分配的一小部分硬币暖金，用颜色区分所有权与支付。",
+    "ielts": "阅读 | 理解企业所有权与利润分配",
+    "practice": "用 share 和 dividend 描述一个虚构例子。",
+    "answer": "She held shares in the company and received a dividend.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/dividend"
+    ],
+    "image": "previews/46.webp"
+  },
+  {
+    "id": "47",
+    "page": 47,
+    "title": "账户里的存款与利息",
+    "kind": "scene",
+    "targets": [
+      "account",
+      "deposit",
+      "interest"
+    ],
+    "labels": [
+      {
+        "word": "account",
+        "pos": "n.",
+        "zh": "账户"
+      },
+      {
+        "word": "deposit",
+        "pos": "n.",
+        "zh": "存款"
+      },
+      {
+        "word": "interest",
+        "pos": "n.",
+        "zh": "利息"
+      }
+    ],
+    "sources": [
+      {
+        "word": "account",
+        "physical_page": 217,
+        "printed_page": 206
+      },
+      {
+        "word": "deposit",
+        "physical_page": 217,
+        "printed_page": 206
+      },
+      {
+        "word": "interest",
+        "physical_page": 216,
+        "printed_page": 205
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 47\n场景词群 | 社会经济\n账户里的存款与利息\ninterest  n.  利息\ndeposit  n.  存款\naccount  n.  账户\n放进句子里\nThe account earned interest on the deposit.\n这个账户的存款产生了利息。\n用法提醒\ninterest 在这里是利息，日常语境中还可指兴趣。\n雅思应用\n听力 Part 1 | 理解银行账户信息\n轮到你了\n用 account 和 deposit 写一句描述性句子。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The account earned interest on the deposit.",
+    "example_zh": "这个账户的存款产生了利息。",
+    "examples": [
+      {
+        "en": "The account earned interest on the deposit.",
+        "zh": "这个账户的存款产生了利息。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "open an account",
+        "开立账户"
+      ],
+      [
+        "make a deposit",
+        "存入一笔钱"
+      ],
+      [
+        "earn interest",
+        "获得利息"
+      ]
+    ],
+    "notes": "interest 在这里是利息，日常语境中还可指兴趣。",
+    "scene": "A fictional bank learning counter. account points to an open account booklet with a generic personal icon, deposit points to money being placed into the account by a customer, interest points to a separate small credited addition shown on a later calendar page beside the booklet. Distinguish the original deposited bundle and later addition with a thin time arrow. No rates, percentages, guarantees, real bank logos or readable balances; this is a conceptual example only.",
+    "palette": "账户册深蓝、原存款浅棕、后来增加的利息暖金，清楚区分本金与利息。",
+    "ielts": "听力 Part 1 | 理解银行账户信息",
+    "practice": "用 account 和 deposit 写一句描述性句子。",
+    "answer": "She put a small deposit into her savings account.",
+    "reference_urls": [],
+    "image": "previews/47.webp"
+  },
+  {
+    "id": "48",
+    "page": 48,
+    "title": "三种付款物件",
+    "kind": "scene",
+    "targets": [
+      "cash",
+      "cheque",
+      "coin"
+    ],
+    "labels": [
+      {
+        "word": "cash",
+        "pos": "n.",
+        "zh": "现金"
+      },
+      {
+        "word": "cheque",
+        "pos": "n.",
+        "zh": "支票"
+      },
+      {
+        "word": "coin",
+        "pos": "n.",
+        "zh": "硬币"
+      }
+    ],
+    "sources": [
+      {
+        "word": "cash",
+        "physical_page": 217,
+        "printed_page": 206
+      },
+      {
+        "word": "cheque",
+        "physical_page": 217,
+        "printed_page": 206
+      },
+      {
+        "word": "coin",
+        "physical_page": 217,
+        "printed_page": 206
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 48\n场景词群 | 社会经济\n三种付款物件\ncheque  n.  支票\ncash  n.  现金\ncoin  n.  硬币\n放进句子里\nHe paid in cash and received a coin in change.\n他用现金付款，并收到一枚硬币作为找零。\n用法提醒\ncash 包括纸币和硬币；cheque 也可拼作 check。\n雅思应用\n听力 Part 1 | 听懂付款方式与找零\n轮到你了\n用 pay in cash 说明一种付款方式。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "He paid in cash and received a coin in change.",
+    "example_zh": "他用现金付款，并收到一枚硬币作为找零。",
+    "examples": [
+      {
+        "en": "He paid in cash and received a coin in change.",
+        "zh": "他用现金付款，并收到一枚硬币作为找零。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "pay in cash",
+        "用现金付款"
+      ],
+      [
+        "write a cheque",
+        "开支票"
+      ],
+      [
+        "a coin in change",
+        "一枚找零硬币"
+      ]
+    ],
+    "notes": "cash 包括纸币和硬币；cheque 也可拼作 check。",
+    "scene": "A fictional market checkout. cash uses one bracket enclosing banknotes and coins together, showing the category cash. coin uses a short precise leader to one single round coin on a separate small change tray. cheque points to a customer handing a rectangular paper cheque to the vendor, with only faint non-legible form lines, no real banking details. Keep the cash category bracket distinct from the single-coin leader; no credit card label or other vocabulary.",
+    "palette": "纸钞低饱和青绿、单枚硬币铜金、支票米白，随付款物件选择颜色。",
+    "ielts": "听力 Part 1 | 听懂付款方式与找零",
+    "practice": "用 pay in cash 说明一种付款方式。",
+    "answer": "I usually pay in cash at the weekend market.",
+    "reference_urls": [],
+    "image": "previews/48.webp"
+  },
+  {
+    "id": "49",
+    "page": 49,
+    "title": "古币展柜里的材质与珍宝",
+    "kind": "scene",
+    "targets": [
+      "shilling",
+      "copper",
+      "treasure"
+    ],
+    "labels": [
+      {
+        "word": "shilling",
+        "pos": "n.",
+        "zh": "先令"
+      },
+      {
+        "word": "copper",
+        "pos": "n.",
+        "zh": "铜"
+      },
+      {
+        "word": "treasure",
+        "pos": "n.",
+        "zh": "珍宝；财宝"
+      }
+    ],
+    "sources": [
+      {
+        "word": "shilling",
+        "physical_page": 217,
+        "printed_page": 206
+      },
+      {
+        "word": "copper",
+        "physical_page": 217,
+        "printed_page": 206
+      },
+      {
+        "word": "treasure",
+        "physical_page": 217,
+        "printed_page": 206
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 49\n场景词群 | 社会经济\n古币展柜里的材质与珍宝\ntreasure  n.  珍宝；财宝\nshilling  n.  先令\ncopper  n.  铜\n放进句子里\nThe museum displays a shilling beside several copper coins.\n博物馆在几枚铜币旁展示了一枚先令。\n用法提醒\n本卡的 shilling 指历史英国硬币，不是当代英国币制。\n雅思应用\n阅读 | 理解历史货币与博物馆展品\n轮到你了\n用 copper 或 treasure 描述一件虚构展品。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The museum displays a shilling beside several copper coins.",
+    "example_zh": "博物馆在几枚铜币旁展示了一枚先令。",
+    "examples": [
+      {
+        "en": "The museum displays a shilling beside several copper coins.",
+        "zh": "博物馆在几枚铜币旁展示了一枚先令。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an old shilling",
+        "一枚旧先令"
+      ],
+      [
+        "copper coins",
+        "铜币"
+      ],
+      [
+        "art treasures",
+        "艺术珍品"
+      ]
+    ],
+    "notes": "本卡的 shilling 指历史英国硬币，不是当代英国币制。",
+    "scene": "A museum currency cabinet with three clear targets. A single historical British shilling in a velvet-lined silver-toned coin slot, shilling points to that specific old coin. Several separate reddish copper coins and an unworked copper sample sit in another tray, copper points to the visible metal material, not the shilling. treasure uses a bracket around an ornate recovered collection of coins and jewellery in a protected display. Generic non-legible embossed coin motifs, no dates, monarch portrait claims or exchange-rate arithmetic.",
+    "palette": "先令柔和银灰、铜材红褐、珠宝低调金色，直接依照材质与展柜光线。",
+    "ielts": "阅读 | 理解历史货币与博物馆展品",
+    "practice": "用 copper 或 treasure 描述一件虚构展品。",
+    "answer": "The cabinet contains several copper coins and other treasures.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/shilling?topic=british-money"
+    ],
+    "image": "previews/49.webp"
+  },
+  {
+    "id": "50",
+    "page": 50,
+    "title": "一笔款项怎样分期支付",
+    "kind": "scene",
+    "targets": [
+      "instalment",
+      "payment"
+    ],
+    "labels": [
+      {
+        "word": "instalment",
+        "pos": "n.",
+        "zh": "分期付款中的一期款"
+      },
+      {
+        "word": "payment",
+        "pos": "n.",
+        "zh": "支付；付款"
+      }
+    ],
+    "sources": [
+      {
+        "word": "instalment",
+        "physical_page": 217,
+        "printed_page": 206
+      },
+      {
+        "word": "payment",
+        "physical_page": 218,
+        "printed_page": 207
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 50\n场景词群 | 社会经济\n一笔款项怎样分期支付\npayment  n.  支付；付款\ninstalment  n.  分期付款中的一期款\n放进句子里\nShe paid for the table in three instalments.\n她分三期支付了这张桌子的费用。\n用法提醒\npay in instalments 表示分期付款；美式常拼 installment。\n雅思应用\n听力 Part 1 | 理解付款日期与方式\n轮到你了\n用 in instalments 写一句虚构的付款安排。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "She paid for the table in three instalments.",
+    "example_zh": "她分三期支付了这张桌子的费用。",
+    "examples": [
+      {
+        "en": "She paid for the table in three instalments.",
+        "zh": "她分三期支付了这张桌子的费用。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "pay in instalments",
+        "分期付款"
+      ],
+      [
+        "make a payment",
+        "支付一笔款项"
+      ]
+    ],
+    "notes": "pay in instalments 表示分期付款；美式常拼 installment。",
+    "scene": "A fictional furniture shop demonstrates a purchase schedule. The entire payment is represented by a completed purchase folder with one unobtrusive curved bracket: payment points to paying for the purchase. A sequence of three spaced calendar leaves and equal-sized payment envelopes shows separate dates; instalment points to ONE dated envelope, not the whole sequence. No numerals, prices, credit conditions, promises or recommendation to borrow. The illustration explains the vocabulary only.",
+    "palette": "家具木色、日历浅蓝和分期信封柔和紫色，突出同一款项在不同时间支付。",
+    "ielts": "听力 Part 1 | 理解付款日期与方式",
+    "practice": "用 in instalments 写一句虚构的付款安排。",
+    "answer": "The customer paid for the table in instalments.",
+    "reference_urls": [],
+    "image": "previews/50.webp"
+  },
+  {
+    "id": "51",
+    "page": 51,
+    "title": "退回货款与报销费用",
+    "kind": "contrast",
+    "targets": [
+      "refund",
+      "reimburse"
+    ],
+    "labels": [
+      {
+        "word": "refund",
+        "pos": "n.",
+        "zh": "退款"
+      },
+      {
+        "word": "reimburse",
+        "pos": "v.",
+        "zh": "报销；偿还费用"
+      }
+    ],
+    "sources": [
+      {
+        "word": "refund",
+        "physical_page": 219,
+        "printed_page": 208
+      },
+      {
+        "word": "reimburse",
+        "physical_page": 219,
+        "printed_page": 208
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 51\n词义辨析 | 社会经济\n退回货款与报销费用\nrefund  n.  退款\nreimburse  v.  报销；偿还费用\n放进句子里\nThe shop gave her a refund, and her employer reimbursed her travel costs.\n商店给她退了款，她的雇主报销了她的差旅费。\n用法提醒\nreimburse someone for something 常用于偿还垫付的费用。\n雅思应用\n听力 Part 1 | 理解退款与费用报销\n轮到你了\n用 refund 或 reimburse 描述一次虚构的费用退回。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The shop gave her a refund, and her employer reimbursed her travel costs.",
+    "example_zh": "商店给她退了款，她的雇主报销了她的差旅费。",
+    "examples": [
+      {
+        "en": "The shop gave her a refund, and her employer reimbursed her travel costs.",
+        "zh": "商店给她退了款，她的雇主报销了她的差旅费。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "get a refund",
+        "获得退款"
+      ],
+      [
+        "reimburse travel expenses",
+        "报销差旅费"
+      ]
+    ],
+    "notes": "reimburse someone for something 常用于偿还垫付的费用。",
+    "scene": "Two parallel transactions in one clear artwork. Left a customer returns a purchased lamp with its receipt and a shop assistant gives the purchase money back, refund points to returned purchase money. Right an employee shows travel receipts that they initially paid themselves; an office clerk returns the documented work-travel cost, reimburse points to this repayment action. A simple visual echo between original receipt and repayment clarifies the relationship. No real consumer-right claims, policies, brands or account data.",
+    "palette": "商店暖橙与办公桌浅蓝分别对应退货退款和工作费用报销。",
+    "ielts": "听力 Part 1 | 理解退款与费用报销",
+    "practice": "用 refund 或 reimburse 描述一次虚构的费用退回。",
+    "answer": "The company reimbursed her for the train ticket.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/reimburse?topic=paying-money",
+      "https://dictionary.cambridge.org/us/dictionary/english/refund?topic=giving-bringing-or-getting-back"
+    ],
+    "image": "previews/51.webp"
+  },
+  {
+    "id": "52",
+    "page": 52,
+    "title": "拥有财产与一处地产",
+    "kind": "scene",
+    "targets": [
+      "wealth",
+      "estate",
+      "possess"
+    ],
+    "labels": [
+      {
+        "word": "wealth",
+        "pos": "n.",
+        "zh": "财富"
+      },
+      {
+        "word": "estate",
+        "pos": "n.",
+        "zh": "地产；遗产"
+      },
+      {
+        "word": "possess",
+        "pos": "v.",
+        "zh": "拥有"
+      }
+    ],
+    "sources": [
+      {
+        "word": "wealth",
+        "physical_page": 218,
+        "printed_page": 207
+      },
+      {
+        "word": "estate",
+        "physical_page": 218,
+        "printed_page": 207
+      },
+      {
+        "word": "possess",
+        "physical_page": 218,
+        "printed_page": 207
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 52\n场景词群 | 社会经济\n拥有财产与一处地产\nestate  n.  地产；遗产\npossess  v.  拥有\nwealth  n.  财富\n放进句子里\nThe family possesses an estate outside the town.\n这个家庭拥有镇外的一处地产。\n用法提醒\npossess 表示拥有；estate 可指一处地产，也可指遗产。\n雅思应用\n阅读 | 理解财富与财产描述\n轮到你了\n用 possess 描述一个虚构人物拥有的物品。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The family possesses an estate outside the town.",
+    "example_zh": "这个家庭拥有镇外的一处地产。",
+    "examples": [
+      {
+        "en": "The family possesses an estate outside the town.",
+        "zh": "这个家庭拥有镇外的一处地产。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "accumulate wealth",
+        "积累财富"
+      ],
+      [
+        "a country estate",
+        "一处乡间地产"
+      ],
+      [
+        "possess property",
+        "拥有财产"
+      ]
+    ],
+    "notes": "possess 表示拥有；estate 可指一处地产，也可指遗产。",
+    "scene": "A fictional family discusses a property inventory. A large gently bounded countryside house with its surrounding land through the window is the estate, with estate pointing to the whole house-and-land area. wealth points to the combined inventory of property, savings and tools pictured on a tabletop folder, not just a single coin. possess points to an adult holding the key and corresponding ownership folder, showing owning rather than touching or borrowing. No signed legal text, actual monetary values or advice on inheritance.",
+    "palette": "土地叶绿、房屋暖石、资产册深蓝和钥匙铜金，表现财产范围与拥有关系。",
+    "ielts": "阅读 | 理解财富与财产描述",
+    "practice": "用 possess 描述一个虚构人物拥有的物品。",
+    "answer": "The artist possesses a collection of old tools.",
+    "reference_urls": [],
+    "image": "previews/52.webp"
+  },
+  {
+    "id": "53",
+    "page": 53,
+    "title": "家族后代与留下的遗产",
+    "kind": "scene",
+    "targets": [
+      "legacy",
+      "descend"
+    ],
+    "labels": [
+      {
+        "word": "legacy",
+        "pos": "n.",
+        "zh": "遗产；遗留物"
+      },
+      {
+        "word": "descend",
+        "pos": "v.",
+        "zh": "是……的后裔；下来"
+      }
+    ],
+    "sources": [
+      {
+        "word": "legacy",
+        "physical_page": 218,
+        "printed_page": 207
+      },
+      {
+        "word": "descend",
+        "physical_page": 218,
+        "printed_page": 207
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 53\n场景词群 | 社会经济\n家族后代与留下的遗产\nlegacy  n.  遗产；遗留物\ndescend  v.  是……的后裔；下来\n放进句子里\nShe received a small legacy from her aunt.\n她从姑姑那里继承了一小笔遗产。\n用法提醒\nbe descended from 表示是某人或某个家族的后裔。\n雅思应用\n口语 Part 2 | 描述一件有家庭意义的物品\n轮到你了\n用 legacy 描述一件虚构的家族遗留物。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "She received a small legacy from her aunt.",
+    "example_zh": "她从姑姑那里继承了一小笔遗产。",
+    "examples": [
+      {
+        "en": "She received a small legacy from her aunt.",
+        "zh": "她从姑姑那里继承了一小笔遗产。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "receive a legacy",
+        "继承一笔遗产"
+      ],
+      [
+        "be descended from",
+        "是……的后裔"
+      ]
+    ],
+    "notes": "be descended from 表示是某人或某个家族的后裔。",
+    "scene": "In a family-history room, a woman opens a small box of property and keepsakes left to her by a deceased aunt represented in a respectful framed portrait; legacy points to that received bequest box, not the living relative. Beside her, an illustrated family tree connects earlier family portraits to later generations, descend points to the downward lineage connector. Keep family tree unlabeled, no real genealogy or assumptions about ethnic appearance. Two precise callouts only.",
+    "palette": "旧相框褐金、遗留物暖木色与家谱淡绿，表现代际联系。",
+    "ielts": "口语 Part 2 | 描述一件有家庭意义的物品",
+    "practice": "用 legacy 描述一件虚构的家族遗留物。",
+    "answer": "The old clock was part of the legacy her uncle left her.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/legacy"
+    ],
+    "image": "previews/53.webp"
+  },
+  {
+    "id": "54",
+    "page": 54,
+    "title": "价值、价格与值得支持",
+    "kind": "contrast",
+    "targets": [
+      "worthy",
+      "valuable",
+      "cheap"
+    ],
+    "labels": [
+      {
+        "word": "worthy",
+        "pos": "adj.",
+        "zh": "值得的；应受尊重的"
+      },
+      {
+        "word": "valuable",
+        "pos": "adj.",
+        "zh": "贵重的；有价值的"
+      },
+      {
+        "word": "cheap",
+        "pos": "adj.",
+        "zh": "便宜的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "worthy",
+        "physical_page": 218,
+        "printed_page": 207
+      },
+      {
+        "word": "valuable",
+        "physical_page": 218,
+        "printed_page": 207
+      },
+      {
+        "word": "cheap",
+        "physical_page": 218,
+        "printed_page": 207
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 54\n词义辨析 | 社会经济\n价值、价格与值得支持\nworthy  adj.  值得的；应受尊重的\nvaluable  adj.  贵重的；有价值的\ncheap  adj.  便宜的\n放进句子里\nThe project is worthy of support, even though it uses cheap materials.\n这个项目虽然使用便宜的材料，却值得支持。\n用法提醒\nworthy of 表示值得；cheap 说明价格低，不必然表示质量差。\n雅思应用\n写作 Task 2 | 区分社会价值与商品价格\n轮到你了\n用 valuable 或 worthy of support 说明一种价值。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The project is worthy of support, even though it uses cheap materials.",
+    "example_zh": "这个项目虽然使用便宜的材料，却值得支持。",
+    "examples": [
+      {
+        "en": "The project is worthy of support, even though it uses cheap materials.",
+        "zh": "这个项目虽然使用便宜的材料，却值得支持。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "worthy of support",
+        "值得支持"
+      ],
+      [
+        "a valuable object",
+        "一件贵重物品"
+      ],
+      [
+        "cheap materials",
+        "便宜的材料"
+      ]
+    ],
+    "notes": "worthy of 表示值得；cheap 说明价格低，不必然表示质量差。",
+    "scene": "A community repair fair contrasts three kinds of value. worthy points to volunteers repairing donated mobility aids for community reuse, a cause deserving support. valuable points to a carefully protected old violin being examined by a specialist, making precious value concrete. cheap points to an inexpensive simple second-hand mug on a small bargain table, with a single small coin exchange and no readable price tag. Do not portray cheap as inherently poor quality, or human beings as price categories.",
+    "palette": "志愿行动暖橙、贵重提琴琥珀木色、平价杯子明亮蓝白，避免价值与价格混同。",
+    "ielts": "写作 Task 2 | 区分社会价值与商品价格",
+    "practice": "用 valuable 或 worthy of support 说明一种价值。",
+    "answer": "The community repair project is worthy of support.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/worthy-of"
+    ],
+    "image": "previews/54.webp"
+  },
+  {
+    "id": "55",
+    "page": 55,
+    "title": "激励怎样促成行动",
+    "kind": "scene",
+    "targets": [
+      "incentive",
+      "prompt",
+      "accelerate"
+    ],
+    "labels": [
+      {
+        "word": "incentive",
+        "pos": "n.",
+        "zh": "激励；刺激"
+      },
+      {
+        "word": "prompt",
+        "pos": "v.",
+        "zh": "促使"
+      },
+      {
+        "word": "accelerate",
+        "pos": "v.",
+        "zh": "使加快；加速"
+      }
+    ],
+    "sources": [
+      {
+        "word": "incentive",
+        "physical_page": 218,
+        "printed_page": 207
+      },
+      {
+        "word": "prompt",
+        "physical_page": 218,
+        "printed_page": 207
+      },
+      {
+        "word": "accelerate",
+        "physical_page": 218,
+        "printed_page": 207
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 55\n场景词群 | 社会经济\n激励怎样促成行动\nincentive  n.  激励；刺激\nprompt  v.  促使\naccelerate  v.  使加快；加速\n放进句子里\nThe incentive prompted more workers to join the course.\n这项激励促使更多员工参加课程。\n用法提醒\nprompt someone to do something 表示促使某人做某事。\n雅思应用\n写作 Task 2 | 解释激励与行为变化\n轮到你了\n用 prompt 或 accelerate 描述一个虚构的改变。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The incentive prompted more workers to join the course.",
+    "example_zh": "这项激励促使更多员工参加课程。",
+    "examples": [
+      {
+        "en": "The incentive prompted more workers to join the course.",
+        "zh": "这项激励促使更多员工参加课程。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "an incentive to learn",
+        "学习的激励"
+      ],
+      [
+        "prompt someone to act",
+        "促使某人行动"
+      ],
+      [
+        "accelerate progress",
+        "加快进展"
+      ]
+    ],
+    "notes": "prompt someone to do something 表示促使某人做某事。",
+    "scene": "A fictional workplace training workshop uses three connected behaviours. A supervisor offers access to an enjoyable skills workshop as an incentive, incentive points to the attractive workshop invitation and tools. An employee decides to sign up after seeing it, prompt points to the causal connection from offer to the signup action. At the next station the trained team assembles a small project more quickly, accelerate points to successive work stages with gradually shorter gaps, without clocks, numbers or a claim of measured effect. All outcomes belong to this fictional explanatory scenario.",
+    "palette": "邀请卡明亮金色、行动浅蓝、制作流程活力橙，突出动机到行动再到提速。",
+    "ielts": "写作 Task 2 | 解释激励与行为变化",
+    "practice": "用 prompt 或 accelerate 描述一个虚构的改变。",
+    "answer": "Better training could accelerate the production process.",
+    "reference_urls": [],
+    "image": "previews/55.webp"
+  },
+  {
+    "id": "56",
+    "page": 56,
+    "title": "薪资、收入与工资名册",
+    "kind": "contrast",
+    "targets": [
+      "salary",
+      "wage",
+      "income",
+      "payroll"
+    ],
+    "labels": [
+      {
+        "word": "salary",
+        "pos": "n.",
+        "zh": "薪资"
+      },
+      {
+        "word": "wage",
+        "pos": "n.",
+        "zh": "工资；工钱"
+      },
+      {
+        "word": "income",
+        "pos": "n.",
+        "zh": "收入"
+      },
+      {
+        "word": "payroll",
+        "pos": "n.",
+        "zh": "工资名册"
+      }
+    ],
+    "sources": [
+      {
+        "word": "salary",
+        "physical_page": 218,
+        "printed_page": 207
+      },
+      {
+        "word": "wage",
+        "physical_page": 218,
+        "printed_page": 207
+      },
+      {
+        "word": "income",
+        "physical_page": 218,
+        "printed_page": 207
+      },
+      {
+        "word": "payroll",
+        "physical_page": 219,
+        "printed_page": 208
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 56\n词义辨析 | 社会经济\n薪资、收入与工资名册\nincome  n.  收入\npayroll  n.  工资名册\nsalary  n.  薪资\nwage  n.  工资；工钱\n放进句子里\nHer salary forms most of her income.\n她的薪资构成了她收入的大部分。\n用法提醒\nsalary 常指固定薪资，income 涵盖各种收入。\n雅思应用\n阅读 | 理解工作报酬与收入构成\n轮到你了\n用 salary 和 income 写一句虚构人物的收入描述。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "Her salary forms most of her income.",
+    "example_zh": "她的薪资构成了她收入的大部分。",
+    "examples": [
+      {
+        "en": "Her salary forms most of her income.",
+        "zh": "她的薪资构成了她收入的大部分。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "receive a salary",
+        "领取薪资"
+      ],
+      [
+        "earn a wage",
+        "挣取工资"
+      ],
+      [
+        "a source of income",
+        "收入来源"
+      ],
+      [
+        "on the payroll",
+        "在工资名册上"
+      ]
+    ],
+    "notes": "salary 常指固定薪资，income 涵盖各种收入。",
+    "scene": "A fictional payroll office with generous spacing for four callouts. A teacher receives a regular salary envelope beside repeated monthly calendar pages: salary points to that regular pay. A workshop worker shows an hours record beside a pay envelope: wage points to the earned work pay. income uses a bracket over one person’s combined earnings from employment and a small paid craft project, showing a broader category, not just one salary. payroll points to the clerk’s staff payment list with generic person icons and blank lines. No numerical wages, employee names or actual employment conditions.",
+    "palette": "固定薪资浅蓝、按工时工资陶橙、总收入柔和绿、名册暖米白，区分范围与记录。",
+    "ielts": "阅读 | 理解工作报酬与收入构成",
+    "practice": "用 salary 和 income 写一句虚构人物的收入描述。",
+    "answer": "His salary is the main source of his income.",
+    "reference_urls": [],
+    "image": "previews/56.webp"
+  },
+  {
+    "id": "57",
+    "page": 57,
+    "title": "remuneration",
+    "kind": "word",
+    "targets": [
+      "remuneration"
+    ],
+    "labels": [
+      {
+        "word": "remuneration",
+        "pos": "n.",
+        "zh": "报酬"
+      }
+    ],
+    "sources": [
+      {
+        "word": "remuneration",
+        "physical_page": 219,
+        "printed_page": 208
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 57\n单词精讲 | 社会经济\nremuneration\n/rɪˌmju:nə'reɪʃən/  n.\n报酬\n因工作或提供服务而获得的报酬。\n常用搭配\nreceive remuneration · remuneration for services · total remuneration\n放进句子里\nShe received remuneration for restoring the painting.\n她因修复这幅画而获得了报酬。\n用法提醒\nremuneration 较正式，通常指工作或服务的报酬。\n雅思应用\n阅读 | 理解工作条件与报酬说明\n轮到你了\n用 remuneration for 写一句虚构的工作报酬描述。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "She received remuneration for restoring the painting.",
+    "example_zh": "她因修复这幅画而获得了报酬。",
+    "examples": [
+      {
+        "en": "She received remuneration for restoring the painting.",
+        "zh": "她因修复这幅画而获得了报酬。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "receive remuneration",
+        "获得报酬"
+      ],
+      [
+        "remuneration for services",
+        "服务报酬"
+      ],
+      [
+        "total remuneration",
+        "总报酬"
+      ]
+    ],
+    "notes": "remuneration 较正式，通常指工作或服务的报酬。",
+    "scene": "Huge exact headword and IPA, POS, gloss and concise definition. Main illustration shows an art restorer who has completed work on a painting presenting it to a museum coordinator; the coordinator hands over an envelope for the completed professional service with a pictorial receipt. The finished restored picture, careful tools and actual compensation exchange make work-for-payment clear. No additional object labels, money amounts or legal contract details.",
+    "palette": "修复画作的琥珀色、工作服浅蓝与报酬信封暖米白，体现专业服务得到回报。",
+    "ielts": "阅读 | 理解工作条件与报酬说明",
+    "practice": "用 remuneration for 写一句虚构的工作报酬描述。",
+    "answer": "He received remuneration for designing the exhibition.",
+    "reference_urls": [
+      "https://www.collinsdictionary.com/dictionary/english/remuneration",
+      "https://dictionary.cambridge.org/dictionary/english/remuneration"
+    ],
+    "ipa": "/rɪˌmjuːnəˈreɪʃən/",
+    "definition": "因工作或提供服务而获得的报酬。",
+    "image": "previews/57.webp"
+  },
+  {
+    "id": "58",
+    "page": 58,
+    "title": "支持学习，再靠技能谋生",
+    "kind": "scene",
+    "targets": [
+      "subsidy",
+      "earn",
+      "benefit"
+    ],
+    "labels": [
+      {
+        "word": "subsidy",
+        "pos": "n.",
+        "zh": "补贴；补助"
+      },
+      {
+        "word": "earn",
+        "pos": "v.",
+        "zh": "赚得；获得"
+      },
+      {
+        "word": "benefit",
+        "pos": "v.",
+        "zh": "受益"
+      }
+    ],
+    "sources": [
+      {
+        "word": "subsidy",
+        "physical_page": 219,
+        "printed_page": 208
+      },
+      {
+        "word": "earn",
+        "physical_page": 219,
+        "printed_page": 208
+      },
+      {
+        "word": "benefit",
+        "physical_page": 216,
+        "printed_page": 205
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 58\n场景词群 | 社会经济\n支持学习，再靠技能谋生\nsubsidy  n.  补贴；补助\nbenefit  v.  受益\nearn  v.  赚得；获得\n放进句子里\nHe benefited from the training and began to earn a living repairing bikes.\n他从培训中受益，并开始靠修理自行车谋生。\n用法提醒\nbenefit from 表示从中受益；earn a living 表示谋生。\n雅思应用\n写作 Task 2 | 讨论技能培训与就业支持\n轮到你了\n用 benefit from 或 earn a living 描述一个虚构学习者。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "He benefited from the training and began to earn a living repairing bikes.",
+    "example_zh": "他从培训中受益，并开始靠修理自行车谋生。",
+    "examples": [
+      {
+        "en": "He benefited from the training and began to earn a living repairing bikes.",
+        "zh": "他从培训中受益，并开始靠修理自行车谋生。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "receive a subsidy",
+        "获得补助"
+      ],
+      [
+        "earn a living",
+        "谋生"
+      ],
+      [
+        "benefit from training",
+        "从培训中受益"
+      ]
+    ],
+    "notes": "benefit from 表示从中受益；earn a living 表示谋生。",
+    "scene": "A fictional adult cycle-repair training centre. At left an organisation pays part of the course cost shown by a divided fee tray, subsidy points to that contribution, no eligibility rule. At centre an adult learns a repair skill with a tutor; benefit points to the learner successfully applying the new skill and confidently fixing a wheel. At right the same adult later receives payment from a satisfied customer for a completed bicycle repair, earn points to that work-for-payment exchange. No guaranteed jobs, real subsidy programme, prices or claimed measured results.",
+    "palette": "补助部分浅蓝、学习过程叶绿、维修工作的橙色工具，随三个动作选择。",
+    "ielts": "写作 Task 2 | 讨论技能培训与就业支持",
+    "practice": "用 benefit from 或 earn a living 描述一个虚构学习者。",
+    "answer": "She benefited from the course and now earns a living making furniture.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/subsidy"
+    ],
+    "image": "previews/58.webp"
+  },
+  {
+    "id": "59",
+    "page": 59,
+    "title": "undertaking",
+    "kind": "word",
+    "targets": [
+      "undertaking"
+    ],
+    "labels": [
+      {
+        "word": "undertaking",
+        "pos": "n.",
+        "zh": "任务；事业；正式承诺"
+      }
+    ],
+    "sources": [
+      {
+        "word": "undertaking",
+        "physical_page": 219,
+        "printed_page": 208
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 59\n单词精讲 | 社会经济\nundertaking\n/ˌʌn.də'teɪ.kɪŋ/  n.\n任务；事业；正式承诺\n一项任务或事业；也可指正式作出的承诺。\n常用搭配\na major undertaking · a written undertaking · give an undertaking\n放进句子里\nRestoring the greenhouse was a major undertaking.\n修复这座温室是一项重大任务。\n用法提醒\na major undertaking 指重大任务；也可用来表示正式承诺。\n雅思应用\n口语 Part 2 | 描述一项需要合作的大工程\n轮到你了\n用 a major undertaking 描述一个虚构项目。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "Restoring the greenhouse was a major undertaking.",
+    "example_zh": "修复这座温室是一项重大任务。",
+    "examples": [
+      {
+        "en": "Restoring the greenhouse was a major undertaking.",
+        "zh": "修复这座温室是一项重大任务。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a major undertaking",
+        "一项重大任务"
+      ],
+      [
+        "a written undertaking",
+        "一份书面承诺"
+      ],
+      [
+        "give an undertaking",
+        "作出正式承诺"
+      ]
+    ],
+    "notes": "a major undertaking 指重大任务；也可用来表示正式承诺。",
+    "scene": "Huge headword with exact IPA and short definition. The dominant picture shows a large fictional restoration of a public greenhouse: several adults coordinate construction stages, equipment and plants, making a demanding piece of work clear. In a small inset integrated into the art a project organiser signs and hands over a written promise; only simple non-legible lines on paper. The inset illustrates the formal-promise sense without extra vocabulary callouts, specific legal terms or a real contract.",
+    "palette": "大型温室工程砖褐、结构钢蓝与植物绿，正式承诺的小景用纸张米白。",
+    "ielts": "口语 Part 2 | 描述一项需要合作的大工程",
+    "practice": "用 a major undertaking 描述一个虚构项目。",
+    "answer": "Building the new community centre was a major undertaking.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/undertaking"
+    ],
+    "ipa": "/ˌʌn.dəˈteɪ.kɪŋ/",
+    "definition": "一项任务或事业；也可指正式作出的承诺。",
+    "image": "previews/59.webp"
+  },
+  {
+    "id": "60",
+    "page": 60,
+    "title": "一份工作与整个职业生涯",
+    "kind": "contrast",
+    "targets": [
+      "job",
+      "occupation",
+      "profession",
+      "career"
+    ],
+    "labels": [
+      {
+        "word": "job",
+        "pos": "n.",
+        "zh": "一份工作；任务"
+      },
+      {
+        "word": "occupation",
+        "pos": "n.",
+        "zh": "职业"
+      },
+      {
+        "word": "profession",
+        "pos": "n.",
+        "zh": "需专门训练的职业"
+      },
+      {
+        "word": "career",
+        "pos": "n.",
+        "zh": "职业生涯"
+      }
+    ],
+    "sources": [
+      {
+        "word": "job",
+        "physical_page": 219,
+        "printed_page": 208
+      },
+      {
+        "word": "occupation",
+        "physical_page": 219,
+        "printed_page": 208
+      },
+      {
+        "word": "profession",
+        "physical_page": 219,
+        "printed_page": 208
+      },
+      {
+        "word": "career",
+        "physical_page": 219,
+        "printed_page": 208
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 60\n词义辨析 | 社会经济\n一份工作与整个职业生涯\noccupation  n.  职业\nprofession  n.  需专门训练的职业\njob  n.  一份工作；任务\ncareer  n.  职业生涯\n放进句子里\nHer first job was the beginning of a long career in design.\n她的第一份工作开启了漫长的设计职业生涯。\n用法提醒\ncareer 强调整个职业历程；job 可指一份工作或一项任务。\n雅思应用\n口语 Part 1 | 介绍工作与职业发展\n轮到你了\n用 job 和 career 说说一个虚构人物的职业发展。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "Her first job was the beginning of a long career in design.",
+    "example_zh": "她的第一份工作开启了漫长的设计职业生涯。",
+    "examples": [
+      {
+        "en": "Her first job was the beginning of a long career in design.",
+        "zh": "她的第一份工作开启了漫长的设计职业生涯。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "get a job",
+        "找到一份工作"
+      ],
+      [
+        "a chosen occupation",
+        "选择的职业"
+      ],
+      [
+        "enter a profession",
+        "进入专业领域"
+      ],
+      [
+        "build a career",
+        "发展职业生涯"
+      ]
+    ],
+    "notes": "career 强调整个职业历程；job 可指一份工作或一项任务。",
+    "scene": "A continuous vocational guidance illustration. job points to one specific repair assignment at a workbench. occupation points to the broad occupational-role section on a pictorial employment form with a person-and-tool icon, no written choices. profession points to a teacher demonstrating specialised formal training in an architecture studio, with plans and scale models. career uses a bracket over a spaced sequence showing the same adult’s early supervised role, experienced independent work and later mentoring, conveying a whole working life rather than a single task. Four labels only, not a grid glossary. Do not imply only highly trained professions have value.",
+    "palette": "单项工作工具橙、职业表格蓝、专业训练浅紫、职业历程温暖绿，帮助区分时间与范围。",
+    "ielts": "口语 Part 1 | 介绍工作与职业发展",
+    "practice": "用 job 和 career 说说一个虚构人物的职业发展。",
+    "answer": "His first teaching job led to a rewarding career in education.",
+    "reference_urls": [],
+    "image": "previews/60.webp"
+  },
+  {
+    "id": "61",
+    "page": 61,
+    "title": "vocation",
+    "kind": "word",
+    "targets": [
+      "vocation"
+    ],
+    "labels": [
+      {
+        "word": "vocation",
+        "pos": "n.",
+        "zh": "志业；适合自己的职业"
+      }
+    ],
+    "sources": [
+      {
+        "word": "vocation",
+        "physical_page": 220,
+        "printed_page": 209
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 61\n单词精讲 | 社会经济\nvocation\n/vəʊˈkeɪʃən/  n.\n志业；适合自己的职业\nWork that feels especially right and meaningful to you.\n放进句子里\nTeaching pottery became her vocation.\n教授陶艺成了她认定的志业。\n常用搭配\nfind your vocation · 找到自己的志业\na sense of vocation · 职业使命感\n用法提醒\nvocation 强调适合自己、愿意投入的工作。\n雅思应用\n口语 Part 2 | 描述一份想从事的工作\n轮到你了\n用 vocation 说说一项让你觉得有意义的工作。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "Teaching pottery became her vocation.",
+    "example_zh": "教授陶艺成了她认定的志业。",
+    "examples": [
+      {
+        "en": "Teaching pottery became her vocation.",
+        "zh": "教授陶艺成了她认定的志业。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "find your vocation",
+        "找到自己的志业"
+      ],
+      [
+        "a sense of vocation",
+        "职业使命感"
+      ]
+    ],
+    "notes": "vocation 强调适合自己、愿意投入的工作。",
+    "scene": "一位成年陶艺师在采光温暖的社区工作室教另一位成人拉坯。主角投入且满足，柜上保存从初学作品到成熟作品的几件陶器，表达因擅长且有意义而持续投入一项工作。人物不是被神秘召唤；无奖杯、金钱或宗教符号。右侧大插画，左侧大词头及定义。",
+    "palette": "陶土赭红、釉色青绿和窗光暖金来自有意义的手艺工作。",
+    "ielts": "口语 Part 2 | 描述一份想从事的工作",
+    "practice": "用 vocation 说说一项让你觉得有意义的工作。",
+    "answer": "示例：Helping people learn is my vocation. 帮助别人学习是我的志业。",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/vocation"
+    ],
+    "ipa": "/vəʊˈkeɪʃən/",
+    "definition": "Work that feels especially right and meaningful to you.",
+    "image": "previews/61.webp"
+  },
+  {
+    "id": "62",
+    "page": 62,
+    "title": "劳动、员工与人员",
+    "kind": "scene",
+    "targets": [
+      "labour",
+      "workforce",
+      "personnel"
+    ],
+    "labels": [
+      {
+        "word": "labour",
+        "pos": "n.",
+        "zh": "劳动；体力劳动"
+      },
+      {
+        "word": "workforce",
+        "pos": "n.",
+        "zh": "全体员工；劳动力"
+      },
+      {
+        "word": "personnel",
+        "pos": "n.",
+        "zh": "人员；职员"
+      }
+    ],
+    "sources": [
+      {
+        "word": "labour",
+        "physical_page": 220,
+        "printed_page": 209
+      },
+      {
+        "word": "workforce",
+        "physical_page": 220,
+        "printed_page": 209
+      },
+      {
+        "word": "personnel",
+        "physical_page": 220,
+        "printed_page": 209
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 62\n场景词群 | 社会经济\n劳动、员工与人员\nlabour  n.  劳动；体力劳动\nworkforce  n.  全体员工；劳动力\npersonnel  n.  人员；职员\n放进句子里\nThe workshop needs more personnel as its workforce grows.\n随着员工队伍扩大，这家作坊需要更多人员。\n用法提醒\nlabour 可指劳动；workforce 强调整体员工队伍。\n雅思应用\n阅读 | 理解就业与劳动力资料\n轮到你了\n用 workforce 描述一家虚构公司的员工队伍。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The workshop needs more personnel as its workforce grows.",
+    "example_zh": "随着员工队伍扩大，这家作坊需要更多人员。",
+    "examples": [
+      {
+        "en": "The workshop needs more personnel as its workforce grows.",
+        "zh": "随着员工队伍扩大，这家作坊需要更多人员。",
+        "original": true
+      }
+    ],
+    "collocations": [],
+    "notes": "labour 可指劳动；workforce 强调整体员工队伍。",
+    "scene": "一个明亮的虚构家具作坊全景。前景两名成人一起抬木板，labour引线落在这一体力劳动动作；中央和后景是制作、检验与记录岗位的成人，workforce用大括弧包含作坊全体工作人员；右侧门口有一组刚来报到的两位员工，personnel引线落在这组被接待的人员。不暗示personnel专指人事部或劳动力只指体力人员。",
+    "palette": "作坊暖木、工装蓝与安全提示橙取自工作环境。",
+    "ielts": "阅读 | 理解就业与劳动力资料",
+    "practice": "用 workforce 描述一家虚构公司的员工队伍。",
+    "answer": "示例：The company has a skilled workforce. 这家公司拥有一支熟练的员工队伍。",
+    "reference_urls": [],
+    "image": "previews/62.webp"
+  },
+  {
+    "id": "63",
+    "page": 63,
+    "title": "workaholic",
+    "kind": "word",
+    "targets": [
+      "workaholic"
+    ],
+    "labels": [
+      {
+        "word": "workaholic",
+        "pos": "n.",
+        "zh": "工作狂"
+      }
+    ],
+    "sources": [
+      {
+        "word": "workaholic",
+        "physical_page": 220,
+        "printed_page": 209
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 63\n单词精讲 | 社会经济\nworkaholic\n/ˌwɜːkəˈhɒlɪk/  n.\n工作狂\nSomeone who works excessively and struggles to stop.\n放进句子里\nHe describes himself as a workaholic.\n他形容自己是个工作狂。\n常用搭配\na workaholic lifestyle · 工作狂式的生活方式\nbecome a workaholic · 成为工作狂\n用法提醒\n这个词强调工作很多且难以停下，不等于“勤奋”。\n雅思应用\n写作 Task 2 | 讨论工作与生活的平衡\n轮到你了\n用 workaholic 写一句对虚构人物的描述。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "He describes himself as a workaholic.",
+    "example_zh": "他形容自己是个工作狂。",
+    "examples": [
+      {
+        "en": "He describes himself as a workaholic.",
+        "zh": "他形容自己是个工作狂。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "a workaholic lifestyle",
+        "工作狂式的生活方式"
+      ],
+      [
+        "become a workaholic",
+        "成为工作狂"
+      ]
+    ],
+    "notes": "这个词强调工作很多且难以停下，不等于“勤奋”。",
+    "scene": "夜晚办公室，成人主角仍反复查看摊满桌面的工作文件与电脑，外套和包已经准备好却迟迟没有离开。窗外夜色、钟表与空下来的同事座位表现很长工作时间，桌边关着的休闲书表现难以停止工作。不画夸张疾病、奖章或成功因果，不美化过劳。无可读电脑文字。",
+    "palette": "深靛蓝夜色对比桌灯琥珀，表现停不下来的工作时段。",
+    "ielts": "写作 Task 2 | 讨论工作与生活的平衡",
+    "practice": "用 workaholic 写一句对虚构人物的描述。",
+    "answer": "示例：The story is about a workaholic who rarely takes a break. 这个故事讲的是一个很少休息的工作狂。",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/workaholic"
+    ],
+    "ipa": "/ˌwɜːkəˈhɒlɪk/",
+    "definition": "Someone who works excessively and struggles to stop.",
+    "image": "previews/63.webp"
+  },
+  {
+    "id": "64",
+    "page": 64,
+    "title": "求职服务台与面试",
+    "kind": "scene",
+    "targets": [
+      "clerk",
+      "résumé",
+      "recommend",
+      "interview"
+    ],
+    "labels": [
+      {
+        "word": "clerk",
+        "pos": "n.",
+        "zh": "办事员；职员"
+      },
+      {
+        "word": "résumé",
+        "pos": "n.",
+        "zh": "求职简历"
+      },
+      {
+        "word": "recommend",
+        "pos": "v.",
+        "zh": "推荐；建议"
+      },
+      {
+        "word": "interview",
+        "pos": "n.",
+        "zh": "面试"
+      }
+    ],
+    "sources": [
+      {
+        "word": "clerk",
+        "physical_page": 220,
+        "printed_page": 209
+      },
+      {
+        "word": "résumé",
+        "physical_page": 220,
+        "printed_page": 209
+      },
+      {
+        "word": "recommend",
+        "physical_page": 220,
+        "printed_page": 209
+      },
+      {
+        "word": "interview",
+        "physical_page": 220,
+        "printed_page": 209
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 64\n场景词群 | 社会经济\n求职服务台与面试\nclerk  n.  办事员；职员\nrésumé  n.  求职简历\nrecommend  v.  推荐；建议\ninterview  n.  面试\n放进句子里\nShe brought her résumé to the interview.\n她带着简历参加了面试。\n用法提醒\nrecommend 可接 doing 或 that 从句。\n雅思应用\n听力 Part 2 | 听懂求职与面试安排\n轮到你了\n用 recommend doing 给虚构求职者提一条建议。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "She brought her résumé to the interview.",
+    "example_zh": "她带着简历参加了面试。",
+    "examples": [
+      {
+        "en": "She brought her résumé to the interview.",
+        "zh": "她带着简历参加了面试。",
+        "original": true
+      }
+    ],
+    "collocations": [],
+    "notes": "recommend 可接 doing 或 that 从句。",
+    "scene": "一场小型招聘活动的连续场景。左前景办事员接收申请资料，clerk引线精确指该接待者；résumé指求职者递出的带头像轮廓与履历线条的纸，无纸上文字。中间顾问把一位求职者介绍给招聘负责人，recommend指推荐介绍的手势。右侧安静半开放区域，一位求职者和面试官隔桌交谈，interview用括弧包含这次交谈，不指某个人或建筑。",
+    "palette": "简历纸白、服务台青蓝和面试区暖木，区分求职流程。",
+    "ielts": "听力 Part 2 | 听懂求职与面试安排",
+    "practice": "用 recommend doing 给虚构求职者提一条建议。",
+    "answer": "示例：I recommend preparing a clear résumé. 我建议准备一份清楚的简历。",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/grammar/british-grammar/recommend"
+    ],
+    "image": "previews/64.webp"
+  },
+  {
+    "id": "65",
+    "page": 65,
+    "title": "雇用人员与租用设备",
+    "kind": "scene",
+    "targets": [
+      "employ",
+      "hire"
+    ],
+    "labels": [
+      {
+        "word": "employ",
+        "pos": "v.",
+        "zh": "雇用"
+      },
+      {
+        "word": "hire",
+        "pos": "v.",
+        "zh": "租用；雇用"
+      }
+    ],
+    "sources": [
+      {
+        "word": "employ",
+        "physical_page": 220,
+        "printed_page": 209
+      },
+      {
+        "word": "hire",
+        "physical_page": 220,
+        "printed_page": 209
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 65\n场景词群 | 社会经济\n雇用人员与租用设备\nemploy  v.  雇用\nhire  v.  租用；雇用\n放进句子里\nThe organiser employed two assistants and hired sound equipment.\n组织者雇用了两名助手，并租用了音响设备。\n用法提醒\nhire 可指雇人或租物；employ 常用于雇用人员。\n雅思应用\n口语 Part 3 | 讨论活动组织与工作\n轮到你了\n用 hire 描述一次虚构的设备租用。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The organiser employed two assistants and hired sound equipment.",
+    "example_zh": "组织者雇用了两名助手，并租用了音响设备。",
+    "examples": [
+      {
+        "en": "The organiser employed two assistants and hired sound equipment.",
+        "zh": "组织者雇用了两名助手，并租用了音响设备。",
+        "original": true
+      }
+    ],
+    "collocations": [],
+    "notes": "hire 可指雇人或租物；employ 常用于雇用人员。",
+    "scene": "一个虚构社区活动的筹备场地。左边负责人欢迎新雇用的工作人员，签署的空白合同和工作证帮助理解employ，标签指雇用双方的确认动作。右边设备商把便携音响交给活动组织者，组织者同时接过租赁单，hire指整个租用交接。不印价格、合同条款或品牌。用同一布景连接两个动作。",
+    "palette": "人员工装蓝与欢迎手势暖橙，租赁音响深灰与舞台紫。",
+    "ielts": "口语 Part 3 | 讨论活动组织与工作",
+    "practice": "用 hire 描述一次虚构的设备租用。",
+    "answer": "示例：We hired a projector for the event. 我们为活动租了一台投影仪。",
+    "reference_urls": [],
+    "image": "previews/65.webp"
+  },
+  {
+    "id": "66",
+    "page": 66,
+    "title": "三种表达：被解雇",
+    "kind": "scene",
+    "targets": [
+      "fire",
+      "dismiss",
+      "sack"
+    ],
+    "labels": [
+      {
+        "word": "fire",
+        "pos": "v.",
+        "zh": "解雇"
+      },
+      {
+        "word": "dismiss",
+        "pos": "v.",
+        "zh": "解雇；解职"
+      },
+      {
+        "word": "sack",
+        "pos": "v.",
+        "zh": "解雇"
+      }
+    ],
+    "sources": [
+      {
+        "word": "fire",
+        "physical_page": 221,
+        "printed_page": 210
+      },
+      {
+        "word": "dismiss",
+        "physical_page": 221,
+        "printed_page": 210
+      },
+      {
+        "word": "sack",
+        "physical_page": 221,
+        "printed_page": 210
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 66\n场景词群 | 社会经济\n三种表达：被解雇\nfire  v.  解雇\ndismiss  v.  解雇；解职\nsack  v.  解雇\n放进句子里\nThe company dismissed the manager.\n公司解雇了那位经理。\n用法提醒\n三者都可指解雇；sack 较口语化，常见于英式英语。\n雅思应用\n阅读 | 识别同一事件的不同措辞\n轮到你了\n将“他被公司解雇了”用 dismiss 表达出来。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The company dismissed the manager.",
+    "example_zh": "公司解雇了那位经理。",
+    "examples": [
+      {
+        "en": "The company dismissed the manager.",
+        "zh": "公司解雇了那位经理。",
+        "original": true
+      }
+    ],
+    "collocations": [],
+    "notes": "三者都可指解雇；sack 较口语化，常见于英式英语。",
+    "scene": "同一虚构办公室背景中的三个清楚但自然相连的教学小场景，都表现雇主结束一段雇用关系：左边主管收回工作证、员工带走物品，fire指结束工作关系的对话；中间正式会议桌上交接离职文件，dismiss指发出文件的动作；右边离开门口的员工与主管告别，sack指工作结束情景。没有火焰、麻袋、攻击羞辱或具体劳动法律判断。每个词签只出现一次。",
+    "palette": "办公室蓝灰、文件米白与较克制的赭红表现工作关系结束。",
+    "ielts": "阅读 | 识别同一事件的不同措辞",
+    "practice": "将“他被公司解雇了”用 dismiss 表达出来。",
+    "answer": "He was dismissed by the company.",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/sack"
+    ],
+    "image": "previews/66.webp"
+  },
+  {
+    "id": "67",
+    "page": 67,
+    "title": "裁员、辞职与退休",
+    "kind": "scene",
+    "targets": [
+      "lay-off",
+      "resign",
+      "retire"
+    ],
+    "labels": [
+      {
+        "word": "lay-off",
+        "pos": "n.",
+        "zh": "裁员"
+      },
+      {
+        "word": "resign",
+        "pos": "v.",
+        "zh": "辞职"
+      },
+      {
+        "word": "retire",
+        "pos": "v.",
+        "zh": "退休"
+      }
+    ],
+    "sources": [
+      {
+        "word": "lay-off",
+        "physical_page": 221,
+        "printed_page": 210
+      },
+      {
+        "word": "resign",
+        "physical_page": 221,
+        "printed_page": 210
+      },
+      {
+        "word": "retire",
+        "physical_page": 221,
+        "printed_page": 210
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 67\n场景词群 | 社会经济\n裁员、辞职与退休\nlay-off  n.  裁员\nresign  v.  辞职\nretire  v.  退休\n通知\n辞职信\n放进句子里\nShe decided to resign rather than retire.\n她决定辞职，而不是退休。\n用法提醒\nlay-off 侧重岗位减少；resign 是辞职，retire 是退休。\n雅思应用\n阅读 | 理解就业变化的不同原因\n轮到你了\n说出 resign 和 retire 在这张图中的区别。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "She decided to resign rather than retire.",
+    "example_zh": "她决定辞职，而不是退休。",
+    "examples": [
+      {
+        "en": "She decided to resign rather than retire.",
+        "zh": "她决定辞职，而不是退休。",
+        "original": true
+      }
+    ],
+    "collocations": [],
+    "notes": "lay-off 侧重岗位减少；resign 是辞职，retire 是退休。",
+    "scene": "三个连续但不同的虚构工作场景。左侧一家小办公室因为岗位减少而撤去两张工位，员工收到一份通知并整理物品，lay-off括住岗位减少后的离职情景；中间成人员工主动递上辞职信，resign指递信动作；右边一位完成职业生涯的年长员工与同事温和告别，旁有旅行背包和兴趣画册暗示退休后的安排，retire指此告别。无年龄数字、养老金或法律权利承诺。",
+    "palette": "裁员区蓝灰、主动辞职暖棕、退休安排绿金，区分三种离职原因。",
+    "ielts": "阅读 | 理解就业变化的不同原因",
+    "practice": "说出 resign 和 retire 在这张图中的区别。",
+    "answer": "resign 指辞去职位；retire 指结束职业生涯而退休。",
+    "reference_urls": [],
+    "image": "previews/67.webp"
+  },
+  {
+    "id": "68",
+    "page": 68,
+    "title": "discharge",
+    "kind": "word",
+    "targets": [
+      "discharge"
+    ],
+    "labels": [
+      {
+        "word": "discharge",
+        "pos": "n.",
+        "zh": "卸货"
+      }
+    ],
+    "sources": [
+      {
+        "word": "discharge",
+        "physical_page": 221,
+        "printed_page": 210
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 68\n单词精讲 | 社会经济\ndischarge\n/ˈdɪstʃɑːdʒ/  n.\n卸货\nThe unloading of goods from a ship.\n放进句子里\nThe discharge of the cargo took two hours.\n这批货物的卸载花了两个小时。\n常用搭配\nthe discharge of cargo · 货物的卸载\ncomplete the discharge · 完成卸货\n用法提醒\n本卡取卸货名词义，重音在第一音节。\n雅思应用\n阅读 | 理解港口与货物运输流程\n轮到你了\n用 the discharge of 描述这幅港口图。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The discharge of the cargo took two hours.",
+    "example_zh": "这批货物的卸载花了两个小时。",
+    "examples": [
+      {
+        "en": "The discharge of the cargo took two hours.",
+        "zh": "这批货物的卸载花了两个小时。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "the discharge of cargo",
+        "货物的卸载"
+      ],
+      [
+        "complete the discharge",
+        "完成卸货"
+      ]
+    ],
+    "notes": "本卡取卸货名词义，重音在第一音节。",
+    "scene": "大型但清楚的原创港口场景：货船靠岸，岸吊正把船上的无字木箱沿明确向岸的方向吊到码头；岸上叉车接走已经卸下的木箱。主插画强调货物从船上移到岸上的卸载过程，无火炮、医院或人体。主词头与名词音标在上方左侧，不另给船、箱子和吊车加词签。",
+    "palette": "海港青蓝、木箱赭黄与吊机安全橙来自卸货场景。",
+    "ielts": "阅读 | 理解港口与货物运输流程",
+    "practice": "用 the discharge of 描述这幅港口图。",
+    "answer": "示例：The discharge of the cargo is almost complete. 这批货物的卸载即将完成。",
+    "reference_urls": [
+      "https://www.collinsdictionary.com/dictionary/english/discharge"
+    ],
+    "ipa": "/ˈdɪstʃɑːdʒ/",
+    "definition": "The unloading of goods from a ship.",
+    "image": "previews/68.webp"
+  },
+  {
+    "id": "69",
+    "page": 69,
+    "title": "失败、结果与损失",
+    "kind": "scene",
+    "targets": [
+      "failure",
+      "result",
+      "loss"
+    ],
+    "labels": [
+      {
+        "word": "failure",
+        "pos": "n.",
+        "zh": "失败"
+      },
+      {
+        "word": "result",
+        "pos": "n.",
+        "zh": "结果"
+      },
+      {
+        "word": "loss",
+        "pos": "n.",
+        "zh": "损失"
+      }
+    ],
+    "sources": [
+      {
+        "word": "failure",
+        "physical_page": 221,
+        "printed_page": 210
+      },
+      {
+        "word": "result",
+        "physical_page": 221,
+        "printed_page": 210
+      },
+      {
+        "word": "loss",
+        "physical_page": 221,
+        "printed_page": 210
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 69\n场景词群 | 社会经济\n失败、结果与损失\nresult  n.  结果\nfailure  n.  失败\nloss  n.  损失\n放进句子里\nThe trial ended in failure and caused a small loss.\n这次试验以失败告终，并造成了小额损失。\n用法提醒\nresult 可为好或坏的结果；failure 和 loss 含负面含义。\n雅思应用\n写作 Task 2 | 说明尝试的结果与代价\n轮到你了\n用 result 或 failure 描述一次虚构的试验。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The trial ended in failure and caused a small loss.",
+    "example_zh": "这次试验以失败告终，并造成了小额损失。",
+    "examples": [
+      {
+        "en": "The trial ended in failure and caused a small loss.",
+        "zh": "这次试验以失败告终，并造成了小额损失。",
+        "original": true
+      }
+    ],
+    "collocations": [],
+    "notes": "result 可为好或坏的结果；failure 和 loss 含负面含义。",
+    "scene": "成人设计小组进行纸板桥承重试验的原创连续场景。左侧桥因试验载荷断裂，failure指未成功的试验；中央研究者把试验后的变化绘成简单无字结果图，result指试验结果记录，不能把result一律画成失败；右侧损坏的模型材料与记录支出的小本子，loss指损失的材料和成本，不给出钱币金额。成员理性记录，无嘲笑。",
+    "palette": "试验纸板暖棕、断裂处橙红、结果记录青蓝。",
+    "ielts": "写作 Task 2 | 说明尝试的结果与代价",
+    "practice": "用 result 或 failure 描述一次虚构的试验。",
+    "answer": "示例：The result showed that the design needed improvement. 结果表明这个设计需要改进。",
+    "reference_urls": [],
+    "image": "previews/69.webp"
+  },
+  {
+    "id": "70",
+    "page": 70,
+    "title": "abortion",
+    "kind": "word",
+    "targets": [
+      "abortion"
+    ],
+    "labels": [
+      {
+        "word": "abortion",
+        "pos": "n.",
+        "zh": "人工流产；人为终止妊娠"
+      }
+    ],
+    "sources": [
+      {
+        "word": "abortion",
+        "physical_page": 221,
+        "printed_page": 210
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 70\n单词精讲 | 社会经济\nabortion\n/ə'bɔ:ʃən/  n.\n人工流产；人为终止妊娠\nThe deliberate ending of a pregnancy.\n放进句子里\nThe course includes a section on abortion.\n这门课程有一个关于人工流产的单元。\n常用搭配\nhave an abortion · 接受人工流产\na section on abortion · 关于人工流产的一节\n用法提醒\n本卡取常见医疗名词义，按阅读语境理解。\n雅思应用\n阅读 | 识别健康与社会议题中的词义\n轮到你了\n说出例句中 abortion 的中文意思。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The course includes a section on abortion.",
+    "example_zh": "这门课程有一个关于人工流产的单元。",
+    "examples": [
+      {
+        "en": "The course includes a section on abortion.",
+        "zh": "这门课程有一个关于人工流产的单元。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "have an abortion",
+        "接受人工流产"
+      ],
+      [
+        "a section on abortion",
+        "关于人工流产的一节"
+      ]
+    ],
+    "notes": "本卡取常见医疗名词义，按阅读语境理解。",
+    "scene": "抽象、非写实、非血腥的成人健康课程与咨询场景。主插画是一位成人教师和成年听众一起看课程资料；资料上只有极简的抽象妊娠时间线：柔和圆形代表妊娠进程，一条分支在足月前结束，另一条延续至一个简化襁褓轮廓。用早期结束的分支表达“人为终止妊娠”，不画身体内部、胎儿写实图、手术、药物、器械或操作步骤。没有政治、法律、风险、疗效或个人选择评判，也不要用叉号划掉婴儿。词义定义在主词头旁，图中不加任何额外标注或文字。",
+    "palette": "健康课程的柔青绿、暖米白与淡杏色，保持中性平静。",
+    "ielts": "阅读 | 识别健康与社会议题中的词义",
+    "practice": "说出例句中 abortion 的中文意思。",
+    "answer": "人工流产，即人为终止妊娠。",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/abortion"
+    ],
+    "ipa": "/əˈbɔːʃən/",
+    "definition": "The deliberate ending of a pregnancy.",
+    "image": "previews/70.webp"
+  },
+  {
+    "id": "71",
+    "page": 71,
+    "title": "机会与可能性",
+    "kind": "scene",
+    "targets": [
+      "opportunity",
+      "chance"
+    ],
+    "labels": [
+      {
+        "word": "opportunity",
+        "pos": "n.",
+        "zh": "机会；时机"
+      },
+      {
+        "word": "chance",
+        "pos": "n.",
+        "zh": "机会；可能性"
+      }
+    ],
+    "sources": [
+      {
+        "word": "opportunity",
+        "physical_page": 221,
+        "printed_page": 210
+      },
+      {
+        "word": "chance",
+        "physical_page": 221,
+        "printed_page": 210
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 71\n场景词群 | 社会经济\n机会与可能性\nopportunity  n.  机会；时机\nchance  n.  机会；可能性\n放进句子里\nThe course offers an opportunity to learn a new skill.\n这门课程提供了学习一项新技能的机会。\n用法提醒\nopportunity 强调可做事的机会；chance 还可指可能性。\n雅思应用\n口语 Part 2 | 描述一次学习机会\n轮到你了\n用 opportunity to 说说一次你想获得的学习机会。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The course offers an opportunity to learn a new skill.",
+    "example_zh": "这门课程提供了学习一项新技能的机会。",
+    "examples": [
+      {
+        "en": "The course offers an opportunity to learn a new skill.",
+        "zh": "这门课程提供了学习一项新技能的机会。",
+        "original": true
+      }
+    ],
+    "collocations": [],
+    "notes": "opportunity 强调可做事的机会；chance 还可指可能性。",
+    "scene": "一场成人技能开放日的两处相连场景。左侧参加者走向敞开的培训工作室并收到报名邀请，opportunity指这个可参与、可学习的机会；右侧桌上是一只透明抽签盒，里面只有不同颜色无字小球，一名成人尚未抽取，chance指抽签可能出现某结果的未确定性。不提供概率数字、奖品价值或赌博场景。",
+    "palette": "开放日的阳光金和植物绿表现机会，抽签盒透明青蓝表现不确定性。",
+    "ielts": "口语 Part 2 | 描述一次学习机会",
+    "practice": "用 opportunity to 说说一次你想获得的学习机会。",
+    "answer": "示例：I would like an opportunity to learn pottery. 我想有机会学习陶艺。",
+    "reference_urls": [],
+    "image": "previews/71.webp"
+  },
+  {
+    "id": "72",
+    "page": 72,
+    "title": "选择与变化",
+    "kind": "scene",
+    "targets": [
+      "choose",
+      "change"
+    ],
+    "labels": [
+      {
+        "word": "choose",
+        "pos": "v.",
+        "zh": "选择"
+      },
+      {
+        "word": "change",
+        "pos": "n.",
+        "zh": "改变；变化"
+      }
+    ],
+    "sources": [
+      {
+        "word": "choose",
+        "physical_page": 222,
+        "printed_page": 211
+      },
+      {
+        "word": "change",
+        "physical_page": 222,
+        "printed_page": 211
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 72\n场景词群 | 社会经济\n选择与变化\nchoose  v.  选择\nchange  n.  改变；变化\n放进句子里\nWe chose a new layout, and the change made the room brighter.\n我们选择了新布局，这一改变让房间更明亮了。\n用法提醒\nchoose 是动词；本卡的 change 是表示变化的名词。\n雅思应用\n口语 Part 2 | 描述一处改善过的地方\n轮到你了\n用名词 change 描述图中的前后变化。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "We chose a new layout, and the change made the room brighter.",
+    "example_zh": "我们选择了新布局，这一改变让房间更明亮了。",
+    "examples": [
+      {
+        "en": "We chose a new layout, and the change made the room brighter.",
+        "zh": "我们选择了新布局，这一改变让房间更明亮了。",
+        "original": true
+      }
+    ],
+    "collocations": [],
+    "notes": "choose 是动词；本卡的 change 是表示变化的名词。",
+    "scene": "虚构社区图书馆进行布置更新的连续前后场景。左侧一位成人在两张不同阅读区模型方案之间作选择，choose引线落在选定其中一张的手势；右侧同一阅读角在更新前后成自然相邻对照：旧有零散座位变为可移动圆桌与更明亮的阅读角，change用括弧指前后布局差异。不能把change只指硬币或换衣服，不印额外方案名称。",
+    "palette": "方案选择桌暖木与蓝纸，更新后的阅读角以明亮绿和杏色表现变化。",
+    "ielts": "口语 Part 2 | 描述一处改善过的地方",
+    "practice": "用名词 change 描述图中的前后变化。",
+    "answer": "示例：The change made the reading area more welcoming. 这个改变让阅读区更宜人。",
+    "reference_urls": [],
+    "image": "previews/72.webp"
+  },
+  {
+    "id": "73",
+    "page": 73,
+    "title": "解决问题与改进设计",
+    "kind": "scene",
+    "targets": [
+      "solve",
+      "develop",
+      "improve"
+    ],
+    "labels": [
+      {
+        "word": "solve",
+        "pos": "v.",
+        "zh": "解决"
+      },
+      {
+        "word": "develop",
+        "pos": "v.",
+        "zh": "开发；发展"
+      },
+      {
+        "word": "improve",
+        "pos": "v.",
+        "zh": "改进；改善"
+      }
+    ],
+    "sources": [
+      {
+        "word": "solve",
+        "physical_page": 222,
+        "printed_page": 211
+      },
+      {
+        "word": "develop",
+        "physical_page": 222,
+        "printed_page": 211
+      },
+      {
+        "word": "improve",
+        "physical_page": 222,
+        "printed_page": 211
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 73\n场景词群 | 社会经济\n解决问题与改进设计\nsolve  v.  解决\ndevelop  v.  开发；发展\nimprove  v.  改进；改善\n放进句子里\nThe team developed a tool to solve the problem.\n团队开发了一种工具来解决这个问题。\n用法提醒\nsolve a problem 是解决问题；improve a design 是改进设计。\n雅思应用\n写作 Task 2 | 说明解决方案与改进\n轮到你了\n用 improve a design 写一句建议。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The team developed a tool to solve the problem.",
+    "example_zh": "团队开发了一种工具来解决这个问题。",
+    "examples": [
+      {
+        "en": "The team developed a tool to solve the problem.",
+        "zh": "团队开发了一种工具来解决这个问题。",
+        "original": true
+      }
+    ],
+    "collocations": [],
+    "notes": "solve a problem 是解决问题；improve a design 是改进设计。",
+    "scene": "成人共同设计社区搬运推车的工作室。左侧研究者找到车轮卡住原因并调整轴距，solve指解除卡住问题的动作；中间两人从纸上草图和小模型做出新推车原型，develop括住从设计到原型的过程；右边对已有推车加宽扶手、改进轮子后进行试推，improve指前后改良的比较。只作虚构设计学习，无真实性能指标。",
+    "palette": "工作台暖木、图纸青蓝、原型金属灰与修改橙。",
+    "ielts": "写作 Task 2 | 说明解决方案与改进",
+    "practice": "用 improve a design 写一句建议。",
+    "answer": "示例：Testing can help us improve a design. 测试能帮助我们改进设计。",
+    "reference_urls": [],
+    "image": "previews/73.webp"
+  },
+  {
+    "id": "74",
+    "page": 74,
+    "title": "sustainable",
+    "kind": "word",
+    "targets": [
+      "sustainable"
+    ],
+    "labels": [
+      {
+        "word": "sustainable",
+        "pos": "adj.",
+        "zh": "可持续的"
+      }
+    ],
+    "sources": [
+      {
+        "word": "sustainable",
+        "physical_page": 222,
+        "printed_page": 211
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 74\n单词精讲 | 社会经济\nsustainable\n/sə'steɪnəbəl/  adj.\n可持续的\nAble to continue without exhausting natural resources.\n放进句子里\nRefill stations can support a more sustainable lifestyle.\n补充装站点有助于支持更可持续的生活方式。\n常用搭配\nsustainable development · 可持续发展\na sustainable lifestyle · 可持续的生活方式\n用法提醒\n常用 sustainable 修饰发展、交通或生活方式。\n雅思应用\n写作 Task 2 | 讨论资源使用与生活方式\n轮到你了\n用 sustainable lifestyle 写一条生活建议。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "Refill stations can support a more sustainable lifestyle.",
+    "example_zh": "补充装站点有助于支持更可持续的生活方式。",
+    "examples": [
+      {
+        "en": "Refill stations can support a more sustainable lifestyle.",
+        "zh": "补充装站点有助于支持更可持续的生活方式。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "sustainable development",
+        "可持续发展"
+      ],
+      [
+        "a sustainable lifestyle",
+        "可持续的生活方式"
+      ]
+    ],
+    "notes": "常用 sustainable 修饰发展、交通或生活方式。",
+    "scene": "一个原创社区补充装与维修小店的大场景，成人用耐用金属瓶补充饮水、用可重复使用玻璃罐购买散装用品，另一侧有人修好旧物继续使用。物品在使用、清洗、再使用之间以简单无字环形箭头相连，表现减少持续消耗资源而能够长久维持的生活方式。无环保口号、品牌、排放数字或效果保证。左上大词头和准确词性音标，右侧主插画充分展开。",
+    "palette": "玻璃罐青绿、耐用金属冷蓝和修理木色，由重复使用场景决定。",
+    "ielts": "写作 Task 2 | 讨论资源使用与生活方式",
+    "practice": "用 sustainable lifestyle 写一条生活建议。",
+    "answer": "示例：Repairing items can support a sustainable lifestyle. 修理物品有助于可持续的生活方式。",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/sustainable"
+    ],
+    "ipa": "/səˈsteɪnəbəl/",
+    "definition": "Able to continue without exhausting natural resources.",
+    "image": "previews/74.webp"
+  },
+  {
+    "id": "75",
+    "page": 75,
+    "title": "组织管理与规则控制",
+    "kind": "scene",
+    "targets": [
+      "manage",
+      "regulate"
+    ],
+    "labels": [
+      {
+        "word": "manage",
+        "pos": "v.",
+        "zh": "管理"
+      },
+      {
+        "word": "regulate",
+        "pos": "v.",
+        "zh": "管理；管制"
+      }
+    ],
+    "sources": [
+      {
+        "word": "manage",
+        "physical_page": 222,
+        "printed_page": 211
+      },
+      {
+        "word": "regulate",
+        "physical_page": 222,
+        "printed_page": 211
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 75\n场景词群 | 社会经济\n组织管理与规则控制\nmanage  v.  管理\nregulate  v.  管理；管制\n放进句子里\nThe team manages the centre and regulates access to the workshop.\n团队管理这座中心，并依规则控制工作坊的进入。\n用法提醒\nmanage 侧重组织；regulate 侧重依规则控制。\n雅思应用\n阅读 | 理解公共服务的管理方式\n轮到你了\n用 manage 描述一个虚构团队的工作。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The team manages the centre and regulates access to the workshop.",
+    "example_zh": "团队管理这座中心，并依规则控制工作坊的进入。",
+    "examples": [
+      {
+        "en": "The team manages the centre and regulates access to the workshop.",
+        "zh": "团队管理这座中心，并依规则控制工作坊的进入。",
+        "original": true
+      }
+    ],
+    "collocations": [],
+    "notes": "manage 侧重组织；regulate 侧重依规则控制。",
+    "scene": "虚构社区中心的开放工作坊。左侧负责人把不同活动材料分配到桌面、与助手安排场地，manage指组织人员和资源；右侧工作人员按预约时段安排参与者进入工具工作区，桌上有无字时钟图形和预约卡，regulate指依据规则控制进入与使用的过程。不画政府执法、不印法律条文或安全效果承诺。",
+    "palette": "社区空间暖木、管理安排青蓝、预约控制绿与杏色。",
+    "ielts": "阅读 | 理解公共服务的管理方式",
+    "practice": "用 manage 描述一个虚构团队的工作。",
+    "answer": "示例：The team manages a community centre. 这个团队管理一座社区中心。",
+    "reference_urls": [],
+    "image": "previews/75.webp"
+  },
+  {
+    "id": "76",
+    "page": 76,
+    "title": "sanction",
+    "kind": "word",
+    "targets": [
+      "sanction"
+    ],
+    "labels": [
+      {
+        "word": "sanction",
+        "pos": "n.",
+        "zh": "批准；制裁"
+      }
+    ],
+    "sources": [
+      {
+        "word": "sanction",
+        "physical_page": 222,
+        "printed_page": 211
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 76\n单词精讲 | 社会经济\nsanction\n/'sæŋkʃən/  n.\n批准；制裁\nOfficial permission, or a penalty imposed by an authority.\n放进句子里\nThe event went ahead with official sanction.\n这项活动在获得正式批准后继续进行。\n常用搭配\nofficial sanction · 正式批准\nimpose sanctions · 实施制裁\n用法提醒\n批准义常为不可数名词；制裁义常用复数 sanctions。\n雅思应用\n阅读 | 根据上下文辨认相反义项\n轮到你了\n判断例句中的 sanction 表示批准还是制裁。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The event went ahead with official sanction.",
+    "example_zh": "这项活动在获得正式批准后继续进行。",
+    "examples": [
+      {
+        "en": "The event went ahead with official sanction.",
+        "zh": "这项活动在获得正式批准后继续进行。",
+        "original": true
+      }
+    ],
+    "collocations": [
+      [
+        "official sanction",
+        "正式批准"
+      ],
+      [
+        "impose sanctions",
+        "实施制裁"
+      ]
+    ],
+    "notes": "批准义常为不可数名词；制裁义常用复数 sanctions。",
+    "scene": "大词头下是一幅一分为二但连续的原创教学插画，清楚展示同一名词两种意义。左侧活动主办方向社区中心负责人提交活动方案，负责人在无字文件上盖绿色对勾章，表示正式批准；右侧一个虚构组织因违反内部规则收到正式处罚通知，无字通知用禁用权限图案和橙色边框表达制裁，旁有被暂时收回的会员通行证。不要暗示这两种是同一件事，不用真实国家、国旗、军事或现行经济制裁。画中不加第二个词头或额外标签，义项依大标题下中文与下部用法说明区分。",
+    "palette": "批准绿色与文件暖白，对比处罚通知的克制橙灰。",
+    "ielts": "阅读 | 根据上下文辨认相反义项",
+    "practice": "判断例句中的 sanction 表示批准还是制裁。",
+    "answer": "表示正式批准，线索是 with official sanction。",
+    "reference_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/sanction?q=sanction_1"
+    ],
+    "ipa": "/ˈsæŋkʃən/",
+    "definition": "Official permission, or a penalty imposed by an authority.",
+    "image": "previews/76.webp"
+  },
+  {
+    "id": "77",
+    "page": 77,
+    "title": "安排协调与共同合作",
+    "kind": "scene",
+    "targets": [
+      "coordinate",
+      "cooperate",
+      "collaborate"
+    ],
+    "labels": [
+      {
+        "word": "coordinate",
+        "pos": "v.",
+        "zh": "协调"
+      },
+      {
+        "word": "cooperate",
+        "pos": "v.",
+        "zh": "合作；配合"
+      },
+      {
+        "word": "collaborate",
+        "pos": "v.",
+        "zh": "合作；共同创作"
+      }
+    ],
+    "sources": [
+      {
+        "word": "coordinate",
+        "physical_page": 222,
+        "printed_page": 211
+      },
+      {
+        "word": "cooperate",
+        "physical_page": 222,
+        "printed_page": 211
+      },
+      {
+        "word": "collaborate",
+        "physical_page": 222,
+        "printed_page": 211
+      }
+    ],
+    "display_text": "IELTS 词汇手记 | 77\n场景词群 | 社会经济\n安排协调与共同合作\ncoordinate  v.  协调\ncooperate  v.  合作；配合\ncollaborate  v.  合作；共同创作\n放进句子里\nThe artists collaborated on a community exhibition.\n这些艺术家合作筹办了一场社区展览。\n用法提醒\ncoordinate 侧重协调安排；collaborate 常接 on a project。\n雅思应用\n口语 Part 2 | 描述一次团队合作\n轮到你了\n用 cooperate with 或 collaborate on 描述一项合作。\n第16章 社会经济 · 原创例句与练习 · 非真题",
+    "example_en": "The artists collaborated on a community exhibition.",
+    "example_zh": "这些艺术家合作筹办了一场社区展览。",
+    "examples": [
+      {
+        "en": "The artists collaborated on a community exhibition.",
+        "zh": "这些艺术家合作筹办了一场社区展览。",
+        "original": true
+      }
+    ],
+    "collocations": [],
+    "notes": "coordinate 侧重协调安排；collaborate 常接 on a project。",
+    "scene": "社区展览筹备的大场景。左侧协调者在无字时间安排板前把布展、搬运和开幕活动卡连到一起，coordinate指使活动配合的安排动作；中央两位成人互相配合抬一件大展架，cooperate指两人的共同搬运；右侧两位设计者在同一张海报草稿上共同绘画、修改，collaborate指共同创作过程。三词可有意义重叠，画面展示典型用法，不宣称严格互斥。",
+    "palette": "安排板青蓝、搬运展架木棕与共同创作珊瑚紫。",
+    "ielts": "口语 Part 2 | 描述一次团队合作",
+    "practice": "用 cooperate with 或 collaborate on 描述一项合作。",
+    "answer": "示例：We collaborated on a poster for the exhibition. 我们合作为展览设计了一张海报。",
+    "reference_urls": [],
+    "image": "previews/77.webp"
+  }
+]

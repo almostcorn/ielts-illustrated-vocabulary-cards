@@ -2,7 +2,7 @@
   "title": "IELTS 插画词汇手记",
   "updated": "2026-11-24",
   "repository": "https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards",
-  "release_tag": "v2026.11.24-ch15",
+  "release_tag": "v2026.11.24-ch16",
   "chapters": [
     {
       "chapter": 1,
@@ -7452,9 +7452,731 @@
           "preview": "previews/58.webp"
         }
       ]
+    },
+    {
+      "chapter": 16,
+      "title": "社会经济",
+      "status": "chapter_complete",
+      "cards": 77,
+      "headwords": 171,
+      "path": "chapters/ch16-社会经济",
+      "pdf": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.24-ch16/ch16-learning-cards.pdf",
+      "download": "https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.24-ch16/ch16-study-pack.zip",
+      "index": [
+        {
+          "number": 1,
+          "title": "economy",
+          "words": [
+            "economy"
+          ],
+          "preview": "previews/01.webp"
+        },
+        {
+          "number": 2,
+          "title": "商品怎样进入市场",
+          "words": [
+            "trade",
+            "market",
+            "industry"
+          ],
+          "preview": "previews/02.webp"
+        },
+        {
+          "number": 3,
+          "title": "商人怎样宣传商品",
+          "words": [
+            "merchant",
+            "commercial",
+            "advertise",
+            "slogan"
+          ],
+          "preview": "previews/03.webp"
+        },
+        {
+          "number": 4,
+          "title": "为社区项目提供资金",
+          "words": [
+            "financial",
+            "fund"
+          ],
+          "preview": "previews/04.webp"
+        },
+        {
+          "number": 5,
+          "title": "捐赠物品与捐资支持",
+          "words": [
+            "donate",
+            "endow"
+          ],
+          "preview": "previews/05.webp"
+        },
+        {
+          "number": 6,
+          "title": "买下家具还是租用店铺",
+          "words": [
+            "purchase",
+            "lease"
+          ],
+          "preview": "previews/06.webp"
+        },
+        {
+          "number": 7,
+          "title": "afford",
+          "words": [
+            "afford"
+          ],
+          "preview": "previews/07.webp"
+        },
+        {
+          "number": 8,
+          "title": "零售连锁与食品杂货店",
+          "words": [
+            "retail",
+            "chain",
+            "grocery"
+          ],
+          "preview": "previews/08.webp"
+        },
+        {
+          "number": 9,
+          "title": "促销活动与价格折扣",
+          "words": [
+            "promotion",
+            "discount"
+          ],
+          "preview": "previews/09.webp"
+        },
+        {
+          "number": 10,
+          "title": "代金券与优惠券",
+          "words": [
+            "voucher",
+            "coupon"
+          ],
+          "preview": "previews/10.webp"
+        },
+        {
+          "number": 11,
+          "title": "旅行前兑换货币",
+          "words": [
+            "currency",
+            "exchange"
+          ],
+          "preview": "previews/11.webp"
+        },
+        {
+          "number": 12,
+          "title": "swap",
+          "words": [
+            "swap"
+          ],
+          "preview": "previews/12.webp"
+        },
+        {
+          "number": 13,
+          "title": "账单与付款凭据",
+          "words": [
+            "invoice",
+            "receipt"
+          ],
+          "preview": "previews/13.webp"
+        },
+        {
+          "number": 14,
+          "title": "课堂上理解征税",
+          "words": [
+            "tax",
+            "impose",
+            "levy"
+          ],
+          "preview": "previews/14.webp"
+        },
+        {
+          "number": 15,
+          "title": "进口商品与关税",
+          "words": [
+            "tariff",
+            "duty"
+          ],
+          "preview": "previews/15.webp"
+        },
+        {
+          "number": 16,
+          "title": "消耗能源与花钱付款",
+          "words": [
+            "consume",
+            "spend"
+          ],
+          "preview": "previews/16.webp"
+        },
+        {
+          "number": 17,
+          "title": "设备成本与店铺开支",
+          "words": [
+            "cost",
+            "expense"
+          ],
+          "preview": "previews/17.webp"
+        },
+        {
+          "number": 18,
+          "title": "收入总额怎样理解",
+          "words": [
+            "revenue",
+            "gross"
+          ],
+          "preview": "previews/18.webp"
+        },
+        {
+          "number": 19,
+          "title": "recession",
+          "words": [
+            "recession"
+          ],
+          "preview": "previews/19.webp"
+        },
+        {
+          "number": 20,
+          "title": "经济低迷与危机",
+          "words": [
+            "depression",
+            "crisis"
+          ],
+          "preview": "previews/20.webp"
+        },
+        {
+          "number": 21,
+          "title": "银行里的安全、债券与债务",
+          "words": [
+            "security",
+            "bond",
+            "debt"
+          ],
+          "preview": "previews/21.webp"
+        },
+        {
+          "number": 22,
+          "title": "deficit",
+          "words": [
+            "deficit"
+          ],
+          "preview": "previews/22.webp"
+        },
+        {
+          "number": 23,
+          "title": "总体物价的两种变化",
+          "words": [
+            "inflation",
+            "deflation"
+          ],
+          "preview": "previews/23.webp"
+        },
+        {
+          "number": 24,
+          "title": "书店里逐渐减少的变化",
+          "words": [
+            "dwindle",
+            "decrease",
+            "decline"
+          ],
+          "preview": "previews/24.webp"
+        },
+        {
+          "number": 25,
+          "title": "企业精简与岗位裁减",
+          "words": [
+            "downsize",
+            "redundant"
+          ],
+          "preview": "previews/25.webp"
+        },
+        {
+          "number": 26,
+          "title": "减少废弃物，减轻影响",
+          "words": [
+            "reduce",
+            "diminish"
+          ],
+          "preview": "previews/26.webp"
+        },
+        {
+          "number": 27,
+          "title": "增长与每次增加的量",
+          "words": [
+            "increase",
+            "increment",
+            "growth"
+          ],
+          "preview": "previews/27.webp"
+        },
+        {
+          "number": 28,
+          "title": "成本升级与业务扩大",
+          "words": [
+            "escalate",
+            "expand"
+          ],
+          "preview": "previews/28.webp"
+        },
+        {
+          "number": 29,
+          "title": "新书涌入，馆藏更丰富",
+          "words": [
+            "influx",
+            "enrich"
+          ],
+          "preview": "previews/29.webp"
+        },
+        {
+          "number": 30,
+          "title": "affluent",
+          "words": [
+            "affluent"
+          ],
+          "preview": "previews/30.webp"
+        },
+        {
+          "number": 31,
+          "title": "活动空间是否够用",
+          "words": [
+            "sufficient",
+            "adequate",
+            "lack"
+          ],
+          "preview": "previews/31.webp"
+        },
+        {
+          "number": 32,
+          "title": "空闲房间与租金节省",
+          "words": [
+            "spare",
+            "saving"
+          ],
+          "preview": "previews/32.webp"
+        },
+        {
+          "number": 33,
+          "title": "一家公司委托另一家公司",
+          "words": [
+            "company",
+            "firm"
+          ],
+          "preview": "previews/33.webp"
+        },
+        {
+          "number": 34,
+          "title": "企业活动与独立实体",
+          "words": [
+            "enterprise",
+            "entity"
+          ],
+          "preview": "previews/34.webp"
+        },
+        {
+          "number": 35,
+          "title": "可靠的代理人协助协商",
+          "words": [
+            "agent",
+            "negotiation",
+            "reliable"
+          ],
+          "preview": "previews/35.webp"
+        },
+        {
+          "number": 36,
+          "title": "从投入到制成品",
+          "words": [
+            "invest",
+            "input",
+            "product"
+          ],
+          "preview": "previews/36.webp"
+        },
+        {
+          "number": 37,
+          "title": "acquisition",
+          "words": [
+            "acquisition"
+          ],
+          "preview": "previews/37.webp"
+        },
+        {
+          "number": 38,
+          "title": "商品装船后成为货载",
+          "words": [
+            "goods",
+            "cargo"
+          ],
+          "preview": "previews/38.webp"
+        },
+        {
+          "number": 39,
+          "title": "投保与保修承诺",
+          "words": [
+            "insure",
+            "guarantee"
+          ],
+          "preview": "previews/39.webp"
+        },
+        {
+          "number": 40,
+          "title": "出席培训与缺席",
+          "words": [
+            "attend",
+            "absent"
+          ],
+          "preview": "previews/40.webp"
+        },
+        {
+          "number": 41,
+          "title": "市场里的销售方式",
+          "words": [
+            "sale",
+            "wholesale",
+            "auction"
+          ],
+          "preview": "previews/41.webp"
+        },
+        {
+          "number": 42,
+          "title": "从出价到成交记录",
+          "words": [
+            "bid",
+            "deal",
+            "transaction"
+          ],
+          "preview": "previews/42.webp"
+        },
+        {
+          "number": 43,
+          "title": "turnover",
+          "words": [
+            "turnover"
+          ],
+          "preview": "previews/43.webp"
+        },
+        {
+          "number": 44,
+          "title": "货物往来与数量限额",
+          "words": [
+            "export",
+            "import",
+            "quota"
+          ],
+          "preview": "previews/44.webp"
+        },
+        {
+          "number": 45,
+          "title": "dump",
+          "words": [
+            "dump"
+          ],
+          "preview": "previews/45.webp"
+        },
+        {
+          "number": 46,
+          "title": "股份、股票与股息",
+          "words": [
+            "share",
+            "stock",
+            "dividend"
+          ],
+          "preview": "previews/46.webp"
+        },
+        {
+          "number": 47,
+          "title": "账户里的存款与利息",
+          "words": [
+            "account",
+            "deposit",
+            "interest"
+          ],
+          "preview": "previews/47.webp"
+        },
+        {
+          "number": 48,
+          "title": "三种付款物件",
+          "words": [
+            "cash",
+            "cheque",
+            "coin"
+          ],
+          "preview": "previews/48.webp"
+        },
+        {
+          "number": 49,
+          "title": "古币展柜里的材质与珍宝",
+          "words": [
+            "shilling",
+            "copper",
+            "treasure"
+          ],
+          "preview": "previews/49.webp"
+        },
+        {
+          "number": 50,
+          "title": "一笔款项怎样分期支付",
+          "words": [
+            "instalment",
+            "payment"
+          ],
+          "preview": "previews/50.webp"
+        },
+        {
+          "number": 51,
+          "title": "退回货款与报销费用",
+          "words": [
+            "refund",
+            "reimburse"
+          ],
+          "preview": "previews/51.webp"
+        },
+        {
+          "number": 52,
+          "title": "拥有财产与一处地产",
+          "words": [
+            "wealth",
+            "estate",
+            "possess"
+          ],
+          "preview": "previews/52.webp"
+        },
+        {
+          "number": 53,
+          "title": "家族后代与留下的遗产",
+          "words": [
+            "legacy",
+            "descend"
+          ],
+          "preview": "previews/53.webp"
+        },
+        {
+          "number": 54,
+          "title": "价值、价格与值得支持",
+          "words": [
+            "worthy",
+            "valuable",
+            "cheap"
+          ],
+          "preview": "previews/54.webp"
+        },
+        {
+          "number": 55,
+          "title": "激励怎样促成行动",
+          "words": [
+            "incentive",
+            "prompt",
+            "accelerate"
+          ],
+          "preview": "previews/55.webp"
+        },
+        {
+          "number": 56,
+          "title": "薪资、收入与工资名册",
+          "words": [
+            "salary",
+            "wage",
+            "income",
+            "payroll"
+          ],
+          "preview": "previews/56.webp"
+        },
+        {
+          "number": 57,
+          "title": "remuneration",
+          "words": [
+            "remuneration"
+          ],
+          "preview": "previews/57.webp"
+        },
+        {
+          "number": 58,
+          "title": "支持学习，再靠技能谋生",
+          "words": [
+            "subsidy",
+            "earn",
+            "benefit"
+          ],
+          "preview": "previews/58.webp"
+        },
+        {
+          "number": 59,
+          "title": "undertaking",
+          "words": [
+            "undertaking"
+          ],
+          "preview": "previews/59.webp"
+        },
+        {
+          "number": 60,
+          "title": "一份工作与整个职业生涯",
+          "words": [
+            "job",
+            "occupation",
+            "profession",
+            "career"
+          ],
+          "preview": "previews/60.webp"
+        },
+        {
+          "number": 61,
+          "title": "vocation",
+          "words": [
+            "vocation"
+          ],
+          "preview": "previews/61.webp"
+        },
+        {
+          "number": 62,
+          "title": "劳动、员工与人员",
+          "words": [
+            "labour",
+            "workforce",
+            "personnel"
+          ],
+          "preview": "previews/62.webp"
+        },
+        {
+          "number": 63,
+          "title": "workaholic",
+          "words": [
+            "workaholic"
+          ],
+          "preview": "previews/63.webp"
+        },
+        {
+          "number": 64,
+          "title": "求职服务台与面试",
+          "words": [
+            "clerk",
+            "résumé",
+            "recommend",
+            "interview"
+          ],
+          "preview": "previews/64.webp"
+        },
+        {
+          "number": 65,
+          "title": "雇用人员与租用设备",
+          "words": [
+            "employ",
+            "hire"
+          ],
+          "preview": "previews/65.webp"
+        },
+        {
+          "number": 66,
+          "title": "三种表达：被解雇",
+          "words": [
+            "fire",
+            "dismiss",
+            "sack"
+          ],
+          "preview": "previews/66.webp"
+        },
+        {
+          "number": 67,
+          "title": "裁员、辞职与退休",
+          "words": [
+            "lay-off",
+            "resign",
+            "retire"
+          ],
+          "preview": "previews/67.webp"
+        },
+        {
+          "number": 68,
+          "title": "discharge",
+          "words": [
+            "discharge"
+          ],
+          "preview": "previews/68.webp"
+        },
+        {
+          "number": 69,
+          "title": "失败、结果与损失",
+          "words": [
+            "failure",
+            "result",
+            "loss"
+          ],
+          "preview": "previews/69.webp"
+        },
+        {
+          "number": 70,
+          "title": "abortion",
+          "words": [
+            "abortion"
+          ],
+          "preview": "previews/70.webp"
+        },
+        {
+          "number": 71,
+          "title": "机会与可能性",
+          "words": [
+            "opportunity",
+            "chance"
+          ],
+          "preview": "previews/71.webp"
+        },
+        {
+          "number": 72,
+          "title": "选择与变化",
+          "words": [
+            "choose",
+            "change"
+          ],
+          "preview": "previews/72.webp"
+        },
+        {
+          "number": 73,
+          "title": "解决问题与改进设计",
+          "words": [
+            "solve",
+            "develop",
+            "improve"
+          ],
+          "preview": "previews/73.webp"
+        },
+        {
+          "number": 74,
+          "title": "sustainable",
+          "words": [
+            "sustainable"
+          ],
+          "preview": "previews/74.webp"
+        },
+        {
+          "number": 75,
+          "title": "组织管理与规则控制",
+          "words": [
+            "manage",
+            "regulate"
+          ],
+          "preview": "previews/75.webp"
+        },
+        {
+          "number": 76,
+          "title": "sanction",
+          "words": [
+            "sanction"
+          ],
+          "preview": "previews/76.webp"
+        },
+        {
+          "number": 77,
+          "title": "安排协调与共同合作",
+          "words": [
+            "coordinate",
+            "cooperate",
+            "collaborate"
+          ],
+          "preview": "previews/77.webp"
+        }
+      ]
     }
   ],
-  "total_cards": 687,
-  "chapter_coverage_items": 2316,
-  "counting_note": "2,316 为各章词头覆盖项相加，跨章不去重。第 1–15 章均已完成。"
+  "total_cards": 764,
+  "chapter_coverage_items": 2487,
+  "counting_note": "2,487 为各章词头覆盖项相加，跨章不去重。第 1–16 章均已完成。"
 }
