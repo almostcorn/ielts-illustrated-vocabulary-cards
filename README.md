@@ -7,9 +7,9 @@
 [按章节开始学习](#章节目录) · [下载 PDF 和高清原图](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases) · [查看制作原则](DESIGN.md)
 
 <p>
-<img src="chapters/ch01/previews/01.webp" width="30%" alt="atmosphere 单词精讲">
-<img src="chapters/ch06/previews/25.webp" width="30%" alt="能量与水流的场景词群">
-<img src="chapters/ch07/previews/26.webp" width="30%" alt="nostalgia 与 homesick 辨析">
+<img src="chapters/ch01-自然地理/previews/01.webp" width="30%" alt="atmosphere 单词精讲">
+<img src="chapters/ch06-科技发明/previews/25.webp" width="30%" alt="能量与水流的场景词群">
+<img src="chapters/ch07-文化历史/previews/26.webp" width="30%" alt="nostalgia 与 homesick 辨析">
 </p>
 
 ## 这些卡片怎么用
@@ -22,20 +22,20 @@
 
 | 章节 | 内容 | 图片 | 章内词头 | 在线学习 | PDF | 高清完整包 |
 |---|---|---:|---:|---|---|---|
-| 01 | 自然地理 | 54 | 241 | [打开章节](chapters/ch01/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09/ch01-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09/ch01-study-pack.zip) |
-| 02 | 植物研究 | 42 | 130 | [打开章节](chapters/ch02/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch02-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch02-study-pack.zip) |
-| 03 | 动物保护 | 61 | 168 | [打开章节](chapters/ch03/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch03-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch03-study-pack.zip) |
-| 04 | 太空探索 | 33 | 75 | [打开章节](chapters/ch04/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch04-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch04-study-pack.zip) |
-| 05 | 学校教育 | 85 | 402 | [打开章节](chapters/ch05/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch05-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch05-study-pack.zip) |
-| 06 | 科技发明 | 36 | 122 | [打开章节](chapters/ch06/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch06-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch06-study-pack.zip) |
-| 07 | 文化历史 | 31 | 79 | [打开章节](chapters/ch07/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch07-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch07-study-pack.zip) |
-| 08 | 语言演化 | 23 | 68 | [打开章节](chapters/ch08/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09-ch08/ch08-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09-ch08/ch08-study-pack.zip) |
-| 09 | 娱乐运动 | 50 | 176 | [打开章节](chapters/ch09/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09-ch09/ch09-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09-ch09/ch09-study-pack.zip) |
-| 10 | 物品材料 | 43 | 152 | [打开章节](chapters/ch10/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.11-ch10/ch10-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.11-ch10/ch10-study-pack.zip) |
-| 11 | 时尚潮流 | 33 | 113 | [打开章节](chapters/ch11/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch11/ch11-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch11/ch11-study-pack.zip) |
-| 12 | 饮食健康 | 53 | 173 | [打开章节](chapters/ch12/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch12/ch12-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch12/ch12-study-pack.zip) |
-| 13 | 建筑场所 | 41 | 134 | [打开章节](chapters/ch13/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch13/ch13-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch13/ch13-study-pack.zip) |
-| 14 | 交通旅行 | 44 | 134 | [打开章节](chapters/ch14/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.18-ch14/ch14-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.18-ch14/ch14-study-pack.zip) |
+| 01 | 自然地理 | 54 | 241 | [打开章节](chapters/ch01-自然地理/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09/ch01-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09/ch01-study-pack.zip) |
+| 02 | 植物研究 | 42 | 130 | [打开章节](chapters/ch02-植物研究/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch02-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch02-study-pack.zip) |
+| 03 | 动物保护 | 61 | 168 | [打开章节](chapters/ch03-动物保护/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch03-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch03-study-pack.zip) |
+| 04 | 太空探索 | 33 | 75 | [打开章节](chapters/ch04-太空探索/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch04-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch04-study-pack.zip) |
+| 05 | 学校教育 | 85 | 402 | [打开章节](chapters/ch05-学校教育/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch05-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch05-study-pack.zip) |
+| 06 | 科技发明 | 36 | 122 | [打开章节](chapters/ch06-科技发明/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch06-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch06-study-pack.zip) |
+| 07 | 文化历史 | 31 | 79 | [打开章节](chapters/ch07-文化历史/README.md) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch07-learning-cards.pdf) | [下载](https://github.com/Eva-Lau/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.05/ch07-study-pack.zip) |
+| 08 | 语言演化 | 23 | 68 | [打开章节](chapters/ch08-语言演化/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09-ch08/ch08-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09-ch08/ch08-study-pack.zip) |
+| 09 | 娱乐运动 | 50 | 176 | [打开章节](chapters/ch09-娱乐运动/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09-ch09/ch09-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.09-ch09/ch09-study-pack.zip) |
+| 10 | 物品材料 | 43 | 152 | [打开章节](chapters/ch10-物品材料/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.11-ch10/ch10-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.11-ch10/ch10-study-pack.zip) |
+| 11 | 时尚潮流 | 33 | 113 | [打开章节](chapters/ch11-时尚潮流/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch11/ch11-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch11/ch11-study-pack.zip) |
+| 12 | 饮食健康 | 53 | 173 | [打开章节](chapters/ch12-饮食健康/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch12/ch12-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch12/ch12-study-pack.zip) |
+| 13 | 建筑场所 | 41 | 134 | [打开章节](chapters/ch13-建筑场所/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch13/ch13-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.12-ch13/ch13-study-pack.zip) |
+| 14 | 交通旅行 | 44 | 134 | [打开章节](chapters/ch14-交通旅行/README.md) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.18-ch14/ch14-learning-cards.pdf) | [下载](https://github.com/almostcorn/ielts-illustrated-vocabulary-cards/releases/download/v2026.11.18-ch14/ch14-study-pack.zip) |
 
 全书共 22 章。第 1–14 章已完成，第 15–22 章共 8 章待制作。章内词头合计 2,167 项，跨章出现的同一个词分别计入各章。
 
@@ -54,3 +54,7 @@
 公开仓库用于分享与学习，目前未另行授予统一的开源内容许可；转载、再发布或商业使用请先联系维护者。
 
 维护者：[Evelyn](https://github.com/Eva-Lau) · 更新于2026-11-18
+
+## 章节文件夹命名
+
+章节统一使用 `chNN-中文章名`，例如 `chapters/ch01-自然地理`。新章节发布时沿用此格式，并同步更新本页链接及 `catalog.json` 的 `path`。
